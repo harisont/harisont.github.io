@@ -1,0 +1,11 @@
+title: Hari's online
+author: Arianna Masciolini
+email: arianna.masciolini@gmail.com
+description: > 
+  My homepage
+# social links
+github_username:  harisont
+logo: identicon.png
+
+show_excerpts: true # set to false to remove excerpts on the homepage (?)
+theme: minima
