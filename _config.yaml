@@ -9,5 +9,3 @@ logo: identicon.png
 
 show_excerpts: true # set to false to remove excerpts on the homepage (?)
 theme: minima
-minima:
-  skin: dark
