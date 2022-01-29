@@ -8,7 +8,7 @@ description: >
 github_username:  harisont
 
 header_pages:
-  - about.md
+  - about_me.md
   - other_projects.md
 
 show_excerpts: false
