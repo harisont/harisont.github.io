@@ -1,0 +1,9 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
+.caption {
+    text-align: center;
+}
