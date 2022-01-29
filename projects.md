@@ -1,3 +1,7 @@
+---
+title: Other projects
+---
+
 ## Software
 - [__me-tadah__](https://github.com/harisont/me-tadah), the simplest possible ebook metadata editor. Definitely the most useful piece of software I've ever written
 - [__Rick Lime__](https://github.com/harisont/rick-lime), a silly chatbot that helps you write limericks

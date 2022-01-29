@@ -8,8 +8,8 @@ description: >
 github_username:  harisont
 
 header_pages:
-  - about_me.md
-  - other_projects.md
+  - about.md
+  - projects.md
 
 show_excerpts: false
 remote_theme: jekyll/minima
