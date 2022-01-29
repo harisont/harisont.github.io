@@ -3,9 +3,13 @@ author: Arianna Masciolini
 email: arianna.masciolini@gmail.com
 description: > 
   A chaotically multilingual blog by Arianna Masciolini
+
 # social links
 github_username:  harisont
-logo: identicon.png
+
+header_pages:
+  - about.md
+  - other_projects.md
 
 show_excerpts: false
 remote_theme: jekyll/minima
