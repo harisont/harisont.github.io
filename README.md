@@ -1,1 +1,1 @@
-My homepage.
+A chaotically multilingual blog by Arianna Masciolini
