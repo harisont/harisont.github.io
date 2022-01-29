@@ -10,6 +10,7 @@ header_pages:
   - projects.md
 
 show_excerpts: false
+
 remote_theme: jekyll/minima
 
 minima:
@@ -21,3 +22,6 @@ minima:
     telegram: harisont
     instagram: unottica
     youtube_channel: UC6fKcYGimkXYd-N5ryesKqw
+
+plugins:
+  - jekyll-feed
