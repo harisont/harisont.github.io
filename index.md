@@ -6,7 +6,7 @@ Hi and welcome to my chaotically multilingual blog!
 
 Parlo __italiano__ come prima lingua, I find it easiest to write technical texts in __English__, jag bor i Göteborg och försöker hela tiden förbättra min __svenska__, pero el idioma que me hace sentir más feliz siempre ha sido el __español__. 
 
-Even though my [Master's thesis](https://github.com/harisont/concept-alignment) was in Machine Translation, I like translating stuff myself too, and it is my ambition to write all the content of this blog in English + 1 (as a side effect, that would make a nice set of parallel texts). But more realistically, get ready for a bunch of texts in broken `*ish`¹ where the language is chosen based on topic, mood and audience but also less relevant factor such as place and time of writing.
+Even though my [Master's thesis](https://github.com/harisont/concept-alignment) was in Machine Translation, I like translating stuff myself too, and it is my ambition to write all the content of this blog in English + 1 (as a side effect, that would make a nice set of parallel texts). But more realistically, get ready for a bunch of texts in broken `*ish`¹ where the language is chosen based on topic and audience but also less sensible factors such as mood, place and time of writing.
 
 ¹ the only language whose name doesn't end in -ish should be alright, I hope.
 
@@ -20,6 +20,6 @@ Even though my [Master's thesis](https://github.com/harisont/concept-alignment) 
 
 ## Misc
 - __Impara l'Haskell e mettilo da parte__, a basic [video Haskell course](https://www.youtube.com/channel/UC6fKcYGimkXYd-N5ryesKqw) in Italian with tons of [code examples](https://github.com/harisont/imparalhaskell) (slowly in progress)
-- [__Postcards from Gothenburg__](https://harisont.github.io/postcards-from-gothenburg/), my only vaguely coherent photography project in about 15 years of photography
+- [__Postcards from Gothenburg__](https://harisont.github.io/postcards-from-gothenburg/), my only vaguely coherent photography project in about 15 years of photography. It's also my best effort building a website from scratch
 
 ---
