@@ -1,5 +1,5 @@
 ---
-title: Hari's online
+title: Ciao, hi, hej and hola
 ---
 
 Hi and welcome to my chaotically multilingual blog! 
