@@ -1,11 +1,9 @@
 title: Hari's online
-author: Arianna Masciolini
-email: arianna.masciolini@gmail.com
+author: 
+  name: Arianna Masciolini
+  email: arianna.masciolini@gmail.com
 description: > 
   A chaotically multilingual blog by Arianna Masciolini
-
-# social links
-github_username:  harisont
 
 header_pages:
   - about.md
@@ -16,3 +14,10 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  date_format: "%-d %B %Y"
+  social_links:
+    github: harisont
+    stackoverflow: "7729724"
+    telegram: harisont
+    instagram: unottica
+    youtube_channel: UC6fKcYGimkXYd-N5ryesKqw
