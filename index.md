@@ -8,7 +8,7 @@ Parlo __italiano__ come prima lingua, I find it easiest to write technical texts
 
 Even though my [Master's thesis](https://github.com/harisont/concept-alignment) was in Machine Translation, I like translating stuff myself too, and it is my ambition to write all the content of this blog in English + 1 (as a side effect, that would make a nice set of parallel texts). But more realistically, get ready for a bunch of texts in broken `*ish`¹ where the language is chosen based on topic and audience but also less sensible factors such as mood, place and time of writing.
 
-Noticed a _strafalcione_² in something I've written? You're welcome to fix it and open a [pull request](https://github.com/harisont/harisont.github.io)!
+Noticed a _strafalcione_ ² in something I've written? You're welcome to fix it and open a [pull request](https://github.com/harisont/harisont.github.io)!
 
 ---
 
