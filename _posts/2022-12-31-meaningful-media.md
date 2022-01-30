@@ -1,5 +1,5 @@
 ---
-title: "January 2022 meaningful media"
+title: "Interesting things I read/watched/listened to this month (January 2022)"
 date: 2022-01-30
 layout: post
 category: "meaningful-media"
