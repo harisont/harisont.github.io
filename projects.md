@@ -1,10 +1,11 @@
 ---
-title: Other projects
+title: Projects
 ---
 
 ## Software
+- [__concept-alignment__](https://github.com/harisont/concept-alignment), aka my Master's thesis. The repo contains the source code for my alignment software, my final report, various presentation slides and my first ever paper
 - [__me-tadah__](https://github.com/harisont/me-tadah), the simplest possible ebook metadata editor. Definitely the most useful piece of software I've ever written
-- [__Rick Lime__](https://github.com/harisont/rick-lime), a silly chatbot that helps you write limericks
+- [__Rick Lime__](https://github.com/harisont/rick-lime), a silly chatbot that helps you write limericks. Definitely the least useful piece of software I've ever written
 - [__Librery__](https://github.com/harisont/Librery), the only Android app I've ever written all by myself from beginning to end
 
 ## Misc
