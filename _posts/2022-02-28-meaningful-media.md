@@ -12,5 +12,6 @@ TODO: other comments, if any
 
 - Parable of the talents
 - Charlotte Bellis
-- The Island
 - (Gabi)
+- The Island
+- Numberphile jail
