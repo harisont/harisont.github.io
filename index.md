@@ -13,4 +13,4 @@ Noticed a _strafalcione_² in something I've written? You're welcome to fix it a
 ---
 
 ¹ the only language whose name doesn't end in -ish should be alright, I hope. <br>
-² a very, very bad grammatical error, or even a conceptual mistake
+² a very, very bad grammatical error or conceptual mistake.
