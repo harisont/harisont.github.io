@@ -1,8 +1,6 @@
 ---
 title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare ad utilizzare"
-date: 2022-03-05
 layout: post
-category: "l-informatico-di-famiglia"
 ---
 
 ###### __[in inglese](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) - [testo parallelo](https://harisont.github.io/parallel_texts/rss.html)__
