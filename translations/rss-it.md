@@ -3,10 +3,9 @@ title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare a
 date: 2022-03-05
 layout: post
 category: "l-informatico-di-famiglia"
-list_title: ' '
 ---
 
-###### __[in inglese](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) - [testo parallelo](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss.html)__
+###### __[in inglese](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) - [testo parallelo](https://harisont.github.io/parallel_texts/rss.html)__
 
 Ti sei già iscritto al mio blog? Se sì, probabilmente questo post non fa al caso tuo.
 Hai provato a cliccare il bottone "Subscribe" che si trova in fondo a questa pagina, ma hai subito chiuso l'inquietante pagina web piena di strane parentesi angolari che si è aperta quando lo hai fatto? In tal caso, continua a leggere.
