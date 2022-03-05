@@ -3,7 +3,7 @@ title: "What RSS is and why we should keep using it / Cosa significa RSS e perch
 layout: post
 ---
 
-###### __[English only](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) - [solo Italiano](https://harisont.github.io/translations/rss-it.html)__
+###### __[English only](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) - [solo italiano](https://harisont.github.io/translations/rss-it.html)__
 
 
 〉 __NOTE:__ this parallel text version was obtained with [parallel-md](https://github.com/harisont/parallel-md), a simple tool I wrote in an hour or two. The result is not perfect, as all the markup (titles, bullet points etc.) was removed completely. I will hopefully update this page as soon as I improve the program. 
