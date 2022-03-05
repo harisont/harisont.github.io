@@ -153,4 +153,5 @@ Se sei curioso di sapere cosa leggo e ascolto, ecco i miei due file OPML:
 
 ## Note
 ¹ Resource Description Framework. Eh già, un altro acronimo...
+
 ² Noto una tendenza ad utilizzare il termine "algoritmo" in modo improprio, con la conseguenza che molta gente pensa che gli algoritmi _siano_ i recommender system dei social network. In realtà, gli algoritmi che vengono usati nei recommender system sono solo una piccolissima parte dell'enorme moltitudine di algoritmi esistenti. Algoritmi che includono, tra le altre cose, le ricette di cucina e le routine mattutine.
