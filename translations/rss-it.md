@@ -138,7 +138,7 @@ Tutto molto bello, ma il principale vantaggio dei social network è che è perme
 In realtà, anche questo si può fare in maniera del tutto semplice con l'RSS! Per condividere la preziosa lista dei tuoi blog preferiti, puoi esportarla come OPML (Outline Processor Markup Language) e mandare a chi vuoi il file così ottenuto, che il destinatario potrà importare con un clic.
 L'OPML è supportato da gran parte dei reader e può essere utile anche per passare ad una nuova applicazione senza doversi reiscrivere ai vari siti uno per uno.
 
-{% include image.html file="../assets/img/rss/rss_content.png" description="Il bottone per importare/esportare come OPML nel mio feed reader" %}
+{% include image.html file="../assets/img/rss/opml.png" description="Il bottone per importare/esportare come OPML nel mio feed reader" %}
 
 Se sei curioso di sapere cosa leggo e ascolto, ecco i miei due file OPML:
 
