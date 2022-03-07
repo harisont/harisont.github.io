@@ -1,11 +1,9 @@
 ---
 title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare ad utilizzare"
-date: 2022-03-05
 layout: post
-category: "l-informatico-di-famiglia"
 ---
 
-###### __[in inglese](../_posts/2022-03-05-rss-en.md) - [testo parallelo](../parallel_texts/2022-03-05-rss.md)__
+###### __[in inglese](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) - [testo parallelo](https://harisont.github.io/parallel_texts/rss.html)__
 
 Ti sei già iscritto al mio blog? Se sì, probabilmente questo post non fa al caso tuo.
 Hai provato a cliccare il bottone "Subscribe" che si trova in fondo a questa pagina ma hai subito chiuso l'inquietante pagina web piena di strane parentesi angolari che si è aperta quando lo hai fatto? In tal caso, continua a leggere.
@@ -140,7 +138,7 @@ Tutto molto bello, ma il principale vantaggio dei social network è che è perme
 In realtà, anche questo si può fare in maniera del tutto semplice con l'RSS! Per condividere la preziosa lista dei tuoi blog preferiti, puoi esportarla come OPML (Outline Processor Markup Language) e mandare a chi vuoi il file così ottenuto, che il destinatario potrà importare con un clic.
 L'OPML è supportato da gran parte dei reader e può essere utile anche per passare ad una nuova applicazione senza doversi reiscrivere ai vari siti uno per uno.
 
-{% include image.html file="../assets/img/rss/rss_content.png" description="Il bottone per importare/esportare come OPML nel mio feed reader" %}
+{% include image.html file="../assets/img/rss/opml.png" description="Il bottone per importare/esportare come OPML nel mio feed reader" %}
 
 Se sei curioso di sapere cosa leggo e ascolto, ecco i miei due file OPML:
 
@@ -155,4 +153,5 @@ Se sei curioso di sapere cosa leggo e ascolto, ecco i miei due file OPML:
 
 ## Note
 ¹ Resource Description Framework. Eh già, un altro acronimo...
+
 ² Noto una tendenza ad utilizzare il termine "algoritmo" in modo improprio, con la conseguenza che molta gente pensa che gli algoritmi _siano_ i recommender system dei social network. In realtà, gli algoritmi che vengono usati nei recommender system sono solo una piccolissima parte dell'enorme moltitudine di algoritmi esistenti. Algoritmi che includono, tra le altre cose, le ricette di cucina e le routine mattutine.
