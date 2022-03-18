@@ -11,6 +11,6 @@ In my free time, you might find me walking around with a camera, reading, writin
 ---
 
 - email: [arianna.masciolini@gmail.com](mailto:arianna.masciolini@gmail.com)
-- pronouns: [whatever]()
+- pronouns: [whatever](https://harisont.github.io/pronouns/)
 - [CV](https://github.com/harisont/cv/raw/master/cv.pdf)
 - [projects](https://harisont.github.io/projects.html)
