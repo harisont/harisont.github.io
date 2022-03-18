@@ -7,7 +7,7 @@ Choose the relevant circle and follow the corresponding link to access what I to
 
 - If you are __me__, [click here](https://harisont.github.io/area-riservata/)
 - if you are __a close friend of mine__ and you know there's a particular text I want you to read, [click here](https://harisont.github.io/pronouns/)
-- if you are one of my __thesis supervisors__, [click here]()
+- if you are one of my __thesis supervisors__, [click here]() (well, not yet. Coming soon!)
 
 If you don't have a password but think you deserve it, feel free to [contact me](mailto:arianna.masciolini@gmail.com).
 
