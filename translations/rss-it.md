@@ -142,8 +142,8 @@ L'OPML è supportato da gran parte dei reader e può essere utile anche per pass
 
 Se sei curioso di sapere cosa leggo e ascolto, ecco i miei due file OPML:
 
-- [la lista di blog e riviste online che seguo](../assets/opml/reads.opml) (ho escluso i quotidiani perché, di fatto, nessuno di quelli che seguo mi soddisfa particolarmente)
-- [la mia preziosa lista di podcast in tutte e quattro le lingue che utilizzo in questo blog](../assets/opml/podcasts.opml).
+- [la lista di blog e riviste online che seguo](https://harisont.github.io/assets/opml/reads.opml) (ho escluso i quotidiani perché, di fatto, nessuno di quelli che seguo mi soddisfa particolarmente)
+- [la mia preziosa lista di podcast in tutte e quattro le lingue che utilizzo in questo blog](https://harisont.github.io/assets/opml/podcasts.opml).
 
 ---
 
