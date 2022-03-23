@@ -17,10 +17,13 @@ Mi sembra che, nel nostro paese, più che le competenze di programmazione funzio
 In quest'ottica, sto iniziando a fantasticare del mio prossimo potenziale progetto, l'__Abbecedario Informatico__.
 
 ## L'Abbecedario Informatico
-L'idea è quella di realizzare un podcast o una serie di post, eventualmente da raccogliere in un sito a sé stante o in un piccolo libro in un secondo momento, ognuno dei quali spieghi in maniera accessibile un termine specifico dell'informatica.
+L'idea è quella di realizzare un podcast o una serie di post¹, eventualmente da raccogliere in un sito a sé stante o in un piccolo libro in un secondo momento, ognuno dei quali spieghi in maniera accessibile un termine specifico dell'informatica.
 
-Come vada inteso il termine stesso "informatica" è ancora da decidere: se da una parte mi piacerebbe restringere il campo agli aspetti teorici della _Computer Science_ [come intesa dal buon Dijkstra](https://www.quora.com/What-did-Dijkstra-mean-when-he-said-Computer-science-is-no-more-about-computers-than-astronomy-is-about-telescopes?share=1), dall'altra credo sia meglio approfittare della confusione che l'uso italiano del termine "informatica" crea per affrontare anche concetti più vicini alla _Computer Engineering_, cioè ai computer veri e propri.
+Come vada inteso il termine stesso "informatica" è ancora da decidere: se da una parte mi piacerebbe restringere il campo agli aspetti teorici della _Computer Science_ [come intesa dal buon Dijkstra](https://www.quora.com/What-did-Dijkstra-mean-when-he-said-Computer-science-is-no-more-about-computers-than-astronomy-is-about-telescopes?share=1), dall'altra credo sia meglio approfittare della confusione che l'uso italiano del termine "informatica" crea per affrontare anche concetti più vicini alla _Computer Engineering_, cioè ai computer veri e propri: ci sono molti, troppi concetti misconosciuti che Computer Science non sono, ma che aiutano a capire la Computer Science. 
 
 ## Target
 
 ## Il tuo parere è importante, chiunque tu sia!
+
+## Note
+¹ L'esperimento con il corso di Haskell e il livello di astrazione al quale voglio trattare gli argomenti mi portano ad escludere YouTube: il video era utile per mostrare il codice mentre lo scrivevo, mentre in questo caso l'aspetto visivo è meno rilevante e, comunque, noiosetto da curare.
