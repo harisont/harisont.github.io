@@ -14,7 +14,7 @@ La scelta della lingua, in quel caso, è stata determinata in parte dalla quasi 
 Parlare d'informatica in italiano e farlo su YouTube, però, è stato per me anche un esperimento in vista di progetti futuri.
 Mi sembra che, nel nostro paese, più che le competenze di programmazione funzionale tra gli informatici manchino le conoscenze di base tra i non addetti ai lavori, e da tempo desidero realizzare contenuti più divulgativi, direi quasi di alfabetizzazione informatica.
 
-In quest'ottica, sto iniziando a fantasticare del mio prossimo potenziale progetto, l'__Abbecedario Informatico__.
+In quest'ottica, ho scritto [un post sull'RSS](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) e sto iniziando a fantasticare del mio prossimo potenziale progetto a lungo termine, l'__Abbecedario Informatico__.
 
 ## L'Abbecedario Informatico
 L'idea è quella di realizzare un podcast o una serie di post¹, eventualmente da raccogliere in un sito a sé stante o in un piccolo libro in un secondo momento, ognuno dei quali spieghi in maniera accessibile un termine specifico dell'informatica.
