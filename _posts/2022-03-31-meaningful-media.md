@@ -54,7 +54,7 @@ A much more recent, in-depth paper along the same lines is _The mythical native 
 I might write about this in the future, as I don't completely agree with its conclusions. 
 
 ### 6. _Nonbinary_, a [freely available](https://redgoldsparks.tumblr.com/post/679442250163470336/nonbinary-a-zine-conversation-with-maia-kobabe) zine by Maia Kobabe
-It reminded me of when a friend and I looked at our images in the mirror and commented that we were so happy about the fact that we look so different.
+It reminded me of when a friend and I looked at our images in the mirror and commented that we were so happy about the fact that we look so different. This doesn't really have much to do with language directly. I read it after I had already written most of this post and felt like I had to add it even if it doesn't really belong.
 
 ---
 
