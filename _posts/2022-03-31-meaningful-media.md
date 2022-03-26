@@ -53,6 +53,9 @@ As it is short, accessible (I myself am completely new to the field) and [public
 A much more recent, in-depth paper along the same lines is _The mythical native speaker has mud on its face_ (J. Dewaele, T. Bak, and L. Ortega). 
 I might write about this in the future, as I don't completely agree with its conclusions. 
 
+### 6. _Nonbinary_, a [freely available](https://redgoldsparks.tumblr.com/post/679442250163470336/nonbinary-a-zine-conversation-with-maia-kobabe) zine by Maia Kobabe
+It reminded me of when a friend and I looked at our images in the mirror and commented that we were so happy about the fact that we look so different.
+
 ---
 
 ¹ I really hate that in English the word "language" means both "natural language" and "any communication system, verbal or nonverbal". In this case, Italian and Spanish are more precise, realizing the former word sense with resp. "lingua" and "idioma" and the latter with "linguaggio" and "lenguaje".
