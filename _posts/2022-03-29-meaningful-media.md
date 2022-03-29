@@ -49,7 +49,7 @@ As it is short, accessible (I myself am completely new to the field) and [public
 A much more recent, in-depth paper along the same lines is _The mythical native speaker has mud on its face_ (J. Dewaele, T. Bak, and L. Ortega). 
 I might write about this in the future, as I don't completely agree with its conclusions. 
 
-In general, I at least to some extent find discussions of terminology important and sometimes even enjoy them: even when they don't lead to long-lasting changes in language practices, they help in the understanding of the problem at hand in all of its dimensions and always make me more aware of how the terms I use can be interpreted or misinterpreted by others. 
+In general, to some degree, I find discussions of terminology important and sometimes even enjoy them: even when they don't lead to long-lasting changes in language practices, they help in the understanding of the problem at hand in all of its dimensions and always make me more aware of how the terms I use can be interpreted or misinterpreted by others. 
 
 ### 6. _Nonbinary_, a [freely available](https://redgoldsparks.tumblr.com/post/679442250163470336/nonbinary-a-zine-conversation-with-maia-kobabe) zine by Maia Kobabe (EN)
 It reminded me of when a friend and I looked at our image in the mirror and commented that we were so happy we looked so different. 
