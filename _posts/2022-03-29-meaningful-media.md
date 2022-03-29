@@ -1,5 +1,5 @@
 ---
-title: "Various (language-related and not) things I read/watched/listened to this month (March 2022)"
+title: "Various things I read/watched/listened to this month (March 2022)"
 date: 2022-03-29
 layout: post
 category: "meaningful-media"
@@ -15,7 +15,7 @@ Det här avsnittet är uppdelat i tre olika segment:
 2. i den andra delen (från 13:11) är gäst Kerstin Kronvall, en journalist som bevakar bland annat Ukraina. Han talar om Ukrainas nuvarande språkpolitik
 3. på sist (från 20:51) kommer en del av ett tidigare reportage och ett samtal med Sofia Hoa, som arbetar för att bevara det svenska arvet i Ukraina. Ja, för i Ukraina finns det en svensktalande minoritet, särskilt i en by som heter Gammalsvenskby (!). Den här delen av podden måste man verkligen lyssna på. Väldigt väldigt fascinerande.
 
-### 2. [Un bellissimo video di Roberto Mercadini sul poeta russo Velimir Chlebnikov](https://www.youtube.com/watch?v=JJwjBOu15fw) (RU/IT/SV...)
+### 2. [Un bellissimo video di Roberto Mercadini sul poeta russo Velimir Chlebnikov](https://www.youtube.com/watch?v=JJwjBOu15fw) (IT + SV)
 La poesia che più ha colpito me e il mio _sambo_[²](#notes) è al minuto [5:33](https://youtu.be/JJwjBOu15fw?t=333). Ho provato a trascriverla improvvisando la divisione in versi e la punteggiature:
 
 > La stazione di polizia è una gran cosa:<br>
