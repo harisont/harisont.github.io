@@ -18,18 +18,14 @@ Det här avsnittet är uppdelat i tre olika segment:
 ### 2. [Un bellissimo video di Roberto Mercadini sul poeta russo Velimir Chlebnikov](https://www.youtube.com/watch?v=JJwjBOu15fw) (RU/IT/SV...)
 La poesia che più ha colpito me e il mio _sambo_[²](#notes) è al minuto [5:33](https://youtu.be/JJwjBOu15fw?t=333). Ho provato a trascriverla improvvisando la divisione in versi e la punteggiature:
 
-> La stazione di polizia è una gran cosa:
-> 
-> è il punto d'incontro fra me e il governo
-> 
+> La stazione di polizia è una gran cosa:<br>
+> è il punto d'incontro fra me e il governo<br>
 > e al governo torna in mente che quel punto esiste ancora.
 
 Siamo rimasti talmente folgorati da queste tre righe che entrambi abbiamo tentato una traduzione in inglese e in svedese, il che mi ha fatto rendere conto di quanto titanica sia l'impresa di tradurre versi liberi. Metto qui la mia proposta per lo svedese, che a me suona abbastanza convincente, in attesa di critiche:
 
-> Polisstationen är bra:
-> 
-> det är där jag och staten möts
-> 
+> Polisstationen är bra:<br>
+> det är där jag och staten möts<br>
 > och staten påminns att en mötesplats finns kvar.
 
 ### 3. [_Dizionario degli amori impossibili_](https://www.ivantalarico.it/prodotto/dizionario-degli-amori-impossibili/), di Ivan Talarico (IT)
