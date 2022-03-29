@@ -52,7 +52,7 @@ I might write about this in the future, as I don't completely agree with its con
 In general, I at least to some extent find discussions of terminology important and sometimes even enjoy them: even when they don't lead to long-lasting changes in language practices, they help in the understanding of the problem at hand in all of its dimensions and always make me more aware of how the terms I use can be interpreted or misinterpreted by others. 
 
 ### 6. _Nonbinary_, a [freely available](https://redgoldsparks.tumblr.com/post/679442250163470336/nonbinary-a-zine-conversation-with-maia-kobabe) zine by Maia Kobabe (EN)
-It reminded me of when a friend and I looked at our images in the mirror and commented that we were so happy about the fact that we look so different. 
+It reminded me of when a friend and I looked at our image in the mirror and commented that we were so happy we looked so different. 
 
 ### 7. _Mariupol, l'Ucraina e il crimine dei bombardamenti sugli ospedali_, un pezzo d'opinione di Neve Gordon, Nicola Perugini (IT)
 A commento delle drammatiche vicende attuali, questo articolo fa un sunto della storia degli attacchi alle strutture sanitarie nelle zone di guerra e delle regolamentazioni in materia, suggerendo che il diritto internazionale si sia in qualche modo adattato alle giustificazioni degli stati responsabili degli attacchi stessi (primo fra tutti, peraltro, l'Italia).
