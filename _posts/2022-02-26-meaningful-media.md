@@ -11,7 +11,7 @@ Much of what I read, watched and listened to this February was somewhere between
 Denna film var faktiskt inte alls upprörande! Är du transfobisk eller omofobisk bör du se den. Den är fylld av helt vardagliga händelser som verkligen hjälper dig att sätta saker och ting i perspektiv.
 
 ### 2. _El único intérprete_, [un muy buen episodio de uno de mis podcasts favoritos, Radio Ambulante](https://radioambulante.org/audio/unico-interprete) (ES)
-El tema de este episodio, las lenguas de señas, me interesa mucho por sí mismo, pero la historia de Jhon, intérprete en la Fiscalía colombiana, es muy especial y, por tanto, aún más apasionante. El segmento final del episodio cuenta una caso de explotación realmente increíble.
+El tema de este episodio, las lenguas de señas, me interesa mucho por sí mismo, pero la historia de Jhon, intérprete en la Fiscalía colombiana, es muy especial y, por tanto, aún más apasionante. El segmento final del episodio cuenta un caso de explotación realmente increíble.
 
 ### 3. [Another episode of the Numberphile podcast, this time with Christopher Havens](https://www.numberphile.com/podcast/christopher-havens) (EN)
 Brady Haran's guests are usually top mathematicians and/or great science communicators. This is not (yet) this episode's case, where he interviews someone who's new to academia and discovered mathematics while serving a 25-year prison sentence that isn't over yet. An unusual story overall, but it really gets surreal when Christopher tells how exactly he was exposed to maths problems for the first time in jail.

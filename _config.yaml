@@ -8,7 +8,7 @@ description: >
 header_pages:
   - about.md
   - projects.md
-  - for_a_privileged_few.md
+  - for_a_selected_few.md
 
 show_excerpts: false
 
