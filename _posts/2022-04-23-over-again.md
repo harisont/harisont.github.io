@@ -5,17 +5,17 @@ layout: post
 category: "board-games"
 ---
 
-{% include image.html file="../assets/img/over-again/title.png" description="Over Again" %}
-
 My sambo and I have a thing for tiny board games and really love the design of [Oink games](https://oinkgames.com/). We recently bought [In a Grove](https://oinkgames.com/en/games/analog/in-a-grove/) but weren't quite satisfied with the rules. Unlike with [The Pyramid's Deadline](https://oinkgames.com/en/games/analog/the-pyramids-deadline/), a case where e decided to [improve the rules](https://observablehq.com/@kappanneo/tpd?collection=@kappanneo/boardgames), in this case we decided to re-invent the game all over again, together with our friend Cornelia.
 
 Enjoy!
 
 ---
 
-| Players | Duration | Age |
-| --- | --- | --- |
-| 3-7 | 10-∞ | 9+
+{% include image.html file="../assets/img/over-again/title.png" description="Over Again" %}
+
+| Players | Duration | Age | Politically correct |
+| --- | --- | --- | --- |
+| 3-7 | 10-∞ | 9+ | not very |
 
 ## Requirements
 The original [In a Grove](https://oinkgames.com/en/games/analog/in-a-grove/) set, or a combination of Poker cards and pen and paper:
@@ -45,7 +45,7 @@ The first player gets a __maniquí__; the second player gets the other __maniqu�
 Deal one __mujer__ face-down to each player, ignoring the remaining ones (do not reveal them). 
 
 ## How to play
-At each round, the objective is to obtain the favor of one MMM by placing you __mujer__ in a winning pile: one of the longest ones. 
+At each round, the objective is to obtain the favor of one MMM by placing you __mujer__ in a winning pile - one of the longest ones. 
 
 When it is their turn, each player either creates a new pile or places their __mujer__ on an existing pile.
 Starting from the second player, after creating or growing a pile, each player can place or move the __molestia__ on the top or on the bottom of a pile. The pile cannot grow in that direction.
