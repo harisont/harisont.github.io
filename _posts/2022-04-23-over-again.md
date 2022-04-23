@@ -22,14 +22,14 @@ The original [In a Grove](https://oinkgames.com/en/games/analog/in-a-grove/) set
 
 <!--TODO: add picture-->
 
-|                                   | Original set              | Poker cards | Pen and paper |
-| ---                               | ---                       | ---         | ---           |
-| __Mujeres__ (women)               | numbered person tiles     | ♠ cards from 2 to 8, with the 5 being replaced with the ♥ one |  |
-| __Maniquíes__ (mannequins)        | X person tiles            | both red aces |  |
-| __First player token__ (optional) | first on the scene marker |  |  |
-| __Molestia__ (annoyance)          | unseen marker | a joker |  |
-| __MMM tokens__                    | detective chips | 5 K and J cards of any seed, ideally with a mustache | |
-| __Score tracker__                 | detective chips |  | a handwritten table | 
+|                                   | Original set              | Poker cards                                                   | Pen and paper       |
+| ---                               | ---                       | ---                                                           | ---                 |
+| __Mujeres__ (women)               | numbered person tiles     | ♠ cards from 2 to 8, with the 5 being replaced with the ♥ one |                     |
+| __Maniquíes__ (mannequins)        | X person tiles            | both red aces                                                 |                     |
+| __First player token__ (optional) | first on the scene marker |                                                               |                     |
+| __Molestia__ (annoyance)          | unseen marker             | a joker                                                       |                     |
+| __MMM tokens__                    | detective chips           | 5 K and J cards of any seed, ideally with a mustache          |                     |
+| __Score tracker__                 | detective chips           |                                                               | a handwritten table | 
 
 <!--TODO: score tokens-->
 
