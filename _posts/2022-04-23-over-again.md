@@ -1,5 +1,5 @@
 ---
-title: "Over Again: In a Grove redesigned"
+title: "Over Again: In a Grove reinvented"
 date: 2022-04-23
 layout: post
 category: "board-games"
