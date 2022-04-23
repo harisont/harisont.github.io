@@ -1,6 +1,6 @@
 ---
 title: "Over Again: In a Grove redesigned"
-date: 2022-03-23
+date: 2022-04-23
 layout: post
 category: "board-games"
 ---
@@ -11,7 +11,7 @@ Enjoy!
 
 ---
 
-{% include image.html file="../assets/img/over-again/title.png" description="Over Again" %}
+![Over Again](../assets/img/over-again/title.png)
 
 | Players | Duration | Age | Politically correct |
 | --- | --- | --- | --- |
