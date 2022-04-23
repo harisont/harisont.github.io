@@ -11,7 +11,7 @@ Enjoy!
 
 ---
 
-![Over Again](../assets/img/over-again/title.png)
+{% include image.html file="../assets/img/over-again/title.png" description="Over Again" %}
 
 | Players | Duration | Age | Politically correct |
 | --- | --- | --- | --- |
