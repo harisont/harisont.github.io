@@ -19,10 +19,10 @@ layout: default
 
   {%- if posts.size > 0 -%}
     <br> <br>
-    <h1 class="post-list-heading">Latest posts</h1>
+    <h2 class="post-list-heading">Latest post</h2>
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
+      {%- for post in posts limit:1 -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
