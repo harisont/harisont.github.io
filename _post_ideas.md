@@ -1,0 +1,30 @@
+# Post ideas
+- [ ] What is a shared task? (EN)
+- [ ] Come on! Highlighting _is_ useful! (but rereading what you highlighted might not). Link to extractive summarization
+- [ ] Why notebooks suck (and especially so in Python) (EN)
+- [ ] Nice compounds (SV) or interesting words (multilingual):
+    - morgontrött
+    - hemmakväll
+    - sovmorgon
+    - väntesorg
+    - efterklok
+    - fredagsmys
+    - lördagsgodis
+- [ ] The programmer's guide to the EU
+- [x] (`pronouns.page`) (EN)
+- [ ] ML vs AI (IT)
+- [ ] Om att lära sig svenska i Sverige (SV)
+- [ ] My PhD project explained at n levels of difficulty (EN)
+- [ ] [Glossario dei termini informatici](https://hackmd.io/ZsFrh0JNQZehvvpBnlwnVQ) (serie da rendere disponibile anche in ordine alfabetico, IT)
+    - [ ] post introduttivo per sondare le acque
+- [ ] the perks of non-monogamy (EN)
+- [ ] fumetto su "come comunico X"?
+- [ ] teachers or apps? Both (EN)
+- [ ] why I like discussing terminology (EN)
+- [ ] favorite concepts in SLA course (EN/SV)
+    - [ ] translingualism vs. code switching
+    - [ ] nativespeakerism and better alternatives
+    - [ ] strategic essentialism
+    - [ ] possible selves
+- [ ] where to learn about ML (Fritjof inspired) (EN)
+- [ ] man pages (EN)
