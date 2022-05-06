@@ -26,5 +26,7 @@
     - [ ] nativespeakerism and better alternatives
     - [ ] strategic essentialism
     - [ ] possible selves
+    - [ ] queer theory
+    - [ ] intersectionality
 - [ ] where to learn about ML (Fritjof inspired) (EN)
 - [ ] man pages (EN)
