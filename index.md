@@ -10,7 +10,5 @@ Even though my [Master's thesis](https://github.com/harisont/concept-alignment) 
 
 Noticed a _strafalcione_[^2] in something I've written? You're welcome to fix it and open a [pull request](https://github.com/harisont/harisont.github.io)!
 
----
-
 [^1]: the only language whose name doesn't end in -ish should be alright, I hope.
 [^2]: a very, very bad grammatical error or conceptual mistake.
