@@ -1,1 +1,352 @@
-<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>Fluent Reader Export</title></head><body><outline text="Aeon" title="Aeon" type="rss" xmlUrl="https://aeon.co/feed.rss"/><outline text="Nicky Case" title="Nicky Case" type="rss" xmlUrl="https://ncase.me/feed.xml"/><outline text="N O D E" title="N O D E" type="rss" xmlUrl="https://n-o-d-e.net/rss/rss.xml"/><outline text="Hundred Rabbits" title="Hundred Rabbits" type="rss" xmlUrl="https://100r.co/links/rss.xml"/><outline text="Wait But Why" title="Wait But Why" type="rss" xmlUrl="https://waitbutwhy.com/feed"/><outline text="Computational linguistics" title="Computational linguistics"><outline text="Inari Listenmaa" title="Inari Listenmaa" type="rss" xmlUrl="https://inariksit.github.io/feed.xml"/><outline text="Tova Erbén" title="Tova Erbén" type="rss" xmlUrl="https://datatjej.github.io/feed.xml"/><outline text="Språkbanksbloggen" title="Språkbanksbloggen" type="rss" xmlUrl="https://spraakbanken.gu.se/blogg/index.php/feed/"/></outline><outline text="Photography" title="Photography"><outline text="Vivian Maier" title="Vivian Maier" type="rss" xmlUrl="http://www.vivianmaier.com/feed/"/><outline text="Thomas Heaton" title="Thomas Heaton" type="rss" xmlUrl="https://thomasheaton.co.uk/feed/"/></outline><outline text="Languages" title="Languages"><outline text="Lindie Botes" title="Lindie Botes" type="rss" xmlUrl="https://lindiebotes.com/feed/"/><outline text="Svenska med Kalle" title="Svenska med Kalle" type="rss" xmlUrl="https://svenskamedkalle.com/feed"/><outline text="Svensk musik" title="Svensk musik" type="rss" xmlUrl="https://svemusik.wordpress.com/feed"/><outline text="Språkbruk" title="Språkbruk" type="rss" xmlUrl="https://www.sprakbruk.fi/forsta-sidan/-/asset_publisher/9oQQJwdresKq/rss"/></outline><outline text="Webcomics" title="Webcomics"><outline text="xkcd" title="xkcd" type="rss" xmlUrl="https://xkcd.com/rss.xml"/><outline text="Zerocalcare.it" title="Zerocalcare.it" type="rss" xmlUrl="https://www.zerocalcare.it/feed/"/><outline text="Alberto Madrigal" title="Alberto Madrigal" type="rss" xmlUrl="https://www.albemadrigal.com/feed/"/><outline text="Redgoldsparks (Maia Kobabe)" title="Redgoldsparks (Maia Kobabe)" type="rss" xmlUrl="https://redgoldsparks.tumblr.com/rss"/><outline text="PHD Comics" title="PHD Comics" type="rss" xmlUrl="https://phdcomics.com/gradfeed.php"/></outline><outline text="Maths and science" title="Maths and science"><outline text="Math3ma" title="Math3ma" type="rss" xmlUrl="https://www.math3ma.com/blog/rss.xml"/><outline text="Distill" title="Distill" type="rss" xmlUrl="https://distill.pub/rss.xml"/><outline text="Quanta Magazine" title="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/"/><outline text="Scienza in cucina" title="Scienza in cucina" type="rss" xmlUrl="http://bressanini-lescienze.blogautore.espresso.repubblica.it/feed/"/><outline text="La ceretta di Occam" title="La ceretta di Occam" type="rss" xmlUrl="http://mautino-lescienze.blogautore.espresso.repubblica.it/feed/"/><outline text="The Math3ma Institute" title="The Math3ma Institute" type="rss" xmlUrl="https://math3ma.institute/feed/"/><outline text="Blog - Brady Haran" title="Blog - Brady Haran" type="rss" xmlUrl="https://www.bradyharanblog.com/blog/rss.xml"/></outline><outline text="Cooking" title="Cooking"><outline text="Grimgrains" title="Grimgrains" type="rss" xmlUrl="https://grimgrains.com/links/rss.xml"/></outline><outline text="Hari’s online" title="Hari’s online" type="rss" xmlUrl="https://harisont.github.io/feed.xml"/><outline text="kappann.eu" title="kappann.eu" type="rss" xmlUrl="http://kappann.eu/feed.xml"/><outline text="Inframethodology" title="Inframethodology" type="rss" xmlUrl="https://blog.cbs.dk/inframethodology/?feed=rss2"/><outline text="News &amp; current topics" title="News &amp; current topics"><outline text="Internazionale opinioni" title="Internazionale opinioni" type="rss" xmlUrl="https://www.internazionale.it/sitemaps/rss_opinioni.xml"/><outline text="Internazionale reportage" title="Internazionale reportage" type="rss" xmlUrl="https://www.internazionale.it/sitemaps/rss_reportage.xml"/><outline text="Guerre di Rete" title="Guerre di Rete" type="rss" xmlUrl="https://www.guerredirete.it/feed/"/><outline text="Open" title="Open" type="rss" xmlUrl="https://www.open.online/feed/"/></outline><outline text="nchrs" title="nchrs" type="rss" xmlUrl="https://nchrs.xyz/links/rss.xml"/><outline text="Ivan Talarico" title="Ivan Talarico" type="rss" xmlUrl="https://www.ivantalarico.it/feed/"/></body></opml>
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Subscriptions</title>
+  </head>
+  <body>
+
+            <outline
+                title="Nicky's New Shtuff"
+                text="New Shtuff from Nicky Case"
+                type="rss"
+                xmlUrl="https://ncase.me/feed.xml"
+                htmlUrl="https://ncase.me/"
+                category=""
+            />
+        
+            <outline
+                title="Aeon | a world of ideas"
+                text="Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos — free to all."
+                type="rss"
+                xmlUrl="https://aeon.co/feed.rss"
+                htmlUrl="https://aeon.co"
+                category=""
+            />
+        
+            <outline
+                title="N O D E"
+                text="https://N-O-D-E.net"
+                type="rss"
+                xmlUrl="https://n-o-d-e.net/rss/rss.xml"
+                htmlUrl="https://N-O-D-E.net"
+                category=""
+            />
+        
+            <outline
+                title="Hundred Rabbits"
+                text="Rekka and Devine travel updates"
+                type="rss"
+                xmlUrl="https://100r.co/links/rss.xml"
+                htmlUrl="https://100r.co"
+                category=""
+            />
+        
+            <outline
+                title="Wait But Why"
+                text=""
+                type="rss"
+                xmlUrl="https://waitbutwhy.com/feed"
+                htmlUrl="https://waitbutwhy.com"
+                category=""
+            />
+        
+            <outline
+                title="Inari Listenmaa"
+                text=""
+                type="rss"
+                xmlUrl="https://inariksit.github.io/feed.xml"
+                htmlUrl="https://inariksit.github.io/"
+                category="Computational linguistics"
+            />
+        
+            <outline
+                title="Tova Erbén"
+                text="språkteknologi och annat teknologiskt"
+                type="rss"
+                xmlUrl="https://datatjej.github.io/feed.xml"
+                htmlUrl="https://datatjej.github.io/"
+                category="Computational linguistics"
+            />
+        
+            <outline
+                title="Språkbanksbloggen"
+                text=""
+                type="rss"
+                xmlUrl="https://spraakbanken.gu.se/blogg/index.php/feed/"
+                htmlUrl="https://spraakbanken.gu.se/blogg"
+                category="Computational linguistics"
+            />
+        
+            <outline
+                title="Vivian Maier Photographer"
+                text=""
+                type="rss"
+                xmlUrl="http://www.vivianmaier.com/feed/"
+                htmlUrl="http://www.vivianmaier.com"
+                category="Photography"
+            />
+        
+            <outline
+                title="Thomas Heaton Photography"
+                text="Landscape, Travel &amp; Outdoor Photography"
+                type="rss"
+                xmlUrl="https://thomasheaton.co.uk/feed/"
+                htmlUrl="https://thomasheaton.co.uk"
+                category="Photography"
+            />
+        
+            <outline
+                title="Lindie Botes – Polyglot YouTuber"
+                text="Helping you learn languages faster and with more fun"
+                type="rss"
+                xmlUrl="https://lindiebotes.com/feed/"
+                htmlUrl="https://lindiebotes.com"
+                category="Languages"
+            />
+        
+            <outline
+                title="Svenska med Kalle"
+                text="en blogg för dig som lär dig svenska"
+                type="rss"
+                xmlUrl="https://svenskamedkalle.com/feed"
+                htmlUrl="https://svenskamedkalle.com"
+                category="Languages"
+            />
+        
+            <outline
+                title="Svensk musik"
+                text="Svensk musik på lätt svenska"
+                type="rss"
+                xmlUrl="https://svemusik.wordpress.com/feed"
+                htmlUrl="https://svemusik.wordpress.com"
+                category="Languages"
+            />
+        
+            <outline
+                title="xkcd.com"
+                text="xkcd.com: A webcomic of romance and math humor."
+                type="rss"
+                xmlUrl="https://xkcd.com/rss.xml"
+                htmlUrl="https://xkcd.com/"
+                category="Webcomics"
+            />
+        
+            <outline
+                title="Innehållspresentatör"
+                text="Innehållspresentatör"
+                type="rss"
+                xmlUrl="https://www.sprakbruk.fi/forsta-sidan/-/asset_publisher/9oQQJwdresKq/rss"
+                htmlUrl="https://www.sprakbruk.fi/forsta-sidan"
+                category="Languages"
+            />
+        
+            <outline
+                title="Zerocalcare.it"
+                text=""
+                type="rss"
+                xmlUrl="https://www.zerocalcare.it/feed/"
+                htmlUrl="https://www.zerocalcare.it"
+                category="Webcomics"
+            />
+        
+            <outline
+                title="Alberto Madrigal"
+                text="Comic &amp; Illustration"
+                type="rss"
+                xmlUrl="https://www.albemadrigal.com/feed/"
+                htmlUrl="https://www.albemadrigal.com"
+                category="Webcomics"
+            />
+        
+            <outline
+                title="Redgoldsparks"
+                text="Maia Kobabe. 
+@redgoldsparks on instagram. Pronouns: e/em/eir. Author of Gender Queer, A Memoir"
+                type="rss"
+                xmlUrl="https://redgoldsparks.tumblr.com/rss"
+                htmlUrl="https://redgoldsparks.tumblr.com/"
+                category="Webcomics"
+            />
+        
+            <outline
+                title="PHD Comics"
+                text="Providing global up-to-the-minute procrastination!"
+                type="rss"
+                xmlUrl="https://phdcomics.com/gradfeed.php"
+                htmlUrl="http://www.phdcomics.com"
+                category="Webcomics"
+            />
+        
+            <outline
+                title="Distill"
+                text="Homepage articles from Distill"
+                type="rss"
+                xmlUrl="https://distill.pub/rss.xml"
+                htmlUrl="https://distill.pub"
+                category="Maths and science"
+            />
+        
+            <outline
+                title="Math3ma"
+                text=""
+                type="rss"
+                xmlUrl="https://www.math3ma.com/blog/rss.xml"
+                htmlUrl="https://www.math3ma.com"
+                category="Maths and science"
+            />
+        
+            <outline
+                title="Quanta Magazine"
+                text="Illuminating science"
+                type="rss"
+                xmlUrl="https://api.quantamagazine.org/feed/"
+                htmlUrl="https://www.quantamagazine.org"
+                category="Maths and science"
+            />
+        
+            <outline
+                title="Scienza in cucina"
+                text="Il gusto della scienza"
+                type="rss"
+                xmlUrl="http://bressanini-lescienze.blogautore.espresso.repubblica.it/feed/"
+                htmlUrl="http://bressanini-lescienze.blogautore.espresso.repubblica.it"
+                category="Maths and science"
+            />
+        
+            <outline
+                title="The Math3ma Institute"
+                text="Esteeming the voice of Christ in STEM through research, exposition, and dialogue."
+                type="rss"
+                xmlUrl="https://math3ma.institute/feed/"
+                htmlUrl="https://math3ma.institute"
+                category="Maths and science"
+            />
+        
+            <outline
+                title="La ceretta di Occam"
+                text="O della scienza delle cremine"
+                type="rss"
+                xmlUrl="http://mautino-lescienze.blogautore.espresso.repubblica.it/feed/"
+                htmlUrl="http://mautino-lescienze.blogautore.espresso.repubblica.it"
+                category="Maths and science"
+            />
+        
+            <outline
+                title="Grimgrains"
+                text="Grimgrains — a plantbased cooking blog"
+                type="rss"
+                xmlUrl="https://grimgrains.com/links/rss.xml"
+                htmlUrl="https://grimgrains.com/"
+                category="Cooking"
+            />
+        
+            <outline
+                title="Hari’s online"
+                text="A chaotically multilingual blog by Arianna Masciolini"
+                type="rss"
+                xmlUrl="https://harisont.github.io/feed.xml"
+                htmlUrl="https://harisont.github.io/"
+                category=""
+            />
+        
+            <outline
+                title="Inframethodology"
+                text="A weblog devoted to the underlying craft of research"
+                type="rss"
+                xmlUrl="https://blog.cbs.dk/inframethodology/?feed=rss2"
+                htmlUrl="https://blog.cbs.dk/inframethodology"
+                category=""
+            />
+        
+            <outline
+                title="Blog - Brady Haran"
+                text=""
+                type="rss"
+                xmlUrl="https://www.bradyharanblog.com/blog/rss.xml"
+                htmlUrl="https://www.bradyharanblog.com/blog/"
+                category="Maths and science"
+            />
+        
+            <outline
+                title="Reportage - Internazionale"
+                text="Ogni settimana il meglio dei giornali di tutto il mondo."
+                type="rss"
+                xmlUrl="https://www.internazionale.it/sitemaps/rss_reportage.xml"
+                htmlUrl="https://www.internazionale.it/reportage"
+                category="News &amp; current topics"
+            />
+        
+            <outline
+                title="Opinioni - Internazionale"
+                text="Ogni settimana il meglio dei giornali di tutto il mondo."
+                type="rss"
+                xmlUrl="https://www.internazionale.it/sitemaps/rss_opinioni.xml"
+                htmlUrl="https://www.internazionale.it/opinioni"
+                category="News &amp; current topics"
+            />
+        
+            <outline
+                title="Open"
+                text="Il giornale online fondato da Enrico Mentana"
+                type="rss"
+                xmlUrl="https://www.open.online/feed/"
+                htmlUrl="https://www.open.online"
+                category="News &amp; current topics"
+            />
+        
+            <outline
+                title="nchrs"
+                text="Updates and progress on various projects and day to day events."
+                type="rss"
+                xmlUrl="https://nchrs.xyz/links/rss.xml"
+                htmlUrl="https://nchrs.xyz/journal.html"
+                category=""
+            />
+        
+            <outline
+                title="Guerre di Rete"
+                text=""
+                type="rss"
+                xmlUrl="https://www.guerredirete.it/feed/"
+                htmlUrl="https://www.guerredirete.it"
+                category="News &amp; current topics"
+            />
+        
+            <outline
+                title="Ivan Talarico"
+                text=""
+                type="rss"
+                xmlUrl="https://www.ivantalarico.it/feed/"
+                htmlUrl="https://www.ivantalarico.it"
+                category=""
+            />
+        
+            <outline
+                title="Humans of New York"
+                text=""
+                type="rss"
+                xmlUrl="https://www.humansofnewyork.com/rss"
+                htmlUrl="https://www.humansofnewyork.com/"
+                category=""
+            />
+        
+            <outline
+                title="English – The Conversation"
+                text="https://theconversation.com"
+                type="rss"
+                xmlUrl="https://theconversation.com/articles.atom?language=en"
+                htmlUrl="https://theconversation.com"
+                category=""
+            />
+        
+            <outline
+                title="Spanish – The Conversation"
+                text="https://theconversation.com"
+                type="rss"
+                xmlUrl="https://theconversation.com/articles.atom?language=es"
+                htmlUrl="https://theconversation.com"
+                category=""
+            />
+        
+  </body>
+</opml>
