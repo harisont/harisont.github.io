@@ -1,5 +1,5 @@
 ---
-title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare ad utilizzare"
+title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare ad utilizzare (EN + IT)"
 layout: post
 ---
 
