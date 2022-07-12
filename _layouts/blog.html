@@ -19,12 +19,12 @@ layout: default
 
   {%- if posts.size > 0 -%}
     <br> <br>
-    <h2 class="post-list-heading">Posts</h2>
+    <h3 class="post-list-heading">All posts in chronological order</h3>
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }} {{post.category}}</span>
+        <span class="post-meta">{{ post.date | date: date_format }},<!-- #{{post.category}},--> langs: #{{post.langs}} </span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}

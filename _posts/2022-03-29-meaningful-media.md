@@ -3,6 +3,8 @@ title: "Various things I read/watched/listened to this month (March 2022)"
 date: 2022-03-29
 layout: post
 category: "meaningful-media"
+langs: ["en", "sv", "it"]
+
 ---
 
 When I looked at the meaningful media notes I've taken throughout the month, I was not so surprised to find out that most of them are in one way or another related to language or languages[^1]. I was very tempted to discard things that didn't really fit with that theme, but I couldn't really avoid mentioning, for example [the most insightful newspaper article I've read in a while](#7-mariupol-lucraina-e-il-crimine-dei-bombardamenti-sugli-ospedali-un-pezzo-dopinione-di-neve-gordon-nicola-perugini-it) and I've decided to go for the usual miscellaneous list.

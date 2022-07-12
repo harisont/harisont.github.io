@@ -3,6 +3,7 @@ title: "Interesting things I read/watched/listened to this month (January 2022)"
 date: 2022-01-30
 layout: post
 category: "meaningful-media"
+langs: ["en", "it", "es"]
 ---
 
 This is the first of a series of posts, inspired by Nicky Case's yearly meaningful media lists (such as [this one from 2019](https://blog.ncase.me/my-most-meaningful-media-of-2019/)) and by Radio Ambulante's _recomendados del equipo para el fin de semana_, that I'll try to publish on a monthly basis. Each will contain a selection of the books, comics, articles, movies, videos and other media I enjoyed or found thought-provoking throughout each month.

@@ -3,6 +3,7 @@ title: "Astonishing things I read/watched/listened to this month (February 2022)
 date: 2022-02-26
 layout: post
 category: "meaningful-media"
+langs: ["en", "sv", "es", "it"]
 ---
 
 Much of what I read, watched and listened to this February was somewhere between slightly surprising and outright shocking. This is why I decided, this time, to list the most remarkable things I came across sorted by level of astonishment experienced rather than chronologically. It goes without saying that the top positions are occupied by news items.
