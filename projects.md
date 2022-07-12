@@ -1,5 +1,6 @@
 ---
 title: Personal projects
+layout: default
 ---
 
 ## Software

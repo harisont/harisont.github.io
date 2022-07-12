@@ -1,5 +1,6 @@
 ---
 title: Research
+layout: default
 ---
 
 I'm currently trying to develop ICALL tools to help learners develop their written production skills.
