@@ -6,7 +6,8 @@ description: >
   A chaotically multilingual blog by Arianna Masciolini
 
 header_pages:
-  - about.md
+  - blog.md
+  - research.md
   - projects.md
   - for_a_selected_few.md
 

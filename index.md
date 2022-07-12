@@ -1,14 +1,18 @@
 ---
-title: Ciao, hi, hej and hola
+title: Arianna Masciolini
 ---
 
-Hi and welcome to my chaotically multilingual blog! 
+## ¡Ciao, hi, hej and hola!
+My name is Arianna, on the internet `@harisont`.
 
-Parlo __italiano__ come prima lingua, I find it easiest to write technical texts in __English__, jag bor i Göteborg och försöker hela tiden förbättra min __svenska__, pero el idioma que me hace sentir más feliz siempre ha sido el __español__. 
+I've always been really into language(s) and education, but recklessly decided to ~~torture~~ challenge myself and got into my hometown's [Computer Science Bachelor's programme](https://www.dmi.unipg.it/en/courses/computer-science-courses/bachelor-s-degree-in-computer-science). 
+Against all odds, I ended up loving the subject but couldn't resist moving to Sweden for my Master's to be able to also take a few NLP courses at the [University of Gothenburg](https://www.gu.se/).
+After graduating with a [thesis in Machine Translation](https://raw.githubusercontent.com/harisont/concept-alignment/master/thesis/final_report/synbased_ca_for_mt.pdf), I worked as a __software developer at [Digital Grammars](https://www.digitalgrammars.com/)__ and I'm currently a __PhD student in Language Technology at [Språkbanken](https://spraakbanken.gu.se/)__, where I'm finally closing the circle working on developing tools for Computer-Assisted Language Learning.
 
-Even though my [Master's thesis](https://github.com/harisont/concept-alignment) was in Machine Translation, I like translating stuff myself too, and it is my ambition to write all the content of this blog in English + 1 (as a side effect, that would make a nice set of parallel texts). But more realistically, get ready for a bunch of texts in broken `*ish`[^1] where the language is chosen based on topic and audience but also less sensible factors such as mood, place and time of writing.
+My other interests include Second Language Acquisition, Controlled Natural Languages, grammar engineering, dependency parsing, dialogue systems, compilers and functional programming, but also Free and Open Source Software, Android development, [photography](https://harisont.github.io/postcards-from-gothenburg/), a cappella singing, podcasting, [writing](blog.md), board gaming, biking, inline skating and rock climbing. 
 
-Noticed a _strafalcione_[^2] in something I've written? You're welcome to fix it and open a [pull request](https://github.com/harisont/harisont.github.io)!
+---
 
-[^1]: the only language whose name doesn't end in -ish should be alright, I hope.
-[^2]: a very, very bad grammatical error or conceptual mistake.
+- email: [arianna.masciolini@gmail.com](mailto:arianna.masciolini@gmail.com)
+- pronouns: [whatever is singular animate](https://harisont.github.io/pronouns/)
+- CV: [download the PDF](https://github.com/harisont/cv/raw/master/cv.pdf)
