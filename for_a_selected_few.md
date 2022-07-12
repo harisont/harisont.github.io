@@ -14,4 +14,6 @@ Choose the relevant circle and follow the corresponding link to access what I to
 
 If you don't have a password but think you deserve one, feel free to [contact me](mailto:arianna.masciolini@gmail.com).
 
-[^1]: it just means "select circles", but in Italian it's easier for me to use it ironically
+---
+
+[^1]: it just means "select circles", but in Italian it's clearer that it's ironic

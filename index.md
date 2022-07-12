@@ -3,8 +3,7 @@ title: Arianna Masciolini
 layout: default
 ---
 
-# Arianna Masciolini
-## ¡Ciao, hi, hej and hola!
+### ¡Ciao, hi, hej and hola!
 My name is __Arianna Masciolini__, on the internet __`@harisont`__.
 
 I've always been really into language(s) and education, but recklessly decided to ~~torture~~ challenge myself and got into my hometown's [Computer Science Bachelor's programme](https://www.dmi.unipg.it/en/courses/computer-science-courses/bachelor-s-degree-in-computer-science). 
