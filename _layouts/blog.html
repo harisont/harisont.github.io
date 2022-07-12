@@ -19,10 +19,10 @@ layout: default
 
   {%- if posts.size > 0 -%}
     <br> <br>
-    <h2 class="post-list-heading">Latest post</h2>
+    <h2 class="post-list-heading">Posts</h2>
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts limit:1 -%}
+      {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -54,12 +54,6 @@ layout: default
         </ul>
       </div>
     {%- endif %}
-
-    <h2 class="post-list-heading">Collections</h2>
-    <ul>
-      <li> <a href="harisont.github.io/meaningful-media.html"></a>meaningful media</a> </li>
-    </ul>
-
 
   {%- endif -%}
 
