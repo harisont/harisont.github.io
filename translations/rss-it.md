@@ -1,5 +1,5 @@
 ---
-title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare ad utilizzare (EN + IT)"
+title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare ad utilizzare"
 layout: post
 category: l-informatico-di-famiglia
 langs: ["en", "it"]
