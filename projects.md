@@ -3,6 +3,8 @@ title: Personal projects
 layout: default
 ---
 
+# Personal projects
+
 ## Software
 - [__Librery__](https://github.com/harisont/Librery), the only Android app I've ever written all by myself from beginning to end
 - [__me-tadah__](https://github.com/harisont/me-tadah), the simplest possible ebook metadata editor. Definitely the most useful piece of software I've ever written

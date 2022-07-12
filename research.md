@@ -3,11 +3,13 @@ title: Research
 layout: default
 ---
 
+# Research
+
 I'm currently trying to develop ICALL tools to help learners develop their written production skills.
 
-### Past projects
+## Past projects
 
-#### Concept alignment (Master's thesis project)
+### Concept alignment (Master's thesis project)
 The aim of this project was to develop a tool for bootstrapping translation lexica for grammar-based domain-specific MT systems.
 The resulting system generates [GF](https://www.grammaticalframework.org/) multilingual grammar fragments by aligning parallel [UD](https://universaldependencies.org/) treebanks, which can be automatically parsed from parallel texts, to extract word and phrase level correspondences.
 
