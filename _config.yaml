@@ -2,8 +2,8 @@ title: Harisonline
 author: 
   name: Arianna Masciolini
   email: arianna.masciolini@gmail.com
-description: > 
-  A personal website and chaotically multilingual blog by Arianna Masciolini
+#description: > 
+#  A personal website and chaotically multilingual blog by Arianna Masciolini
 
 header_pages:
   - blog.md
