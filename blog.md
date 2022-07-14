@@ -11,4 +11,4 @@ Noticed a _strafalcione_[^1] in something I've written? You're welcome to fix it
 
 ---
 
-[^1]: the only language whose name doesn't end in -ish should be alright, I hope.
+[^1]: colloquial Italian term to indicate a very bad mistake.
