@@ -11,4 +11,4 @@ Noticed a _strafalcione_[^1] in something I've written? You're welcome to fix it
 
 ---
 
-[^1]: colloquial Italian term to indicate a very bad mistake.
+[^1]: in Italian, this is the colloquial term to indicate bad mistakes.
