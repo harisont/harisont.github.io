@@ -16,7 +16,7 @@ layout: default
 Over a year ago, I started working on __Impara l'Haskell e mettilo da parte__, a basic [video Haskell course](https://www.youtube.com/channel/UC6fKcYGimkXYd-N5ryesKqw) with tons of [code examples](https://github.com/harisont/imparalhaskell).
 The course is entirely in Italian, as the goal was to create learning materials easily accessible to my fellow citizens that take their little familiarity English as an excuse not to learn what I think is the very best programming language out there.
 
-I was forced to take a long break from this project, but I hope to go back on it soon!
+I was forced to take a long break from this project, but I hope to get back to it soon!
 
 ## Photography
 [__Postcards from Gothenburg__](https://harisont.github.io/postcards-from-gothenburg/) is my only vaguely coherent photography project in about 15 years of photography. It's also my best effort building a website from scratch. 
