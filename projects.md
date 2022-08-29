@@ -10,6 +10,7 @@ layout: default
 - [__me-tadah__](https://github.com/harisont/me-tadah), the simplest possible ebook metadata editor. Definitely the most useful piece of software I've ever written
 - [__Rick Lime__](https://github.com/harisont/rick-lime), a silly chatbot that helps you write limericks. Definitely the least useful piece of software I've ever written
 - [__conllu-plus-converter__](https://github.com/harisont/conllu-plus-converter), a simple conversion tool for [CoNNL-U (Plus) files](https://universaldependencies.org/format.html)
+- [__arré__](https://github.com/harisont/arre), my summer 2022 holiday NLP project: a collection of Python scripts to download and transcribe recordings of trials from the Radio Radicale archives, written for my mom and cousin. 
 
 ## Tutorials
 Over a year ago, I started working on __Impara l'Haskell e mettilo da parte__, a basic [video Haskell course](https://www.youtube.com/channel/UC6fKcYGimkXYd-N5ryesKqw) with tons of [code examples](https://github.com/harisont/imparalhaskell).
