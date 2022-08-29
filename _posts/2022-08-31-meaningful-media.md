@@ -6,15 +6,15 @@ category: "meaningful-media"
 langs: ["en", "sv", "es", "it"]
 ---
 
-Gli scorsi mesi sono stati troppo pieni e difficili quasi anche soltanto per prendere nota di quanto stessi leggendo, vedendo e ascoltando.
-Ora che l'estate, insieme a molte altre cose, é finita, vi presento la mia personale collezione primavera-estate di contenuti che hanno arricchito le mie giornate, andando un po' a memoria un po' ad appunti presi alla rinfusa.
+Gli avvenimenti che negli ultimi tempi si sono susseguiti nella mia vita privata hanno reso le mie non tante letture, i pochi film che ho visto e le cose che ho ascoltato nei ritagli di tempo forse piú importanti che mai, ma al tempo stesso piú che mai difficili da appuntare e commentare in maniera sistematica.
+Vi presento dunque una collezione primavera-estate di contenuti che hanno arricchito le mie giornate, quanto mai raffazzonata, andando un po' a memoria un po' secondo appunti presi al volo e alla rinfusa.
 
 ### TODO:. Due libri di poesie in traduzione (IT + SV)
-A marzo, centellinandomelo da Natale, ho finito di leggere [_Amore a prima vista_](https://www.adelphi.it/libro/9788845979538), della poetessa polacca Wisława Szymborska.
-Mai titolo fu piú irritante e allo stesso tempo azzeccato! Dal primo verso della prima poesia letta aprendo a caso ("_Nessuno in famiglia è mai morto per amore_", da [_Album_](https://ilsuolodellapoesia.altervista.org/antologia-introduttiva-a-wislawa-szymborska-ii/)), la Szymborska é riuscita a rendersi indispensabile.
+A marzo, centellinandomelo da Natale, ho finito di leggere la raccolta di poesie [_Amore a prima vista_](https://www.adelphi.it/libro/9788845979538), della poetessa polacca Wisława Szymborska.
+Mai titolo fu piú irritante e allo stesso tempo azzeccato, non tanto per il libro quanto per la mia reazione! Dal primo verso della prima poesia letta aprendo a caso ("_Nessuno in famiglia è mai morto per amore_", da [_Album_](https://ilsuolodellapoesia.altervista.org/antologia-introduttiva-a-wislawa-szymborska-ii/)), la Szymborska si é resa pressoché indispensabile.
 
-När jag var klar med den boken åkte jag till ett bibliotek i Göteborg för att låna en annan av henns diktsamlingar. 
-Jag hade aldrig läst poesi på svenska, men en italienska översättningarna är svårthittade i Sverige och jag ville inte läsa dikter på min läsplatta. 
+När jag var klar med Szymborskas bok åkte jag till ett bibliotek i Göteborg: jag ville låna en annan av henns diktsamlingar. 
+Jag hade aldrig läst poesi på svenska, men italienska översättningarna är svårthittade i Sverige och jag ville inte läsa dikter på min läsplatta. 
 Biblioteket hade tyvärr ingenting av samma förfättare, men jag hittade en annan liten polsk poesibok: [_Vi är en ordbok_](https://instytutpolski.pl/stockholm/2021/04/14/vi-ar-en-ordbok-och-andra-dikter-av-krystyna-dabrowska/), av [Krystyna Dąbrowska](https://www.poetryfoundation.org/poets/krystyna-dabrowska). Titeln var fascinerande och motiverade mig att försöka att läsa. 
 Det gick väldigt bra: dikterna är inte svårtlästa och när man läser poesi går det i alla fall inte att förstå allt på en gång, även på mans modersmål.
 Jag har skrivit ner en del dikter som jag vill läsa igen och igen. En av dem heter _Security questions_:
@@ -39,6 +39,11 @@ Jag har skrivit ner en del dikter som jag vill läsa igen och igen. En av dem he
 > i stället för att fylla i blanketten försöker jag trassla ut dem.<br>
 > Det bryr sig programmet inte om. Det kräver ett helt annat ord<br>
 > (behöver inte vara sant) för att man ska få logga in.
+
+### TODO:. [_Sommarboken_](https://sv.wikipedia.org/wiki/Sommarboken), a.k.a. Tove Janssons roman (?) där det händer nästan ingenting men som man önskade skulle aldrig ta slut (SV)
+Min sommar började med den här boken, som jag började läsa i ett tält en morgon i mitten av maj och som följde mig fram till början av juli.
+Säkert en av mina (finland)svenska favoriter, den handlar om förhållandet mellan en morfar och ett barnbarn som tillbringar somrarna tillsammans på en finsk ö, som kanske är berättelsens verkliga huvudperson.
+[En väldigt trevlig ljudbok där det är Tove Jansson själv som läser finns på Spotify](https://open.spotify.com/album/5i7NVszWdQ9O4DguEAd8Dd?si=CwtFeZdyTGu-KTUMVrZ3vA).
 
 ### TODO:. _Such a Lovely Little War: Saigon 1961–63_, by Marcelino Truong (EN)
 A beautifully drawn graphic novel memoir about the Vietnam War, seen through the eyes of the son of a diplomat.
@@ -90,12 +95,6 @@ Jessy Lin is not someone I ever met in person, but my mind was blown when I list
 
 ### TODO:. [_Hometown village_, a 99% Invisible podcast episode about a Korean settlement in the russian island of Sakhalin](https://99percentinvisible.org/episode/hometown-village/) (EN)
 The part that I remember the most is that about the difference between "homeland" and "motherland".
-
-### TODO:. [_Sommarboken_](https://sv.wikipedia.org/wiki/Sommarboken) (SV)
-A.k.a. Tove Janssons roman där det hände nästan ingenting men jag önskade aldrig skulle ta slut. 
-Säkert en av mina (finland)svenska favoriter.
-Handlar om en morfar och ett barnbarn, men också (och mycket realistiskt) om den nordiska naturen.
-[På Spotify kan man lyssna på den med förfättarens röst](https://open.spotify.com/album/5i7NVszWdQ9O4DguEAd8Dd?si=CwtFeZdyTGu-KTUMVrZ3vA).
 
 ### TODO:. [A minor paper that was super inspiring for my research](https://aclanthology.org/W17-6306.pdf)
 But about that I'll have a lot to write elsewhere in the nearest future. [Stay tuned!](https://harisont.github.io/research.html)
