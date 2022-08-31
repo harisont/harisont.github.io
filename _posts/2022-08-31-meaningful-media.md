@@ -40,13 +40,35 @@ Jag har skrivit ner en del dikter som jag vill läsa igen och igen. En av dem he
 > Det bryr sig programmet inte om. Det kräver ett helt annat ord<br>
 > (behöver inte vara sant) för att man ska få logga in.
 
+### TODO:. _Such a Lovely Little War: Saigon 1961–63_, by Marcelino Truong (EN)
+A beautifully drawn graphic novel memoir about the Vietnam War, seen through the eyes of the son of a diplomat.
+
+### TODO:. [A fun YouTube video on asexuality](https://www.youtube.com/watch?v=qF1DTK4U1AM), by Jaiden Animation (EN)
+It may not be as memorable as _Gender queer_ (which I read back in [January](https://harisont.github.io/meaningful-media/2022/01/30/meaningful-media.html)), but whenever I find content on the ACE spectrum that is both entertaining and instructive I feel like I have to share it: there's not enough of that stuff.
+
+### TODO:. [A video from the Ukranian version of the 3blue1brown channel](https://www.youtube.com/watch?v=z6sICrbAZ1Y&list=WL&index=21)
+The participation of several women and men my age and younger really helped me empathize with the Ukranian people.
+In particular, I felt really close to the guy who actually runs the channel, translating 3b1b's amazing maths videos. He reminded me of when I volunteered as a [Khan Academy](https://www.khanacademy.org/) translator.
+
+### TODO:. [Henrik Jönssons video om yttrandefrihetet](https://www.youtube.com/watch?v=jg5HbrawYPU) (SV)
+Jag måste vara ärlig och säga att jag tycker inte alls om Heriks YouTube-kanalen. Men denna video var väl argumenterad och tankeväckande. 
+Det var min partner [kappanneo](https://harisont.github.io/kappanneu/) som rekommenderade den (samtidigt som han delade samma generella åsikter om kanalen). Vi kollade på det tillsammans och hade en ovanligt spännande diskussion efteråt.
+
+### TODO:. [L'intervento di Draghi al Parlamento Europeo del 3 maggio](https://www.youtube.com/watch?v=LUZQA8R_TVc&list=WL&index=31) (IT)
+Ricordo di essere rimasta scioccata perché mai mi era successo di essere d'accordo con un politico italiano su cosí tante cose.
+
 ### TODO:. [_Sommarboken_](https://sv.wikipedia.org/wiki/Sommarboken), a.k.a. Tove Janssons roman (?) där det händer nästan ingenting men som man önskade skulle aldrig ta slut (SV)
 Min sommar började med den här boken, som jag började läsa i ett tält en morgon i mitten av maj och som följde mig fram till början av juli.
 Säkert en av mina (finland)svenska favoriter, den handlar om förhållandet mellan en morfar och ett barnbarn som tillbringar somrarna tillsammans på en finsk ö, som kanske är berättelsens verkliga huvudperson.
 [En väldigt trevlig ljudbok där det är Tove Jansson själv som läser finns på Spotify](https://open.spotify.com/album/5i7NVszWdQ9O4DguEAd8Dd?si=CwtFeZdyTGu-KTUMVrZ3vA).
 
-### TODO:. _Such a Lovely Little War: Saigon 1961–63_, by Marcelino Truong (EN)
-A beautifully drawn graphic novel memoir about the Vietnam War, seen through the eyes of the son of a diplomat.
+### TODO:. [A minor research paper that was super inspiring for my research](https://aclanthology.org/W17-6306.pdf)
+But about that I'll have a lot to write elsewhere in the nearest future. [Stay tuned!](https://harisont.github.io/research.html)
+
+### TODO:. [_L'inglese non basta_, un saggio sul ruolo della lingua inglese nel mondo dell'universitá e della ricerca di Maria Luisa Villa](https://books.google.it/books/about/L_inglese_non_basta.html?id=C0A3AgAAQBAJ&redir_esc=y) (IT)
+I miei genitori ed io siamo soliti regalarci ebook, ed é cosí che ho scoperto questo libro, che ho ricevuto giusto quando avevo appena finito di seguire un corso tenuto da un professore eccezionale, [Tommaso Milani](https://www.gu.se/en/about/find-staff/tommasomilani), che si occupa proprio di multilinguismo.
+Come traspare proprio da questo blog, sono completamente d'accordo con l'affermazione generale secondo cui "l'inglese non basta", ma non sempre mi sono trovata a concordare con l'autrice per quanto riguarda le politiche da lei proposte in ambito scientifico. 
+Dal mio punto di vista, questo non toglie valore alla lettura, che ha anzi arricchito di riflessioni individuali e discussioni post lettura.
 
 ### TODO:. Due film documentari di Silvano Agosti (IT)
 Non ho potuto esimermi dal vedere [_D'amore si vive_](https://it.wikipedia.org/wiki/D%27amore_si_vive) (1984), un documentario sull'amore, la tenerezza e la sessualitá che mi era stato descritto da mia madre come "un film che ti fa proprio stare bene".
@@ -63,25 +85,6 @@ Da ammiratrice della divulgatrice scientifica Beatrice Mautino, non mi sono lasc
 
 [_Capirci un tubo_](https://www.spreaker.com/show/capirci-un-tubo), prodotto da [Frame - Divagazioni scientifiche](http://www.weareframe.it/) per [Gruppo CAP](https://www.gruppocap.it/), é un podcast decisamente estivo, con episodi brevissimi e "scorrevoli" (cit.) ma comunque istruttivi sull'acqua da un punto di vista scientifico. Ai microfoni Alberto Agliotti e diversi ospiti tra cui, appunto, la stessa Mautino.
 
-### TODO:. [A fun YouTube video on asexuality](https://www.youtube.com/watch?v=qF1DTK4U1AM), by [Jaiden Animation](https://www.youtube.com/c/jaiden)
-It may not be as memorable as _Gender queer_ (which I read back in [January](https://harisont.github.io/meaningful-media/2022/01/30/meaningful-media.html)), but whenever I find content on the ACE spectrum that is both entertaining and instructive I feel like I have to share it. 
-
-### TODO:. [Henrik Jönssons video om yttrandefrihetet](https://www.youtube.com/watch?v=jg5HbrawYPU) (SV)
-Jag måste vara ärlig och säga att jag tycker inte alls om Heriks YouTube-kanalen. Men denna video var väl argumenterad och tankeväckande. 
-Det var min partner [kappanneo](https://harisont.github.io/kappanneu/) som rekommenderade den (samtidigt som han delade samma generella åsikter om kanalen). Vi kollade på det tillsammans och hade en ovanligt spännande diskussion efteråt.
-
-### TODO:. [L'intervento di Draghi al Parlamento Europeo del 3 maggio](https://www.youtube.com/watch?v=LUZQA8R_TVc&list=WL&index=31) (IT)
-Ricordo di essere rimasta scioccata perché mai mi era successo di essere d'accordo con un politico italiano su cosí tante cose.
-
-### TODO:. [_L'inglese non basta_, un saggio sul ruolo della lingua inglese nel mondo dell'universitá e della ricerca di Maria Luisa Villa](https://books.google.it/books/about/L_inglese_non_basta.html?id=C0A3AgAAQBAJ&redir_esc=y) (IT)
-I miei genitori ed io siamo soliti regalarci ebook, ed é cosí che ho scoperto questo libro, che ho ricevuto giusto quando avevo appena finito di seguire un corso tenuto da un professore eccezionale, [Tommaso Milani](https://www.gu.se/en/about/find-staff/tommasomilani), che si occupa proprio di multilinguismo.
-Come traspare proprio da questo blog, sono completamente d'accordo con l'affermazione generale secondo cui "l'inglese non basta", ma non sempre mi sono trovata a concordare con l'autrice per quanto riguarda le politiche da lei proposte in ambito scientifico. 
-Dal mio punto di vista, questo non toglie valore alla lettura, che ha anzi arricchito di riflessioni individuali e discussioni post lettura.
-
-### TODO:. [_A video from the Ukranian di 3blue1brown channel_](https://www.youtube.com/watch?v=z6sICrbAZ1Y&list=WL&index=21)
-The participation of several women and men my age and younger really helped me empathize with the Ukranian people.
-In particular, I felt really close to the guy who actually runs the channel, translating 3b1b's amazing maths videos. He reminded me of when I volunteered as a [Khan Academy](https://www.khanacademy.org/) translator.
-
 ### TODO:. Due riviste online che ho scoperto da poco (IT + EN + ES)
 Solitamente, in estate leggo moltissimi romanzi. Questa volta, forse perchè non ho fatto in tempo ad annoiarmi abbastanza, ho preferito leggere articoli. Oltre a quelli di [Internazionale](https://www.internazionale.it/), a cui sono abbonata, mi sono goduta quelli di due riviste che conosco da poco:
 
@@ -96,8 +99,8 @@ Jessy Lin is not someone I ever met in person, but my mind was blown when I list
 ### TODO:. [_Hometown village_, a 99% Invisible podcast episode about a Korean settlement in the russian island of Sakhalin](https://99percentinvisible.org/episode/hometown-village/) (EN)
 The part that I remember the most is that about the difference between "homeland" and "motherland".
 
-### TODO:. [A minor paper that was super inspiring for my research](https://aclanthology.org/W17-6306.pdf)
-But about that I'll have a lot to write elsewhere in the nearest future. [Stay tuned!](https://harisont.github.io/research.html)
+### TODO:. Several photography exhibitions in Bologna and Cortona
+TODO: 
 
 ### TODO:. Gli incompleti/de oavslutade/the unfinished (IT + SV + EN)
 - Ho letto a tozzi e bocconi _I sette messaggeri_, di Dino Buzzati, molti dei cui racconti ricordavo dai suoi _Sessanta racconti_. Dino Buzzati é uno dei miei autori preferiti, ma avrei dovuto aspettare di piú a rileggerlo, se speravo che il ricordo dei suoi indimenticabili mondi si sbiadisse
