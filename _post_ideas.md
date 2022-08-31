@@ -22,7 +22,7 @@
 - [ ] teachers or apps? Both (EN)
 - [ ] why I like discussing terminology (EN)
 - [ ] favorite concepts in SLA course (EN/SV)
-    - [ ] translingualism vs. code switching
+    - [ ] translingualism vs. code switching (with examples from this blog)
     - [ ] nativespeakerism and better alternatives
     - [ ] strategic essentialism
     - [ ] possible selves
