@@ -57,7 +57,7 @@ Sommarboken, alias Tove Janssons roman där det inte händer någonting men som 
 Min sommar började med den här boken, som jag började läsa i ett tält en morgon i mitten av maj och som följde mig till början av juli. Den är definitivt en av mina (finlands)svenska favoriter och handlar om förhållandet mellan en farmor och ett barnbarn som tillbringar sina somrar tillsammans på en finsk ö, som kanske är berättelsens verkliga huvudperson. En mycket fin ljudbok med Tove Jansson själv som läser finns [på Spotify]((https://open.spotify.com/album/5i7NVszWdQ9O4DguEAd8Dd?si=CwtFeZdyTGu-KTUMVrZ3vA)).
 
 ### 6. [A minor research paper that was super inspiring for my research](https://aclanthology.org/W17-6306.pdf)...
-...But about that I'll have a lot to write elsewhere in the nearest future. [Stay tuned!](../research.md)
+...But about that I'll have a lot to write elsewhere in the nearest future. [Stay tuned!](https://harisont.github.io/research.html)
 
 ### 7. _L'inglese non basta_, un saggio sul ruolo della lingua inglese nel mondo dell'universitá e della ricerca di Maria Luisa Villa (IT)
 Avevo appena finito di seguire un bellissimo corso di [Tommaso Milani](https://scholar.google.com/citations?user=D-CXdGgAAAAJ&hl=en&oi=ao), un professore della mia università che si occupa proprio di multilinguismo, quando i miei genitori mi hanno regalato l'ebook di questo testo.
