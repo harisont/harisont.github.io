@@ -100,7 +100,7 @@ La seconda, [_Oliviero Toscani - 80 anni da situazionista_](https://www.palazzoa
 Non sempre amo lo stile (o meglio: non amo tutti gli stili) di Toscani, ma mi piace il suo modo di pensare la fotografia, che porta avanti con grande intelligenza ed ironia.
 La mostra in sé è forse ancor più ben fatta della precedente e ne consiglio vivissimamente la visita.
 
-### [Cortona On The Move](https://www.cortonaonthemove.com/)
+#### [Cortona On The Move](https://www.cortonaonthemove.com/)
 Il festival Cortona On The Move è per me un appuntamento annuale ormai quasi imperdibile, quando sono in zona.
 Non mi metto ad enumerarne le moltissime, spesso molto valide mostre che la compongono, ma ho apprezzato particolarmente i lavori di [Nicoló Filippo Rosso](https://nicolofilipporosso.com/), Nicolas Righetti, [Alessandro Cinque](https://alessandrocinque.com/), Alexander Chemenev, Enoch Boateng, Lindsay Ladd ([Ginger Fox Photography](https://www.gingerfoxphotography.com/)), [Valerie Baeriswyl](https://www.valeriebaeriswyl.com/) and [Walter Niedermayr](https://walterniedermayr.com/).
 
