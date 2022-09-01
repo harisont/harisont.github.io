@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>AntennaPod Subscriptions</title>
-    <dateCreated>13 Feb 22 00:48:33 +0100</dateCreated>
+    <dateCreated>01 Sep 22 11:23:09 +0200</dateCreated>
   </head>
   <body>
     <outline text="(De eso no se habla)" title="(De eso no se habla)" type="rss" xmlUrl="https://feeds.podcastmirror.com/deesonosehabla" htmlUrl="http://www.deesonosehabla.com" />
@@ -11,9 +11,11 @@
     <outline text="Barnmorskorna 1759" title="Barnmorskorna 1759" type="rss" xmlUrl="https://feeds.yle.fi/areena/v1/series/1-50534421.rss?lang=sv&amp;downloadable=true" htmlUrl="https://arenan.yle.fi/1-50534421" />
     <outline text="Ben, Ben and Blue" title="Ben, Ben and Blue" type="rss" xmlUrl="https://benbenandblue.libsyn.com/rss" htmlUrl="https://www.benbenandblue.com/" />
     <outline text="Breaking Italy Podcast" title="Breaking Italy Podcast" type="rss" xmlUrl="https://www.spreaker.com/show/3496330/episodes/feed" htmlUrl="https://www.spreaker.com/show/breaking-italy-podcast" />
+    <outline text="Capirci un Tubo" title="Capirci un Tubo" type="rss" xmlUrl="https://www.spreaker.com/show/5603462/episodes/feed" htmlUrl="https://www.spreaker.com/show/capirci-un-tubo" />
     <outline text="Choose Linux" title="Choose Linux" type="rss" xmlUrl="https://chooselinux.show/rss" htmlUrl="https://chooselinux.show" />
+    <outline text="Ci vuole una scienza" title="Ci vuole una scienza" type="rss" xmlUrl="https://www.spreaker.com/show/5515551/episodes/feed" htmlUrl="https://www.spreaker.com/show/ci-vuole-una-scienza" />
     <outline text="Complete German (more on the way!)" title="Complete German (more on the way!)" type="rss" xmlUrl="https://feeds.soundcloud.com/playlists/soundcloud:sets:157713757/sounds.rss" htmlUrl="https://soundcloud.com/languagetransfer/sets/complete-german-more-on-the" />
-    <outline text="Democracy Now! Audio" title="Democracy Now! Audio" type="rss" xmlUrl="https://www.democracynow.org/podcast.xml" htmlUrl="https://www.democracynow.org/" />
+    <outline text="Democracy Now! Audio" title="Democracy Now! Audio" type="rss" xmlUrl="https://www.democracynow.org/podcast.xml" htmlUrl="http://www.democracynow.org/" />
     <outline text="Den svenska musikhistorien" title="Den svenska musikhistorien" type="rss" xmlUrl="https://api.sr.se/api/rss/pod/itunes/21967" htmlUrl="https://sverigesradio.se/densvenskamusikhistorien" />
     <outline text="El hilo" title="El hilo" type="rss" xmlUrl="https://rss.acast.com/el-hilo" htmlUrl="https://elhilo.audio" />
     <outline text="Epistolar" title="Epistolar" type="rss" xmlUrl="https://anchor.fm/s/a534878/podcast/rss" htmlUrl="https://epistolarpodcast.com" />
@@ -24,11 +26,13 @@
     <outline text="Homeroom with Sal Khan" title="Homeroom with Sal Khan" type="rss" xmlUrl="https://blog.khanacademy.org/homeroom/feed/" htmlUrl="https://blog.khanacademy.org/homeroom/" />
     <outline text="La lingua batte 2019" title="La lingua batte 2019" type="rss" xmlUrl="https://www.raiplaysound.it/programmi/lalinguabatte" htmlUrl="http://www.raiplayradio.it/programmi/lalinguabatte" />
     <outline text="La Scatola Nera" title="La Scatola Nera" type="rss" xmlUrl="https://www.spreaker.com/show/3520423/episodes/feed" htmlUrl="https://www.spreaker.com/show/la-scatola-nera" />
-    <outline text="LeechFest" title="LeechFest" type="rss" xmlUrl="https://access.acast.com/rss/6046295bba4c4c35b8b757cb" htmlUrl="https://shows.acast.com/leechfest/episodes/biowarfare-leechfest-ep-2" />
-    <outline text="LGBTQ&amp;A" title="LGBTQ&amp;A" type="rss" xmlUrl="http://feeds.megaphone.fm/PPY1873140904" htmlUrl="http://lgbtqpodcast.com" />
+    <outline text="LeechFest" title="LeechFest" type="rss" xmlUrl="https://rss.art19.com/leechfest" htmlUrl="https://art19.com/shows/leechfest" />
+    <outline text="LGBTQ&amp;A" title="LGBTQ&amp;A" type="rss" xmlUrl="https://anchor.fm/s/a36b70a8/podcast/rss" htmlUrl="http://lgbtqpodcast.com" />
     <outline text="Lingthusiasm - A podcast that's enthusiastic about linguistics" title="Lingthusiasm - A podcast that's enthusiastic about linguistics" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:237055046/sounds.rss" htmlUrl="https://lingthusiasm.com" />
+    <outline text="Malalingua" title="Malalingua" type="rss" xmlUrl="https://www.spreaker.com/show/5383536/episodes/feed" htmlUrl="https://www.spreaker.com/show/malalingua" />
     <outline text="Marco Crepaldi" title="Marco Crepaldi" type="rss" xmlUrl="https://www.spreaker.com/show/4135463/episodes/feed" htmlUrl="https://www.spreaker.com/show/marco-crepaldi" />
     <outline text="More or Less: Behind the Stats" title="More or Less: Behind the Stats" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrss1" />
+    <outline text="Mästerverken i P2" title="Mästerverken i P2" type="rss" xmlUrl="https://api.sr.se/api/rss/pod/itunes/34225" htmlUrl="https://sverigesradio.se/masterverken" />
     <outline text="Nice White Parents" title="Nice White Parents" type="rss" xmlUrl="https://feeds.simplecast.com/Z4wHC1c2" htmlUrl="https://nice-white-parents.simplecast.com" />
     <outline text="Nuntii Latini" title="Nuntii Latini" type="rss" xmlUrl="https://feeds.yle.fi/areena/v1/series/1-1931339.rss?lang=fi" htmlUrl="https://areena.yle.fi/1-1931339" />
     <outline text="Näst sista ordet" title="Näst sista ordet" type="rss" xmlUrl="https://feeds.yle.fi/areena/v1/series/1-50595227.rss" htmlUrl="https://areena.yle.fi/1-50595227" />
