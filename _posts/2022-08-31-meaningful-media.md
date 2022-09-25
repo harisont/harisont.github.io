@@ -42,7 +42,7 @@ Jag har skrivit ner en del dikter som jag vill läsa igen och igen. En av dem he
 
 ### 2. _Such a Lovely Little War: Saigon 1961–63_, by Marcelino Truong (EN)
 A beautifully drawn graphic novel memoir about the Vietnam War, seen through the eyes of the son of a diplomat. 
-As it's often the case, it was my partner [K.]([kappanneo](https://harisont.github.io/kappanneu/)) who found it at the local library, but I was the only one to fully read it.
+As it's often the case, it was my partner [K.](https://harisont.github.io/kappanneu/) who found it at the local library, but I was the only one to fully read it.
 
 ### 3. Some YouTube (EN + SV)
 - [A fun animation on asexuality](https://www.youtube.com/watch?v=qF1DTK4U1AM), by Jaiden Animation
