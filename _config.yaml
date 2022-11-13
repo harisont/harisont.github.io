@@ -19,11 +19,12 @@ minima:
   skin: dark
   date_format: "%-d %B %Y"
   social_links:
-    - { github: harisont }
-    - { stackoverflow: "7729724" }
-    - { telegram: harisont }
-    - { instagram: unottica }
-    - { youtube_channel: UC6fKcYGimkXYd-N5ryesKqw }
+    github: harisont
+    stackoverflow: "7729724"
+    telegram: harisont
+    discord: harisont#4665 # not supposed to work rn
+    instagram: unottica
+    youtube_channel: UC6fKcYGimkXYd-N5ryesKqw
 
 plugins:
   - jekyll-feed
