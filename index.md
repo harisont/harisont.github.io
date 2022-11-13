@@ -14,7 +14,7 @@ After graduating, I stayed and work as a software developer at [Digital Grammars
 Here, I'm finally closing the circle working on developing tools for Computer-Assisted Language Learning.
 
 In my spare time, I enjoy writing both text and code. 
-I have [multilingual blog](blog.md) and a growing number of little [open source projects](https://github.com/harisont). 
+I have [multilingual blog](blog.md) and a growing number of little [open source projects](projects.md). 
 When it comes to programming, I often find Python practical but I'm a lot happier when I get to use Haskell or Kotlin. 
 I've also done and plan on keep doing a lot of photography, a cappella singing and rock climbing. 
 In the future, I dream of making a podcast and master a musical instrument. 
