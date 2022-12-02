@@ -16,4 +16,4 @@ If you don't have a password but think you deserve one, feel free to [contact me
 
 ---
 
-[^1]: it just means "select circles", but in Italian it's clearer that it's ironic
+[^1]: it just means "select circles", but I'm not sure it's clear it's ironic if I write it in English

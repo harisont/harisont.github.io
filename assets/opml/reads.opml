@@ -15,6 +15,7 @@
   <outline type="rss" text="Humans of New York" xmlUrl="https://www.humansofnewyork.com/rss" htmlUrl="https://www.humansofnewyork.com/"/>
   <outline type="rss" text="Inari Listenmaa" xmlUrl="https://inariksit.github.io/feed.xml" htmlUrl="https://inariksit.github.io/"/>
   <outline type="rss" text="Inframethodology" xmlUrl="https://blog.cbs.dk/inframethodology/?feed=rss2" htmlUrl="https://blog.cbs.dk/inframethodology"/>
+  <outline type="rss" text="Internazionale Italia (Essenziale)" xmlUrl="https://www.internazionale.it/sitemaps/rss_italia.xml" htmlUrl="https://www.internazionale.it/tag/paesi/italia"/>
   <outline type="rss" text="Internazionale Opinioni" xmlUrl="https://www.internazionale.it/sitemaps/rss_opinioni.xml" htmlUrl="https://www.internazionale.it/opinioni"/>
   <outline type="rss" text="Internazionale Reportage" xmlUrl="https://www.internazionale.it/sitemaps/rss_reportage.xml" htmlUrl="https://www.internazionale.it/reportage"/>
   <outline type="rss" text="Ivan Talarico" xmlUrl="https://www.ivantalarico.it/feed/" htmlUrl="https://www.ivantalarico.it"/>
@@ -36,6 +37,7 @@
   <outline type="rss" text="Språkbruk" xmlUrl="https://www.sprakbruk.fi/forsta-sidan/-/asset_publisher/9oQQJwdresKq/rss" htmlUrl="https://www.sprakbruk.fi/forsta-sidan"/>
   <outline type="rss" text="Svensk musik på lätt svenska" xmlUrl="https://svemusik.wordpress.com/feed" htmlUrl="https://svemusik.wordpress.com"/>
   <outline type="rss" text="Svenska med Kalle" xmlUrl="https://svenskamedkalle.com/feed" htmlUrl="https://svenskamedkalle.com"/>
+  <outline type="rss" text="Svenska med Kalle" xmlUrl="https://svenskamedkalle.substack.com/feed" htmlUrl="https://svenskamedkalle.substack.com/feed"/>
   <outline type="rss" text="The Conversation (en)" xmlUrl="https://theconversation.com/articles.atom?language=en" htmlUrl="https://theconversation.com"/>
   <outline type="rss" text="The Conversation (es)" xmlUrl="https://theconversation.com/articles.atom?language=es" htmlUrl="https://theconversation.com"/>
   <outline type="rss" text="The Math3ma Institute" xmlUrl="https://math3ma.institute/feed/" htmlUrl="https://math3ma.institute"/>
@@ -43,5 +45,6 @@
   <outline type="rss" text="Vi Hart" xmlUrl="http://vihart.com/feed/" htmlUrl="http://vihart.com"/>
   <outline type="rss" text="Wait But Why" xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com"/>
   <outline type="rss" text="xkcd" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+  <outline type="rss" text="Zerocalcare.it" xmlUrl="http://feeds.feedburner.com/Zerocalcareit" htmlUrl="http://www.zerocalcare.it"/>
 </body>
 </opml>
