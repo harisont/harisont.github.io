@@ -38,27 +38,27 @@ I read the first SSSS book back in 2020 after seeing [this poster](http://www.ss
 Of SSSS, which as a [webcomic](http://www.sssscomic.com/) is freely available online, I like the linguistic trivia, the maps, the character design and the colors (and yet, since I hate reading on computer screens, I read most of it in black and white on my e-reader, and it was again H. who got me the ebooks :)
 These things make the comic worth reading (and re-reading) even if I don't find the story incredibly engaging.
 
-### 6. _I Cento Passi_, un classico di Marco Tullio Giordana
+### 6. _I Cento Passi_, un classico di Marco Tullio Giordana (IT)
 Rivedere questo film in compagnia di H. (e scoprire che no, non contiene [l'omonima canzone dei Modena City Ramblers](https://www.youtube.com/watch?v=KUpcxdg2Iqs)) mi ha fatto uno strano effetto. 
 O meglio, per quanto continui ad apprezzarlo come al liceo, _non_ mi ha fatto lo stesso effetto di allora (e delle successive molte altre visioni). 
 Questa volta, non è riuscito a infondermi nessuna combattività.
 
-### 7. Grotescos _Flyktingkrisen_
+### 7. Grotescos _Flyktingkrisen_ (SV)
 En sak till måste jag tacka H. för. Generellt sett tycker jag inte särskilt mycket om Grotesco, men den här musikalen är på toppnivå. Och kan ses i hela världen på [SVT Play](https://www.svtplay.se/video/e55pbne/grotesco/1-flyktingkrisen-en-musikal). 
 Jag hade aldrig skrattat så mycket på svenska.
 
-### 8. _La Profezia dell'Armadillo_ e _Strappare Lungo i Bordi_ di Zerocalcare
+### 8. _La Profezia dell'Armadillo_ e _Strappare Lungo i Bordi_ di Zerocalcare (IT)
 Ho sentito il bisogno di, rispettivamente, rileggere e rivedere questo fumetto e questa serie animata di Zerocalcare ancora una volta.
 Due rielaborazioni diverse ma ugualmente riuscite di una stessa vicenda autobiografica.
 La capacità di Zerocalcare di sdrammatizzare senza banalizzare è, per me, preziosa ed ispiratrice.
 
-### 9. _La mirada incendiada_, una pelicula chilena dirigida por Tatiana Gaviola
+### 9. _La mirada incendiada_, una pelicula chilena dirigida por Tatiana Gaviola (ES)
 Esta película se proyectó en su idioma original en mi cine favorito de Gotemburgo, el Hagabion, durante el festival [Cine en Español](https://hagabion.se/serie/cine-en-espanol-hosten-2022/).
 Mi colega R. y yo fuimos a verla juntos. 
 Inspirada en unos trágicos acontecimientos que ocurrieron realmente durante la dictadura, me pareció muy bien hecha. 
 Me encantaron las escenas familiares.
 
-### 10. _Native Tongue_, a feminist sci-fi (!) novel by Suzette Haden Elgin that really made me angry
+### 10. _Native Tongue_, a feminist sci-fi (!) novel by Suzette Haden Elgin that really made me angry (EN)
 As always when I read science-fiction, and even more in this particular case with a lot of linguistics involved, the book didn't match my expectations.
 Normally, content I dislike doesn't end up in these blog post, especially if it leaves me "disappointed, but not surprised"[^1], but this isn't the case this time.
 I found this novel not only incredibly slow-paced and uninvolving, but also - and most importantly - conceptually infuriating.
