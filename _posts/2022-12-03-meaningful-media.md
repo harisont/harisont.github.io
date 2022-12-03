@@ -25,8 +25,6 @@ Dialoghi tipograficamente estenuanti, ma da rileggere assolutamente, prima o poi
 
 ### 4. Alcune canzoni di Fabrizio de André a cui non avevo prestato abbastanza attenzione (IT)
 
-![La canzone più ascoltata del 2022 (nonostante io l'abbia riscoperta a fine agosto)](https://harisont.github.io/assets/img/meanigful-media/photo_2022-12-03_01-15-42.jpg)
-
 - [Hotel Supramonte](https://www.youtube.com/watch?v=qYyiUuR8qZA), che ho scoperto a fine estate ed, a quanto pare, ascoltato fin troppe volte
 - [Disamistade](https://www.youtube.com/watch?v=QXAGJCw5rts), che apprezzo soprattutto dal punto di vista dell'arrangiamento e non ho ancora sviscerato del tutto da quello delle parole
 - [Marcia Nuziale](https://www.youtube.com/watch?v=42mYpQHTDnY), una delle tante tradotte dal francese che non riesco a immaginare migliore in originale
@@ -35,7 +33,7 @@ Dialoghi tipograficamente estenuanti, ma da rileggere assolutamente, prima o poi
 ### 5. Books 2 and 3 of _Stand Still Stay Silent_, by the comic artist Minna Sundberg (EN)
 I read the first SSSS book back in 2020 after seeing [this poster](http://www.sssscomic.com/comicimages/thumbs/languagetrees.jpg) at my friend H.'s old place here in Gothenburg:
 
-{% include image.html file="http://www.sssscomic.com/comicimages/thumbs/languagetrees.jpg" description="Minna Sundberg. The Indo-European & Uralic Language Families" %}
+![Minna Sundberg. The Indo-European & Uralic Language Families](http://www.sssscomic.com/comicimages/thumbs/languagetrees.jpg)
 
 Of SSSS, which as a [webcomic](http://www.sssscomic.com/) is freely available online, I like the linguistic trivia, the maps, the character design and the colors (and yet, since I hate reading on computer screens, I read most of it in black and white on my e-reader, and it was again H. who got me the ebooks :)
 These things make the comic worth reading (and re-reading) even if I don't find the story incredibly engaging.
