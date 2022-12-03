@@ -1,6 +1,6 @@
 ---
 title: "Some of the things I read/watched/listened to this Autumn"
-date: 2022-12-04
+date: 2022-12-03
 layout: post
 category: "meaningful-media"
 langs: [it, en, sv, es]
