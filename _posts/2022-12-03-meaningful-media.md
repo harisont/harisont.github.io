@@ -25,7 +25,7 @@ Dialoghi tipograficamente estenuanti, ma da rileggere assolutamente, prima o poi
 
 ### 4. Alcune canzoni di Fabrizio de André a cui non avevo prestato abbastanza attenzione (IT)
 
-- [Hotel Supramonte](https://www.youtube.com/watch?v=qYyiUuR8qZA), che ho scoperto a fine estate ed, a quanto pare, ascoltato fin troppe volte
+- [Hotel Supramonte](https://www.youtube.com/watch?v=qYyiUuR8qZA), che ho scoperto a fine estate ed ascoltato fin troppe volte
 - [Disamistade](https://www.youtube.com/watch?v=QXAGJCw5rts), che apprezzo soprattutto dal punto di vista dell'arrangiamento e non ho ancora sviscerato del tutto da quello delle parole
 - [Marcia Nuziale](https://www.youtube.com/watch?v=42mYpQHTDnY), una delle tante tradotte dal francese che non riesco a immaginare migliore in originale
 - [Amico Fragile](https://www.youtube.com/watch?v=bQpjjObcubw), a mio avviso una delle più dolorose.
