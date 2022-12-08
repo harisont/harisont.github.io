@@ -6,6 +6,7 @@ layout: default
 # Research
 
 I'm currently trying to develop ICALL tools to help learners develop their written production skills.
+A terribly hypothetical text about what I envision has been published in this [Festschrift in honor of Lars Borin](https://gupea.ub.gu.se/handle/2077/74254) (pgg. 103-107).
 
 ## Past projects
 
