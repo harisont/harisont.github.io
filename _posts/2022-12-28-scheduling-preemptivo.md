@@ -110,5 +110,3 @@ e se a leggere provo,<br>
 e questo mi dà ai matti,<br>
 persino mi ritrovo<br>
 disturbata dai gatti.
-
-{% include image.html file="../assets/img/gatti.jpg" description="Briciola fa tutto il possibile per impedirmi di leggere il mio romanzo" %}
