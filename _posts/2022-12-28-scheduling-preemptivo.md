@@ -1,6 +1,6 @@
 ---
-title: "Scheduling preemptivo<br>
-(filastrocca didattico-polemica)"
+title: "Scheduling preemptivo"
+subtitle: "filastrocca didattico-polemica"
 date: 2022-12-28
 layout: post
 category: giornate-rimate
