@@ -71,18 +71,18 @@ che merita attenzione:<br>
 quella di _prelazione_.<br>
 Ne dò definizione:
 
-In _scheduling preemptivo_,<br>
+In _scheduling preemptivo_<br>
 può essere stoppato<br> 
 ogni processo attivo<br>
 se un altro è diventato
 
 più adatto all'occasione.<br>
 come se la vecchietta,<br>
-non senza presunzione<br>
+non senza presunzione,<br>
 venisse in tutta fretta
 
 mentre già stai pagando<br>
-a prendere il tuo posto<br>
+a prendere il tuo posto,<br>
 lasciandoti aspettando.<br>
 Non ridere, piuttosto
 
@@ -91,13 +91,13 @@ col Natale in famiglia<br>
 semmai ti cimentassi.<br>
 Madre, nipote o figlia
 
-Fa poca differenza:<br>
+fa poca differenza:<br>
 qui sempre si è interrotti,<br>
 c'è sempre qualche urgenza.<br>
 Per sette giorni e rotti
 
 di uscir non si è parlato,<br>
-nemmeno a far la spesa,<br>
+nemmeno a far la spesa<br>
 (e aver immaginato<br>
 una giornata spesa
 
@@ -107,6 +107,6 @@ aver non si è potuta<br>
 in questa situazione
 
 e se a leggere provo,<br>
-e questo mi dà ai matti,<br>
+e roba proprio da matti,<br>
 persino mi ritrovo<br>
 disturbata dai gatti.
