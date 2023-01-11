@@ -38,7 +38,7 @@ Le persone che spero di raggiungere con questo progetto sono, nell'ordine:
 ## Il tuo parere è importante, chiunque tu sia!
 Se appartieni ad una qualsiasi delle categorie di cui sopra, ti chiedo di aiutarmi in questa fase preliminare del progetto.
 
-Cliccando [qui]() 
+Cliccando [qui](lista_argomenti.md), 
 
 ## Note
 ¹ L'esperimento con il corso di Haskell e il livello di astrazione al quale voglio trattare gli argomenti mi portano ad escludere YouTube: il video era utile per mostrare il codice mentre lo scrivevo, mentre in questo caso l'aspetto visivo è meno rilevante e, comunque, me ne sono resa conto, noiosetto da curare.
