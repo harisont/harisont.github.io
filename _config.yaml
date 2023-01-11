@@ -1,12 +1,13 @@
-title: Hari's online
+title: Harisonline
 author: 
   name: Arianna Masciolini
   email: arianna.masciolini@gmail.com
 description: > 
-  A chaotically multilingual blog by Arianna Masciolini
+  harisont's personal website and chaotically multilingual blog
 
 header_pages:
-  - about.md
+  - blog.md
+  - research.md
   - projects.md
   - for_a_selected_few.md
 
@@ -18,12 +19,11 @@ minima:
   skin: dark
   date_format: "%-d %B %Y"
   social_links:
-    github: harisont
-    stackoverflow: "7729724"
-    telegram: harisont
-    discord: harisont#4665 # not supposed to work rn
-    instagram: unottica
-    youtube_channel: UC6fKcYGimkXYd-N5ryesKqw
+    - { platform: github, user_url: https://github.com/harisont }
+    - { platform: stackoverflow, user_url: https://stackoverflow.com/users/7729724/harisont }
+    - { platform: instagram, user_url: https://www.instagram.com/unottica/ }
+    - { platform: youtube, user_url: https://www.youtube.com/c/ImparalHaskellemettilodaparte }
+    - { platform: rss, user_url: https://harisont.github.io/feed.xml}
 
 plugins:
   - jekyll-feed

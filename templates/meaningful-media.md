@@ -3,6 +3,7 @@ title: "TODO: adjective things I read/watched/listened to this month (TODO: mont
 date: TODO: date
 layout: post
 category: "meaningful-media"
+langs: [TODO: langs]
 ---
 
 TODO: intro

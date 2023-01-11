@@ -1,6 +1,8 @@
 ---
 title: "Cosa significa RSS e perché è una tecnologia che dovremmo continuare ad utilizzare"
 layout: post
+category: l-informatico-di-famiglia
+langs: ["en", "it"]
 ---
 
 ###### __[in inglese](https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html) - [testo parallelo](https://harisont.github.io/parallel_texts/rss.html)__
@@ -10,7 +12,7 @@ Hai provato a cliccare il bottone "Subscribe" che si trova in fondo a questa pag
 Sei già convinto che l'RSS sia una tecnologia del web 1.0 che merita più attenzione e vuoi saperne di più? Anche tu sei finito nel posto giusto.
 
 ## Cosa significa RSS
-Come puoi certamente immaginare, RSS è un acronimo. Ho sempre pensato che stesse per Really Simple Syndication ("Diffusione Molto Semplice", all'incirca), che è abbastanza oscuro, ma facendo qualche ricerca per questo post mi sono imbattuta in altri due possibili significati: RDF[¹](#note) Site Summary and Rich Site Summary ("sunto arricchito del sito", o qualcosa del genere).
+Come puoi certamente immaginare, RSS è un acronimo. Ho sempre pensato che stesse per Really Simple Syndication ("Diffusione Molto Semplice", all'incirca), che è abbastanza oscuro, ma facendo qualche ricerca per questo post mi sono imbattuta in altri due possibili significati: RDF[^1] Site Summary and Rich Site Summary ("sunto arricchito del sito", o qualcosa del genere).
 Quest'ultima è probabilmente quella di più semplice comprensione: l'acronimo "RSS" indica qualcosa (per l'esattezza, un file di testo, spesso chiamato _feed_, in un formato standard e _machine-readable_, cioè strutturato per l'elaborazione automatica) che riassume i contenuti di un certo sito web.
 
 Se mai ti è capitato di aprire un feed RSS (puoi provarci [anche adesso](https://harisont.github.io/feed.xml)), avrai già notato che il fatto che un file sia machine-readable non garantisce affatto la sua human-readability, cioè la sua leggibilità per gli umani. E, in effetti, nessuno si aspetta che noi _leggiamo_ direttamente un feed RSS: ci basterà _iscriverci_ e chiedere ad un programma (un _feed reader_, per l'appunto) di presentarci i suoi contenuti in un formato più accessibile.
@@ -33,7 +35,7 @@ Questa, di per sè, era già una minaccia per una tecnologia come l'RSS, e non a
 2. La stragrande maggioranza dei social raccoglierà quanti più dati possibile su di te per poi mostrarti inserzioni pubblicitarie personalizzate. I feed RSS, al contrario, non sono materialmente in grado di tracciarti e raramente contengono pubblicità.
 
 ### Consigliati per te!
-Purtroppo, non è tutto qui: i social network sono stati seguiti a ruota dai _recommender system_. Un recommender system (letteralmente "sistema di raccomandazione") è un programma che crede di sapere a quali contenuti sei interessato e li seleziona al posto tuo. Ormai, molti recommender system fanno il loro lavoro piuttosto bene (per esempio, apprezzo molto quello di YouTube e di recente ho creato [una playlist di musica anni '50 con l'aiuto dell'intelligenza artificiale di Spotify](https://open.spotify.com/playlist/5qqrqrJudIowWBV3MIvp3D?si=b4cc1719edc04540)). Questo perché sempre più spesso sono basati su Machine Learning ("apprendimento automatico"): in poche parole, imparano _da te_ e da quel che fai quando li utilizzi. Se il termine "recommender system" continua a suonarti poco familiare, prova a rileggere questo paragrafo rimpiazzandolo mentalmente con il più comunemente usato "Algoritmo"[²](#note).
+Purtroppo, non è tutto qui: i social network sono stati seguiti a ruota dai _recommender system_. Un recommender system (letteralmente "sistema di raccomandazione") è un programma che crede di sapere a quali contenuti sei interessato e li seleziona al posto tuo. Ormai, molti recommender system fanno il loro lavoro piuttosto bene (per esempio, apprezzo molto quello di YouTube e di recente ho creato [una playlist di musica anni '50 con l'aiuto dell'intelligenza artificiale di Spotify](https://open.spotify.com/playlist/5qqrqrJudIowWBV3MIvp3D?si=b4cc1719edc04540)). Questo perché sempre più spesso sono basati su Machine Learning ("apprendimento automatico"): in poche parole, imparano _da te_ e da quel che fai quando li utilizzi. Se il termine "recommender system" continua a suonarti poco familiare, prova a rileggere questo paragrafo rimpiazzandolo mentalmente con il più comunemente usato "Algoritmo"[^2].
 
 Non sono contraria ai recommender system (e, ovviamente, non posso essere contraria agli algoritmi!), ma penso che debbano essere utilizzati responsabilmente e, preferibilmente, _assieme_ ad altri modi di accedere alle informazioni. In particolare, credo vadano tenute a mente le seguenti controindicazioni:
 
@@ -152,6 +154,6 @@ Se sei curioso di sapere cosa leggo e ascolto, ecco i miei due file OPML:
 - Nicky Case, [_Back to the Future with RSS!_](https://blog.ncase.me/back-to-the-future-with-rss/)
 
 ## Note
-¹ Resource Description Framework. Eh già, un altro acronimo...
+[^1]: Resource Description Framework. Eh già, un altro acronimo...
 
-² Noto una tendenza ad utilizzare il termine "algoritmo" in modo improprio, con la conseguenza che molta gente pensa che gli algoritmi _siano_ i recommender system dei social network. In realtà, gli algoritmi che vengono usati nei recommender system sono solo una piccolissima parte dell'enorme moltitudine di algoritmi esistenti. Algoritmi che includono, tra le altre cose, le ricette di cucina e le routine mattutine.
+[^2]: Noto una tendenza ad utilizzare il termine "algoritmo" in modo improprio, con la conseguenza che molta gente pensa che gli algoritmi _siano_ i recommender system dei social network. In realtà, gli algoritmi che vengono usati nei recommender system sono solo una piccolissima parte dell'enorme moltitudine di algoritmi esistenti. Algoritmi che includono, tra le altre cose, le ricette di cucina e le routine mattutine.

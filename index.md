@@ -1,16 +1,28 @@
 ---
-title: Ciao, hi, hej and hola
+title: Arianna Masciolini
+layout: default
 ---
 
-Hi and welcome to my chaotically multilingual blog! 
+## ¡Ciao, hi, hej and hola!
+My name is __Arianna Masciolini__, on the internet __harisont__.
 
-Parlo __italiano__ come prima lingua, I find it easiest to write technical texts in __English__, jag bor i Göteborg och försöker hela tiden förbättra min __svenska__, pero el idioma que me hace sentir más feliz siempre ha sido el __español__. 
+I've always been really into language(s) and education, but after graduating from a humanities-oriented high school I decided to ~~torture~~ challenge myself and study Computer Science at the local university in my hometown, Perugia. 
+Against all odds, I ended up getting my Bachelor's degree and actually loving the subject, but a course called Formal Languages and Compilers reminded me of my love for language and all of a sudden I found myself in Gothenburg specializing in Computational Linguistics.
+During that time, I developed a particular interest for grammar engineering, dependency parsing and dialogue systems.
 
-Even though my [Master's thesis](https://github.com/harisont/concept-alignment) was in Machine Translation, I like translating stuff myself too, and it is my ambition to write all the content of this blog in English + 1 (as a side effect, that would make a nice set of parallel texts). But more realistically, get ready for a bunch of texts in broken `*ish`¹ where the language is chosen based on topic and audience but also less sensible factors such as mood, place and time of writing.
+After graduating, I stayed and work as a software developer at [Digital Grammars](https://www.digitalgrammars.com/), but a year later I went back to university, where I'm currently employed as a PhD student in Language Technology at [Språkbanken Text](https://spraakbanken.gu.se/).
+Here, I'm finally closing the circle working on developing tools for Computer-Assisted Language Learning.
 
-Noticed a _strafalcione_² in something I've written? You're welcome to fix it and open a [pull request](https://github.com/harisont/harisont.github.io)!
+In my spare time, I enjoy writing both text and code. 
+I have [multilingual blog](blog.md) and a growing number of little [open source projects](projects.md#software). 
+When it comes to programming, I often find Python practical but I'm a lot happier when I get to use Haskell or Kotlin. 
+I've also done and plan on keep doing a lot of photography, a cappella singing and rock climbing. 
+In the future, I dream of making a podcast and master a musical instrument. 
 
----
+Unlike most other nerds, I generally dislike video games, TV series, and RPGs, but I can get very enthusiastic about books and comics of any kind, board games that don't take hours to play and all human-powered vehicles with wheels.
 
-¹ the only language whose name doesn't end in -ish should be alright, I hope. <br>
-² a very, very bad grammatical error or conceptual mistake.
+### Practicalities
+
+- __preferred communication channel__: [email](mailto:arianna.masciolini@gmail.com). That applies even if you have my phone number
+- __pronouns__: she/her, but I'll be fine with whatever is singular animate
+- __curriculum vitae__: [download the PDF](https://github.com/harisont/cv/raw/master/cv.pdf)
