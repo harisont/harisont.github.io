@@ -1,5 +1,6 @@
 ---
 title: Personal projects
+layout: post
 ---
 
 # Personal projects

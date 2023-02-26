@@ -1,5 +1,6 @@
 ---
 title: For a selected few
+layout: post
 ---
 
 # For a selected few
