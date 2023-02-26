@@ -88,7 +88,7 @@ This was my best attempt:
 
 <audio
     controls
-    src="assets/audio/poetry_slamming_with_chatgtp/first_draft.mp3">
+    src="https://github.com/harisont/harisont.github.io/raw/main/assets/audio/poetry_slamming_with_chatgtp/first_draft.mp3">
 </audio>
 
 Disregard my mispronounciation of the word _pursue_. Even without that, this doesn't sound like anything more than a first draft.
@@ -212,7 +212,7 @@ Well, thanks ChatGTP! To be fair, your poem was already pretty effective, but I 
 
 <audio
     controls
-    src="assets/audio/poetry_slamming_with_chatgtp/final.mp3">
+    src="https://github.com/harisont/harisont.github.io/raw/main/assets/audio/poetry_slamming_with_chatgtp/final.mp3">
 </audio>
 
 But there was one more question I needed to ask ChatGTP:
