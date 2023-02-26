@@ -3,6 +3,8 @@ title: For a selected few
 layout: base
 ---
 
+# For a selected few
+
 If you a member of one of my _ristretti circoli_[^1], I might have given you a password. 
 Choose the relevant circle and follow the corresponding link to access what I told you I was going to give you access to.
 
