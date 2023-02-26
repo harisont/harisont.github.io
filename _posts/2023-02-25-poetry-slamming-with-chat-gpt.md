@@ -1,39 +1,100 @@
-What is the difference between conference and journal publications?
+---
+title: "Poetry slamming with ChatGTP"
+author: ChatGPT & Arianna Masciolini
+date: 2023-02-25
+layout: post
+category: giornate-rimate
+langs: ["en"]
+---
 
-Conference and journal publications are both important ways to share research findings with a wider audience, but there are some key differences between the two.
+As every aspiring computational linguist on this planet, I've been playing with ChatGTP.
+While I'm not tremendously impressed with ChatGTP's answers on any slightly-less-than-straightforward questions with verifiable answers, asking it to do something that requires some creativity occasionally results in a display of a mixture of genuinely fun ideas and absolute incapacity to make good use of any of them in a coherent text.
+So, I decided we should try to cooperate on writing a silly poem like the ones I sometimes post on this blog.
+The result is what you see here below:
 
-A conference publication is typically a paper or abstract that is presented at a conference or other academic event. Conference publications are usually shorter and more concise than journal articles, and may be more focused on preliminary findings or work in progress. Conference papers are often presented in a brief presentation or poster session, and the author may have the opportunity to discuss their work with other attendees.
+### Navigating the Academic Landscape: Choosing Between Conference and Journal Papers
+Conference or journal, which way to go?<br>
+Let's see the differences, row after row.
 
-In contrast, a journal publication is a more in-depth and polished version of a research study that has been submitted and accepted for publication in a peer-reviewed journal. Journal articles are typically longer and more detailed than conference papers, and may be subject to more rigorous review and editing processes. Journal articles also tend to be more permanent and widely available than conference papers, as they are typically published online and/or in print and are often indexed by scholarly databases for easy access and citation.
+A conference paper is short and concise,<br>
+Meant for the event, with less time to revise.<br>
+With results preliminary, work sill ongoing,<br>
+It gives you a chance for networking and showing.
 
-Another key difference between conference and journal publications is the time frame in which they are published. Conference papers are often presented at events that occur on a specific date, while journal articles can be submitted and published at any time, and can be read and cited by scholars years after their initial publication.
+What lands on a journal's in-depth and refined,<br>
+Detailed and polished, with printing in mind.<br>
+It's subject to long reviews, usually blind,<br>
+And ends up more visible, easier to find.
 
-In summary, conference publications are shorter, more preliminary versions of research findings that are presented at academic events, while journal publications are more polished, detailed, and permanent versions of research studies that have been submitted and accepted for publication in a peer-reviewed journal.
-uzkamascio@gmail.com
-Give me that same answers in rhymes
+So, conference or journal, which one to go for?<br>
+Choosing's on you now that you know more.<br>
+Both are of value in their own unique way,<br>
+So just pick the one that fits best today.
 
-Conference or journal, which way to go?
-Let's see the differences, rhyme by rhyme, row by row.
 
-A conference publication is short and concise,
-Presented at events with less time to revise.
-It may be preliminary or work in progress,
-But it's a chance to network and discuss.
+## The process
+It all started with a relatively straightforward question I decided to ask ChatGTP:
 
-A journal article is in-depth and refined,
-Polished and detailed with a more permanent design.
-It's subject to rigorous review and editing,
-And widely available for scholars' reading.
+> __harisont:__ What is the difference between conference and journal publications?
 
-Conference papers are presented at a specific time,
-While journal articles can be read years down the line.
-The former may be more focused on preliminary finds,
-While the latter presents more developed designs.
+As expected, I got one of ChatGPT's typical long, plain, but otherwise fine answers:
 
-So, conference or journal, which one to choose?
-It depends on the study and the path you want to pursue.
-Both are valuable in their unique way,
-So choose the one that fits best today.
+> __ChatGTP:__ Conference and journal publications are both important ways to share research findings with a wider audience, but there are some key differences between the two.
+>
+> A conference publication is typically a paper or abstract that is presented at a conference or other academic event. Conference publications are usually shorter and more concise than journal articles, and may be more focused on preliminary findings or work in progress. Conference papers are often presented in a brief presentation or poster session, and the author may have the opportunity to discuss their work with other attendees.
+>
+>In contrast, a journal publication is a more in-depth and polished version of a research study that has been submitted and accepted for publication in a peer-reviewed journal. Journal articles are typically longer and more detailed than conference papers, and may be subject to more rigorous review and editing processes. Journal articles also tend to be more permanent and widely available than conference papers, as they are typically published online and/or in print and are often indexed by scholarly databases for easy access and citation.
+>
+>Another key difference between conference and journal publications is the time frame in which they are published. Conference papers are often presented at events that occur on a specific date, while journal articles can be submitted and published at any time, and can be read and cited by scholars years after their initial publication.
+>
+>In summary, conference publications are shorter, more preliminary versions of research findings that are presented at academic events, while journal publications are more polished, detailed, and permanent versions of research studies that have been submitted and accepted for publication in a peer-reviewed journal.
+
+At this point, I asked ChatGTP to give me the same answer in rhymes, and it produced this:
+
+> __ChatGTP:__ <br>
+> Conference or journal, which way to go?<br>
+> Let's see the differences, rhyme by rhyme, row by row.<br>
+> 
+> A conference publication is short and concise,<br>
+> Presented at events with less time to revise.<br>
+> It may be preliminary or work in progress,<br>
+> But it's a chance to network and discuss.
+> 
+> A journal article is in-depth and refined,<br>
+> Polished and detailed with a more permanent design.<br>
+> It's subject to rigorous review and editing,<br>
+> And widely available for scholars' reading.
+> 
+> Conference papers are presented at a specific time,<br>
+> While journal articles can be read years down the line.<br>
+> The former may be more focused on preliminary finds,<br>
+> While the latter presents more developed designs.
+> 
+> So, conference or journal, which one to choose?<br>
+> It depends on the study and the path you want to pursue.<br>
+> Both are valuable in their unique way,<br>
+> So choose the one that fits best today.
+
+It's not _very_ good, but it's not _too_ bad either. <br>
+The second verse is too long, but other than that I quite like the opening.
+The meaning, and even the structure, of the answer in prose is more or less preserved.
+There is some actual rhyming, some things that look like rhyming (cf. _progress/discuss_), and some other that sound more or less the same (cf. _choose/pursue_).
+The division into stanzas is perfectly logical, and I even like that equal space is given to defining conference papers and journal articles. 
+The fourth stanza seems a bit useless, but the closing, apart from another disproportionately long verse, is cool, especially the part where ChatGPT addresses the reader.
+
+The main problem is the metric. 
+The poem _looks_ like something that should have some rhythm to it, but even if I tried to read it out loud as best as I could, but there's no way I can make it work. 
+This is my best attempt:
+
+<audio
+    controls
+    src="TODO:">
+</audio>
+
+
+---
+
+
 uzkamascio@gmail.com
 I think the second verse is too long. Can you remove "rhyme by rhyme"?
 
