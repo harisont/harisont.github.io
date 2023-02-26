@@ -1,6 +1,6 @@
 ---
 title: Personal projects
-layout: post
+layout: base
 ---
 
 ## Software

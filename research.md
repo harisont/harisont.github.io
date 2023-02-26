@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: post
+layout: base
 ---
 
 I'm currently trying to develop ICALL tools to help learners develop their written production skills.

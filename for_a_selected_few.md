@@ -1,6 +1,6 @@
 ---
 title: For a selected few
-layout: post
+layout: base
 ---
 
 If you a member of one of my _ristretti circoli_[^1], I might have given you a password. 

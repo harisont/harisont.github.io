@@ -1,6 +1,6 @@
 ---
 title: Arianna Masciolini
-layout: post
+layout: base
 ---
 
 ### ¡Ciao, hi, hej and hola!
