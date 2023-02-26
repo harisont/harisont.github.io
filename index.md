@@ -3,7 +3,7 @@ title: Arianna Masciolini
 layout: post
 ---
 
-## ¡Ciao, hi, hej and hola!
+### ¡Ciao, hi, hej and hola!
 My name is __Arianna Masciolini__, on the internet __harisont__.
 
 I've always been really into language(s) and education, but after graduating from a humanities-oriented high school I decided to ~~torture~~ challenge myself and study Computer Science at the local university in my hometown, Perugia. 
