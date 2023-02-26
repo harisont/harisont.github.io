@@ -1,6 +1,5 @@
 ---
 title: Blog
-layout: blog
 ---
 
 Hi and welcome to my chaotically multilingual blog! 

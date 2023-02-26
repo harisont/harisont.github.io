@@ -1,6 +1,5 @@
 ---
 title: For a selected few
-layout: default
 ---
 
 # For a selected few
