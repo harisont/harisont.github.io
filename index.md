@@ -1,5 +1,6 @@
 ---
 title: Arianna Masciolini
+layout: post
 ---
 
 ## ¡Ciao, hi, hej and hola!
