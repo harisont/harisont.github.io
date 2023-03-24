@@ -3,14 +3,17 @@ title: Research
 layout: base
 ---
 
-# Research
-
 I'm currently doing a PhD in Language Technology at [Språkbanken Text](https://spraakbanken.gu.se/) ([University of Gothenburg](https://www.gu.se/)), where I'm supervised by [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
 
 My main area of interest is __Computer-Assisted Language Learning__, with a focus on __L2 grammar acquisition__.
 I'm currently working on developing tools to analyze grammatical error patterns in learner corpora. 
 
 I am very enthusiastic about interlingual approaches and particularly enjoy working with [Universal Dependencies](https://universaldependencies.org/) and [Grammatical Framework](grammaticalframework.org/).
+
+## Links
+- acedemic email: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
+- [curriculum vitae](https://github.com/harisont/cv/raw/master/cv.pdf)
+- [academic page](https://spraakbanken.gu.se/om/personal/arianna)
 
 ## Publications
 - __Arianna Masciolini__. _A query engine for L1-L2 parallel dependency treebanks_. In The 24rd Nordic Conference on Computational Linguistics, 2023 [[code]](https://github.com/harisont/L2-UD)
