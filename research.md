@@ -19,6 +19,6 @@ I am very enthusiastic about interlingual approaches and particularly enjoy work
 
 ## Talks
 - _A gentle introduction to argument mining_. Joint seminar with Anna Lindahl, Ricardo Muñoz Sánchez and Stian Rødven-Eide. Presented at [CLASP](https://gu-clasp.github.io/events/seminars/2022-10-21/) on October 21, 2022 [[slides]](https://rimusa.github.io/documents/presentations/A%20gentle%20introduction%20to%20argument%20mining.pdf)
-- _Grammar-based concept alignment for domain-specific Machine Translation_. Presented at the [Seventh International Workshop on Controlled Natural Language (CNL 2020/21)](http://www.sigcnl.org/cnl2020.html) on September 8, 2021 [[slides]](https://github.com/harisont/concept-alignment/blob/master/paper/slides/presentation.pdf)
+- _Grammar-based concept alignment for domain-specific Machine Translation_. Presented at the [Seventh International Workshop on Controlled Natural Language (CNL 2020/21)](http://www.sigcnl.org/cnl2020.html) on September 8, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/paper/slides/presentation.pdf)
 - _Concept Alignment for Multilingual
 Machine Translation_. Presented at the [Seventh GF Summer School 2021](http://school.grammaticalframework.org/2021/) on August 4, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/summer-school/presentation.pdf) [[video]](https://youtu.be/h2GR7RbghnE?t=4104)
