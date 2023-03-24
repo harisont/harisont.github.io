@@ -10,7 +10,7 @@ I've always been really into language(s) and education, but after graduating fro
 Against all odds, I ended up getting my Bachelor's degree and actually loving the subject, but a course called Formal Languages and Compilers reminded me of my love for language and all of a sudden I found myself in Gothenburg specializing in Computational Linguistics.
 During that time, I developed a particular interest for grammar engineering, dependency parsing and dialogue systems.
 
-After graduating, I stayed and work as a software developer at [Digital Grammars](https://www.digitalgrammars.com/), but a year later I went back to university, where I'm currently employed as a PhD student in Language Technology at [Språkbanken Text](https://spraakbanken.gu.se/).
+After graduating, I stayed and worked as a software developer at [Digital Grammars](https://www.digitalgrammars.com/), but a year later I went back to university, where I'm currently employed as a PhD student in Language Technology at [Språkbanken Text](https://spraakbanken.gu.se/).
 Here, I'm finally closing the circle working on developing tools for Computer-Assisted Language Learning.
 
 In my spare time, I enjoy writing both text and code. 
