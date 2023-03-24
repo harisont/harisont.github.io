@@ -1,6 +1,6 @@
 ---
 title: Personal projects
-layout: default
+layout: base
 ---
 
 # Personal projects

@@ -3,6 +3,8 @@ title: Blog
 layout: blog
 ---
 
+# Blog
+
 Hi and welcome to my chaotically multilingual blog! 
 
 Parlo __italiano__ come prima lingua, I find it easiest to write technical texts in __English__, jag bor i Göteborg och försöker hela tiden förbättra min __svenska__, pero el idioma que me hace sentir más feliz siempre ha sido el __español__. 
