@@ -17,8 +17,8 @@ I am very enthusiastic about interlingual approaches and particularly enjoy work
 
 ## Publications
 - __Arianna Masciolini__. _A query engine for L1-L2 parallel dependency treebanks_. In The 24rd Nordic Conference on Computational Linguistics, 2023 [[code]](https://github.com/harisont/L2-UD)
-- __Arianna Masciolini__. _Building a multilingual AWE tool for L2 learners: challenges and ideas_. In LIVE and LEARN-Festschrift in honor of Lars Borin, 2022 [[pdf]](../assets/bibtex/lars.bib)
-- __Arianna Masciolini__ and Aarne Ranta. _Grammar-based concept alignment for domain-specific Machine Translation_. In Proceedings of the Seventh International Workshop on Controlled Natural Language (CNL 2020/21), 2021 [[pdf]](https://aclanthology.org/2021.cnl-1.2.pdf) [[bibtex]](../assets/bibtex/ca.bib) [[code]](https://github.com/harisont/concept-alignment) 
+- __Arianna Masciolini__. _Building a multilingual AWE tool for L2 learners: challenges and ideas_. In LIVE and LEARN-Festschrift in honor of Lars Borin, 2022 [[pdf]](https://gupea.ub.gu.se/bitstream/handle/2077/74254/GU-ISS-2022-03%20Lars%20Borin%20Festskrift%20Digital%20publicering%20221121.pdf?sequence=1) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/lars.bib)
+- __Arianna Masciolini__ and Aarne Ranta. _Grammar-based concept alignment for domain-specific Machine Translation_. In Proceedings of the Seventh International Workshop on Controlled Natural Language (CNL 2020/21), 2021 [[pdf]](https://aclanthology.org/2021.cnl-1.2.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/ca.bib) [[code]](https://github.com/harisont/concept-alignment) 
 
 ## Talks
 - _A gentle introduction to argument mining_. Joint seminar with Anna Lindahl, Ricardo Muñoz Sánchez and Stian Rødven-Eide. Presented at [CLASP](https://gu-clasp.github.io/events/seminars/2022-10-21/) on October 21, 2022 [[slides]](https://rimusa.github.io/documents/presentations/A%20gentle%20introduction%20to%20argument%20mining.pdf)
