@@ -8,7 +8,7 @@ I'm currently doing a PhD in Language Technology at [Språkbanken Text](https://
 My main area of interest is __Computer-Assisted Language Learning__, with a focus on __L2 grammar acquisition__.
 I'm currently working on developing tools to analyze grammatical error patterns in learner corpora. 
 
-I am very enthusiastic about interlingual approaches and particularly enjoy working with [Universal Dependencies](https://universaldependencies.org/) and [Grammatical Framework](grammaticalframework.org/).
+I am very enthusiastic about interlingual approaches and particularly enjoy working with [Universal Dependencies](https://universaldependencies.org/) and [Grammatical Framework](https://www.grammaticalframework.org/).
 
 ## Links
 - acedemic email: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
