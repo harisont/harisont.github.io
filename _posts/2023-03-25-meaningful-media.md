@@ -3,7 +3,7 @@ title: "Winter favorites"
 date: 2023-03-25
 layout: post
 category: "meaningful-media"
-langs: [en, it, sv]
+langs: [en, it, sv, pt]
 ---
 
 ## Music
@@ -32,3 +32,8 @@ I video piú memorabili dell'ultimo periodo provengono tutti e quattro da divulg
 - [l'Elogio del parlare male alle spalle di Roberto Mercadini](https://www.youtube.com/watch?v=OdU_NQ4XuIg) (un monologo comico-filosofico, piú che strettamente divulgativo)
 - due video di Barbascura X sulle riviste predatorie: qui [il primo](https://youtu.be/eLJZGC9qrD8), qui [il secondo](https://youtu.be/CGjksFPdW0M).
 
+## Podcasts
+Some nice podcast episodes, none of which are in English, in no particular order:
+
+- [l'episodio del Breaking Italy Night con Immanuel Casto](https://www.spreaker.com/user/breakingitaly/bip-2022-ep01-mp3): sono stata una grande fan del Breaking Italy Podcast degli inizi. Il tono degli episodi piú recenti, che sono registrati in teatro, é secondo me un po' cambiato, ma questa intervista in particolare é molto riuscita. Immanuel Casto, che nemmeno conoscevo, é un personaggio vulcanico, che ha risposto a domande sui temi piú disparati con grande intelligenza e lucidità. Ho trovato la sua visione del mondo in larga parte condivisibile, ma soprattutto interessante dal punto di vista argomentativo
+- [este episodio de Fala Gringo, um audiodocumental sobre Ilha do Ferro](https://falagringopodcast.com/2022/10/23/4-15-ilha-do-ferro-uma-viagem-no-sertao-nordestino-2/). Meu portuges é bastante limitado e casi tudo o que eu aprendi esta debido a este podcast. Este episodio é
