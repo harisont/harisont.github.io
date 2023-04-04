@@ -30,5 +30,5 @@ I really, really, _really_ hate phone calls, but I always answer [email](mailto:
 ---
 
 [^1]: Morphological features in order of perceived importance. Click [here](https://universaldependencies.org/u/feat/index.html) if you need a hint
-[^2]: [Swedish]: _sam_ ("with") + _bo_ ("live") = cohabitating partner
-[^3]: [Italian]: feminine form of the word _dottorando_ ("PhD student"), at least according to my mom. I suspect there is some irony involved.
+[^2]: [Swedish] _sam_ ("with") + _bo_ ("live") = cohabitating partner
+[^3]: [Italian] feminine form of the word _dottorando_ ("PhD student"), at least according to my mom. I suspect there is some irony involved.
