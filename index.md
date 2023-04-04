@@ -4,18 +4,31 @@ layout: base
 ---
 
 ### ¡Ciao, hi, hej and hola!
-My name is __Arianna Masciolini__, on the internet __harisont__.
-People address me as she/her, but my only preference is for singular animate pronouns. 
+My name is Arianna, I'm an aspiring computational linguist and my pronouns are `PronType=Prs|Number=Sing|Gender=Fem`[^1].
 
-I've always been really into language(s) and education, but after graduating from a heavily humanities-oriented high school I decided to ~~torture~~ challenge myself and study Computer Science at the local university in my hometown, Perugia. 
-Against all odds, I ended up getting my Bachelor's degree and actually loving the subject, but a course called Formal Languages and Compilers reminded me of my love for language and all of a sudden I was in Gothenburg specializing in Computational Linguistics.
-After graduating, I decided to stay and work as a software developer at [Digital Grammars](https://www.digitalgrammars.com/), my Master's thesis supervisor's language technology company. 
-That was a lot of fun, but a year later I went back to university, where I'm currently employed as a PhD student in Language Technology at [Språkbanken Text](https://spraakbanken.gu.se/).
-Here, I'm finally closing the circle working with Computer-Assisted Language Learning.
 
-When I'm not [working](research.md), I enjoy writing even more text and even more code. 
-I have [multilingual blog](blog.md) and a growing number of little [open source projects](projects.md#software). 
-There's a lot of a cappella singing in my past and I'd love to make a popular science podcast in the future.
-I'm also really into [photography](projects.md#photography), reading, weird animated movies, board games, rock climbing and all sorts of human-powered wheeled vehicles. 
+### Long story short
+I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.1399/12.3691) thinking I was good at learning languages but very bad at counting.
+Nonetheless, after high school I figured I'd ~~torture~~ challenge myself and study Computer Science.
+Against all odds, mostly thanks to [great company](https://github.com/orgs/dis-org/people), I managed to get a Bachelor's degree and fall in love with the subject in the meantime.
+I re-discovered language by taking a course about compilers and suddenly found myself in [Gothenburg](https://www.openstreetmap.org/node/25930131) together with my [then-_sambo_ K.](https://harisont.github.io/kappanneu/)[^2], studying Language Technology. Immediately after that, I spent some months working at a local language technology company, [Digital Grammars](https://www.digitalgrammars.com/). Despite that being a lot of fun, I soon went back to university, where I'm currently a _dottorandessa_[^3] at [Språkbanken Text](https://spraakbanken.gu.se/).
 
-I tend to hate video games, TV series and phone calls, so please [email me instead](mailto:arianna.masciolini@gmail.com)!
+### Stuff I do, did, will and don't
+When I'm not writing [papers](research.md#publications), I scribble [random blog posts and silly rhymes](blog.md) in various languages.<br>
+When I'm not working on my [PhD project software](https://github.com/harisont/L2-UD), I try to maintain a number of more-or-less useless [open source tools](projects.md#software).<br>
+When I'm not teaching in a classroom, I procrastinate on completing my [basic Haskell online course](projects.md#tutorials). 
+
+Following a bad breakup with [a cappella singing](https://www.youtube.com/watch?v=FaMoZsXScj0), I've had a series of on-and-off, noncommittal affairs with various wind instruments and struggle with a love-hate relationship with music in general.
+On the other hand, I'm still on pretty good terms with my first love, [photography](projects.md#photography) and have a crush on podcasting.
+
+I can't play videogames, but I take certain board games very seriously.<br>
+Team sports make me cry, but I really love running, rock climbing and all sorts of human-powered wheeled vehicles.
+I can't stand fantasy, but I welcome tips about books and comics within any other genre.
+I never lasted longer than six episodes of a TV series, but I'm always up for a good movie (even more so if it's animated and weird).
+I really, really, _really_ hate phone calls, but you are always welcome to [email me](mailto:arianna.masciolini@gmail.com).
+
+---
+
+[^1]: Morphological features in order of importance. Click [here](https://universaldependencies.org/u/feat/index.html) if you need a hint
+[^2]: [Swedish]: _sam_ ("with") + _bo_ ("live") = cohabitating partner
+[^3]: [Italian]: feminine form of the word _dottorando_ ("PhD student"), at least according to my mom. I suspect there is some irony involved.
