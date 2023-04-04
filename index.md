@@ -21,7 +21,7 @@ When I'm not teaching in a classroom, I procrastinate on completing my [basic Ha
 Following a bad breakup with [a cappella singing](https://www.youtube.com/watch?v=FaMoZsXScj0), I've had a series of on-and-off, noncommittal affairs with various wind instruments and struggle with a love-hate relationship with music in general.
 On the other hand, I'm still on pretty good terms with my first love, [photography](projects.md#photography) and have a crush on podcasting.
 
-I can't play videogames, but I take certain board games very seriously.<br>
+I can't play videogames, but I take certain board games very seriously.
 Team sports make me cry, but I really love running, rock climbing and all sorts of human-powered wheeled vehicles.
 I can't stand fantasy, but I welcome tips about books and comics within any other genre.
 I never lasted longer than six episodes of a TV series, but I'm always up for a good movie (even more so if it's animated and weird).
