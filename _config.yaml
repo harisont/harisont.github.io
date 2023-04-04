@@ -4,7 +4,8 @@ author:
   email: arianna.masciolini@gmail.com
 
 description: > 
-  harisont's personal website and chaotically multilingual blog
+  harisont's personal website and chaotically multilingual blog.
+  Noticed a [_strafalcione_](https://dictionary.cambridge.org/dictionary/italian-english/strafalcione) in something I've written? You're welcome to fix it and open a [pull request](https://github.com/harisont/harisont.github.io)!
 
 header_pages:
   - blog.md
