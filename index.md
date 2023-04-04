@@ -25,7 +25,7 @@ I can't play videogames, but I take certain board games very seriously.<br>
 Team sports make me cry, but I really love running, rock climbing and all sorts of human-powered wheeled vehicles.
 I can't stand fantasy, but I welcome tips about books and comics within any other genre.
 I never lasted longer than six episodes of a TV series, but I'm always up for a good movie (even more so if it's animated and weird).
-I really, really, _really_ hate phone calls, but you are always welcome to [email me](mailto:arianna.masciolini@gmail.com).
+I really, really, _really_ hate phone calls, but I always answer [email](mailto:arianna.masciolini@gmail.com) (eventually).
 
 ---
 
