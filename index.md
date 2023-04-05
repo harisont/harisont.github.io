@@ -8,7 +8,7 @@ My name is Arianna, I'm an aspiring computational linguist and my pronouns are `
 
 
 ### Long story short
-I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.1399/12.3691) thinking I was good at learning languages but very bad at counting.
+I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.1399/12.3691) thinking I was good at languages and bad at counting.
 Nonetheless, after high school I figured I'd ~~torture~~ challenge myself and study Computer Science.
 Against all odds, mostly thanks to [great company](https://github.com/orgs/dis-org/people), I managed to get a Bachelor's degree and fall in love with the subject in the meantime.
 I re-discovered language by taking a course about compilers and suddenly found myself in [Gothenburg](https://www.openstreetmap.org/node/25930131) together with my former _sambo_[^2] [K.](https://harisont.github.io/kappanneu/), studying Language Technology. Immediately after that, I spent some months working at a local language technology company, [Digital Grammars](https://www.digitalgrammars.com/). Despite that being a lot of fun, I soon went back to university, where I'm currently a _dottorandessa_[^3] at [Språkbanken Text](https://spraakbanken.gu.se/).
@@ -18,7 +18,9 @@ When I'm not writing [papers](research.md#publications), I scribble [random blog
 When I'm not working on my [PhD project software](https://github.com/harisont/L2-UD), I try to maintain a number of more-or-less useless [open source tools](projects.md#software).<br>
 When I'm not teaching in a classroom, I procrastinate on completing my [basic Haskell online course](projects.md#tutorials). 
 
-Following a bad breakup with [a cappella singing](https://www.youtube.com/watch?v=FaMoZsXScj0), I've had a series of on-and-off, noncommittal affairs with various wind instruments and struggle with a love-hate relationship with music in general.
+I have a love-hate relationship with music making: after years of unrequited love with piano playing, followed by a bad breakup with [a cappella singing](https://www.youtube.com/watch?v=FaMoZsXScj0), I've been romantically involved with several wind instruments, but I clearly have committment issues.
+I had occasional dates with [music software of various kinds](https://github.com/stars/harisont/lists/musica-maestro-musical-note).
+
 On the other hand, I'm still on pretty good terms with my first love, [photography](projects.md#photography) and have a crush on podcasting.
 
 I can't play videogames, but I take certain board games very seriously.
