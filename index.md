@@ -19,13 +19,12 @@ When I'm not working on my [PhD project software](https://github.com/harisont/L2
 When I'm not teaching in a classroom, I procrastinate on completing my [basic Haskell online course](projects.md#tutorials). 
 
 I have a love-hate relationship with music making: after years of unrequited love with piano playing, followed by a bad breakup with [a cappella singing](https://www.youtube.com/watch?v=FaMoZsXScj0), I've been romantically involved with several wind instruments, but I clearly have committment issues.
-I had occasional dates with [music software of various kinds](https://github.com/stars/harisont/lists/musica-maestro-musical-note).
+I briefly dated with [Euterpea](https://github.com/lcdsa/geb) and other [music software](https://github.com/stars/harisont/lists/musica-maestro-musical-note) too, but it always turned out to be just a crush.
 
-On the other hand, I'm still on pretty good terms with my first love, [photography](projects.md#photography) and have a crush on podcasting.
-
+I don't see myself as a very visual person, but [photography](projects.md#photography) is my most serious hobby.
 I can't play videogames, but I take certain board games very seriously.
 Team sports make me cry, but I really love running, rock climbing and all sorts of human-powered wheeled vehicles.
-I can't stand fantasy, but I welcome tips about books and comics within any other genre.
+I hate reading fantasy, but I welcome tips about books and comics within any other genre.
 I never lasted longer than six episodes of a TV series, but I'm always up for a good movie (even more so if it's animated and weird).
 I really, really, _really_ hate phone calls, but I always answer [email](mailto:arianna.masciolini@gmail.com) (eventually).
 
