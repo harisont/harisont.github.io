@@ -17,3 +17,4 @@ why notebooks suck (and especially so in Python) | en | - | - |
 | Spotify's basic-pitch | en | - | sometimes I love ML |
 | Universal Deché? | it | - | dedicato a Tania, foto quaderno elementari con analisi grammaticale |
 | summoning the daimon | en | - | - | 
+| writing for smaller audiences | en? | - | - |
