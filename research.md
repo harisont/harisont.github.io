@@ -3,21 +3,26 @@ title: Research
 layout: base
 ---
 
-# Research
+I'm currently doing a PhD in Language Technology at [Språkbanken Text](https://spraakbanken.gu.se/) ([University of Gothenburg](https://www.gu.se/)), where I'm supervised by [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
 
-I'm currently trying to develop ICALL tools to help learners develop their written production skills.
-A terribly hypothetical text about what I envision has been published in this [Festschrift in honor of Lars Borin](https://gupea.ub.gu.se/handle/2077/74254) (pgg. 103-107).
+My main area of interest is __Computer-Assisted Language Learning__, with a focus on __L2 grammar acquisition__.
+I'm currently working on developing tools to analyze grammatical error patterns in learner corpora. 
 
-## Past projects
+I am very enthusiastic about interlingual approaches and particularly enjoy working with [Universal Dependencies](https://universaldependencies.org/) and [Grammatical Framework](https://www.grammaticalframework.org/).
 
-### Concept alignment (Master's thesis project)
-The aim of this project was to develop a tool for bootstrapping translation lexica for grammar-based domain-specific MT systems.
-The resulting system generates [GF](https://www.grammaticalframework.org/) multilingual grammar fragments by aligning parallel [UD](https://universaldependencies.org/) treebanks, which can be automatically parsed from parallel texts, to extract word and phrase level correspondences.
+## Links
+- acedemic email: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
+- [curriculum vitae](https://github.com/harisont/cv/raw/master/cv.pdf)
+- [academic page](https://spraakbanken.gu.se/om/personal/arianna)
 
-Links:
-- [GitHub repository](https://github.com/harisont/concept-alignment)
-- [thesis](https://raw.githubusercontent.com/harisont/concept-alignment/master/thesis/final_report/synbased_ca_for_mt.pdf): "Syntax-based Concept Alignment for Machine Translation"
-- [paper](https://aclanthology.org/2021.cnl-1.2.pdf): "Grammar-based Concept Alignment for Domain-Specific Machine Translation"
-- [Grammatical Framework Summer School](http://school.grammaticalframework.org/2021/) talk:
-  - [recording](https://youtu.be/h2GR7RbghnE?t=4104)
-  - [slides](https://raw.githubusercontent.com/harisont/concept-alignment/master/summer-school/presentation.pdf)
+## Publications
+- __Arianna Masciolini__. _A query engine for L1-L2 parallel dependency treebanks_. In The 24rd Nordic Conference on Computational Linguistics, 2023 [[code]](https://github.com/harisont/L2-UD)
+- __Arianna Masciolini__. _Building a multilingual AWE tool for L2 learners: challenges and ideas_. In LIVE and LEARN-Festschrift in honor of Lars Borin, 2022 [[pdf]](https://gupea.ub.gu.se/bitstream/handle/2077/74254/GU-ISS-2022-03%20Lars%20Borin%20Festskrift%20Digital%20publicering%20221121.pdf?sequence=1) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/lars.bib)
+- __Arianna Masciolini__ and Aarne Ranta. _Grammar-based concept alignment for domain-specific Machine Translation_. In Proceedings of the Seventh International Workshop on Controlled Natural Language (CNL 2020/21), 2021 [[pdf]](https://aclanthology.org/2021.cnl-1.2.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/ca.bib) [[code]](https://github.com/harisont/concept-alignment) 
+
+## Talks
+- _UD-based analysis of grammatical errors in L2 texts_. [Planning seminar](https://medarbetarportalen.gu.se/internt-ipkl/utbildning-forskarniva/doktorandguiden/obligatoriska-seminarier/?languageId=100001&skipSSOCheck=true&referer=https%3A%2F%2Fspraakbanken.gu.se%2F) given at the ["Högre seminarium"](https://www.gu.se/svenska-spraket/seminarieprogram) of the [Department of Swedish, Multilingualism, Language Technology of the University of Gothenburg](https://www.gu.se/en/swedish) on April 3, 2023 [[slides]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/slides/ideas_seminar.pdf)
+- _A gentle introduction to Argument Mining_. Joint seminar with Anna Lindahl, Ricardo Muñoz Sánchez and Stian Rødven-Eide. Presented at [CLASP](https://gu-clasp.github.io/events/seminars/2022-10-21/) on October 21, 2022 [[slides]](https://rimusa.github.io/documents/presentations/A%20gentle%20introduction%20to%20argument%20mining.pdf)
+- _Grammar-based concept alignment for domain-specific Machine Translation_. Presented at the [Seventh International Workshop on Controlled Natural Language (CNL 2020/21)](http://www.sigcnl.org/cnl2020.html) on September 8, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/paper/slides/presentation.pdf)
+- _Concept Alignment for Multilingual
+Machine Translation_. Presented at the [Seventh GF Summer School 2021](http://school.grammaticalframework.org/2021/) on August 4, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/summer-school/presentation.pdf) [[video]](https://youtu.be/h2GR7RbghnE?t=4104)
