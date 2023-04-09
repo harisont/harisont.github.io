@@ -33,7 +33,7 @@ Ingenting speciellt, men igen tyckte jag om kvällsfärgerna:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda2.JPG)
 
-Sedan fortsatte jag cykla hem men behövde stanna igen vid Dämmebron.
+Sedan fortsatte jag cykla hem men behövde stanna igen vid Dämmebron (tyvärr funkar den vertikala versionen av bilden bättre en den horisontella, även om den passar inte så bra i detta blogginlägg).
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda3.JPG)
 
@@ -67,8 +67,6 @@ Då blev min Canon en actioncam, prekärt monterat på cykeln (ibland är det br
 ## Thaimiddagen
 En dag åt jag på ett thaiställe bredvid min favoritbiograf, Hagabion, där jag skulle se [Jafar Panahis nya film](https://hagabion.se/filmer/no-bears/).
 Det var en vardag och resturangen var nästan tom, och då försökte jag att ta några bilder.
-
-![](https://harisont.github.io/assets/img/vardagsbilder/5thaistallen1.JPG)
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/5thaistallen2.JPG)
 
@@ -106,9 +104,7 @@ Möjligen inspirerad av Luigi Ghirris _Lezioni di fotografia_, en fantaskisk bok
 
 ## Ytterligare snö
 Det är inte lätt att fotografera ett pågående snöfall, och när jag försöker är jag aldrig nöjd med resultatet.
-I dessa fall har jag inte misslyckats helt och hållet, men jag har fortfarande mycket att lära mig.
-
-![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg1.JPG)
+I detta fall har jag inte misslyckats helt och hållet, men jag har fortfarande mycket att lära mig.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg2.JPG)
 
@@ -132,5 +128,3 @@ Jag har läst mycket om Karin Boye på sistone och den här scenen framför stad
 Låt oss avsluta som vi började: med en plats som återkommer i mina Göteborgsbilder (Gothia Towers var också en del av mitt [fotoproject](https://harisont.github.io/postcards-from-gothenburg/) - känner du igen dem?) men som jag kommer att fortsåtta ta bilder på.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/12gothia1.JPG)
-
-![](https://harisont.github.io/assets/img/vardagsbilder/12gothia2.JPG)
