@@ -23,31 +23,31 @@ Här är resultaterna.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda1.JPG)
 
-Gårda är en Göteborgsområde jag är ganska emotionellt bunden till: [K.](https://harisont.github.io/kappanneu/) hade sin studentrum där, själv bodde jag hos honom i ett tag under pandemin och nu cyklar jag längs kanalen varje dag, på väg till och från jobbet.
-Dessutom tycker jag om dess gamla fabriker och även de två nya höghus.
-Därför är Gårda en plats jag har fotograferat ganska mycket (den är med även i mitt [fotoprojekt om Göteborg](https://harisont.github.io/postcards-from-gothenburg/index.html#Svenska)), men alltid på dagstid.
-Det var kanske ingen bra idée att försöka ta bilder på kvällen just när jag hade bara en gammal kompaktkamera med mig, men jag tyckte stämningen och färgerna var bra och den första bilden blir en påminnelse att jag måste åka tillbaka vid samma tid med bättre utrustning. 
+Gårda är ett område jag är ganska emotionellt bunden till: [K.](https://harisont.github.io/kappanneu/) hade sitt studentrum där, jag bodde själv hos honom ett tag under pandemin och nu cyklar jag längs kanalen varje dag, på väg till och från jobbet.
+Dessutom gillar jag de gamla fabrikerna och de två nya höghusen.
+Därför är Gårda en plats jag har fotograferat ganska ofta (den ingår också i mitt [fotoprojekt om Göteborg](https://harisont.github.io/postcards-from-gothenburg/index.html#Svenska)), men alltid på dagtid.
+Det var kanske ingen bra idé att försöka ta bilder på kvällen när jag bara hade en gammal kompaktkamera med mig, men jag tyckte att stämningen och färgerna var bra och den första bilden blir en påminnelse om att jag måste åka tillbaka vid samma tidpunkt med bättre utrustning.
 
-Den andra är bara en av mina typiska vattebilder. 
+Den andra är bara en av mina typiska vattenbilder. 
 Ingenting speciellt, men igen tyckte jag om kvällsfärgerna:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda2.JPG)
 
-Sedan fortsatte jag cykla hem men behövde pausa igen vid Dämmebron.
+Sedan fortsatte jag cykla hem men behövde stanna igen vid Dämmebron.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda3.JPG)
 
-Då hade jag lite blandade känslor, för denna ljussituation är lite mer sällsynt (och precis därför var det kul att jag hade kameran med) men jag tänkte bilden kunde ha varit riktigt bra med en bättre lins och en renare sensor (jag fick redigera bort två stora dammfläckar).
+Där hade jag lite blandade känslor, eftersom den här ljussituationen är lite mer sällsynt (och det var därför jag var glad att jag hade kameran med mig), men jag tyckte att bilden kunde ha blivit riktigt bra med ett bättre lins och en renare sensor (jag fick redigera bort två stora dammfläckar).
 
 ## Skymning i Kviberg
-En annan dag tog jag min vanlig kortpromenad i Kviberg.
-Redan några minuter efter att jag hade lämnat min lägenhet märkte jag att ljuset var ganska dramatiskt:
+En annan dag tog jag min vanliga kortpromenad i Kviberg.
+Redan några minuter efter att jag lämnat min lägenhet märkte jag att ljuset var ganska dramatiskt:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg1.JPG)
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg2.JPG)
 
-Men det blev ännu bättre när runt fotbollsplanerna, där jag tog en liten serie bilder jag är ganska nöjd med, och där det digitala bruset stör inte.
+Men det blev ännu bättre runt fotbollsplanerna, där jag tog en liten serie bilder där det digitala bruset inte stör så mycket.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg3.JPG)
 
@@ -56,32 +56,31 @@ Men det blev ännu bättre när runt fotbollsplanerna, där jag tog en liten ser
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg5.JPG)
 
 ## Särobana. På väg hem från
-Den 5 mars åkte jag till Stora Amundön, vilket jag gör åtminstone en gång per månad.
-Även om den är en av de vackraste platser jag känner till blev det inga bra bilder, men när jag var på väg hem blev jag nyfiken på att prova fotografera min egen skugga på ojämna ytor. 
-Då blev min Canon en actioncam prekärt monterat på cykeln (ibland är det bra med en billig kamera!) och denna var den bästa av flera försök:
+Den 5 mars åkte jag till Stora Amundön, vilket jag gör minst en gång i månaden.
+Trots att det är en av de vackraste platserna jag känner till blev det inga bra bilder, men på vägen hem blev jag nyfiken på att försöka fotografera min egen skugga på ojämna ytor.
+Då blev min Canon en actioncam, prekärt monterat på cykeln (ibland är det bra med en billig kamera!) och denna var den bästa av flera försök:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/3sarobanan1.JPG)
 
-Även om inramningen är lite skräpig tycker jag om att det är lätt att känna igen cykeln och att växterna (?) i vinden ger en känsla av snabbhet. 
+Även om inramningen är lite rörig gillar jag att cykeln är lätt att känna igen och att växterna (vad heter dem egentligen?) i vinden ger en känsla av fart. 
 
-## Thaimiddag innan filmen
-En dag åt jag på en thaiställen som ligger bredvid min favorit biograf, Hagabion, där jag skulle se [Jafar Panahis nya film](https://hagabion.se/filmer/no-bears/).
-Det var en vardag och resturangen var nästan tom.
+## Thaimiddagen
+En dag åt jag på ett thaiställe bredvid min favoritbiograf, Hagabion, där jag skulle se [Jafar Panahis nya film](https://hagabion.se/filmer/no-bears/).
+Det var en vardag och resturangen var nästan tom, och då försökte jag att ta några bilder.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/5thaistallen1.JPG)
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/5thaistallen2.JPG)
 
-Både maten och filmen var ganska bra (men jag föredrar Taxi Tehran och Arrojj Dii ;)
+Både maten och filmen var ganska bra (men maten är ännu bättre på Arrojj Dii och bland Panahis filmer är Taxi Tehran fortfarande min favorit ;)
 
 ## Snö runt kyrkogården
-Och sedan snöade det igen, och jag tog en annan promenad i mitt närområde.
-
+Och sedan snöade det igen och jag tog en annan promenad i mitt närområde.
 Först blev det en horisontell bild där temat är vertikalitet:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/6kyrkogarden1.JPG)
 
-Det var redan ett ganska kraftigt humörskifte i jämförelse med de tidigare färgglada bilderna, och det blev ännu mer spektralt på Kvibergs Kyrkogård (en plats som är faktiskt inte så spektral i sig, oberoende på att det är en kyrkogård):
+Det var redan ett ganska kraftigt humörskifte i jämförelse med de tidigare färgglada bilderna, och det blev ännu mer spöklikt på Kvibergs Kyrkogård (en plats som faktiskt inte är spöklik alls i sig själv, oavsett att det är en kyrkogård, men så var det den dagen från min synpunkt):
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/6kyrkogarden2.JPG)
 
@@ -96,24 +95,24 @@ Dagen efter jobbade jag trots snön på plats.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/7humanisten1.JPG)
 
-Den andra bilden är inte så bra, men jag tänkte X:n som ritas av spåren på en kälke och skuggan av ett träd var lite intressant.
+Den andra bilden är inte så bra, men jag tyckte att krysset som tecknas av spåren från en släde (eller något sådant) och skuggan från ett träd var lite intressant.
 
 ## Vårdcentralen i Gamlestadstorget
 ![](https://harisont.github.io/assets/img/vardagsbilder/8gamlestaden1.JPG)
 
-Den här är en av mina favorita bilder i detta experiment. 
-Jag gillar snöns blå dominans, solnedgångens röd på byggnaden och den gula ljuset från fönstrerna, och tycker min lilla kamera ger det någon slags fint mjukhet som saknas i mina vanliga kontraststarka, skarpa Lumixbilder.
-Möjligen inspirerad av Luigi Ghirris _Lezioni di fotografia_.
+Den här är en av mina favorita bilder i experimentet. 
+Jag gillar snöns blå dominans, solnedgångens rött på byggnaden och det gula ljuset från fönstren, och jag tycker att min lilla kamera ger bilden en fin mjukhet som saknas i mina vanliga kontraststarka, skarpa Lumixbilder.
+Möjligen inspirerad av Luigi Ghirris _Lezioni di fotografia_, en fantaskisk bok jag läste just förra månaden.
 
 ## Ytterligare snö
-Att fotografera ett snöfall på gång är inte lätt, och när jag försöker blir jag aldrig nöjd med resultaterna.
-I detta fall har jag inte misslyckts helt, men jag har fortfarande mycket att lära mig.
+Det är inte lätt att fotografera ett pågående snöfall, och när jag försöker är jag aldrig nöjd med resultatet.
+I dessa fall har jag inte misslyckats helt och hållet, men jag har fortfarande mycket att lära mig.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg1.JPG)
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg2.JPG)
 
-Och lite avbarkade träd (en av mina favorita fotosubjekt i Sverige):
+Några avbarkade träd (är de inte fina, även om bilden kunde varit mycket bättre?):
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg3.JPG)
 
@@ -126,11 +125,11 @@ Och lite avbarkade träd (en av mina favorita fotosubjekt i Sverige):
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/11karinboye.JPG)
 
-Kanske mer ett souvenirfoto.
-Jag har läst ganska mycket Karin Boye under den senaste tiden, och den här scenen framför Stadsbiblioteket gjorde ett ganska starkt intryck på mig.
+Kanske är detta snarare ett souvenirfoto.
+Jag har läst mycket om Karin Boye på sistone och den här scenen framför stadsbiblioteket gjorde ett ganska starkt intryck på mig.
 
 ## Blårosa Gothia Towers
-Låt oss avsluta som vi började: med en plats som återkommer i mina Göteborgsbilder (de var också en del av mitt [kursproject](https://harisont.github.io/postcards-from-gothenburg/) - känner du igen dem?), men som ändrar utseende varje gång.
+Låt oss avsluta som vi började: med en plats som återkommer i mina Göteborgsbilder (Gothia Towers var också en del av mitt [fotoproject](https://harisont.github.io/postcards-from-gothenburg/) - känner du igen dem?) men som jag kommer att fortsåtta ta bilder på.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/12gothia1.JPG)
 
