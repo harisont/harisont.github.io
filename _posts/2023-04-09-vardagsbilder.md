@@ -55,7 +55,7 @@ Men det blev ännu bättre runt fotbollsplanerna, där jag tog en liten serie bi
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg5.JPG)
 
-## Särobana. På väg hem från
+## På Särobanan
 Den 5 mars åkte jag till Stora Amundön, vilket jag gör minst en gång i månaden.
 Trots att det är en av de vackraste platserna jag känner till blev det inga bra bilder, men på vägen hem blev jag nyfiken på att försöka fotografera min egen skugga på ojämna ytor.
 Då blev min Canon en actioncam, prekärt monterat på cykeln (ibland är det bra med en billig kamera!) och denna var den bästa av flera försök:
