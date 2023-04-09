@@ -7,7 +7,7 @@ langs: ["sv"]
 ---
 
 Jag började fota när jag var 8 år gammal och under de första 10 åren hade jag bara tillgång till automatiska digitala kompaktkameror.
-Den sista var en [Canon PowerShot A1200](https://www.usa.canon.com/support/p/powershot-a1200) som jag var alltid i min ryggsäck.
+Den sista var en [Canon PowerShot A1200](https://www.usa.canon.com/support/p/powershot-a1200) som var alltid i min ryggsäck.
 
 När jag var nästan 18 kände jag att jag hade bemästrat den kameran och, särskilt efter att ha provat att fotografera med min pappas mycket mer avancerade (analog) kamera, började jag bli frustrerad över bristen på kontroll över exponeringstid, skärpedjup och så vidare.
 Jag blev väldigt glad när jag som födelsedagspresent fick en DSLR, med vilken jag lärde mig mycket om fotografering och tog några av mina bästa porträttbilder.
