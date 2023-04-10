@@ -6,6 +6,8 @@ category: unottica
 langs: ["sv", "it"]
 ---
 
+###### __[in italiano](https://harisont.github.io/translations/vardagsbilder-it.html)__
+
 Jag började fota när jag var 8 år gammal och under de första 10 åren hade jag bara tillgång till automatiska digitala kompaktkameror.
 Den sista var en [Canon PowerShot A1200](https://www.usa.canon.com/support/p/powershot-a1200) som var alltid i min ryggsäck.
 
