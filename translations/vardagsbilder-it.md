@@ -1,23 +1,23 @@
 ---
-title: "Vardagsbilder"
+title: "Foto del quotidiano"
 date: 2023-04-09
 layout: post
 category: unottica
 langs: ["sv", "it"]
 ---
 
-Jag började fota när jag var 8 år gammal och under de första 10 åren hade jag bara tillgång till automatiska digitala kompaktkameror.
-Den sista var en [Canon PowerShot A1200](https://www.usa.canon.com/support/p/powershot-a1200) som var alltid i min ryggsäck.
+Ho iniziato a fotografare ad 8 anni e, per i primi 10, ho avuto sottomano soltanto macchinette fotografiche compatte digitali.  
+L'ultima di esse é stata una [Canon PowerShot A1200](https://www.usa.canon.com/support/p/powershot-a1200), che avevo sempre con me nello zaino.
 
-När jag var nästan 18 kände jag att jag hade bemästrat den kameran och, särskilt efter att ha provat att fotografera med min pappas mycket mer avancerade (analog) kamera, började jag bli frustrerad över bristen på kontroll över exponeringstid, skärpedjup och så vidare.
-Jag blev väldigt glad när jag som födelsedagspresent fick en DSLR, med vilken jag lärde mig mycket om fotografering och tog några av mina bästa porträttbilder.
+Poco prima di compiere 18 anni, sentivo di aver fatto tutto quel che si poteva fare con quella specifica macchina e, soprattutto dopo aver provato l'analogica di mio padre, che era ben piú sofisticata, iniziavo a trovare frustrante l'impossibilità di controllare tempi di esposizione, profondità di campo e via discorrendo. 
+Ricevere come regalo di compleanno una reflex, con la quale ho imparato molto sulla fotografia e scattato alcuni dei miei migliori ritratti, mi rese quindi molto felice. 
 
-Men sedan dess, även efter att jag bytte den kameran mot en mindre M43-enhet, har jag alltid saknat de oplanerade fotograferingsmöjligheter som en fickkamera ger.
-Samtidigt tänkte jag att det inte fanns någon anledning att ta med mig min gamla Canon, nu när min mobiltelefon faktiskt har bättre bildkvalitet.
-Men en bra anledning finns: jag vill återigen ta mer frekventa och mindre planerade bilder, och jag tycker inte om att göra det med mobilen. 
-Då återupplivade jag min lilla kamera och tog den med mig nästan överallt under en månad.
+Tuttavia, da quel momento in poi ho sempre sentito la mancanza delle occasioni fotografiche che una macchina fotografica tascabile permette di cogliere, anche dopo aver scambiato la reflex con una ben piú piccola micro quattro terzi.
+Allo stesso tempo, però, mi sembrava non ci fosse piú ragione per portarmi dietro la vecchia Canon, ora che il mio telefonino era effettivamente in grado di produrre immagini di qualità anche maggiore.
+Una buona ragione, però, l'ho trovata: ho di nuovo voglia fi fotografare piú spesso e pianificandolo di meno, e farlo con il telefono non é altrettanto piacevole. 
+É per questo che ho risuscitato quella macchinetta e l'ho portata con me quasi dappertutto per un mese.
 
-Här är resultaterna.
+Questi sono i risultati.
 
 ## Gårda på kvällen
 
