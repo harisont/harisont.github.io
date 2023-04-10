@@ -6,8 +6,7 @@ category: unottica
 langs: ["sv", "it"]
 ---
 
-###### __[in Italian](https://harisont.github.io/translations/vardagsbilder-it.html)__
-
+###### __[på svenska](https://harisont.github.io/unottica/2023/04/09/vardagsbilder-sv.html)__
 
 Ho iniziato a fotografare ad 8 anni e, per i primi 10, ho avuto sottomano soltanto macchinette fotografiche compatte digitali.  
 L'ultima di esse é stata una [Canon PowerShot A1200](https://www.usa.canon.com/support/p/powershot-a1200), che avevo sempre con me nello zaino.
