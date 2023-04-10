@@ -6,15 +6,18 @@ category: unottica
 langs: ["sv", "it"]
 ---
 
+###### __[in Italian](https://harisont.github.io/translations/rss-it.html)__
+
+
 Ho iniziato a fotografare ad 8 anni e, per i primi 10, ho avuto sottomano soltanto macchinette fotografiche compatte digitali.  
 L'ultima di esse é stata una [Canon PowerShot A1200](https://www.usa.canon.com/support/p/powershot-a1200), che avevo sempre con me nello zaino.
 
 Poco prima di compiere 18 anni, sentivo di aver fatto tutto quel che si poteva fare con quella specifica macchina e, soprattutto dopo aver provato l'analogica di mio padre, che era ben piú sofisticata, iniziavo a trovare frustrante l'impossibilità di controllare tempi di esposizione, profondità di campo e via discorrendo. 
-Ricevere come regalo di compleanno una reflex, con la quale ho imparato molto sulla fotografia e scattato alcuni dei miei migliori ritratti, mi rese quindi molto felice. 
+Ricevere come regalo di compleanno una reflex, con la quale ho imparato molto sulla fotografia e scattato alcuni dei miei migliori ritratti, mi aveva quindi resa molto felice. 
 
 Tuttavia, da quel momento in poi ho sempre sentito la mancanza delle occasioni fotografiche che una macchina fotografica tascabile permette di cogliere, anche dopo aver scambiato la reflex con una ben piú piccola micro quattro terzi.
 Allo stesso tempo, però, mi sembrava non ci fosse piú ragione per portarmi dietro la vecchia Canon, ora che il mio telefonino era effettivamente in grado di produrre immagini di qualità anche maggiore.
-Una buona ragione, però, l'ho trovata: ho di nuovo voglia fi fotografare piú spesso e pianificandolo di meno, e farlo con il telefono non é altrettanto piacevole. 
+Una buona ragione, però, l'ho trovata: ho di nuovo voglia di fotografare piú spesso e pianificandolo di meno, e farlo con il telefono non é altrettanto piacevole. 
 É per questo che ho risuscitato quella macchinetta e l'ho portata con me quasi dappertutto per un mese.
 
 Questi sono i risultati.
@@ -34,21 +37,21 @@ Niente di speciale, ma anche qui mi piacevano i colori della sera:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda2.JPG)
 
-Dopo questo scatto ho continuato a pedalare verso casa, ma ho dovuto fermarmi nuovamente verso Dämmebron (purtroppo l'immagine migliore che ho di questo momento é verticale e non si adatta benissimo a questo post).
+Dopo questo scatto ho continuato a pedalare verso casa, ma mi sono dovuta fermare nuovamente verso Dämmebron (purtroppo l'immagine migliore che ho di questo momento é verticale e non si adatta benissimo a questo post).
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda3.JPG)
 
-Qui ho avuto un po' di sentimenti contrastanti, perché le condizioni luminose di questa scena sono piuttosto rare (quindi ero contenta di avere con me la macchina fotografica), ma il risultato avrebbe potuto essere ben piú soddisfacente con un obiettivo migliore e con un sensore meno sporco (ho dovuto cancellare due grosse chiazze causate da polvere in postproduzione). 
+In questo caso i sentimenti sono stati un po' contrastanti, perché le condizioni luminose di questa scena sono piuttosto rare (quindi ero contenta di avere con me la macchina fotografica), ma il risultato avrebbe potuto essere ben piú soddisfacente con un obiettivo migliore e con un sensore meno sporco (ho dovuto cancellare due grosse chiazze causate da polvere in postproduzione). 
 
-## Skymning i Kviberg
-En annan dag tog jag min vanliga kortpromenad i Kviberg.
-Redan några minuter efter att jag lämnat min lägenhet märkte jag att ljuset var ganska dramatiskt:
+## Crepuscolo a Kviberg
+Un altro giorno sono andata a fare la mia solita passeggiata a Kviberg.
+Giá pochi minuti dopo essere uscita di casa mi sono resa conto che la luce era alquanto drammatica:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg1.JPG)
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg2.JPG)
 
-Men det blev ännu bättre runt fotbollsplanerna, där jag tog en liten serie bilder där det digitala bruset inte stör så mycket.
+...Ma la situazione é migliorata ulteriormente attorno ai campi da calcio, dove ho scattato una mini serie di foto in cui il rumore digitale non disturba piú di tanto.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg3.JPG)
 
@@ -56,76 +59,76 @@ Men det blev ännu bättre runt fotbollsplanerna, där jag tog en liten serie bi
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg5.JPG)
 
-## På Särobanan
-Den 5 mars åkte jag till Stora Amundön, vilket jag gör minst en gång i månaden.
-Trots att det är en av de vackraste platserna jag känner till blev det inga bra bilder, men på vägen hem blev jag nyfiken på att försöka fotografera min egen skugga på ojämna ytor.
-Då blev min Canon en actioncam, prekärt monterat på cykeln (ibland är det bra med en billig kamera!) och denna var den bästa av flera försök:
+## Lungo la Särobana
+Il 5 marzo sono andata a Stora Amundön, cosa che faccio almeno una volta al mese.
+Nonostante l'isola sia uno dei posti piú belli che io conosca, non ne é venuta fuori neanche una foto interessante, ma sulla strada di casa mi é venuto il ghiribizzo di provare a fotografare la mia obra su alcune superfici irregolari.
+A questo punto, la mia canon Canon si é trasformata in un'actioncam, precariamente montata sulla bicicletta, e questo é il migliore dei vari tentativi che ho fatto:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/3sarobanan1.JPG)
 
-Även om inramningen är lite rörig gillar jag att cykeln är lätt att känna igen och att växterna (vad heter dem egentligen?) i vinden ger en känsla av fart. 
+Anche se l'inquadratura é un po' a casaccio, mi piacciono il fatto che la bicicletta sia chiaramente distinguibile e che le canne al vento diano un senso di velocitá. 
 
-## Thaimiddagen
-En dag åt jag på ett thaiställe bredvid min favoritbiograf, Hagabion, där jag skulle se [Jafar Panahis nya film](https://hagabion.se/filmer/no-bears/).
-Det var en vardag och resturangen var nästan tom, och då försökte jag att ta några bilder.
+## Cena tailandese
+Un giorno ho mangiato un un locale tailandese accanto al mio cinema preferito, Hagabion, dove stavo per vedere [il nuovo film di Jafar Panahi](https://hagabion.se/filmer/no-bears/).
+Era un giorno lavorativo e il ristorante era quasi vuoto, quindi ho provato a fare qualche fotografia.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/5thaistallen2.JPG)
 
-Både maten och filmen var ganska bra (men maten är ännu bättre på Arrojj Dii och bland Panahis filmer är Taxi Tehran fortfarande min favorit ;)
+Sia il cibo che il film erano buoni (ma il cibo di Arrojj Dii é ancora meglio e, tra i film di Panahi, Taxi Tehran é ancora il mio preferito ;)
 
-## Snö runt kyrkogården
-Och sedan snöade det igen och jag tog en annan promenad i mitt närområde.
-Först blev det en horisontell bild där temat är vertikalitet:
+## Neve nei pressi del cimitero
+Qualche tempo dopo ha nevicato di nuovo e ho fatto un'altra passeggiata nel mio quartiere.
+Il primo scatto é orizzontale, ma il suo tema é quello della verticalitá:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/6kyrkogarden1.JPG)
 
-Det var redan ett ganska kraftigt humörskifte i jämförelse med de tidigare färgglada bilderna, och det blev ännu mer spöklikt på Kvibergs Kyrkogård (en plats som faktiskt inte är spöklik alls i sig själv, oavsett att det är en kyrkogård, men så var det den dagen från min synpunkt):
+Giá questo era un cambio di umore abbastanza repentino rispetto alle coloratissime fotografie dei giorni precedenti, ma tutto é diventato molto piú spettrale nel cimitero di Kviberg (un posto di per sé per nulla spettrale, a prescindere dal fatto che sia un cimitero, ma quel giorno, dal mio punto di vista, appariva cosí):
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/6kyrkogarden2.JPG)
 
-Men det var även lite färg i närheten.
+Nei paraggi c'era peró comunque anche un po' di colore.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/6kyrkogarden3.JPG)
 
 ## Humanisten
-Dagen efter jobbade jag trots snön på plats.
+Il giorno dopo, nonostante la neve, sono andata all'universitá.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/7humanisten2.JPG)
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/7humanisten1.JPG)
 
-Den andra bilden är inte så bra, men jag tyckte att krysset som tecknas av spåren från en släde (eller något sådant) och skuggan från ett träd var lite intressant.
+La seconda immagine non é granché, ma la X disegnata dalle tracce di uno slittino (o qualcosa del genere) e l'ombra di un albero mi sembrava interessantina. 
 
-## Vårdcentralen i Gamlestadstorget
+## Il vårdcentral (la ASL?) di Gamlestaden
 ![](https://harisont.github.io/assets/img/vardagsbilder/8gamlestaden1.JPG)
 
-Den här är en av mina favorita bilder i experimentet. 
-Jag gillar snöns blå dominans, solnedgångens rött på byggnaden och det gula ljuset från fönstren, och jag tycker att min lilla kamera ger bilden en fin mjukhet som saknas i mina vanliga kontraststarka, skarpa Lumixbilder.
-Möjligen inspirerad av Luigi Ghirris _Lezioni di fotografia_, en fantaskisk bok jag läste just förra månaden.
+Questo é uno dei miei scatti preferiti dell'intero esperimento.
+Mi piacciono la dominante bluastra della neve, il rosso del tramonto che si riflette sull'edificio e la luce gialla proveniente dalle finestre, e mi pare che la macchinetta dia all'immagine una morbidezza inusuale nelle fotografie ultranitide e ad alto contrasto che faccio di solito con la Lumix.
+Possibilmente, l'ispirazione é venuta dallo splendido libro _Lezioni di fotografia_ di Luigi Ghirri, che ho letto proprio il mese scorso.
 
-## Ytterligare snö
-Det är inte lätt att fotografera ett pågående snöfall, och när jag försöker är jag aldrig nöjd med resultatet.
-I detta fall har jag inte misslyckats helt och hållet, men jag har fortfarande mycket att lära mig.
+## Ancora neve
+Non é facile fotografare una nevicata in corso, ed ogni volta che ci provo i risultati non mi soddisfano.
+In questo caso non ho fallito del tutto, ma ho ancora molto da imparare.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg2.JPG)
 
-Några avbarkade träd (är de inte fina, även om bilden kunde varit mycket bättre?):
+Qualche albero scortecciato (belli, vero, anche se la foto poteva essere molto migliore?):
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg3.JPG)
 
-## Persienner
+## Veneziane
 ![](https://harisont.github.io/assets/img/vardagsbilder/10persienner.JPG)
 
-[Det är inte första gången](https://www.instagram.com/p/CYdubbZIecg/?utm_source=ig_web_button_share_sheet) mina persienner gör mina väggar mycket intressantare. 
+[Non é la prima volta](https://www.instagram.com/p/CYdubbZIecg/?utm_source=ig_web_button_share_sheet) che le veneziane rendono le mie pareti molto piú interessanti. 
 
-## Karin Boyes händer 
+## Le mani di Karin Boye
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/11karinboye.JPG)
 
-Kanske är detta snarare ett souvenirfoto.
-Jag har läst mycket om Karin Boye på sistone och den här scenen framför stadsbiblioteket gjorde ett ganska starkt intryck på mig.
+Forse questa é piú una foto ricordo.
+Ho letto parecchie opere di Karin Boye negli ultimi tempi, e questa scena di fronte alla biblioteca centrale mi ha fatto una certa impressione.
 
-## Blårosa Gothia Towers
-Låt oss avsluta som vi började: med en plats som återkommer i mina Göteborgsbilder (Gothia Towers var också en del av mitt [fotoproject](https://harisont.github.io/postcards-from-gothenburg/) - känner du igen dem?) men som jag kommer att fortsåtta ta bilder på.
+## Gothia Towers tra blu e rosa
+Concludiamo come abbiamo iniziato: con un luogo ricorrente nelle mie fotografie Goteborghesi (anche le Gothia Towers hanno fatto parte del mio [progetto fotografico](https://harisont.github.io/postcards-from-gothenburg/) - riuscite a riconoscerle?), ma che probabilmente fotograferó ancora.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/12gothia1.JPG)

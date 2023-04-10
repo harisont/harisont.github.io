@@ -48,7 +48,7 @@ Redan några minuter efter att jag lämnat min lägenhet märkte jag att ljuset 
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg2.JPG)
 
-Men det blev ännu bättre runt fotbollsplanerna, där jag tog en liten serie bilder där det digitala bruset inte stör så mycket.
+...Men det blev ännu bättre runt fotbollsplanerna, där jag tog en liten serie bilder där det digitala bruset inte stör så mycket.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg3.JPG)
 
