@@ -6,7 +6,7 @@ category: unottica
 langs: ["sv", "it"]
 ---
 
-###### __[in Italian](https://harisont.github.io/translations/rss-it.html)__
+###### __[in Italian](https://harisont.github.io/translations/vardagsbilder-it.html)__
 
 
 Ho iniziato a fotografare ad 8 anni e, per i primi 10, ho avuto sottomano soltanto macchinette fotografiche compatte digitali.  
