@@ -19,25 +19,26 @@ Una buona ragione, però, l'ho trovata: ho di nuovo voglia fi fotografare piú s
 
 Questi sono i risultati.
 
-## Gårda på kvällen
+## Gårda la sera
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda1.JPG)
 
-Gårda är ett område jag är ganska emotionellt bunden till: [K.](https://harisont.github.io/kappanneu/) hade sitt studentrum där, jag bodde själv hos honom ett tag under pandemin och nu cyklar jag längs kanalen varje dag, på väg till och från jobbet.
-Dessutom gillar jag de gamla fabrikerna och de två nya höghusen.
-Därför är Gårda en plats jag har fotograferat ganska ofta (den ingår också i mitt [fotoprojekt om Göteborg](https://harisont.github.io/postcards-from-gothenburg/index.html#Svenska)), men alltid på dagtid.
-Det var kanske ingen bra idé att försöka ta bilder på kvällen när jag bara hade en gammal kompaktkamera med mig, men jag tyckte att stämningen och färgerna var bra och den första bilden blir en påminnelse om att jag måste åka tillbaka vid samma tidpunkt med bättre utrustning.
+Gårda é un quartiere al quale sono piuttosto affezionata: [K.](https://harisont.github.io/kappanneu/) aveva una stanza proprio lí, io stessa ci ho abitato per un po' durante la pandemia ed ora lo attraverso ogni giorno in bicicletta, andando al lavoro e tornando a casa.
+Mi piacciono anche le sue vecchie fabbriche e i suoi due nuovi grattacieli.
+Per tutti questi motivi, Gårda é una zona che ho fotografato diverse volte (appare anche nel mio [progetto fotografico su Göteborg](https://harisont.github.io/postcards-from-gothenburg/index.html#Svenska)), ma sempre con la luce del giorno.
+Puó darsi che provare a scattare delle foto serali proprio quando avevo con me solo una vecchia macchinetta automatica non é stata proprio un'idea brillante, ma mi piacevano l'atmosfera ed i colori. 
+La prima immagine mi farà quindi da promemoria del fatto che dovrò tornarci alla stessa ora con attrezzatura migliore. 
 
-Den andra är bara en av mina typiska vattenbilder. 
-Ingenting speciellt, men igen tyckte jag om kvällsfärgerna:
+La seconda é una delle mie solite foto a tema acqua. 
+Niente di speciale, ma anche qui mi piacevano i colori della sera:
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda2.JPG)
 
-Sedan fortsatte jag cykla hem men behövde stanna igen vid Dämmebron (tyvärr funkar den vertikala versionen av bilden bättre en den horisontella, även om den passar inte så bra i detta blogginlägg).
+Dopo questo scatto ho continuato a pedalare verso casa, ma ho dovuto fermarmi nuovamente verso Dämmebron (purtroppo l'immagine migliore che ho di questo momento é verticale e non si adatta benissimo a questo post).
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/1garda3.JPG)
 
-Där hade jag lite blandade känslor, eftersom den här ljussituationen är lite mer sällsynt (och det var därför jag var glad att jag hade kameran med mig), men jag tyckte att bilden kunde ha blivit riktigt bra med ett bättre lins och en renare sensor (jag fick redigera bort två stora dammfläckar).
+Qui ho avuto un po' di sentimenti contrastanti, perché le condizioni luminose di questa scena sono piuttosto rare (quindi ero contenta di avere con me la macchina fotografica), ma il risultato avrebbe potuto essere ben piú soddisfacente con un obiettivo migliore e con un sensore meno sporco (ho dovuto cancellare due grosse chiazze causate da polvere in postproduzione). 
 
 ## Skymning i Kviberg
 En annan dag tog jag min vanliga kortpromenad i Kviberg.

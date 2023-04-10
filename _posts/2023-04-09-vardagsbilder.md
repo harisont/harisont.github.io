@@ -26,7 +26,8 @@ Här är resultaterna.
 Gårda är ett område jag är ganska emotionellt bunden till: [K.](https://harisont.github.io/kappanneu/) hade sitt studentrum där, jag bodde själv hos honom ett tag under pandemin och nu cyklar jag längs kanalen varje dag, på väg till och från jobbet.
 Dessutom gillar jag de gamla fabrikerna och de två nya höghusen.
 Därför är Gårda en plats jag har fotograferat ganska ofta (den ingår också i mitt [fotoprojekt om Göteborg](https://harisont.github.io/postcards-from-gothenburg/index.html#Svenska)), men alltid på dagtid.
-Det var kanske ingen bra idé att försöka ta bilder på kvällen när jag bara hade en gammal kompaktkamera med mig, men jag tyckte att stämningen och färgerna var bra och den första bilden blir en påminnelse om att jag måste åka tillbaka vid samma tidpunkt med bättre utrustning.
+Det var kanske ingen bra idé att försöka ta bilder på kvällen när jag bara hade en gammal kompaktkamera med mig, men jag tyckte att stämningen och färgerna var bra.
+Den första bilden blir då en påminnelse om att jag måste åka tillbaka vid samma tidpunkt med bättre utrustning.
 
 Den andra är bara en av mina typiska vattenbilder. 
 Ingenting speciellt, men igen tyckte jag om kvällsfärgerna:
