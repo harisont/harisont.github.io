@@ -18,3 +18,4 @@ why notebooks suck (and especially so in Python) | en | - | - |
 | Universal Deché? | it | - | dedicato a Tania, foto quaderno elementari con analisi grammaticale |
 | summoning the daimon | en | - | - | 
 | writing for smaller audiences | en? | - | - |
+| ci sono piccoli refusi | it+ | - | when has MT become so good? |  
