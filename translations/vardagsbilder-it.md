@@ -43,6 +43,7 @@ Dopo questo scatto ho continuato a pedalare verso casa, ma mi sono dovuta fermar
 In questo caso i sentimenti sono stati un po' contrastanti, perché le condizioni luminose di questa scena sono piuttosto rare (quindi ero contenta di avere con me la macchina fotografica), ma il risultato avrebbe potuto essere ben piú soddisfacente con un obiettivo migliore e con un sensore meno sporco (ho dovuto cancellare due grosse chiazze causate da polvere in postproduzione). 
 
 ## Crepuscolo a Kviberg
+
 Un altro giorno sono andata a fare la mia solita passeggiata a Kviberg.
 Giá pochi minuti dopo essere uscita di casa mi sono resa conto che la luce era alquanto drammatica:
 
@@ -59,6 +60,7 @@ Giá pochi minuti dopo essere uscita di casa mi sono resa conto che la luce era 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg5.JPG)
 
 ## Lungo la Särobana
+
 Il 5 marzo sono andata a Stora Amundön, cosa che faccio almeno una volta al mese.
 Nonostante l'isola sia uno dei posti piú belli che io conosca, non ne é venuta fuori neanche una foto interessante, ma sulla strada di casa mi é venuto il ghiribizzo di provare a fotografare la mia ombra su alcune superfici irregolari.
 A questo punto, la mia canon Canon si é trasformata in un'actioncam, precariamente montata sulla bicicletta, e questo é il migliore dei vari tentativi che ho fatto:
@@ -68,6 +70,7 @@ A questo punto, la mia canon Canon si é trasformata in un'actioncam, precariame
 Anche se l'inquadratura é un po' a casaccio, mi piacciono il fatto che la bicicletta sia chiaramente distinguibile e che le canne al vento diano un senso di velocitá. 
 
 ## Cena tailandese
+
 Un giorno ho mangiato in un locale tailandese accanto al mio cinema preferito, Hagabion, dove stavo per vedere [il nuovo film di Jafar Panahi](https://hagabion.se/filmer/no-bears/).
 Era un giorno lavorativo e il ristorante era quasi vuoto, quindi ho provato a fare qualche fotografia.
 
@@ -76,6 +79,7 @@ Era un giorno lavorativo e il ristorante era quasi vuoto, quindi ho provato a fa
 Sia il cibo che il film erano buoni (ma il cibo di Arrojj Dii é ancora meglio e, tra i film di Panahi, Taxi Tehran é ancora il mio preferito ;)
 
 ## Neve nei pressi del cimitero
+
 Qualche tempo dopo ha nevicato di nuovo e ho fatto un'altra passeggiata nel mio quartiere.
 Il primo scatto é orizzontale, ma il suo tema é quello della verticalitá:
 
@@ -90,6 +94,7 @@ Nei paraggi c'era peró comunque anche un po' di colore.
 ![](https://harisont.github.io/assets/img/vardagsbilder/6kyrkogarden3.JPG)
 
 ## Humanisten
+
 Il giorno dopo, nonostante la neve, sono andata all'universitá.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/7humanisten2.JPG)
@@ -99,6 +104,7 @@ Il giorno dopo, nonostante la neve, sono andata all'universitá.
 La seconda immagine non é granché, ma la X disegnata dalle tracce di uno slittino (o qualcosa del genere) e l'ombra di un albero mi sembrava interessantina. 
 
 ## Il vårdcentral (la ASL?) di Gamlestaden
+
 ![](https://harisont.github.io/assets/img/vardagsbilder/8gamlestaden1.JPG)
 
 Questo é uno dei miei scatti preferiti dell'intero esperimento.
@@ -106,6 +112,7 @@ Mi piacciono la dominante bluastra della neve, il rosso del tramonto che si rifl
 Possibilmente, l'ispirazione é venuta dallo splendido libro _Lezioni di fotografia_ di Luigi Ghirri, che ho letto proprio il mese scorso.
 
 ## Ancora neve
+
 Non é facile fotografare una nevicata in corso, ed ogni volta che ci provo i risultati non mi soddisfano.
 In questo caso non ho fallito del tutto, ma ho ancora molto da imparare.
 
@@ -116,6 +123,7 @@ Qualche albero scortecciato (belli, vero, anche se la foto poteva essere molto m
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg3.JPG)
 
 ## Veneziane
+
 ![](https://harisont.github.io/assets/img/vardagsbilder/10persienner.JPG)
 
 [Non é la prima volta](https://www.instagram.com/p/CYdubbZIecg/?utm_source=ig_web_button_share_sheet) che le veneziane rendono le mie pareti molto piú interessanti. 
@@ -128,6 +136,7 @@ Forse questa é piú una foto ricordo.
 Ho letto parecchie opere di Karin Boye negli ultimi tempi, e questa scena di fronte alla biblioteca centrale mi ha fatto una certa impressione.
 
 ## Gothia Towers tra blu e rosa
+
 Concludiamo come abbiamo iniziato: con un luogo ricorrente nelle mie fotografie Goteborghesi (anche le Gothia Towers hanno fatto parte del mio [progetto fotografico](https://harisont.github.io/postcards-from-gothenburg/) - riuscite a riconoscerle?), ma che probabilmente fotograferó ancora.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/12gothia1.JPG)

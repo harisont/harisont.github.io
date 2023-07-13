@@ -43,6 +43,7 @@ Sedan fortsatte jag cykla hem men behövde stanna igen vid Dämmebron (tyvärr f
 Där hade jag lite blandade känslor, eftersom den här ljussituationen är lite mer sällsynt (och det var därför jag var glad att jag hade kameran med mig), men jag tyckte att bilden kunde ha blivit riktigt bra med ett bättre lins och en renare sensor (jag fick redigera bort två stora dammfläckar).
 
 ## Skymning i Kviberg
+
 En annan dag tog jag min vanliga kortpromenad i Kviberg.
 Redan några minuter efter att jag lämnat min lägenhet märkte jag att ljuset var ganska dramatiskt:
 
@@ -59,6 +60,7 @@ Redan några minuter efter att jag lämnat min lägenhet märkte jag att ljuset 
 ![](https://harisont.github.io/assets/img/vardagsbilder/2kviberg5.JPG)
 
 ## På Särobanan
+
 Den 5 mars åkte jag till Stora Amundön, vilket jag gör minst en gång i månaden.
 Trots att det är en av de vackraste platserna jag känner till blev det inga bra bilder, men på vägen hem blev jag nyfiken på att försöka fotografera min egen skugga på ojämna ytor.
 Då blev min Canon en actioncam, prekärt monterat på cykeln (ibland är det bra med en billig kamera!) och denna var den bästa av flera försök:
@@ -68,6 +70,7 @@ Då blev min Canon en actioncam, prekärt monterat på cykeln (ibland är det br
 Även om inramningen är lite rörig gillar jag att cykeln är lätt att känna igen och att växterna (vad heter dem egentligen?) i vinden ger en känsla av fart. 
 
 ## Thaimiddagen
+
 En dag åt jag på ett thaiställe bredvid min favoritbiograf, Hagabion, där jag skulle se [Jafar Panahis nya film](https://hagabion.se/filmer/no-bears/).
 Det var en vardag och resturangen var nästan tom, och då försökte jag att ta några bilder.
 
@@ -76,6 +79,7 @@ Det var en vardag och resturangen var nästan tom, och då försökte jag att ta
 Både maten och filmen var ganska bra (men maten är ännu bättre på Arrojj Dii och bland Panahis filmer är Taxi Tehran fortfarande min favorit ;)
 
 ## Snö runt kyrkogården
+
 Och sedan snöade det igen och jag tog en annan promenad i mitt närområde.
 Först blev det en horisontell bild där temat är vertikalitet:
 
@@ -90,6 +94,7 @@ Men det var även lite färg i närheten.
 ![](https://harisont.github.io/assets/img/vardagsbilder/6kyrkogarden3.JPG)
 
 ## Humanisten
+
 Dagen efter jobbade jag trots snön på plats.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/7humanisten2.JPG)
@@ -99,6 +104,7 @@ Dagen efter jobbade jag trots snön på plats.
 Den andra bilden är inte så bra, men jag tyckte att krysset som tecknas av spåren från en släde (eller något sådant) och skuggan från ett träd var lite intressant.
 
 ## Vårdcentralen i Gamlestadstorget
+
 ![](https://harisont.github.io/assets/img/vardagsbilder/8gamlestaden1.JPG)
 
 Den här är en av mina favorita bilder i experimentet. 
@@ -106,6 +112,7 @@ Jag gillar snöns blå dominans, solnedgångens rött på byggnaden och det gula
 Möjligen inspirerad av Luigi Ghirris _Lezioni di fotografia_, en fantaskisk bok jag läste just förra månaden.
 
 ## Ytterligare snö
+
 Det är inte lätt att fotografera ett pågående snöfall, och när jag försöker är jag aldrig nöjd med resultatet.
 I detta fall har jag inte misslyckats helt och hållet, men jag har fortfarande mycket att lära mig.
 
@@ -116,6 +123,7 @@ Några avbarkade träd (är de inte fina, även om bilden kunde varit mycket bä
 ![](https://harisont.github.io/assets/img/vardagsbilder/9kviberg3.JPG)
 
 ## Persienner
+
 ![](https://harisont.github.io/assets/img/vardagsbilder/10persienner.JPG)
 
 [Det är inte första gången](https://www.instagram.com/p/CYdubbZIecg/?utm_source=ig_web_button_share_sheet) mina persienner gör mina väggar mycket intressantare. 
@@ -128,6 +136,7 @@ Kanske är detta snarare ett souvenirfoto.
 Jag har läst mycket om Karin Boye på sistone och den här scenen framför stadsbiblioteket gjorde ett ganska starkt intryck på mig.
 
 ## Blårosa Gothia Towers
+
 Låt oss avsluta som vi började: med en plats som återkommer i mina Göteborgsbilder (Gothia Towers var också en del av mitt [fotoproject](https://harisont.github.io/postcards-from-gothenburg/) - känner du igen dem?) men som jag kommer att fortsåtta ta bilder på.
 
 ![](https://harisont.github.io/assets/img/vardagsbilder/12gothia1.JPG)
