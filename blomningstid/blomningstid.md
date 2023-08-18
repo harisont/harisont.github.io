@@ -1,6 +1,5 @@
 ---
 title: "Blomningstid"
-date: 2023-08-18
 layout: post
 langs: ["sv"]
 author: "Karin Boye"

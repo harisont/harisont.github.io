@@ -1,6 +1,5 @@
 ---
 title: "Blomningstid / Fioritura"
-date: 2023-08-18
 layout: post
 langs: ["sv", "it"]
 author: "Karin Boye. Traduzione/översättning: Arianna Masciolini"

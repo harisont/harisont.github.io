@@ -1,6 +1,5 @@
 ---
 title: "Fioritura"
-date: 2023-08-18
 layout: post
 langs: ["it"]
 author: "Karin Boye. Traduzione/översättning: Arianna Masciolini"
