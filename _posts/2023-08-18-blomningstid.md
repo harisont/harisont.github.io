@@ -15,8 +15,8 @@ Il processo é stato ancor piú difficoltoso del previsto e si é concluso solo 
 
 Ho deciso comunque di rendere disponibile il mio tentativo di traduzione come [ebook in formato EPUB](https://github.com/harisont/blomningstid/raw/master/fioritura.epub) e come qui sul web:
 
-- [testo originale svedese](../blomningstid/blomningstid.md)
-- [traduzione](../blomningstid/fioritura.md)
-- [testo parallelo](../blomningstid/blomningstid-fioritura.md)
+- [testo originale svedese](https://harisont.github.io/blomningstid/blomningstid.md)
+- [traduzione](https://harisont.github.io/blomningstid/fioritura.md)
+- [testo parallelo](https://harisont.github.io//blomningstid/blomningstid-fioritura.md)
 
 Tvåspråkiga läsare får gärna föreslå förbättringar via e-post eller [pull request](https://github.com/harisont/blomningstid)!
