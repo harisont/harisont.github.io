@@ -1,0 +1,32 @@
+---
+title: "Commenti laconici quasi cronologici"
+date: 2023-12-31
+layout: post
+category: "meaningful-media"
+langs: ["it"]
+---
+
+1. Javier Marías, _Mañana en la batalla piensa en mí_: no fue un mal comienzo 
+2. Neil Gaiman and Colleen Doran, _Neil Gaiman's Chivalry_: delicious short comic that I should probably take a second look at in color
+3. Ilaria Ferramosca e Chiara Abastanotti, _Lea Garofalo. Una madre contro la 'ndrangheta_: fumetto storico di edizione non curatissima ma molto ben disegnato 
+4. Zerocalcare, _Kobane calling. Oggi_: rilettura propedeutica al nuovo libro
+5. Zerocalcare, _No sleep till Shengal_: decisamente all'altezza di Kobane Calling
+6. Massimiliano Bucchi, _Natale di scienza. Storie di scoperte e di stupore_: librino ricco di aneddoti preziosi, letto purtroppo un po' in ritardo
+7. Karin Boye, _Kallocain_: ännu bättre än 1984
+8. Karin Boye, _Ur funktion_: ny favorit novellsamling. Nästan alla av dem stannade kvar i mitt huvud i flera veckor och ibland månader
+9. Seanan McGuire, _Every heart a doorway_: horror-metafantasy, not my thing
+10. Melanie Gillman, _Other ever afters_: nicely illustrated queer fairy tales, some of which I find slightly problematic
+11. Padraic O'Farrell, _Ancient Irish legends_: cool legends, poor storytelling
+12. Ejnar Fors Bergström, _Den faröiska boken_: intressant men förutsätter goda kunskaper i 4 olika nordiska språk
+13. Angela & Luciana Giussani, Giuseppe Palumbo e un altro paio di disegnatori, _Diabolik #1. Il re del terrore: il remake_: la storia è sempre quella ma i disegni di Palumbo sono sempre belli
+14. James Hayton, _PhD_: might as well have left it on the byteshylla
+15. Tommaso Avati, _Il silenzio del mondo_: discreto romanzo su tre generazioni di donne sorde
+16. Luigi Ghirri, _Lezioni di fotografia_: pur non nascendo come un libro è il miglior libro sulla fotografia che io abbia mai letto
+17. Valentino Zeichen, _Poesie_: per la maggior parte brevi, razionali, ironiche ed iconiche
+18. Eugenia Cheng, _x + y_: part 1 resonated a lot with me, part 2 made me angry
+19. Maia Kobabe, _Gender queer: a memoir_: 4th read still great 
+20. Astrid Lindgren, _Ronja Rövardotter_: ganska intensiv barnbok med vackra illustrationer. Så trevligt att lyssna på Astrid Lindgrens ljudbok medan man läser också
+21. Anneli Furmark, _Gå med mig till hörnet_: värt att läsa igen på svenska
+22. Eshkol Nevo, _La simmetria dei desideri_: finalmente un romanzo abbastanza appassionante da perderci il sonno!
+23. Jane Nysted, _Språkbitar_: perfekt frukostbok
+24. Roberto Mercadini, _La donna che rise di Dio_: aneddoti biblici divertenti, ma Mercadini lo preferisco come oratore
