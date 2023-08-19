@@ -30,3 +30,4 @@ langs: ["it"]
 22. Eshkol Nevo, _La simmetria dei desideri_: finalmente un romanzo abbastanza appassionante da perderci il sonno!
 23. Jane Nysted, _Språkbitar_: perfekt frukostbok
 24. Roberto Mercadini, _La donna che rise di Dio_: aneddoti biblici divertenti, ma Mercadini lo preferisco come oratore
+25. Ezio Noto, _La leggenda di Flauto. L'uomo che inventò le frecce fischianti_: Sembra scritto da un bambino che ha appena imparato cos'è il mito.
