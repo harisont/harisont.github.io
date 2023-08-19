@@ -13,7 +13,7 @@ Uno dei libri che vorrei far leggere a tutti i miei cari é la raccolta di racco
 Ho scritto ad [Iperborea](https://iperborea.com/) suggerendo il titolo, ma in attesa di una risposta ho deciso di tradurre uno dei racconti che piú mi ha colpito in occasione del compleanno di mio padre.
 Il processo é stato ancor piú difficoltoso del previsto e si é concluso solo ora, quasi tre mesi dopo la data che mi ero prefisso, e con un risultato purtroppo ben modesto rispetto all'originale svedese.
 
-Ho deciso comunque di rendere disponibile il mio tentativo di traduzione come [ebook in formato EPUB](https://github.com/harisont/blomningstid/raw/master/fioritura.epub) e come qui sul web:
+Ho deciso comunque di rendere disponibile il mio tentativo di traduzione come [ebook in formato EPUB](https://github.com/harisont/blomningstid/raw/master/fioritura.epub) e qui sul web:
 
 - [testo originale svedese](https://harisont.github.io/blomningstid/blomningstid.html)
 - [traduzione](https://harisont.github.io/blomningstid/fioritura.html)
