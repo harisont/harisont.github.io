@@ -30,4 +30,6 @@ langs: ["it"]
 22. Eshkol Nevo, _La simmetria dei desideri_: finalmente un romanzo abbastanza appassionante da perderci il sonno!
 23. Jane Nysted, _Språkbitar_: perfekt frukostbok
 24. Roberto Mercadini, _La donna che rise di Dio_: aneddoti biblici divertenti, ma Mercadini lo preferisco come oratore
-25. Ezio Noto, _La leggenda di Flauto. L'uomo che inventò le frecce fischianti_: Sembra scritto da un bambino che ha appena imparato cos'è il mito.
+25. Ezio Noto, _La leggenda di Flauto. L'uomo che inventò le frecce fischianti_: Sembra scritto da un bambino che ha appena imparato cos'è il mito
+26. Jorge Luis Borges, _La biblioteca de Babel: cuentos selectos y un poema_: unos de los cuentos de esta deliciosa edición alemana (El libro de arena, El otro, Dialogo sobre un dialogo, y el mismo La biblioteca de Babel) me gustaron bastante y me ayudaron a entender qué libros de Borges quiero leer en los próximos años
+27. Olga Ravn, _De ansatte_: jag läste denna danska bok bara med mina kunskaper i svenska och är ganska stolt över detta, men det hade varit mer engagerande att läsa översättningen. Jag tror boken finns till och med på italienska
