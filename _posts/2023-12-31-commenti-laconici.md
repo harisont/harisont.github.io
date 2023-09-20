@@ -35,3 +35,6 @@ langs: ["it"]
 27. Olga Ravn, _De ansatte_: jag läste denna danska bok bara med mina kunskaper i svenska och är ganska stolt över detta, men det hade varit mer engagerande att läsa översättningen. Jag tror boken finns till och med på italienska
 28. Anneli Furmark, _August & jag_: stylig seriebok, men den hade varit roligare om jag hade läst fler svenska klassiker
 29. Umberto Eco, _Il fascismo eterno_: mi ha aiutata a capire meglio l'origine dell'uso corrente del termine "fascismo", ma non convinta al 100%
+30. Tove Jansson, _Stenåkern_: kort roman som verkade väldigt lovande men var egentligen bara okej
+31. Seneca, _La vita felice_: preferisco di gran lunga certe lettere a Lucilio
+32. Zeina Abirached, _Svalornas lek_: självbiografisk serieroman från inbördeskrigets Beirut. Påminner lite om Marjane Satrapis _Persepolis_ men mindre självironisk och grafiskt mer spektakulär
