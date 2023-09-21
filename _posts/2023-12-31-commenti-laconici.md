@@ -38,3 +38,4 @@ langs: ["it"]
 30. Tove Jansson, _Stenåkern_: kort roman som verkade väldigt lovande men var egentligen bara okej
 31. Seneca, _La vita felice_: preferisco di gran lunga certe lettere a Lucilio
 32. Zeina Abirached, _Svalornas lek_: självbiografisk serieroman från inbördeskrigets Beirut. Påminner lite om Marjane Satrapis _Persepolis_ men mindre självironisk och grafiskt mer spektakulär
+32. Marjane Satrapi,_Kyckling med plommon _: hon är verkligen seriemästare.
