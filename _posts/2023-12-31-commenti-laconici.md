@@ -40,4 +40,5 @@ langs: ["it"]
 32. Zeina Abirached, _Svalornas lek_: självbiografisk serieroman från inbördeskrigets Beirut. Påminner lite om Marjane Satrapis _Persepolis_ men mindre självironisk och grafiskt mer spektakulär
 33. Marjane Satrapi, _Kyckling med plommon_: Marjane Satrapi är en riktig seriemästare
 34. Ian Watson, _The embedding_: way too many things happening. Why do I even keep try to read fantalinguistics?
-35. Lisa Wool-Rim Sjöblom, _Den uppgrävda jorden_: ett till exempel på att dokumentära serier fungerar bara bra, även om just denna inte var min favorit. 
+35. Lisa Wool-Rim Sjöblom, _Den uppgrävda jorden_: ett till exempel på att dokumentära serier fungerar bara bra, även om just denna inte var min favorit
+36. Melanie Gillman, _As the crow flies_: I discovered Gillman through Maia Kobabe, who mentiones them being heir comics professor at her university, but I don't _really_ like either of their two comics I've read. This was better than _Other ever afters_, but I still think this is a case where the student surpasses the master
