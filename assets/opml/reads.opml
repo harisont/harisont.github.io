@@ -18,6 +18,7 @@
   <outline type="rss" text="Distill" xmlUrl="https://distill.pub/rss.xml" htmlUrl="https://distill.pub"/>
   <outline type="rss" text="Duolingo Blog" xmlUrl="https://blog.duolingo.com/rss/" htmlUrl="https://blog.duolingo.com/rss/"/>
   <outline type="rss" text="Folk the Algorithms" xmlUrl="https://highnoongmt.wordpress.com/feed.xml" htmlUrl="https://highnoongmt.wordpress.com/feed.xml"/>
+  <outline type="rss" text="forskning.se" xmlUrl="https://www.forskning.se/feed/" htmlUrl="https://www.forskning.se/"/>
   <outline type="rss" text="Gemma Correll - Sketchbook" xmlUrl="https://www.gemmacorrell.com/blogs/news.atom" htmlUrl="https://www.gemmacorrell.com/blogs/news"/>
   <outline type="rss" text="Gemma Correll – The Nib" xmlUrl="https://thenib.com/author/gemma-correll/feed/" htmlUrl="https://thenib.com"/>
   <outline type="rss" text="Giap (WuMing)" xmlUrl="https://www.wumingfoundation.com/giap/feed/" htmlUrl="https://www.wumingfoundation.com/giap/feed/"/>
