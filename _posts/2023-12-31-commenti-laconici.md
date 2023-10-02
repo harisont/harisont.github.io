@@ -42,4 +42,4 @@ langs: ["it"]
 34. Ian Watson, _The embedding_: way too many things happening. Why do I even keep try to read fantalinguistics?
 35. Lisa Wool-Rim Sjöblom, _Den uppgrävda jorden_: ett till exempel på att dokumentära serier fungerar bara bra, även om just denna inte var min favorit
 36. Melanie Gillman, _As the crow flies_: I discovered Gillman through Maia Kobabe, who mentiones them being heir comics professor at her university, but I don't _really_ like either of their two comics I've read. This was better than _Other ever afters_, but I still think this is a case where the student surpasses the master
-37. Tove Jansson, _Vem ska trösta knyttet_: en sådan barnbok som även vuxna gillar
+37. Tove Jansson, _Vem ska trösta knyttet_: knyttet och skruttet påminner mig lite om il boblo e la smacciolina. 
