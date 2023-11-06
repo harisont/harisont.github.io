@@ -44,3 +44,4 @@ langs: ["it"]
 36. Melanie Gillman, _As the crow flies_: I discovered Gillman through Maia Kobabe, who mentiones them being heir comics professor at her university, but I don't _really_ like either of their two comics I've read. This was better than _Other ever afters_, but I still think this is a case where the student surpasses the master
 37. Tove Jansson, _Vem ska trösta knyttet?_: knyttet och skruttet påminner mig lite om il boblo e la smacciolina
 38. Pier Paolo Pasolini, _Il fascismo degli antifascisti_: acuto, ma veramente molto pessimista
+39. Walter Moers, _The city of the dreaming books_: it's a bit like if Douglas Adams had written a novel after graduating from Hogwarts
