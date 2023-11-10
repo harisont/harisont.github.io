@@ -45,3 +45,4 @@ langs: ["it"]
 37. Tove Jansson, _Vem ska trösta knyttet?_: knyttet och skruttet påminner mig lite om il boblo e la smacciolina
 38. Pier Paolo Pasolini, _Il fascismo degli antifascisti_: acuto, ma veramente molto pessimista
 39. Walter Moers, _The city of the dreaming books_: it's a bit like if Douglas Adams had written a novel after graduating from Hogwarts
+40. Velimir Chlebnikov, _47 poesie facili e una difficile_: direi piú 47 poesie difficili e solo una facile, che é poi quella di cui avevo giá parlato [qui](/home/harisont/Repos/harisont/harisont.github.io/_posts/2022-03-29-meaningful-media.md#2-un-bellissimo-video-di-roberto-mercadini-sul-poeta-russo-velimir-chlebnikov-it--sv) 
