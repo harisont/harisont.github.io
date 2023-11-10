@@ -1,5 +1,5 @@
 ---
-title: "Commenti laconici quasi cronologici"
+title: "Commenti lapidari su libri e fumetti vari"
 date: 2023-12-31
 layout: post
 category: "meaningful-media"
