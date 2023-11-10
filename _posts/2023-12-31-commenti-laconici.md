@@ -3,7 +3,7 @@ title: "Commenti lapidari su libri e fumetti vari"
 date: 2023-12-31
 layout: post
 category: "meaningful-media"
-langs: ["it"]
+langs: ["en", "es", "it", "sv"]
 ---
 
 1. Javier Marías, _Mañana en la batalla piensa en mí_: no fue un mal comienzo 
@@ -14,7 +14,7 @@ langs: ["it"]
 6. Massimiliano Bucchi, _Natale di scienza. Storie di scoperte e di stupore_: librino ricco di aneddoti preziosi, letto purtroppo un po' in ritardo
 7. Karin Boye, _Kallocain_: ännu bättre än 1984
 8. Karin Boye, _Ur funktion_: ny favorit novellsamling. Nästan alla av dem stannade kvar i mitt huvud i flera veckor och ibland månader
-9. Seanan McGuire, _Every heart a doorway_: horror-metafantasy, not my thing
+9. Seanan McGuire, _Every heart a doorway_: not my thing
 10. Melanie Gillman, _Other ever afters_: nicely illustrated queer fairy tales, some of which I find slightly problematic
 11. Padraic O'Farrell, _Ancient Irish legends_: cool legends, poor storytelling
 12. Ejnar Fors Bergström, _Den faröiska boken_: intressant men förutsätter goda kunskaper i 4 olika nordiska språk
@@ -24,7 +24,7 @@ langs: ["it"]
 16. Luigi Ghirri, _Lezioni di fotografia_: pur non nascendo come un libro è il miglior libro sulla fotografia che io abbia mai letto
 17. Valentino Zeichen, _Poesie_: per la maggior parte brevi, razionali, ironiche ed iconiche
 18. Eugenia Cheng, _x + y_: part 1 resonated a lot with me, part 2 made me angry
-19. Maia Kobabe, _Gender queer: a memoir_: 4th read still great 
+19. Maia Kobabe, _Gender queer: a memoir_: 4th read, still great 
 20. Astrid Lindgren, _Ronja Rövardotter_: ganska intensiv barnbok med vackra illustrationer. Så trevligt att lyssna på Astrid Lindgrens ljudbok medan man läser också
 21. Anneli Furmark, _Gå med mig till hörnet_: värt att läsa igen på svenska
 22. Eshkol Nevo, _La simmetria dei desideri_: finalmente un romanzo abbastanza appassionante da perderci il sonno!
@@ -39,10 +39,10 @@ langs: ["it"]
 31. Seneca, _La vita felice_: preferisco di gran lunga certe lettere a Lucilio
 32. Zeina Abirached, _Svalornas lek_: självbiografisk serieroman från inbördeskrigets Beirut. Påminner lite om Marjane Satrapis _Persepolis_ men mindre självironisk och grafiskt mer spektakulär
 33. Marjane Satrapi, _Kyckling med plommon_: Marjane Satrapi är en riktig seriemästare
-34. Ian Watson, _The embedding_: way too many things happening. Why do I even keep try to read fantalinguistics?
+34. Ian Watson, _The embedding_: why do I even keep try to read fantalinguistics?
 35. Lisa Wool-Rim Sjöblom, _Den uppgrävda jorden_: ett till exempel på att dokumentära serier fungerar bara bra, även om just denna inte var min favorit
 36. Melanie Gillman, _As the crow flies_: I discovered Gillman through Maia Kobabe, who mentiones them being heir comics professor at her university, but I don't _really_ like either of their two comics I've read. This was better than _Other ever afters_, but I still think this is a case where the student surpasses the master
 37. Tove Jansson, _Vem ska trösta knyttet?_: knyttet och skruttet påminner mig lite om il boblo e la smacciolina
-38. Pier Paolo Pasolini, _Il fascismo degli antifascisti_: acuto, ma veramente molto pessimista
+38. Pier Paolo Pasolini, _Il fascismo degli antifascisti_: estremamente scoraggiante
 39. Walter Moers, _The city of the dreaming books_: it's a bit like if Douglas Adams had written a novel after graduating from Hogwarts
 40. Velimir Chlebnikov, _47 poesie facili e una difficile_: direi piú 47 poesie difficili e solo una facile, che é poi quella di cui avevo giá parlato [qui](/home/harisont/Repos/harisont/harisont.github.io/_posts/2022-03-29-meaningful-media.md#2-un-bellissimo-video-di-roberto-mercadini-sul-poeta-russo-velimir-chlebnikov-it--sv) 
