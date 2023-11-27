@@ -48,3 +48,4 @@ langs: ["en", "es", "it", "sv"]
 40. Velimir Chlebnikov, _47 poesie facili e una difficile_: direi piú 47 poesie difficili e solo una facile, che é poi quella di cui avevo giá parlato [qui](/home/harisont/Repos/harisont/harisont.github.io/_posts/2022-03-29-meaningful-media.md#2-un-bellissimo-video-di-roberto-mercadini-sul-poeta-russo-velimir-chlebnikov-it--sv) 
 41. Daniel Ahlgren, _För fin för denna världen_: som Zerocalcare sade i en intervju är tecknade serier inte nödvändigtvis lättare att läsa än "riktiga" böcker
 42. Mark Twain, _Die schreckliche deutsche Sprache_ (parallel English-German edition): language satire, always fun
+43. Gianni Rodari, _Il libro degli errori_: il mio preferito da bambina, ma i brani in versi non mi hanno altrettanto convinta da adulta.
