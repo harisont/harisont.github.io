@@ -42,10 +42,12 @@ langs: ["en", "es", "it", "sv"]
 34. Ian Watson, _The embedding_: why do I even keep try to read fantalinguistics?
 35. Lisa Wool-Rim Sjöblom, _Den uppgrävda jorden_: ett till exempel på att dokumentära serier fungerar bara bra, även om just denna inte var min favorit
 36. Melanie Gillman, _As the crow flies_: I discovered Gillman through Maia Kobabe, who mentiones them being heir comics professor at her university, but I don't _really_ like either of their two comics I've read. This was better than _Other ever afters_, but I still think this is a case where the student surpasses the master
-37. Tove Jansson, _Vem ska trösta knyttet?_: knyttet och skruttet påminner mig lite om il boblo e la smacciolina
-38. Pier Paolo Pasolini, _Il fascismo degli antifascisti_: estremamente scoraggiante
-39. Walter Moers, _The city of the dreaming books_: it's a bit like if Douglas Adams had written a novel after graduating from Hogwarts
-40. Velimir Chlebnikov, _47 poesie facili e una difficile_: direi piú 47 poesie difficili e solo una facile, che é poi quella di cui avevo giá parlato [qui](/home/harisont/Repos/harisont/harisont.github.io/_posts/2022-03-29-meaningful-media.md#2-un-bellissimo-video-di-roberto-mercadini-sul-poeta-russo-velimir-chlebnikov-it--sv) 
-41. Daniel Ahlgren, _För fin för denna världen_: som Zerocalcare sade i en intervju är tecknade serier inte nödvändigtvis lättare att läsa än "riktiga" böcker
-42. Mark Twain, _Die schreckliche deutsche Sprache_ (parallel English-German edition): language satire, always fun
-43. Gianni Rodari, _Il libro degli errori_: il mio preferito da bambina, ma i brani in versi non mi hanno altrettanto convinta da adulta.
+37. Elaf Ali, _Vem har sagt något om kärlek?_ (lättläst version): grupphögläsning på grannskapsbiblioteket ([Vuxna i lärande](https://goteborg.se/wps/portal/enhetssida/vuxna-i-larande-)). Ganska klokt textval för kontexten, tycker jag
+38. Tove Jansson, _Vem ska trösta knyttet?_: knyttet och skruttet påminner mig lite om il boblo e la smacciolina
+39. Pier Paolo Pasolini, _Il fascismo degli antifascisti_: estremamente scoraggiante
+40. Walter Moers, _The city of the dreaming books_: it's a bit like if Douglas Adams had written a novel after graduating from Hogwarts
+41. Velimir Chlebnikov, _47 poesie facili e una difficile_: direi piú 47 poesie difficili e solo una facile, che é poi quella di cui avevo giá parlato [qui](/home/harisont/Repos/harisont/harisont.github.io/_posts/2022-03-29-meaningful-media.md#2-un-bellissimo-video-di-roberto-mercadini-sul-poeta-russo-velimir-chlebnikov-it--sv) 
+42. Daniel Ahlgren, _För fin för denna världen_: som Zerocalcare sade i en intervju är tecknade serier inte nödvändigtvis lättare att läsa än "riktiga" böcker
+43. Mark Twain, _Die schreckliche deutsche Sprache_ (parallel English-German edition): language satire, always fun
+44. Gianni Rodari, _Il libro degli errori_: il mio preferito da bambina, ma i brani in versi non mi hanno altrettanto convinta da adulta
+45. Tove Jansson, _Trollvintern_: ganska mysigt att läsa högt med en vän en vinterkväll
