@@ -3,7 +3,7 @@ title: Research
 layout: base
 ---
 
-I'm currently doing a PhD in Language Technology at [Språkbanken Text](https://spraakbanken.gu.se/) ([University of Gothenburg](https://www.gu.se/)), where I'm supervised by [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
+I'm currently doing a PhD in Natural Language Processing at [Språkbanken Text](https://spraakbanken.gu.se/) ([University of Gothenburg](https://www.gu.se/)), where I'm supervised by [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
 
 My main area of interest is __Computer-Assisted Language Learning__, with a focus on __L2 grammar acquisition__.
 I'm currently working on developing tools to analyze grammatical error patterns in learner corpora. 
