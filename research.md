@@ -3,17 +3,15 @@ title: Research
 layout: base
 ---
 
-I'm currently doing a PhD in Natural Language Processing at [Språkbanken Text](https://spraakbanken.gu.se/) ([University of Gothenburg](https://www.gu.se/)), where I'm supervised by [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
+I am PhD student in Natural Language Processing at [Språkbanken Text](https://spraakbanken.gu.se/), at the [department of Swedish, Multilingualism and Language Technology](https://www.gu.se/en/swedish) of the [University of Gothenburg](https://www.gu.se/).
+My supervisors are [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
 
-My main area of interest is __Computer-Assisted Language Learning__, with a focus on __L2 grammar acquisition__.
-I'm currently working on developing tools to analyze grammatical error patterns in learner corpora. 
+My main areas of interests are __computational syntax__ and __Computer-Assisted Language Learning__.
+Currently, I am working on tools for parallel [UD](https://universaldependencies.org/) corpora and on automatic linguistic annotation of learner essays.
 
-I am very enthusiastic about interlingual approaches and particularly enjoy working with [Universal Dependencies](https://universaldependencies.org/) and [Grammatical Framework](https://www.grammaticalframework.org/).
-
-## Links
-- acedemic email: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
 - [curriculum vitae](https://github.com/harisont/cv/raw/master/cv.pdf)
 - [academic page](https://spraakbanken.gu.se/om/personal/arianna)
+- institutional email: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
 
 ## Publications
 - __Arianna Masciolini__ and Márton A. Tóth (equal contributions). _STUnD: ett Sökverktyg för Tvåspråkiga Universal Dependencies-trädbanker_. In Proceedings of the Huminfra Conference (HiC 2024), pages 95-109, Gothenburg, Sweden, 2024 [[pdf]](https://ecp.ep.liu.se/index.php/hic/article/view/897/805) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/stund.bib) [[code]](https://github.com/harisont/STUnD)
