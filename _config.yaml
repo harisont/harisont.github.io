@@ -8,9 +8,9 @@ description: >
 
 header_pages:
   - research.md
-  - projects.md
+  - sw.md
+  - other.md
   - blog.md
-  - for_a_selected_few.md
 
 show_excerpts: false
 

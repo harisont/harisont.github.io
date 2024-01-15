@@ -4,32 +4,20 @@ layout: base
 ---
 
 ### ¡Ciao, hi, hej and hola!
-My name is Arianna, I'm an aspiring computational linguist and my pronouns are `PronType=Prs|Number=Sing|Gender=Fem`[^1].
-
+I'm Arianna ([`PronType=Prs|Number=Sing|Gender=Fem`](https://universaldependencies.org/u/feat/index.html)) and I'm an aspiring computational linguist.
 
 ### Long story short
-I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.1399/12.3691) thinking I was good at languages and bad at counting.
-Nonetheless, after high school I figured I'd ~~torture~~ challenge myself and study Computer Science.
-Against all odds, mostly thanks to [great company](https://github.com/orgs/dis-org/people), I managed to get a Bachelor's degree and fall in love with the subject in the meantime.
-I re-discovered language by taking a course about compilers and suddenly found myself in [Gothenburg](https://www.openstreetmap.org/node/25930131) together with my former _sambo_[^2] [K.](https://harisont.github.io/kappanneu/), studying Language Technology. Immediately after that, I spent some months working at a local language technology company, [Digital Grammars](https://www.digitalgrammars.com/). Despite that being a lot of fun, I soon went back to university, where I'm currently a _dottorandessa_[^3] at [Språkbanken Text](https://spraakbanken.gu.se/).
+###### (if you want the boring version, take a look at my [CV](https://github.com/harisont/cv/raw/master/cv.pdf))
+I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.1399/12.3691), where I spent my teen years using my language skills to hide my total lack of mathematical knowledge.
+After graduating high school, I figured I'd ~~punish~~ challenge myself and enroll in a Computer Science program. which against all odds I ended up completing and thoroughly enjoying, both mostly thanks to great company.
+During this process, I accidentally re-discovered language through a course on compilers and, without even realizing it, I had moved to [Gothenburg](https://www.openstreetmap.org/node/25930131) together with my former _sambo_[^1] [K.](https://harisont.github.io/kappanneu/).
+While I was telling myself and everyone else that I was there for a two-year Master's in Language Technology, it's been over 5 years and I'm still here: after graduation and a short but fun time at [Digital Grammars](https://www.digitalgrammars.com/), I embarked in the even longer-term project of a PhD in Natural Language Processing. 
 
-### Stuff I do, did, will and don't
-When I'm not writing [papers](research.md#publications), I scribble [random blog posts and silly rhymes](blog.md) in various languages.<br>
-When I'm not working on my [PhD project software](https://github.com/harisont/L2-UD), I try to maintain a number of more-or-less useless [open source tools](projects.md#software).<br>
-When I'm not teaching in a classroom, I procrastinate on completing my [basic Haskell online course](projects.md#tutorials). 
-
-I have a love-hate relationship with music making: after years of unrequited love with piano playing, followed by a bad breakup with [a cappella singing](https://www.youtube.com/watch?v=FaMoZsXScj0), I've been romantically involved with several wind instruments, but I clearly have committment issues.
-I briefly dated with [Euterpea](https://github.com/lcdsa/geb) and other [music software](https://github.com/stars/harisont/lists/musica-maestro-musical-note) too, but it always turned out to be just a crush.
-
-I don't see myself as a very visual person, but [photography](projects.md#photography) is my most serious hobby.
-I can't play videogames, but I take certain board games very seriously.
-Team sports make me cry, but I really love running, rock climbing and all sorts of human-powered wheeled vehicles.
-I hate reading fantasy, but I welcome tips about books and comics within any other genre.
-I never lasted longer than six episodes of a TV series, but I'm always up for a good movie (even more so if it's animated and weird).
-I really, really, _really_ hate phone calls, but I always answer [email](mailto:arianna.masciolini@gmail.com) (eventually).
+I'm currently a _dottorandessa_[^2] at [Språkbanken Text](https://spraakbanken.gu.se/), under the supervision of [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
+My main areas of interest are __computational syntax__ and __Computer-Assisted Language Learning__, with a focus on L2 grammar acquisition.
+Currently, I am working on tools for parallel treebanks and parsing learner essays.
 
 ---
 
-[^1]: Morphological features in order of perceived importance. Click [here](https://universaldependencies.org/u/feat/index.html) if you need a hint
-[^2]: [Swedish] _sam_ ("with") + _bo_ ("live") = cohabitating partner
-[^3]: [Italian] feminine form of the word _dottorando_ ("PhD student"), at least according to my mom. I suspect there is some irony involved.
+[^1]: [Swedish] _sam_ ("with") + _bo_ ("live") = cohabitating partner
+[^2]: [Italian] the feminine form of the word _dottorando_ ("PhD student"), at least according to my mom.

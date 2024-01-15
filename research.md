@@ -3,17 +3,14 @@ title: Research
 layout: base
 ---
 
-I am PhD student in Natural Language Processing at [Språkbanken Text](https://spraakbanken.gu.se/), at the [department of Swedish, Multilingualism and Language Technology](https://www.gu.se/en/swedish) of the [University of Gothenburg](https://www.gu.se/).
-My supervisors are [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
+## Research interests
+- computational syntax
+- dependency parsing
+- interlingual approaches (I work mostly with [UD](universaldependencies.org) and [GF](grammaticalframework.org))
+- Computer-Assisted Language Learning
+- Second Language Acquisition
 
-My main areas of interest are __computational syntax__ and __Computer-Assisted Language Learning__.
-Currently, I am working on tools for parallel [UD](https://universaldependencies.org/) corpora and parsing learner essays.
-
-- [curriculum vitae](https://github.com/harisont/cv/raw/master/cv.pdf)
-- [academic page](https://spraakbanken.gu.se/om/personal/arianna)
-- institutional email: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
-
-## Publications
+## Scientific publications
 - __Arianna Masciolini__ and Márton A. Tóth (equal contributions). _STUnD: ett Sökverktyg för Tvåspråkiga Universal Dependencies-trädbanker_. In Proceedings of the Huminfra Conference (HiC 2024), pages 95-109, Gothenburg, Sweden, 2024 [[pdf]](https://ecp.ep.liu.se/index.php/hic/article/view/897/805) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/stund.bib) [[code]](https://github.com/harisont/STUnD)
 - __Arianna Masciolini__, Elena Volodina, and Dana Dannélls. _Towards automatically extracting morphosyntactical error patterns from L1-L2 parallel dependency treebanks_. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), pages 585–597, Toronto, Canada, 2023 [[pdf]](https://aclanthology.org/2023.bea-1.50.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/bea23.bib) [[code]](https://github.com/harisont/L2-UD)
 - __Arianna Masciolini__. _A query engine for L1-L2 parallel dependency treebanks_. In The 24rd Nordic Conference on Computational Linguistics, 2023 [[pdf]](https://aclanthology.org/2023.nodalida-1.57.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/l1l2_query.bib) [[code]](https://github.com/harisont/L2-UD)
@@ -33,3 +30,8 @@ Currently, I am working on tools for parallel [UD](https://universaldependencies
 - _Grammar-based concept alignment for domain-specific Machine Translation_. Paper presentation at the [7th International Workshop on Controlled Natural Language (CNL 2020/21)](http://www.sigcnl.org/cnl2020.html) (online) on September 8, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/paper/slides/presentation.pdf)
 - _Concept Alignment for Multilingual
 Machine Translation_. Invited talk at the [7th Grammatical Framework Summer School](http://school.grammaticalframework.org/2021/) (online) on August 4, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/summer-school/presentation.pdf) [[video]](https://youtu.be/h2GR7RbghnE?t=4104)
+
+## Teaching
+Since 2019, I've been a teaching in several Haskell and Python bachelor-level programming courses and in the [Computational Syntax](https://www.gu.se/en/study-gothenburg/computational-syntax-lt2214) course of the Master in Language Technology at the University of Gothenburg.
+
+###### (see also my [academic page](https://spraakbanken.gu.se/en/about/staff/arianna))
