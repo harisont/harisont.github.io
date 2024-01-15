@@ -6,7 +6,7 @@ layout: base
 ## Research interests
 - computational syntax
 - dependency parsing
-- interlingual approaches (I work mostly with [UD](universaldependencies.org) and [GF](grammaticalframework.org))
+- interlingual approaches (I work mostly with [UD](https://universaldependencies.org/) and [GF](https://www.grammaticalframework.org/))
 - Computer-Assisted Language Learning
 - Second Language Acquisition
 
