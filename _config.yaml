@@ -7,9 +7,9 @@ description: >
   harisont's personal website and chaotically multilingual blog.
 
 header_pages:
-  - blog.md
   - research.md
   - projects.md
+  - blog.md
   - for_a_selected_few.md
 
 show_excerpts: false
