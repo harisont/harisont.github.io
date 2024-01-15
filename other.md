@@ -18,7 +18,7 @@ In the last few years, my focus has switched from individual shots to slightly m
 Aside from academic writing, my [__blog__](blog.md) is home to silly rhymes, comments on whatever books and comics I read and many more scribbles.
 In the future, I would like to try to do more popular science content.
 
-I have also contributed to the Italian translation of various things on the web, for instance [Nicky Case's interactive article _What happens next?_](https://harisont.github.io/covid-19/) and more recently [Karin Boye's short story _Blomninstid_](https://harisont.github.io/traduzioni/2023/08/18/blomningstid.html).
+I have also contributed to the Italian translation of various things on the web, for instance [Nicky Case's interactive article _What happens next?_](https://harisont.github.io/covid-19/) and more recently [Karin Boye's short story _Blomningstid_](https://harisont.github.io/traduzioni/2023/08/18/blomningstid.html).
 
 ## Sports
 I used to run quite a lot, but as of now I'm more into all sorts of human-powered wheeled vehicles.
