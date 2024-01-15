@@ -32,4 +32,6 @@ Despite a frustrating amount of failures to learn how to play a variety of music
 
 Since I can't really play any instrument as of now, I have of course also tried to instruct my computer to do that for me. [In Haskell](https://github.com/lcdsa/geb).
 
+---
+
 [^1]: [Italian] lit. _sunday climber_ (that is, hobby climber, but with a slightly negative connotation. In my case, I both suck at climbing and usually go climbing on Sunday mornings)
