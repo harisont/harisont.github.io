@@ -6,8 +6,8 @@ layout: base
 I am PhD student in Natural Language Processing at [Språkbanken Text](https://spraakbanken.gu.se/), at the [department of Swedish, Multilingualism and Language Technology](https://www.gu.se/en/swedish) of the [University of Gothenburg](https://www.gu.se/).
 My supervisors are [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
 
-My main areas of interests are __computational syntax__ and __Computer-Assisted Language Learning__.
-Currently, I am working on tools for parallel [UD](https://universaldependencies.org/) corpora and on automatic linguistic annotation of learner essays.
+My main areas of interest are __computational syntax__ and __Computer-Assisted Language Learning__.
+Currently, I am working on tools for parallel [UD](https://universaldependencies.org/) corpora and parsing learner essays.
 
 - [curriculum vitae](https://github.com/harisont/cv/raw/master/cv.pdf)
 - [academic page](https://spraakbanken.gu.se/om/personal/arianna)
@@ -21,7 +21,7 @@ Currently, I am working on tools for parallel [UD](https://universaldependencies
 - __Arianna Masciolini__ and Aarne Ranta. _Grammar-based concept alignment for domain-specific Machine Translation_. In Proceedings of the 7th International Workshop on Controlled Natural Language (CNL 2020/21), 2021 [[pdf]](https://aclanthology.org/2021.cnl-1.2.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/ca.bib) [[code]](https://github.com/harisont/concept-alignment) 
 
 ## Other writings
-- _[Korp tips and tricks: using CQP labels to search for dependency structures](https://spraakbanken.gu.se/blogg/20231009-korp-tips-and-tricks-using-cqp-labels-to-search-for-dependency-structures)_ (post on the [Språkbanken text blog](https://spraakbanken.gu.se/blogg))
+- _[Korp tips and tricks: using CQP labels to search for dependency structures](https://spraakbanken.gu.se/blogg/20231009-korp-tips-and-tricks-using-cqp-labels-to-search-for-dependency-structures)_ (blog post on the [Språkbanken text blog](https://spraakbanken.gu.se/blogg))
 
 ## Talks
 - _STUnD i användning​ - presens perfekt i svenska och engelska_. Joint paper presentation with Márton A. Tóth​ at the [Huminfra conference (HiC 2024)](https://www.huminfra.se/HiC-2024) (Gothenburg, Sweden) on January 11, 2024
