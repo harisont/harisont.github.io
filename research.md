@@ -4,8 +4,8 @@ layout: base
 ---
 
 ## Research interests
-- computational syntax
 - dependency parsing
+- grammar engineering
 - interlingual approaches (I work mostly with [UD](https://universaldependencies.org/) and [GF](https://www.grammaticalframework.org/))
 - Computer-Assisted Language Learning
 - Second Language Acquisition
