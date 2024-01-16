@@ -1,11 +1,11 @@
 ---
-title: Other interests
+title: More
 layout: base
 ---
 
 ## Photography
 I have been passionate about photography since age 8.
-In the last few years, my focus has switched from individual shots to small projects, resulting in:
+In the last few years, my focus has switched from individual shots to small projects, such as:
 
 - [__Postcards from Gothenburg__](https://harisont.github.io/postcards-from-gothenburg/), a project for a summer course at the University of Gothenburg and luckily also the only website I've ever had to write from scratch
 - [__@unottica__](https://www.instagram.com/unottica/), an abandoned attempt to find consistent a personal style
@@ -18,7 +18,7 @@ In the last few years, my focus has switched from individual shots to small proj
 Aside from academic writing, my [__blog__](blog.md) is home to silly rhymes, comments on whatever books and comics I read and many more scribbles.
 In the future, I would like to try to do more popular science content.
 
-I have also contributed to the Italian translation of various things on the web, for instance [Nicky Case's interactive article _What happens next?_](https://harisont.github.io/covid-19/) and more recently [Karin Boye's short story _Blomningstid_](https://harisont.github.io/traduzioni/2023/08/18/blomningstid.html).
+I have also contributed to the __Italian translation__ of various things on the web, for instance [Nicky Case's interactive article _What happens next?_](https://harisont.github.io/covid-19/) and more recently [Karin Boye's short story _Blomningstid_](https://harisont.github.io/traduzioni/2023/08/18/blomningstid.html).
 
 ## Music
 Despite several failures to learn how to play different musical instruments, I've been part of innumerable choirs and two smaller vocal ensembles:
