@@ -9,7 +9,7 @@ description: >
 header_pages:
   - research.md
   - sw.md
-  - other.md
+  - more.md
   - blog.md
 
 show_excerpts: false
