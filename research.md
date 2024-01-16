@@ -3,10 +3,10 @@ title: Research
 layout: base
 ---
 
-- __areas of interest__: dependency parsing, grammar engineering, interlingual approaches, Computer-Assisted Language Learning, Second Language Acquisition
-- __current position__: PhD student at [Språkbanken Text](https://spraakbanken.gu.se/) (Department of Swedish, Multilingualism, Language Technology, University of Gothenburg) (see also my [employee page](https://spraakbanken.gu.se/en/about/staff/arianna))
-- __supervisors__: [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana)
-- __contact__: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
+- __Areas of interest__: dependency parsing, grammar engineering, interlingual approaches, Computer-Assisted Language Learning, Second Language Acquisition
+- __Current position__: PhD student at [Språkbanken Text](https://spraakbanken.gu.se/) (Department of Swedish, Multilingualism, Language Technology, University of Gothenburg) (see also my [employee page](https://spraakbanken.gu.se/en/about/staff/arianna))
+- __Supervisors__: [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana)
+- __Contact__: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
 
 ## Scientific publications
 - __Arianna Masciolini__ and Márton A. Tóth (equal contributions). _STUnD: ett Sökverktyg för Tvåspråkiga Universal Dependencies-trädbanker_. In Proceedings of the Huminfra Conference (HiC 2024), pages 95-109, Gothenburg, Sweden, 2024 [[pdf]](https://ecp.ep.liu.se/index.php/hic/article/view/897/805) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/stund.bib) [[code]](https://github.com/harisont/STUnD)
