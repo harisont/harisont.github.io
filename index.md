@@ -12,10 +12,7 @@ I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.13
 After graduating high school, I figured I'd ~~punish~~ challenge myself and enroll in a Computer Science program. which against all odds I ended up completing and thoroughly enjoying, both mostly thanks to great company.
 During this process, I accidentally re-discovered language through a course on compilers and, without even realizing it, I had moved to [Gothenburg](https://www.openstreetmap.org/node/25930131) together with my former _sambo_[^1] [K.](https://harisont.github.io/kappanneu/).
 While I was telling myself and everyone else that I was there for a two-year Master's in Language Technology, it's been over 5 years and I'm still here: after graduation and a short but fun time at [Digital Grammars](https://www.digitalgrammars.com/), I embarked in the even longer-term project of a PhD in Natural Language Processing. 
-
-I'm currently a _dottorandessa_[^2] at [Språkbanken Text](https://spraakbanken.gu.se/), under the supervision of [Elena Volodina](https://spraakbanken.gu.se/om/personal/elena) and [Dana Dannélls](https://spraakbanken.gu.se/om/personal/dana).
-My main areas of interest are __computational syntax__ and __Computer-Assisted Language Learning__, with a focus on L2 grammar acquisition.
-Currently, I am working on tools for parallel treebanks and parsing learner essays.
+I'm now a _dottorandessa_[^2] at [Språkbanken Text](https://spraakbanken.gu.se/), currently working on tools for parallel treebanks and automatic linguistic annotation of learner essays.
 
 ---
 
