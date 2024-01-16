@@ -4,7 +4,7 @@ layout: base
 ---
 
 ### ¡Ciao, hi, hej and hola!
-I'm Arianna ([`PronType=Prs|Number=Sing|Gender=Fem`](https://universaldependencies.org/u/feat/index.html)) and I'm an aspiring computational linguist.
+I'm Arianna ([`PronType=Prs|Number=Sing|Gender=Fem`](https://universaldependencies.org/u/feat/index.html)) and I'm an aspiring [computational linguist](research.md) with [too many hobbies](more.md).
 
 ### Long story short
 ###### (if you want the boring version, take a look at my [CV](https://github.com/harisont/cv/raw/master/cv.pdf))
