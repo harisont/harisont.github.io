@@ -12,9 +12,9 @@ layout: base
 
 I have also contributed to:
 
-- the [Lärka](https://spraakbanken.gu.se/larkalabb/) language learning platform
-- the [gf-ud](https://github.com/GrammaticalFramework/gf-ud) toolkit for dependency trees and GF-UD conversions
-- (minimally) the Italian [GF RGL](https://github.com/GrammaticalFramework/gf-rgl).
+- the [__Lärka__](https://spraakbanken.gu.se/larkalabb/) language learning platform
+- the [__gf-ud__](https://github.com/GrammaticalFramework/gf-ud) toolkit for dependency trees and GF-UD conversions
+- (minimally) the __Italian [GF RGL](https://github.com/GrammaticalFramework/gf-rgl)__.
 
 ## LaTeX themes & templates
 - [__lucid__](https://github.com/harisont/lucid), the beamer theme I use for 100% of my presentations since 2018, recently revamped
