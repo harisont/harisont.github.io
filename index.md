@@ -20,4 +20,4 @@ Currently, I am working on tools for parallel treebanks and parsing learner essa
 ---
 
 [^1]: [Swedish] _sam_ ("with") + _bo_ ("live") = cohabitating partner
-[^2]: [Italian] the feminine form of the word _dottorando_ ("PhD student"), at least according to my mom.
+[^2]: [Italian] what my mom decided the feminine form of the word _dottorando_ ("PhD student") is.
