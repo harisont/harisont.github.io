@@ -45,6 +45,10 @@ Here, animation, which largely consists of animated photographs, becomes the per
 Although also dealing with a difficult theme (in this case, immigration), _The Island_ is a completely different work: a chaotic, psychedelic musical that left me moderately confused.
 Still, not easy to forget.
 
+#### [_Flee_ (2021)](https://en.wikipedia.org/wiki/Flee_(film))
+_Flee_ is a documentary/animated interview, recounting the life of an Afghan refugee in Denmark.
+Together with _Cinema Pameer_, a Swedish documentary about an Afghan cinema, this was the best movie I watched at the 2021 (online) edition of the Göteborg Film Festival.
+
 #### [_Aurora's sunrise_ (2022)](https://en.wikipedia.org/wiki/Aurora%27s_Sunrise)
 _Aurora's sunrise_ is again a documentary about the Armenian Genocide survivor Aurora Mardiganian.
 While this is not one of my personal favorites, the story told in this movie is truly unbelievable and the animation objectively very well done.
