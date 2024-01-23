@@ -9,7 +9,7 @@ It's that time of the year again: the [Göteborg Film Festival](https://goteborg
 
 I'm not looking for major children's cartoon productions.
 Rather, I am interested in the kind of animation I was first exposed to back in (probably) 2012 at [Rabbitfest](https://filmfreeway.com/Rabbitfest), in Perugia.
-I am forever grateful that my hometown had such a unique festival, entirely dedicated to independent animation and, for once[^1], mostly targeting adults.
+I am forever grateful that my hometown used to (_sigh!_) have such a unique festival, entirely dedicated to independent animation and, for once[^1], mostly targeting adults.
 It introduced me to what for me was a completely new genre, and I enjoyed it to the point that it inspired me to organize a _cineforum_[^2] at my high school.
 
 Before the beginning of this year's edition of the festival, I want to share some of the memorable independent animated feature films[^3] I have watched until now.
@@ -26,7 +26,7 @@ Watching it, it really felt like the character from the comic were coming to lif
 #### [_Mary and Max_ (2009)](https://en.wikipedia.org/wiki/Mary_and_Max)
 I watched _Mary and Max_ at my first Rabbitfest and never rewatched it since, but I clearly remember it as one of the heaviest films of my teen years.
 I somehow visually associate it with Pixar's [_Up_](https://en.wikipedia.org/wiki/Up_(2009_film)), (which I have never watched the in its entirety), even if the former is in stop-motion and the latter computer-animated (turns out the premiered in the same year).
-_Mary and Max_ is however a much darker movie, dealing with depression, anxiety and alcoholism, all through the story of a long-distance friendship between an eight-year-old girl and a middle-aged autistic adult (so much for those who say animation isn't well suited for serious matters!). 
+_Mary and Max_ is however a much darker movie, dealing with depression, anxiety and alcoholism, all through the story of a long-distance friendship between a lonely eight-year-old girl and a middle-aged autistic adult (so much for those who say animation isn't well suited for serious matters!). 
 I do not remember how the movie ends.
 
 #### [_Alois Nebel_ (2011)](https://en.wikipedia.org/wiki/Alois_Nebel)
