@@ -1,6 +1,6 @@
 ---
 title: "Weird animated movies"
-date: 2023-01-23
+date: 2024-01-23
 layout: post
 langs: ["en"]
 ---
