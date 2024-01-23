@@ -47,7 +47,7 @@ Still, not easy to forget.
 
 #### [_Flee_ (2021)](https://en.wikipedia.org/wiki/Flee_(film))
 _Flee_ is a documentary/animated interview, recounting the life of an Afghan refugee in Denmark.
-Together with _Cinema Pameer_, a Swedish documentary about an Afghan cinema, this was the best movie I watched at the 2021 (online) edition of the Göteborg Film Festival.
+Animation-wise, this is not that special, but the content is interesting and, together with _Cinema Pameer_ (a Swedish documentary about an Afghan cinema), this was the best movie I watched at the 2021 (online) edition of the Göteborg Film Festival.
 
 #### [_Aurora's sunrise_ (2022)](https://en.wikipedia.org/wiki/Aurora%27s_Sunrise)
 _Aurora's sunrise_ is again a documentary about the Armenian Genocide survivor Aurora Mardiganian.
