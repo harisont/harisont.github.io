@@ -14,7 +14,8 @@ layout: base
 I have also contributed to:
 
 - the [__Lärka__](https://spraakbanken.gu.se/larkalabb/) language learning platform
-- the [__gf-ud__](https://github.com/GrammaticalFramework/gf-ud) toolkit for dependency trees and GF-UD conversions
+- the UD portion of [__gf-ud__](https://github.com/GrammaticalFramework/gf-ud) toolkit for dependency trees and GF-UD conversions
+- [__deptreepy__](https://github.com/aarneranta/deptreepy/), a Python port of part of __gf-ud__, where I re-implemented tree visualizations
 - (minimally) the __Italian [GF RGL](https://github.com/GrammaticalFramework/gf-rgl)__.
 
 ## LaTeX themes & templates
