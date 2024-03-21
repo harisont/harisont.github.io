@@ -30,4 +30,10 @@ layout: base
 Machine Translation_. Invited talk at the [7th Grammatical Framework Summer School](http://school.grammaticalframework.org/2021/) (online) on August 4, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/summer-school/presentation.pdf) [[video]](https://youtu.be/h2GR7RbghnE?t=4104)
 
 ## Teaching
-Since 2019, I've been a teaching in several Haskell and Python bachelor-level programming courses and in the [Computational Syntax](https://www.gu.se/en/study-gothenburg/computational-syntax-lt2214) course of the Master in Language Technology at the University of Gothenburg.
+Since 2019, I've been a teaching assistant in several Haskell and Python bachelor-level programming courses, as well as in the Computational Syntax course of the Master in Language Technology at the University of Gothenburg.
+In 2023, I have also been co-course responsible for the Introduktion till Programmering summer course at the Chalmers University of technology.  
+
+### Special topic lectures
+- _Dependency grammar and Universal Dependencies: an introduction and annotation exercise_. Part the Syntax 2 course at the University of Gothenburg, Sweden, on March 4, 2024 [[slides]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/slides/syn2-ud.pdf)
+- _Python in Natural Language Processing_. Part of the Advanced Programming in Python course (DAT/DIT515) at the Computer Science and Engineering department of the Chalmers University of Technology/University of Gothenburg, Sweden, on December 5, 2023 [[slides and code]](https://github.com/harisont/advpy_nlp)
+- _Artificiell intelligens och maskininlärning_. Part of the Introduktion till Programmering i Python summer course (DAT455) at the Chalmers University of Technology (online), on July 31, 2023. [[slides]](https://docs.google.com/presentation/d/1xBb9-i-xskzZcI5f0O4lo-N7mlCloPnG-6M4g-6jW34/edit?usp=sharing)
