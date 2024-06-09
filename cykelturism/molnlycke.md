@@ -12,5 +12,5 @@ langs: ["sv"]
 | --- | --- | --- |
 | 30 april 2024 | 33 km | hög |
 
-Min första gång i __Mölnlycke__ med Nelia. 
+Min första gång i __Mölnlycke__. 
 Trevlig sällskap och område, det var blommor överallt, rekommenderar varmt att cykla genom __Delsjöområdet__.

@@ -22,7 +22,7 @@ Förra året cyklade jag till exempel till två vackra västkustöar: Särö, sl
 I år har jag tillsammans med mina vänner Herb och Nelia ökat både frekvensen och ambitionen på mina cykelresor och bestämt mig för att försöka dokumentera dem i hopp om att inspirera andra göteborgare.
 Här nere kan du läsa om våra cykeläventyr:
 
-1. [Den stora Påskresan: Alingsås och Borås](../cykelturism/paskresan.html)
+1. [Den stora Påskresan: Alingsås och Borås](https://harisont.github.io/cykelturism/paskresan.html)
 2. [Kåhög och Jonsered](https://harisont.github.io/cykelturism/jonsered.html)
 3. [Mölnlycke](https://harisont.github.io/cykelturism/molnlycke.html)
 4. [Vättlefjäll](https://harisont.github.io/cykelturism/vattlefjall.html)
