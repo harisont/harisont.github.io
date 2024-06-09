@@ -24,6 +24,6 @@ Här nere kan du läsa om våra cykeläventyr:
 
 1. [Den stora Påskresan: Alingsås och Borås](../cykelturism/paskresan.html)
 2. [Kåhög och Jonsered](https://harisont.github.io/cykelturism/jonsered.html)
-3. [Mölnlycke](https://harisont.github.io/molnlycke.html)
-4. [Vättlefjäll](https://harisont.github.io/vattlefjall.html)
-5. [Jobbretreatet i Kinna](https://harisont.github.io/retreat.html) (WIP)
+3. [Mölnlycke](https://harisont.github.io/cykelturism/molnlycke.html)
+4. [Vättlefjäll](https://harisont.github.io/cykelturism/vattlefjall.html)
+5. [Jobbretreatet i Kinna](https://harisont.github.io/cykelturism/retreat.html) (WIP)
