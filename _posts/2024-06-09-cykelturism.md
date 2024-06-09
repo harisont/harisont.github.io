@@ -23,7 +23,7 @@ I år har jag tillsammans med mina vänner Herb och Nelia ökat både frekvensen
 Här nere kan du läsa om våra cykeläventyr:
 
 1. [Den stora Påskresan: Alingsås och Borås](../cykelturism/paskresan.md)
-2. [Kåhög och Jonsered](../cykelturism/jonsered.md)
-3. [Mölnlycke](../cykelturism/molnlycke.md)
-4. [Vättlefjäll](../cykelturism/vattlefjall.md)
-5. [Jobbretreatet i Kinna](../cykelturism/retreat.md) (WIP)
+2. [Kåhög och Jonsered](https://harisont.github.io/cykelturism/jonsered.md)
+3. [Mölnlycke](https://harisont.github.io/molnlycke.md)
+4. [Vättlefjäll](https://harisont.github.io/vattlefjall.md)
+5. [Jobbretreatet i Kinna](https://harisont.github.io/retreat.md) (WIP)
