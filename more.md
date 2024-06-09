@@ -28,8 +28,9 @@ Despite several failures to learn how to play different musical instruments, I'v
 
 Another way I've tried to deal with the frustration of not being able to play anything remotely well myself was of course to instruct my computer to do that for me. [In Haskell](https://github.com/lcdsa/geb).
 
-## Sports
+## Outdoors and sports
 I used to run quite a lot, but as of now I'm more into all sorts of human-powered wheeled vehicles.
+Right now I'm especially enjoying [cycling around Västra Götaland](https://harisont.github.io/cykelturism/2024/06/09/cykelturism.html), which occasionally involves camping.
 I am also an _arrampicatrice della domenica_[^1].
 
 ---

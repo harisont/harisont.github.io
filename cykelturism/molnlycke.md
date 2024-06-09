@@ -1,5 +1,5 @@
 ---
-title: "Mölnlycke"
+title: "Mölnlycke med Cornelia"
 date: 2024-06-09
 layout: post
 category: "cykelturism"
@@ -13,4 +13,5 @@ langs: ["sv"]
 | 30 april 2024 | 33 km | hög |
 
 Min första gång i __Mölnlycke__. 
-Trevlig sällskap och område, det var blommor överallt, rekommenderar varmt att cykla genom __Delsjöområdet__.
+Trevlig sällskap och område, det var blommor överallt. 
+Rekommenderar varmt att cykla genom __Delsjöområdet__.

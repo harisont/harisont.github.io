@@ -15,7 +15,7 @@ langs: ["sv"]
 Östra Göteborg-Jonsered är en av mina standard halvdagscykelturer. 
 När man kommer till __Partille__ kan man välja mellan att cykla vidare längst Säveån eller att fortsätta rakt fram coh följa Lexbyvägen.
 
-I det andra fallet möter man en massa djur: hästar, __svarta får med sina söta ungar__, getter och sist men inte minst kor (på på __Kåhögs Mjölk__ finns även direktförsäljning av goda mjölk, ost och yogurt, som fungerar ibland ganska bra som ursäkt för en ännu kortare cykelpromenad).
+I det andra fallet möter man en massa djur: hästar, __svarta får med sina söta ungar__ (Cornelia's favoritdel), getter och sist men inte minst kor (på på __Kåhögs Mjölk__ finns även direktförsäljning av goda mjölk, ost och yogurt, som fungerar ibland ganska bra som ursäkt för en ännu kortare cykelpromenad).
 
 Fortsätter man lite till kommer man till ett fint naturområde (__Jonsereds strömmar naturreservat__).
 I närheten finns det även några fascinerande gamla fabriker, men jag har inte varit där på länge.
