@@ -26,4 +26,4 @@ Här nere kan du läsa om våra cykeläventyr:
 2. [Kåhög och Jonsered](../cykelturism/jonsered.md)
 3. [Mölnlycke](../cykelturism/molnlycke.md)
 4. [Vättlefjäll](../cykelturism/vattlefjall.md)
-5. [Jobbretreatet i Kinna](../cykelturism/retreat.md)
+5. [Jobbretreatet i Kinna](../cykelturism/retreat.md) (WIP)
