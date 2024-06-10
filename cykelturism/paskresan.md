@@ -47,7 +47,7 @@ Det hjälpte inte särskilt mycket att det var Påsksöndag och nästan allt had
 
 {% include image.html file="../assets/img/cykelturism/alingsas_trad.JPG" description="Ett träd i ett stadsnära naturområde" %}
 
-Naturen runt Alingsås är i alla fall ganska trevlig och vi fick besöka Karin Boyes minnessten (de som läser denna blog vet at hon är en av mina favorita svenska författare).
+Naturen runt Alingsås är i alla fall ganska trevlig och vi fick besöka Karin Boyes minnessten (de som läser denna blog vet att hon är en av mina favorita svenska författare).
 
 {% include image.html file="../assets/img/cykelturism/alingsas_boye.JPG" description="På väg till Karin Boyes minnessten" %}
 
@@ -71,7 +71,7 @@ Framför allt verkar staden vara rik på samtida konst, och inte bara på grund 
 
 {% include image.html file="../assets/img/cykelturism/boras_folktalaren.PNG" description="Folktalaren (Sven Lundqvist, 1957)" %}
 
-{% include image.html file="../assets/img/cykelturism/boras_gatukonst.PNG" description="Tre exempel på gatukonst i Borås" %}
+{% include image.html file="../assets/img/cykelturism/boras_street.PNG" description="Tre exempel på gatukonst i Borås" %}
 
 På kvällen, när vi spelade svenska Bananagram med finska bokstäver, kollade jag rutinmässigt min väderapp. 
 Snö hela dagen imorgon, stod det.
