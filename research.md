@@ -18,7 +18,9 @@ layout: base
 - __Arianna Masciolini__ and Aarne Ranta. _Grammar-based concept alignment for domain-specific Machine Translation_. In Proceedings of the 7th International Workshop on Controlled Natural Language (CNL 2020/21), 2021 [[pdf]](https://aclanthology.org/2021.cnl-1.2.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/ca.bib) [[code]](https://github.com/harisont/concept-alignment) 
 
 ## Other writings
-- _[Korp tips and tricks: using CQP labels to search for dependency structures](https://spraakbanken.gu.se/blogg/20231009-korp-tips-and-tricks-using-cqp-labels-to-search-for-dependency-structures)_ (blog post on the [Språkbanken text blog](https://spraakbanken.gu.se/blogg))
+- _[Rapport från LREC-COLING](https://www.sprakbanken.se/aktuellt/nyheter/2024-06-10-rapport-fran-lrec-coling)_ (short report on the [Nationella Språkbanken](https://www.sprakbanken.se/) website)
+- _[Språkbanken Students at LREC-COLING 2024](https://spraakbanken.gu.se/blogg/20240610-sprakbanken-students-at-lrec-coling-2024)_ (joint blog post with Ricardo Muñoz Sánchez on the (blog post on the [Språkbanken Text blog](https://spraakbanken.gu.se/blogg))
+- _[Korp tips and tricks: using CQP labels to search for dependency structures](https://spraakbanken.gu.se/blogg/20231009-korp-tips-and-tricks-using-cqp-labels-to-search-for-dependency-structures)_ (blog post on the [Språkbanken Text blog](https://spraakbanken.gu.se/blogg))
 
 ## Talks
 - _Synthetic-Error Augmented Parsing of Swedish as a Second Language: Experiments with Word Order_. Paper presentation at the [Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) @ LREC-COLING 2024](https://multiword.org/mweud2024/) (Torino, Italy) on May 25th, 2024 [[poster]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/posters/mweud24.pdf)
