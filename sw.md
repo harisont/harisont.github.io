@@ -5,7 +5,7 @@ layout: base
 
 ## Language technology
 - [__L2-UD__](https://github.com/harisont/L2-UD), a toolkit for parallel ([L1-L2](https://aclanthology.org/W17-6306.pdf)) UD treebanks
-- [__STUnD__](https://github.com/harisont/STUnD), a GUI for L2-UD's search functionalities
+- [__STUnD__](https://github.com/harisont/STUn](https://harisont.github.io/STUnD), a GUI for L2-UD's search functionalities
 - [__concept-alignment__](https://github.com/harisont/concept-alignment), a tool for syntax-based phrase and word alignment, used in both L2-UD and STUnD
 - [__conllu-plus-converter__](https://github.com/harisont/conllu-plus-converter), a simple conversion tool for [CoNNL-U (Plus) files](https://universaldependencies.org/format.html)
 - [__Rick Lime__](https://github.com/harisont/rick-lime), a silly chatbot that helps you write limericks
