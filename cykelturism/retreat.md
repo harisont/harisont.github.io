@@ -25,7 +25,7 @@ Vi hittade ett jättebra tältställe vid __Härsjön__ och hann till och med me
 
 Morgonen efter cyklade vi till Kinna, där vi hade ett lunch-to-lunch-möte (ett kort blogginlägg om själva retreaten, skrivet av vår kollega Staffan, finns [här](https://spraakbanken.gu.se/blogg/20240605-sprakbanken-text-pa-retreat)).
 
-På väg tillbaka pausade vi för att bada i en annan sjö, som fick smeknamnet "Därsjön" men heter sannolikt Gingsjön, baserat på vad jag kan rekonstruera 6 månader senare.
+På väg tillbaka pausade vi för att bada i en annan sjö, som fick smeknamnet "Därsjön" men heter sannolikt __Gingsjön__, baserat på vad jag kan rekonstruera 6 månader senare.
 
 ![Härsjön](../assets/img/cykelturism/darsjon.JPG)
 
