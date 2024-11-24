@@ -1,6 +1,6 @@
 ---
 title: "Cykelturism"
-date: 2024-06-09
+date: 2024-11-24
 layout: post
 category: "cykelturism"
 langs: ["sv"]
@@ -26,4 +26,7 @@ Här nere kan du läsa om våra cykeläventyr:
 2. [Kåhög och Jonsered](https://harisont.github.io/cykelturism/jonsered.html)
 3. [Mölnlycke](https://harisont.github.io/cykelturism/molnlycke.html)
 4. [Vättlefjäll](https://harisont.github.io/cykelturism/vattlefjall.html)
-5. [Jobbretreatet i Kinna](https://harisont.github.io/cykelturism/retreat.html) (WIP)
+5. [Retreaten i Kinna](https://harisont.github.io/cykelturism/retreat.html)
+6. Välens naturreservat (TBA)
+7. Amundön (TBA)
+8. Kattegattleden (TBA)
