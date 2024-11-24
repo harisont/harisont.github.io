@@ -10,7 +10,7 @@ langs: ["sv"]
 
 | datum | sträcka | cykelvänlighet |
 | --- | --- | --- |
-| 2-4 juni 2024 (3 dagar) | 45 + 24 + 67 = 136 km | lagom: få cykelbanor fast lugna landsvägar, relativt många berg |
+| 2-4 juni 2024 (3 dagar) | 45 + 24 + 67 = 136 km | lagom: lugna landsvägar men få cykelbanor, relativt många berg |
 
 Varje sommar åker min forskningsgrupp, [Språkbanken Text](https://spraakbanken.gu.se/), på en retreat någonstans i närheten, och varje år försöker jag att cykla istället för att åka buss med de flesta andra.
 År 2023 ledde denna strategi till ett av mina första längre cykeläventyr till Marstrand, en väldigt vacker ö i Kungälvs kommun. 
