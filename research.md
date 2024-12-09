@@ -37,6 +37,7 @@ I am also a recurrent speaker in the ongoing ["Data Plumbers' corner"](https://g
 ## Talks
 Aside from [paper presentations](#scientific-publications), I have given the following talks and special topic lectures:
 
+- _STUnD: a Search Tool for (parallel) Universal Dependencies treebanks_. Oral presentation at the [2024 workshop of Applications on Universal Dependencies](https://udapp-sltc-2024.github.io/), co-located with the 2024 Swedish Language Technology Conference ([SLTC 2024](https://sltc2024.github.io/)) (Linköping, Sweden), on November 29, 2024 [[slides]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/slides/udapp.pdf)
 - _Cross-lingual approaches to computational SLA: the potential of Universal Dependencies_. Halfway PhD seminar given at the ["Högre seminarium"](https://www.gu.se/svenska-spraket/seminarieprogram) of the [Department of Swedish, Multilingualism, Language Technology of the University of Gothenburg](https://www.gu.se/en/swedish) (Gothenburg, Sweden) on October 21, 2024 [[slides]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/slides/mittsem.pdf)
 - _Universal Dependencies meets Second Language Acquisition: the case of Swedish_. Project presentation at the [PhD student session](https://www.clarin.eu/content/phd-student-session-clarin2024) of the [CLARIN Annual Conference 2024](https://www.clarin.eu/event/2024/clarin-annual-conference-2024) (Barcelona, Spain) on October 16, 2024 [[poster]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/posters/clarin24.pdf)
 - _SweLL-UD: a treebank of L2 Swedish essays_. Project presentation at the [1st UniDive training school](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school) (Chișinău, Moldova) on July 8, 2024 [[poster]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/posters/unidive_training_school.pdf)
@@ -51,7 +52,7 @@ Aside from [paper presentations](#scientific-publications), I have given the fol
 
 ## Events
 - I am the main organizer of the ongoing [MultiGEC-2025 shared task](https://spraakbanken.gu.se/en/compsla/multigec-2025) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
-- I am one of the organizers of the 2024 workshop of [Applications on Universal Dependencies](https://udapp-sltc-2024.github.io/), co-located with the 2024 Swedish Language Technology Conference ([SLTC 2024](https://sltc2024.github.io/)), on November 29, 2024.
+- I was one of the organizers of the [2024 workshop of Applications on Universal Dependencies](https://udapp-sltc-2024.github.io/), co-located with the 2024 Swedish Language Technology Conference ([SLTC 2024](https://sltc2024.github.io/)), on November 29, 2024.
 
 ## Reviewing
 I have reviewed for the following venues:
