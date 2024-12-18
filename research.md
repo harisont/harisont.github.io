@@ -51,7 +51,7 @@ Aside from [paper presentations](#scientific-publications), I have given the fol
 - _Concept Alignment for Multilingual Machine Translation_. Invited talk at the [7th Grammatical Framework Summer School](http://school.grammaticalframework.org/2021/) (online) on August 4, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/summer-school/presentation.pdf) [[video]](https://youtu.be/h2GR7RbghnE?t=4104)
 
 ## Events
-- I am the main organizer of the ongoing [MultiGEC-2025 shared task](https://spraakbanken.gu.se/en/compsla/multigec-2025) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
+- I am the main organizer of the ongoing [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html#results) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
 - I was one of the organizers of the [2024 workshop of Applications on Universal Dependencies](https://udapp-sltc-2024.github.io/), co-located with the 2024 Swedish Language Technology Conference ([SLTC 2024](https://sltc2024.github.io/)), on November 29, 2024.
 
 ## Reviewing
