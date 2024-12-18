@@ -13,6 +13,7 @@ In the last few years, my focus has switched from individual shots to small proj
   1. [_GB-AG: fotografie di un viaggio per mare e per terra_](https://harisont.github.io/unottica/2022/11/13/gbag.html), documenting an interrail trip from Gothenburg to Agrigento (in Italian)
   2. [_Vardagsbilder_](https://harisont.github.io/unottica/2023/04/09/vardagsbilder-sv.html), a collection of pictures taken with a pocket camera over the course of March 2023 (available in Swedish and Italian)
   3. [_Føroyar_](https://harisont.github.io/photography/2023/12/27/foroyar.html), a slightly more ambitious project recounting a journey to the Faroe Islands with images and an interactive map (in English)
+  4. [_Påskresan_](https://harisont.github.io/cykelturism/paskresan.html), a series of snapshots from a biking trip to Alingsås and Borås (in Swedish)
 
 ## Reading, writing, translating
 Aside from academic writing, my [__blog__](blog.md) is home to silly rhymes, comments on whatever books and comics I read and many more scribbles.
