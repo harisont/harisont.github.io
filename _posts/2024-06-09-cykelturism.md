@@ -30,3 +30,4 @@ Här nere kan du läsa om våra cykeläventyr:
 6. Välens naturreservat (TBA)
 7. Amundön (TBA)
 8. Kattegattleden (TBA)
+9. Kungälv (TBA)
