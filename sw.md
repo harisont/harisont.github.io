@@ -7,15 +7,16 @@ layout: base
 - [__STUnD__](https://harisont.github.io/STUnD), a Search Tool for (parallel) Universal Dependencies treebanks
 - [__concept-alignment__](https://github.com/harisont/concept-alignment), a tool for syntax-based phrase and word alignment
 - [__conllu-plus-converter__](https://github.com/harisont/conllu-plus-converter), a simple conversion tool for [CoNNL-U (Plus) files](https://universaldependencies.org/format.html)
-- [__Rick Lime__](https://github.com/harisont/rick-lime), a silly chatbot that helps you write limericks
-- [__arrè__](https://github.com/harisont/arre), a collection of Python scripts to download and transcribe recordings of trials from the Radio Radicale archives.
+- [__arrè__](https://github.com/harisont/arre), a collection of Python scripts to download and transcribe recordings of trials from the Radio Radicale archives
+- [__Rick Lime__](https://github.com/harisont/rick-lime), a silly chatbot that helps you write limericks.
 
 I have also contributed to:
 
+- the UD portion of the [__gf-ud__](https://github.com/GrammaticalFramework/gf-ud) toolkit for dependency trees and GF-UD conversions, which I now maintain as a separate Haskell library for UD treebanks, [__deptreehs__](https://github.com/harisont/deptreehs)
+- [__deptreepy__](https://github.com/aarneranta/deptreepy/), a Python port of part of __gf-ud__, where I re-implemented tree visualizations and integrated third-party parsing functionalities
+- various processing tools for [the MultiGEC dataset for Multilingual Grammatical Error Correction](https://github.com/spraakbanken/multigec-2025) and [the SweLL Swedish Learner Language corpus](https://github.com/spraakbanken/SweLL-scripts) 
 - the [__Lärka__](https://spraakbanken.gu.se/larkalabb/) language learning platform
-- the UD portion of [__gf-ud__](https://github.com/GrammaticalFramework/gf-ud) toolkit for dependency trees and GF-UD conversions
-- [__deptreepy__](https://github.com/aarneranta/deptreepy/), a Python port of part of __gf-ud__, where I re-implemented tree visualizations
-- (minimally) the __Italian [GF RGL](https://github.com/GrammaticalFramework/gf-rgl)__.
+- (minimally, but proudly) the __Italian [GF RGL](https://github.com/GrammaticalFramework/gf-rgl)__
 
 ## LaTeX themes & templates
 - [__lucid__](https://github.com/harisont/lucid), the beamer theme I use for 100% of my presentations since 2018, recently revamped
