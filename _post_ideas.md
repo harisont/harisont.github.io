@@ -21,3 +21,4 @@ why notebooks suck (and especially so in Python) | en | - | - |
 | ci sono piccoli refusi | it+ | - | when has MT become so good? |  
 | thinking as a publication | - | - | inspired from Ajami |
 | collaborations don't work | - | - | excepts transdisciplinary |
+| storie di una dottorandessa e della sua supervisionaria | - | - | - |
