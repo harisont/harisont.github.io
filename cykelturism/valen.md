@@ -12,7 +12,7 @@ langs: ["sv"]
 | --- | --- | --- |
 | 9 juni 2024 | 35 km | toppen |
 
-Välen är ett trevligt och havsnära naturområde, men om man cyklar söderut från Göteborg kan man lika gärna fortsätta till Amundön och få ännu finare utsikt, om det är landskapet man är intresserad av. 
+Välen är ett trevligt och havsnära naturområde, men om man cyklar söderut från Göteborg kan man lika gärna fortsätta till [Amundön](https://harisont.github.io/cykelturism/amundon.html) och få ännu finare utsikt, om det är landskapet man är intresserad av. 
 Grejen med naturreservatet i Välen är att det varje år kommer höglandsboskap på besök under några månader. 
 Jag upptäckte det helt slumpmässigt under en spårvagnsutflykt i Oktober 2022 (och då tog jag bilden här nere) och bestämde komma tillbaka med Cornelia.
 
