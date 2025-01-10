@@ -16,4 +16,4 @@ Välen är ett trevligt och havsnära naturområde, men om man cyklar söderut f
 Grejen med naturreservatet i Välen är att det varje år kommer höglandsboskap på besök under några månader. 
 Jag upptäckte det helt slumpmässigt under en spårvagnsutflykt i Oktober 2022 (och då tog jag bilden här nere) och bestämde komma tillbaka med Cornelia.
 
-![Höglandsboskap](../assets/img/cykelturism/highland_cattle.JPG)
+![Höglandsboskap](../assets/img/cykelturism/highland_cattle.jpg)
