@@ -79,7 +79,7 @@ Den första pausen var i närheten av en liten kyrka (kanske i Trönninge), där
 
 Sedan såg vi en helt tom strand och bestämde stanna där i ett tag och bland annat bada trots den mörka himlen.
 
-{% include image.html file="../assets/img/cykelturism/"omarenero.JPG description="Den tomma stranden." %}
+{% include image.html file="../assets/img/cykelturism/"omarenero.JPG" description="Den tomma stranden." %}
 
 Vandrarhemmet i Mellbystrand var enligt Cornelia inte lika bra som det i Halmstad, men jag tyckte att köket var härligt. 
 Där lagade för en gångs skull mat på riktigt.
