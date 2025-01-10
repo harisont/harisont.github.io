@@ -29,6 +29,6 @@ Här nere kan du läsa om våra cykeläventyr:
 5. [Retreaten i Kinna](https://harisont.github.io/cykelturism/retreat.html)
 6. [Välens naturreservat](https://harisont.github.io/cykelturism/valen.html)
 7. [Amundön](https://harisont.github.io/cykelturism/amundon.html)
-8. [Äntligen Kattegattleden!](https://harisont.github.io/cykelturism/kattegattleden.html)
+8. [Äntligen Kattegattleden!](https://harisont.github.io/cykelturism/kattegattleden.html) (WIP)
 9. Kungälv (TBA)
 10. Landvetter (TBA)

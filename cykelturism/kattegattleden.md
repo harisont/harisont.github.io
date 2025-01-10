@@ -103,10 +103,13 @@ De lyckas på något sätt vara "för lyxiga" (och därför också dyra!) och v�
 Usch!
 
 ## Dag 8: Vejbystrand
+TBA
 
 ## Dag 9: näst sista etappen!
+TBA
 
 ## Dag 10: Helsingborg och Hyllinge
+TBA
 
 ---
 
