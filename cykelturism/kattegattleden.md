@@ -113,4 +113,4 @@ TBA
 
 ---
 
-{% include image.html file="../assets/img/cykelturism/" description="" %}
+<!--{% include image.html file="../assets/img/cykelturism/" description="" %}-->
