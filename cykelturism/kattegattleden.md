@@ -15,7 +15,7 @@ langs: ["sv"]
 Det var flera år sedan som jag började fundera på att cykla genom hela Kattegattleden.
 Äntligen gjorde Cornelia och jag det, från Göteborg ner till Helsinborg!
 
-Pa kartan kan man se det officiella GPX-spåret som finns att laddas ner från [kattegattleden.se](https://kattegattleden.se/) (det gula spåret), plus en kortare sträcka som vi lade till den sista dagen (blå).
+Pa kartan kan man se det officiella GPX-spåret som finns att laddas ner från [kattegattleden.se](https://kattegattleden.se/) (det gula), plus en kortare sträcka som vi lade till den sista dagen (blå).
 De röda prickarna markerar start- och slutpunkten för vår resa samt de olika platser där vi övernattade i tält eller, vid ett par tillfällen, på vandrarhem, medan de gula visar alla andra minnesvärda kortare stopp på vägen.
 
 {% include image.html file="../assets/img/cykelturism/cyklar.JPG" description="Cyklarna med all vår utrustning, någonstans mellan Falkenberg och Ugglarp." %}
