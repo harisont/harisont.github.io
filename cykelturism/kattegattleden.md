@@ -29,9 +29,9 @@ Just på Särö pausade vi för att äta någonting, men stannade inte länge: p
 Vi övernattade i Rörvik, där det finns en trevlig och, om jag nu minns rätt, ganska billig (dvs. billigare än de flesta andra) camping.
 
 ## Dag 2: Rörvik till Åsa, med en omväg till Tjolöholms slott
-Höjdpunkten för dag två var inte vår lunchpaus i Kungsbacka (där vi åt en överprisad måltid och den första mjukglass av vår resa... och kanske spelade det första, men definitivt inte det sista eller det mest episka MTG-spel på vår resa), utan att vi tog en omväg till Tjolöholms slott, en 1800-tals byggnad som jag hade besökt år 2018.
+Höjdpunkten för dag två var inte vår lunchpaus i Kungsbacka (där vi åt en överprisad måltid och den första mjukglass på vår resa... och kanske spelade det första, men definitivt inte det sista eller det mest episka MTG-spel), utan att vi tog en omväg till Tjolöholms slott, en 1800-tals byggnad som jag hade besökt år 2018.
 Då var jag där med andra nya internationella GU-studenter och det var en julmarknad på gång, men framförallt fick vi komma in i slottet och besöka interiören.
-Denna gång kom vi för sent för att komma in, men det måste sägas att trädgården ser betydligt mycket bättre ut under de gamla månaderna.
+Denna gång kom vi för sent för att komma in, men det måste sägas att trädgården ser betydligt mycket bättre ut under de varma månaderna.
 
 {% include image.html file="../assets/img/cykelturism/tslott.JPG" description="Dålig bild på Tjolöholms slott (vi kan skylla på den gamla kompaktkameran som jag tog med på resan). Jag tycker att trädet är faktiskt mer spännande än själva slottet." %}
 
@@ -41,9 +41,9 @@ På kvällen tältade vi igen på en camping vid stranden.
 
 ## Dag 3: Åsa till Getterön, fågelstället
 Vår enda paus på väg från Åsa till Getterön var i den helt ominnesvärda byn som kallas för Bua.
-Det var dock just där att våra MTG-spel började att gå överstyr pågå i all evighet, som man kan tydligt se i bilden nedan. 
+Det var dock just där att våra MTG-spel började att gå överstyr och pågå i all evighet, som man kan tydligt se i bilden nedan. 
 
-{% include image.html file="../assets/img/cykelturism/mtg.JPG" description="Evigt MTG-spel i Bua. Eftersom vi inte längre hade tillräckligt med räknare började vi att använda russin och äta dem när varelsen dog." %}
+{% include image.html file="../assets/img/cykelturism/mtg.JPG" description="Evigt MTG-spel i Bua. Eftersom vi inte längre hade tillräckligt med räknare började vi att använda russin." %}
 
 Vår slutdestination för dagen var Getterön, en ö som är mest känd bland fågelentusiasterna och som jag sedan dess besökt en gång till med min kompis och kollega M., som gillar fågelskådning.
 För första gången under den här resan bestämde vi oss för att njuta av allemansrätten och tälta i naturen.
@@ -52,12 +52,12 @@ Vi satte upp tältet mycket nära havet och det var riktigt fuktigt.
 {% include image.html file="../assets/img/cykelturism/fageltorn.JPG" description="Fågeltornet i närheten Getterön." %}
 
 ## Dag 4: Getterön till Ugglarp, via Falkenberg
-{% include image.html file="../assets/img/cykelturism/pa_vag.JPG" description="På väg." %}
-
 Den fjärde dagen var den längsta när det gäller antalet kilometer vi cyklade (egentligen många fler än man ser på kartan, eftersom vi åkte fel).
 Vi visste att vädret skulle bli sämre dagen efter och försökte därför gå vidare så mycket som möjligt.
 På väg stannade vi i Morup, som jag har inget minne av, och i Falkenberg, som verkar vara en ganska trevlig stad, åtminstone på sommaren.
 Stranderna runt där är helt fantastiska.
+
+{% include image.html file="../assets/img/cykelturism/pa_vag.JPG" description="På väg." %}
 
 Som C. och jag ofta gör försökte vi att bara följa skyltarna utan att kolla på kartan på mobilen hela tiden, vilket är helt rimligt i Västra Sverige och ännu mer så när det gäller själva Kattegattleden.
 Men vi råkade missa en skylt och fortsätta ganska länge i den fina sommarkvällen innan vi insåg att vi hade åkt fel och det var dags att hitta campingen vi hade förbokat en tältplats på.
@@ -69,7 +69,7 @@ Campingen var extremt väl positionerad, ren och fin.
 ## Dag 5: Ugglarp till Halmstad
 På vägen till Halmstad ösregnade det oavbrutet.
 Vi åkte så snabbt som möjligt med bara en kort paus för ett litet mellanmål.
-När vi kom till Halmstad, där vi hade bokat ett rum på ett vandrarhem (STF Vandrarhem Halmstad/Kaptenshamn, högt rekommenderat!) var alla våra kläder blöta, trots mer eller mindre vattentäta väskor.
+När vi kom till Halmstad, där vi hade bokat ett rum på ett vandrarhem (STF Vandrarhem Halmstad/Kaptenshamn, högt rekommenderat!) var alla våra kläder blöta trots mer eller mindre vattentäta väskor.
 Efter en varm dusch gick vi en kort promenad runt staden, men snart började regnet igen. 
 Mestadels stannade vi inomhus och vilade.
 
@@ -87,7 +87,7 @@ Där lagade för en gångs skull mat på riktigt.
 {% include image.html file="../assets/img/cykelturism/kok.JPG" description="Köket på vandrarhemmet." %}
 
 Det är inte alls av en slump att jag nästan glömde nämna Laholm, Hallands äldsta stad, som vi besökte efter att vi lämnade våra grejer på vandrarhemmet. 
-Baserad på min guidebok verkade staden ganska inbjudande och konstrik, med dess prisbelönta parken och en skulptur  "i nästan varje gathörn".
+Baserad på min guidebok verkade staden ganska inbjudande och konstrik, med dess prisbelönta park och en skulptur "i nästan varje gathörn".
 Kanske på grund av de hotfulla molnen som pressade sig på oss tyckte vi att det var snarare Hallands mest överskattade staden.
 
 ## Dag 7: Båstad - äntligen i Skåne
@@ -137,7 +137,7 @@ Så snart man kan se staden i fjärran börjar det en nedräkning på cykelbanan
 Helsingborg är en stad som jag gärna skulle vilja återvända till för att turista lite, då vi bestämde att cykla vidare till C:s hemstad, Hyllinge, istället för att göra det.
 Det finns tyvärr ingen cykelbana eller järnväg som leder till Hyllinge, men att cykla dit var helt rimligt ändå. 
 Det kändes faktiskt speciellt bra att göra det efter att vi lämnade alla vara tunga grejer på tågstationens bagagerum.
-Hyllinge är en ganska liten tätort, C. visade mig huset där hon växte upp och sin grundskola.  
+Hyllinge är en ganska liten tätort, men C. visade mig huset där hon växte upp och sin grundskola.  
 
 När vi kom tillbaka därifrån var det redan kväll och dags att ta tåget tillbaka.
 Resan var över, men vi såg redan fram emot nästa äventyr.
