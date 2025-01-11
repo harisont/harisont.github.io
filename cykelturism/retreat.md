@@ -15,7 +15,7 @@ langs: ["sv"]
 Varje sommar åker min forskningsgrupp, [Språkbanken Text](https://spraakbanken.gu.se/), på en retreat någonstans i närheten, och varje år försöker jag att cykla istället för att åka buss med de flesta andra.
 År 2023 ledde denna strategi till ett av mina första längre cykeläventyr till Marstrand, en väldigt vacker ö i Kungälvs kommun. 
 
-I år föll valet på __Två skyttlar__, nära Kinna, och jag hade för första gången en _compagno di avventure_[1^], Herbert (riktigt praktiskt när en av dina bästa vänner också är en kollega).
+I år föll valet på __Två skyttlar__, nära Kinna, och jag hade för första gången en _compagno di avventure_[1^], H. (riktigt praktiskt när en av dina bästa vänner också är en kollega).
 Eftersom väderprognosen var bra (förutom ett kort men kraftigt skyfall precis när vi lämnade Göteborg) bestämde vi oss för att tälta i närheten av slutdestinationen natten innan och på så sätt testa lite bikepacking. 
 Vi hittade ett jättebra tältställe vid __Härsjön__ och hann till och med med ett nattdopp.
 

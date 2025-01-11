@@ -13,13 +13,12 @@ langs: ["sv"]
 | 18-27 juli 2024 (10 dagar) | över 400 km | kunde inte vara bättre |
 
 Det var flera år sedan som jag började fundera på att cykla genom hela Kattegattleden.
-Äntligen gjorde Cornelia och jag det, från Göteborg ner till Helsinborg!
+Äntligen gjorde C. och jag det, från Göteborg ner till Helsinborg!
 
 Pa kartan kan man se det officiella GPX-spåret som finns att laddas ner från [kattegattleden.se](https://kattegattleden.se/) (det gula), plus en kortare sträcka som vi lade till den sista dagen (blå).
 De röda prickarna markerar start- och slutpunkten för vår resa samt de olika platser där vi övernattade i tält eller, vid ett par tillfällen, på vandrarhem, medan de gula visar alla andra minnesvärda kortare stopp på vägen.
 
-{% include image.html file="../assets/img/cykelturism/cyklar.JPG" description="Cyklarna med all vår utrustning, någonstans mellan Falkenberg och Ugglarp." %}
-
+![Kattegattleden](../assets/img/cykelturism/kattegattleden.JPG)
 
 ## Dag 1: Göteborg till Rörvik
 Den första dagen packade vi våra cyklar och åkte söderut på en för mig mycket bekant cykelbana, åtminstone fram till Särö. 
@@ -30,7 +29,7 @@ Just på Särö pausade vi för att äta någonting, men stannade inte länge: p
 Vi övernattade i Rörvik, där det finns en trevlig och, om jag nu minns rätt, ganska billig (dvs. billigare än de flesta andra) camping.
 
 ## Dag 2: Rörvik till Åsa, med en omväg till Tjolöholms slott
-Höjdpunkten för dag två var inte vår lunchpaus i Kungsbacka (där vi åt en överprisad måltid och kanske spelade det första, men definitivt inte det sista eller det mest episka MTG-spel på vår resa), utan att vi tog en omväg till Tjolöholms slott, en 1800-tals byggnad som jag hade besökt år 2018.
+Höjdpunkten för dag två var inte vår lunchpaus i Kungsbacka (där vi åt en överprisad måltid och den första mjukglass av vår resa... och kanske spelade det första, men definitivt inte det sista eller det mest episka MTG-spel på vår resa), utan att vi tog en omväg till Tjolöholms slott, en 1800-tals byggnad som jag hade besökt år 2018.
 Då var jag där med andra nya internationella GU-studenter och det var en julmarknad på gång, men framförallt fick vi komma in i slottet och besöka interiören.
 Denna gång kom vi för sent för att komma in, men det måste sägas att trädgården ser betydligt mycket bättre ut under de gamla månaderna.
 
@@ -46,7 +45,7 @@ Det var dock just där att våra MTG-spel började att gå överstyr pågå i al
 
 {% include image.html file="../assets/img/cykelturism/mtg.JPG" description="Evigt MTG-spel i Bua. Eftersom vi inte längre hade tillräckligt med räknare började vi att använda russin och äta dem när varelsen dog." %}
 
-Vår slutdestination för dagen var Getterön, en ö som är mest känd bland fågelentusiasterna och som jag sedan dess besökt en gång till med min kompis och kollega Maria, som gillar fågelskådning.
+Vår slutdestination för dagen var Getterön, en ö som är mest känd bland fågelentusiasterna och som jag sedan dess besökt en gång till med min kompis och kollega M., som gillar fågelskådning.
 För första gången under den här resan bestämde vi oss för att njuta av allemansrätten och tälta i naturen.
 Vi satte upp tältet mycket nära havet och det var riktigt fuktigt.
 
@@ -60,9 +59,10 @@ Vi visste att vädret skulle bli sämre dagen efter och försökte därför gå 
 På väg stannade vi i Morup, som jag har inget minne av, och i Falkenberg, som verkar vara en ganska trevlig stad, åtminstone på sommaren.
 Stranderna runt där är helt fantastiska.
 
-Som Cornelia och jag ofta gör försökte vi att bara följa skyltarna utan att kolla på kartan på mobilen hela tiden, vilket är helt rimligt i Västra Sverige och ännu mer så när det gäller själva Kattegattleden.
+Som C. och jag ofta gör försökte vi att bara följa skyltarna utan att kolla på kartan på mobilen hela tiden, vilket är helt rimligt i Västra Sverige och ännu mer så när det gäller själva Kattegattleden.
 Men vi råkade missa en skylt och fortsätta ganska länge i den fina sommarkvällen innan vi insåg att vi hade åkt fel och det var dags att hitta campingen vi hade förbokat en tältplats på.
-Lyckligtvis - speciellt med tanken på priset! - hann vi dit innan ägaren hade gått till sängs.
+Lyckligtvis - speciellt med tanken på priset! - hann vi dit innan receptionen stängdes.
+Campingen var extremt väl positionerad, ren och fin.
 
 {% include image.html file="../assets/img/cykelturism/morkt.JPG" description="'Det börjar bli mörkt'. Bilden togs kl. 22:38, när vi försökte att hitta campingen." %}
 
@@ -81,7 +81,7 @@ Sedan såg vi en helt tom strand och bestämde stanna där i ett tag och bland a
 
 {% include image.html file="../assets/img/cykelturism/omarenero.JPG" description="Den tomma stranden." %}
 
-Vandrarhemmet i Mellbystrand var enligt Cornelia inte lika bra som det i Halmstad, men jag tyckte att köket var härligt. 
+Vandrarhemmet i Mellbystrand var enligt C. inte lika bra som det i Halmstad, men jag tyckte att köket var härligt. 
 Där lagade för en gångs skull mat på riktigt.
 
 {% include image.html file="../assets/img/cykelturism/kok.JPG" description="Köket på vandrarhemmet." %}
@@ -103,14 +103,43 @@ De lyckas på något sätt vara "för lyxiga" (och därför också dyra!) och v�
 Usch!
 
 ## Dag 8: Vejbystrand
-TBA
+{% include image.html file="../assets/img/cykelturism/lila.JPG" description="Blommor på väg till Vejbystrand." %}
 
-## Dag 9: näst sista etappen!
-TBA
+Efter sju dagar cykling bestämde vi ta det lugnt för att min kompis inte mådde så bra. 
+Vi fortsatte bara till Vejbystrand där vi hittade ett helt fantastiskt tältställe i naturen direkt vid en havsnära sträcka av Skåneleden, vars exakta koordinater finns på kartan där uppe. 
+Tidigt på morgonen väcktes vi upp av några kor som verkade vara nyfikna på vårt tält.
 
-## Dag 10: Helsingborg och Hyllinge
-TBA
+Själva [Skåneleden](https://skaneleden.se/) ser ganska lovande ut och det går att övernatta var som helst, men det är en vandringsled snarare än en cykelled.
+Det skulle vara bra att åka tillbaka med någon vandringsugen kompis, kanske min granne E. 
 
----
+## Dag 9: Vejbystrand till Höganäs, via Ängelholm (näst sista etappen!)
+Den näst sista dagen åkte fi först ner till Ängelholm, där vi åt särskilt goda falafel.
+Men vi stannade inte länge utan fortsatte genom det Skånska landsbygden.
 
-<!--{% include image.html file="../assets/img/cykelturism/" description="" %}-->
+{% include image.html file="../assets/img/cykelturism/skane.JPG" description="Skånsk landsbygd." %}
+
+Efter Arild såg vi för första gången Danmark.
+
+{% include image.html file="../assets/img/cykelturism/danmark.JPG" description="Danmark! Danmark!" %}
+
+
+## Dag 10: Helsingborg + bonusetapp i Hyllinge
+{% include image.html file="../assets/img/cykelturism/regata.JPG" description="Regatta på väg till Helsingborg." %}
+
+Och sedan kom det den sista dagen. 
+Nu var det soligt igen och det var dags att åka till Helsingborg.
+Så snart man kan se staden i fjärran börjar det en nedräkning på cykelbanan som säger hur många kilometer är kvar.
+
+{% include image.html file="../assets/img/cykelturism/hbg.JPG" description="Början på nedräkningen." %}
+
+{% include image.html file="../assets/img/cykelturism/hbg_centrum.JPG" description="Helsingborg centrum." %}
+
+Helsingborg är en stad som jag gärna skulle vilja återvända till för att turista lite, då vi bestämde att cykla vidare till C:s hemstad, Hyllinge, istället för att göra det.
+Det finns tyvärr ingen cykelbana eller järnväg som leder till Hyllinge, men att cykla dit var helt rimligt ändå. 
+Det kändes faktiskt speciellt bra att göra det efter att vi lämnade alla vara tunga grejer på tågstationens bagagerum.
+Hyllinge är en ganska liten tätort, C. visade mig huset där hon växte upp och sin grundskola.  
+
+När vi kom tillbaka därifrån var det redan kväll och dags att ta tåget tillbaka.
+Resan var över, men vi såg redan fram emot nästa äventyr.
+
+{% include image.html file="../assets/img/cykelturism/cyklar.JPG" description="Cyklarna med all vår utrustning, någonstans mellan Falkenberg och Ugglarp." %}

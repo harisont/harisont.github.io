@@ -6,7 +6,7 @@ category: "board-games"
 langs: ["en"]
 ---
 
-My sambo and I have a thing for tiny board games and really love the design of [Oink games](https://oinkgames.com/). We recently bought [In a Grove](https://oinkgames.com/en/games/analog/in-a-grove/) but weren't quite satisfied with the rules. Unlike with [The Pyramid's Deadline](https://oinkgames.com/en/games/analog/the-pyramids-deadline/), a case where e decided to [improve the rules](https://observablehq.com/@kappanneo/tpd?collection=@kappanneo/boardgames), in this case we decided to re-invent the game all over again, together with our friend Cornelia.
+My sambo and I have a thing for tiny board games and really love the design of [Oink games](https://oinkgames.com/). We recently bought [In a Grove](https://oinkgames.com/en/games/analog/in-a-grove/) but weren't quite satisfied with the rules. Unlike with [The Pyramid's Deadline](https://oinkgames.com/en/games/analog/the-pyramids-deadline/), a case where e decided to [improve the rules](https://observablehq.com/@kappanneo/tpd?collection=@kappanneo/boardgames), in this case we decided to re-invent the game all over again, together with our friend C..
 
 Enjoy!
 

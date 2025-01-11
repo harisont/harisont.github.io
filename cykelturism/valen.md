@@ -14,6 +14,6 @@ langs: ["sv"]
 
 Välen är ett trevligt och havsnära naturområde, men om man cyklar söderut från Göteborg kan man lika gärna fortsätta till [Amundön](https://harisont.github.io/cykelturism/amundon.html) och få ännu finare utsikt, om det är landskapet man är intresserad av. 
 Grejen med naturreservatet i Välen är att det varje år kommer höglandsboskap på besök under några månader. 
-Jag upptäckte det helt slumpmässigt under en spårvagnsutflykt i Oktober 2022 (och då tog jag bilden här nere) och bestämde komma tillbaka med Cornelia.
+Jag upptäckte det helt slumpmässigt under en spårvagnsutflykt i Oktober 2022 (och då tog jag bilden här nere) och bestämde komma tillbaka med C..
 
 ![Höglandsboskap](../assets/img/cykelturism/highland_cattle.jpg)
