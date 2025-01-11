@@ -38,7 +38,7 @@ Denna gång kom vi för sent för att komma in, men det måste sägas att trädg
 
 På kvällen tältade vi igen på en camping vid stranden.
 
-{% include image.html file="../assets/img/cykelturism/asa_campingen.JPG" description="Blommor i solnedgången nära campingen i Åsa." %}
+{% include image.html file="../assets/img/cykelturism/asa_camping.JPG" description="Blommor i solnedgången nära campingen i Åsa." %}
 
 ## Dag 3: Åsa till Getterön, fågelstället
 Vår enda paus på väg från Åsa till Getterön var i den helt ominnesvärda byn som kallas för Bua.
