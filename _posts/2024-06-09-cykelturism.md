@@ -1,6 +1,6 @@
 ---
 title: "Cykelturism"
-date: 2024-11-24
+date: 2024-12-22
 layout: post
 category: "cykelturism"
 langs: ["sv"]
@@ -27,7 +27,8 @@ Här nere kan du läsa om våra cykeläventyr:
 3. [Mölnlycke](https://harisont.github.io/cykelturism/molnlycke.html)
 4. [Vättlefjäll](https://harisont.github.io/cykelturism/vattlefjall.html)
 5. [Retreaten i Kinna](https://harisont.github.io/cykelturism/retreat.html)
-6. Välens naturreservat (TBA)
-7. Amundön (TBA)
-8. Kattegattleden (TBA)
+6. [Välens naturreservat](https://harisont.github.io/cykelturism/valen.html)
+7. [Amundön](https://harisont.github.io/cykelturism/amundon.html)
+8. [Äntligen Kattegattleden!](https://harisont.github.io/cykelturism/kattegattleden.html)
 9. Kungälv (TBA)
+10. Landvetter (TBA)

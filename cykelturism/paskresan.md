@@ -12,7 +12,7 @@ langs: ["sv"]
 | --- | --- | --- |
 | 31 mars-2 april 2024 (3 dagar) | 50 + 43 + 67 = 160 km | medel: få cykelbanor fast lugna landsvägar, relativt många berg |
 
-Tidigt i våras inledde Herbert och jag cykelsäsongen med en tredagarsresa.
+Tidigt i våras inledde H. och jag cykelsäsongen med en tredagarsresa.
 En vinterkväll hade hen nämnt att hen ville besöka [Abecita Popkonst och Foto](https://www.abecitakonst.se/) i Borås och nästan omedelbart föreslog jag att det skulle bli en cykeltur med en extra etapp i Alingsås.
 
 ## Dag 1: Göteborg-Alingsås
