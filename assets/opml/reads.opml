@@ -11,6 +11,7 @@
   <outline type="rss" text="Alberto Madrigal" xmlUrl="https://www.albemadrigal.com/feed/" htmlUrl="https://www.albemadrigal.com"/>
   <outline type="rss" text="All Things Linguistic" xmlUrl="https://allthingslinguistic.com/rss" htmlUrl="https://allthingslinguistic.com/"/>
   <outline type="rss" text="Andrej Karpathy blog" xmlUrl="https://karpathy.github.io/feed.xml" htmlUrl="https://karpathy.github.io/feed.xml"/>
+  <outline type="rss" text="annika’s leaf" xmlUrl="https://annikasleaf.com/feed/" htmlUrl="https://annikasleaf.com"/>
   <outline type="rss" text="Archive Fever by Edwin Wenink" xmlUrl="https://www.edwinwenink.xyz/index.xml" htmlUrl="https://www.edwinwenink.xyz/index.xml"/>
   <outline type="rss" text="Blog on Opinionated Guides" xmlUrl="https://opguides.info/posts/index.xml" htmlUrl="https://opguides.info/posts/index.xml"/>
   <outline type="rss" text="Brady Haran (Numberphile)" xmlUrl="https://www.bradyharanblog.com/blog/rss.xml" htmlUrl="https://www.bradyharanblog.com/blog/"/>
@@ -21,6 +22,7 @@
   <outline type="rss" text="Duolingo Blog" xmlUrl="https://blog.duolingo.com/rss/" htmlUrl="https://blog.duolingo.com/rss/"/>
   <outline type="rss" text="Folk the Algorithms" xmlUrl="https://highnoongmt.wordpress.com/feed.xml" htmlUrl="https://highnoongmt.wordpress.com/feed.xml"/>
   <outline type="rss" text="forskning.se" xmlUrl="https://www.forskning.se/feed/" htmlUrl="https://www.forskning.se/"/>
+  <outline type="rss" text="galago" xmlUrl="https://www.galago.se/feed/" htmlUrl="https://www.galago.se"/>
   <outline type="rss" text="Gemma Correll - Sketchbook" xmlUrl="https://www.gemmacorrell.com/blogs/news.atom" htmlUrl="https://www.gemmacorrell.com/blogs/news"/>
   <outline type="rss" text="Gemma Correll – The Nib" xmlUrl="https://thenib.com/author/gemma-correll/feed/" htmlUrl="https://thenib.com"/>
   <outline type="rss" text="Giap (WuMing)" xmlUrl="https://www.wumingfoundation.com/giap/feed/" htmlUrl="https://www.wumingfoundation.com/giap/feed/"/>
@@ -52,10 +54,12 @@
   <outline type="rss" text="N O D E" xmlUrl="https://n-o-d-e.net/rss/rss.xml" htmlUrl="https://N-O-D-E.net"/>
   <outline type="rss" text="nchrs" xmlUrl="https://nchrs.xyz/links/rss.xml" htmlUrl="https://nchrs.xyz/journal.html"/>
   <outline type="rss" text="New Shtuff from Nicky Case" xmlUrl="https://ncase.me/feed.xml" htmlUrl="https://ncase.me/"/>
+  <outline type="rss" text="Nicky&#39;s Blog!" xmlUrl="https://blog.ncase.me/feed.xml" htmlUrl="https://blog.ncase.me/"/>
   <outline type="rss" text="Nicolò Filippo Rosso" xmlUrl="https://nicolofilipporosso.com/feed/" htmlUrl="https://nicolofilipporosso.com"/>
   <outline type="rss" text="NLPers blog" xmlUrl="https://nlpers.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://nlpers.blogspot.com/"/>
   <outline type="rss" text="Oatmeal" xmlUrl="https://eli.li/feed.rss" htmlUrl="https://eli.li/feed.rss"/>
   <outline type="rss" text="OpenAI Blog" xmlUrl="https://openai.com/blog/rss.xml" htmlUrl="https://openai.com/blog/rss.xml"/>
+  <outline type="rss" text="OSCILLATOR" xmlUrl="https://www.oscillator.se/feed/" htmlUrl="https://www.oscillator.se"/>
   <outline type="rss" text="Proycon&#39;s website" xmlUrl="https://proycon.anaproy.nl/rss.xml" htmlUrl="https://proycon.anaproy.nl/rss.xml"/>
   <outline type="rss" text="Quanta Magazine" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
   <outline type="rss" text="Scienza in cucina (Dario Bressanini)" xmlUrl="http://bressanini-lescienze.blogautore.espresso.repubblica.it/feed/" htmlUrl="http://bressanini-lescienze.blogautore.espresso.repubblica.it"/>
@@ -67,7 +71,6 @@
   <outline type="rss" text="Svenska med Kalle (blogg)" xmlUrl="https://svenskamedkalle.com/feed" htmlUrl="https://svenskamedkalle.com"/>
   <outline type="rss" text="Svenska med Kalle (nyhetsbrev)" xmlUrl="https://svenskamedkalle.substack.com/feed" htmlUrl="https://svenskamedkalle.substack.com/feed"/>
   <outline type="rss" text="Szymon Kaliski" xmlUrl="https://szymonkaliski.com/feed.xml" htmlUrl="http://github.com/dylang/node-rss"/>
-  <outline type="rss" text="The Conversation (es)" xmlUrl="https://theconversation.com/articles.atom?language=es" htmlUrl="https://theconversation.com"/>
   <outline type="rss" text="The KBLab Blog" xmlUrl="https://kb-labb.github.io/index.xml" htmlUrl="https://kb-labb.github.io/index.xml"/>
   <outline type="rss" text="The Math3ma Institute" xmlUrl="https://math3ma.institute/feed/" htmlUrl="https://math3ma.institute"/>
   <outline type="rss" text="Thomas Heaton Photography" xmlUrl="https://thomasheaton.co.uk/feed/" htmlUrl="https://thomasheaton.co.uk"/>
