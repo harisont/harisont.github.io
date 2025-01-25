@@ -18,4 +18,4 @@ Det här är ju jättebra då en av mina kompisar ska flytta till just Kungälv 
 Dessutom är bron mellan Gamlestaden och Backa i Göteborg, som heter Mariabron, den minst kända och mest cykelvänliga i hela staden.
 
 OBS: när C. och jag åkte till Kungälv glömde jag att spela in ett GPX-spår. 
-Därför skapade jag ett sådant på [cycle.travel](cycle.travel), en otroligt bra webbsida som jag upptäckte för inte så länge sedan.
+Därför skapade jag ett sådant på [cycle.travel](https://cycle.travel/), en otroligt bra webbsida som jag upptäckte för inte så länge sedan.
