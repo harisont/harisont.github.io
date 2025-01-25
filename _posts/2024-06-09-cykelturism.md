@@ -1,12 +1,12 @@
 ---
 title: "Cykelturism"
-date: 2024-12-22
+date: 2024-01-25
 layout: post
 category: "cykelturism"
 langs: ["sv"]
 ---
 
-> __OBS:__ Detta inlägg kommer att uppdateras (och ompubliceras) med nya cykelresor under hela 2024.
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/vt-2024_1169394?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/vt-2024_1169394?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
 Lokalturism var en viktig del av min uppväxt.
 Nästan varje söndag körde min pappa hela familjen någonstans i närheten, ibland utan att veta exakt vart vi skulle åka. 
@@ -19,7 +19,7 @@ De är också lätta att planera i ett hektiskt arbetsliv, det bästa sättet at
 Dessa två sista aspekter stämmer ännu bättre med tanke på mitt nya favoritfordon: cykeln.
 Jag blev stadscyklist samma månad som jag flyttade till Göteborg och gradvis började jag åka längre och längre sträckor på helgerna. 
 Förra året cyklade jag till exempel till två vackra västkustöar: Särö, slutpunkten för min favoritcykelled, Säröbanan, och Marstrand, en riktig pärla norr om Göteborg med både naturreservat och fästning.
-I år har jag tillsammans med mina vänner Herb och Nelia ökat både frekvensen och ambitionen på mina cykelresor och bestämt mig för att försöka dokumentera dem i hopp om att inspirera andra göteborgare.
+År 2024 har jag tillsammans med mina vänner Herb och Nelia ökat både frekvensen och ambitionen på mina cykelresor och bestämt mig för att försöka dokumentera dem i hopp om att inspirera andra göteborgare.
 Här nere kan du läsa om våra cykeläventyr:
 
 1. [Påskresan: Alingsås och Borås](https://harisont.github.io/cykelturism/paskresan.html)
@@ -31,4 +31,4 @@ Här nere kan du läsa om våra cykeläventyr:
 7. [Amundön](https://harisont.github.io/cykelturism/amundon.html)
 8. [Äntligen Kattegattleden!](https://harisont.github.io/cykelturism/kattegattleden.html)
 9. [Kungälv](https://harisont.github.io/cykelturism/kungalv.html)
-10. Landvetter (TBA)
+10. [Landvetter](https://harisont.github.io/cykelturism/landvetter.html)
