@@ -1,6 +1,6 @@
 ---
 title: "Cykelturism"
-date: 2024-01-25
+date: 2025-01-25
 layout: post
 category: "cykelturism"
 langs: ["sv"]
