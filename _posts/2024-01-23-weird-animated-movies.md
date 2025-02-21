@@ -5,6 +5,8 @@ layout: post
 langs: ["en"]
 ---
 
+> __NOTE:__ an up-to-date version of this blog post is available [here](https://harisont.github.io/lists/weird_animated_movies.html).
+
 It's that time of the year again: the [Göteborg Film Festival](https://goteborgfilmfestival.se/en/) närmar sig and I find myself eagerly browsing through the programme in search of new animated movies to watch with the friends and colleagues I have dragged into this yearly activity.
 
 I'm not looking for major children's cartoon productions.
@@ -13,7 +15,6 @@ I am forever grateful that my hometown used to (_sigh!_) have such a unique fest
 It introduced me to what for me was a completely new genre, and I enjoyed it to the point that it inspired me to organize a _cineforum_[^2] at my high school.
 
 Before the beginning of this year's edition of the festival, I want to share some of the memorable independent animated feature films[^3] I have watched until now.
-I might update this list in the future.
 
 #### [_Persepolis_ (2007)](https://en.wikipedia.org/wiki/Persepolis_(film))
 This is by far the most well-known movie on this list. My family borrowed it from the library right after we read Marjane Satrapi's homonymous graphic novel, well before Rabbitfest was a thing. To this days, this is both one of the best comics I've ever read and one of the best animated movies I've ever watched.
