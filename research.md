@@ -9,6 +9,8 @@ layout: base
 - __Contact__: [arianna.masciolini@gu.se](mailto:arianna.masciolini@gu.se)
 
 ## Scientific publications
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, Ricardo Mu noz Sánchez, Elena Volodina, and Robert Östling. _The MultiGEC-2025 shared task on multilingual grammatical error correction at NLP4CALL_. __To appear__ in Ricardo Muñoz Sánchez, David Alfter, Jelena Kallas, and Elena Volodina, editors, Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning, Tallin, Estonia, March 2025. University of Tartu
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, Ricardo Mu noz Sánchez, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darg̀is, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, and Torsten Zesch. _Towards better language representation in Natural Language Processing – a multilingual dataset for text-level Grammatical Error Correction_. __To appear__ on the International Journal of Learner Corpus Research, 2025 [[dataset]](https://doi.org/10.23695%2Fh9f5-8143) [[supplementary report]](https://hdl.handle.net/2077/84800)
 - __Arianna Masciolini__, Emilie Francis and Maria Irena Szawerna. _Synthetic Error-Augmented Parsing of Swedish as a Second Language: Experiments with Word Order_. In Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) @ LREC-COLING 2024, pages 43–49, Torino, Italy, 2024 [[pdf]](https://aclanthology.org/2024.mwe-1.7.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/mweud24.bib) [[code]](https://github.com/spraakbanken/seapass) [[poster]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/posters/mweud24.pdf)
 - __Arianna Masciolini__, _Bootstrapping the Annotation of UD Learner Treebanks_. In Proceedings of the 17th Workshop on Building and Using Comparable Corpora (BUCC) @ LREC-COLING 2024, pages 111-117, Torino, Italy, 2024 [[pdf]](https://aclanthology.org/2024.bucc-1.12.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/bucc24.bib) [[poster]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/posters/bucc24.pdf)
 - __Arianna Masciolini__ and Márton A. Tóth (equal contributions). _STUnD: ett Sökverktyg för Tvåspråkiga Universal Dependencies-trädbanker_. In Proceedings of the Huminfra Conference (HiC 2024), pages 95-109, Gothenburg, Sweden, 2024 [[pdf]](https://ecp.ep.liu.se/index.php/hic/article/view/897/805) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/stund.bib) [[code]](https://github.com/harisont/STUnD) [[slides]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/slides/hic24.pdf)
@@ -26,7 +28,7 @@ layout: base
 Starting in 2019, I've been involved in several programming and language technology courses at the University of Gothenburg and at the Chalmers University of technology:
 
 - LT2214 Computational Syntax (co-teacher)
-- LT2001 Introduction to programming (co-teacher)
+- LT2001 Introduction to programming (co-teacher). For the 2025 edition of the course, I designed [a small collection of Python exercises for Language Technology students](https://github.com/harisont/py4linguists)
 - LI2020 Syntax 2 (co-teacher)
 - DAT455 Introduktion till Programmering i Python (co-course responsible)
 - DAT515/DIT515 Advanced programming in Python (co-teacher)
@@ -55,7 +57,7 @@ Aside from [paper presentations](#scientific-publications), I have given the fol
 I am one of the core contributors to the [MultiGEC dataset](https://spraakbanken.github.io/multigec-2025/) for text-level Multilingual Grammatical Error Correction.
 
 ## Events
-- I am the main organizer of the ongoing [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html#results) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
+- I am the main organizer of the [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html#results) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
 - I was one of the organizers of the [2024 workshop of Applications on Universal Dependencies](https://udapp-sltc-2024.github.io/), co-located with the 2024 Swedish Language Technology Conference ([SLTC 2024](https://sltc2024.github.io/)), on November 29, 2024.
 
 ## Reviewing
