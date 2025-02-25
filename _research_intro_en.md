@@ -1,0 +1,9 @@
+I am currently a PhD student in Natural Language Processing at [Språkbanken Text](https://spraakbanken.gu.se/en), advised by [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) and [Dana Dannélls](https://spraakbanken.gu.se/en/about/staff/dana). 
+My project revolves around leveraging the [Universal Dependencies](https://universaldependencies.org/) (UD) framework to develop cross-lingually applicable approaches to Second Language Acquisition (SLA) studies and Computer-Assisted Language Learning (CALL). 
+
+At the moment, I am treebanking the Swedish Learner Language corpus [SweLL-gold](https://spraakbanken.gu.se/en/resources/swell-gold), developing the [STUnD](https://harisont.github.io/STUnD/) Search Tool for parallel UD treebanks and co-teaching the [Computational Syntax](https://www.gu.se/en/study-gothenburg/computational-syntax-lt2214) course.
+
+I am part of the [CompSLA working group](https://spraakbanken.gu.se/en/projects/computational-sla), where I was the main organizer of [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html), the first shared task on text-level Multilingual Grammatical Error Correction, and a member of [UniDive](https://unidive.lisn.upsaclay.fr/).
+Over the course of my PhD, I have also been involved as a teacher in several programming courses at both the University of Gothenburg and at the Chalmers University of technology, and contributed to the development of the [Lärka](https://spraakbanken.gu.se/en/tools/larka) platform.
+
+For more (and more informal) information, see my [personal website](https://harisont.github.io/).
