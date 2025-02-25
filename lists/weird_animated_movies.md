@@ -1,20 +1,12 @@
 ---
-title: "Weird animated movies"
-date: 2024-01-23
+title: Weird animated movies
 layout: post
-langs: ["en"]
 ---
 
-> __NOTE:__ an up-to-date version of this blog post is available [here](https://harisont.github.io/lists/weird_animated_movies.html).
-
-It's that time of the year again: the [Göteborg Film Festival](https://goteborgfilmfestival.se/en/) närmar sig and I find myself eagerly browsing through the programme in search of new animated movies to watch with the friends and colleagues I have dragged into this yearly activity.
-
-I'm not looking for major children's cartoon productions.
-Rather, I am interested in the kind of animation I was first exposed to back in (probably) 2012 at [Rabbitfest](https://filmfreeway.com/Rabbitfest), in Perugia.
+This is a growing collection of animated movies of the kind I was first exposed to back in (probably) 2012 at [Rabbitfest](https://filmfreeway.com/Rabbitfest), in Perugia (this list was originally published [as a blog post](https://harisont.github.io/2024/01/23/weird-animated-movies.html)).
 I am forever grateful that my hometown used to (_sigh!_) have such a unique festival, entirely dedicated to independent animation and, for once[^1], mostly targeting adults.
 It introduced me to what for me was a completely new genre, and I enjoyed it to the point that it inspired me to organize a _cineforum_[^2] at my high school.
 
-Before the beginning of this year's edition of the festival, I want to share some of the memorable independent animated feature films[^3] I have watched until now.
 
 #### [_Persepolis_ (2007)](https://en.wikipedia.org/wiki/Persepolis_(film))
 This is by far the most well-known movie on this list. My family borrowed it from the library right after we read Marjane Satrapi's homonymous graphic novel, well before Rabbitfest was a thing. To this days, this is both one of the best comics I've ever read and one of the best animated movies I've ever watched.
@@ -61,15 +53,31 @@ Interestingly, this is not a collection of shorts, and, at least to some extent,
 As dreamlike as the original, this movie definitely works in my opinion, but it might be a bit boring for those uninitiated to Murakami's writing.
 
 #### [_My love affair with marriage_ (2022)](https://en.wikipedia.org/wiki/My_Love_Affair_with_Marriage)
-Last but definitely not least, Signe Baumane's _My love affair with marriage_ might be one of my favorite movies, not just within weird independent animation for adults, not just within animation in general, but overall; all this while not at all being the most aesthetically appealing in this list.
-Baumane has Satrapi's self-awareness and Zerocalcare[^4]'s ability to _sdrammatizzare_[^5].
+_My love affair with marriage_ might be one of my favorite movies, not just within weird independent animation for adults, not just within animation in general, but overall; all this while not at all being the most aesthetically appealing in this list.
+Baumane has Satrapi's self-awareness and Zerocalcare[^3]'s ability to _sdrammatizzare_[^4].
 In this movie, she deals with gender roles with a mix brilliant narrative devices and brutal realism, plus some neuroscience.
 Guess I'll have to watch everything else she does.
+
+#### [_The most precious of cargoes_ (2024)](https://en.wikipedia.org/wiki/The_Most_Precious_of_Cargoes_(film))
+The only concise way I can describe this movie is: "it is a fairytale about the holocaust".
+But to be clear: this is, again, absolutely __not__ a children's movie. 
+The fairytale elements are limited to the language, the storytelling strategies and the stunning visuals (excepts for a few very hard-to-watch frames in towards the end).
+It softens nothing, yet it leaves with some faith in humanity in a way that reminds of Primo Levi's books.
+Two times while watching this film, things really looked like they were about to take a rhetorical, predictable turn, but they didn't.
+Masterful.
+
+#### [_Memoir of a snail_ (2024)](https://en.wikipedia.org/wiki/Memoir_of_a_Snail)
+Fondly remembering [_Mary and Max_](#mary-and-max-2009) (both movies are written and directed by Adam Elliot), I went to the cinema with high expectations.
+I was not disappointed.
+The two tragicomedies have a lot (too much?) in common, although it may be that _Mary and Max_ is more tragic and _Memoir of a snail_ has more comedy to it.
+In any case, they individually work really well and I thorougly enjoyed this last one.
+Coming out of the cinema, one of my friends commented that she felt weird that she wasn't feeling more upset considering all the awful things that happen throughout the movie.
+However, I don't think those things are the point.
+To me, it seems that the take-home message is rather positive: a single friendship can make all the difference.
 
 --- 
 
 [^1]: While this is slowly changing, 10 years ago, at least in Italy, comics and animation were still considered something childish and definitely not viable media for addressing important issues
 [^2]: I am only now learning that this word doesn't exist in English. I would count on the readers' perspicacity, but just in case, [here](https://en.wiktionary.org/wiki/cineforum) is the meaning (cf. definition 1)
-[^3]: I am explicitly excluding shorts and children's movies here, not because I have anything against them, but, on the contrary, because I don't want this list to grow disproportionately: I have seen too many good ones
-[^4]: Another one who recently did great animation for adults, unfortunately not yet on the big screen
-[^5]: _s_ + _drammatizzare_, literally _un_ + _dramatize_, "lower (usually through irony) the degree of dramaticiness of a tragic event". Commonly translated as _downplay_, but I think the English word has a much more negative connotation.
+[^3]: Another one who recently did great animation for adults, unfortunately not yet on the big screen
+[^4]: _s_ + _drammatizzare_, literally _un_ + _dramatize_, "lower (usually through irony) the degree of dramaticiness of a tragic event". Commonly translated as _downplay_, but I think the English word has a much more negative connotation.
