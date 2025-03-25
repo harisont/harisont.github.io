@@ -6,12 +6,6 @@ author:
 description: > 
   harisont's personal website and chaotically multilingual blog.
 
-nav_pages:
-  - research.md
-  - sw.md
-  - more.md
-  - blog.md
-
 show_excerpts: false
 
 remote_theme: jekyll/minima
@@ -19,6 +13,11 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   date_format: "%-d %B %Y"
+  nav_pages:
+    - research.md
+    - sw.md
+    - more.md
+    - blog.md
   social_links:
     - title: GitHub
       icon: github
