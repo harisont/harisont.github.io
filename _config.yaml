@@ -14,10 +14,10 @@ minima:
   skin: dark
   date_format: "%-d %B %Y"
   nav_pages:
+    - blog.md
     - research.md
     - sw.md
     - more.md
-    - blog.md
   social_links:
     - title: GitHub
       icon: github
