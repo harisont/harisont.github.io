@@ -10,14 +10,15 @@ show_excerpts: false
 
 remote_theme: "jekyll/minima@1e8a445"
 
+header_pages:
+  - research.md
+  - sw.md
+  - more.md
+  - blog.md
+
 minima:
   skin: dark
   date_format: "%-d %B %Y"
-  nav_pages:
-    - research.md
-    - sw.md
-    - more.md
-    - blog.md
   social_links:
     - title: GitHub
       icon: github
