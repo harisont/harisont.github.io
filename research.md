@@ -63,6 +63,7 @@ I am one of the core contributors to the [MultiGEC dataset](https://spraakbanken
 ## Reviewing
 I have reviewed for the following venues:
 
+- the Journal of Contemporary Educational Studies / Sodobna pedagogika
 - the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)
 - the 2022 and 2025 editions of the Workshop on Natural Language Processing for Computer-Assisted Language Learning (NLP4CALL)
 - the 2025 edition of the RESOURCEFUL Workshop on RESOURCEs and representations For Under-resourced Languages
