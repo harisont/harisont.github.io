@@ -20,6 +20,7 @@ More specifically:
   - `fun PredVPS : NP -> VP -> S ;`
   - `oper regNoun : Str -> Noun = ...`
 - `\ ->` is when _defining a function_ (typically in `oper`s). Example:
+
   ```haskell
   ... \sg -> mkNoun sg (sg + "s") ;
   ```
