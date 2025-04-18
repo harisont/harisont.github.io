@@ -25,15 +25,18 @@ More specifically:
   ```
 - `=>` is used when:
   - _declaring the type of a table_ (typically in `lincat`). Example:
+
     ```haskell
     lincat N = {s : Number => Str} ;
     ```
   - _filling in the cell of a table_. Example:
+
     ```haskell
     table { Sg => "cat" ; 
             Pl => "cats"}
     ```
-- `\\ => ` is used for _filling in tables based on the value of one or more parameters_. Example:
+- `\\ =>` is used for _filling in tables based on the value of one or more parameters_. Example:
+  
   ```haskell
   AdjCN a cn = {
     -- whatever the n (the number) is, use it to select the correct cell of the table for the CN
