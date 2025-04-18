@@ -36,7 +36,7 @@ More specifically:
     table { Sg => "cat" ; 
             Pl => "cats"}
     ```
-- `\\ =>` is used for _filling in tables based on the value of one or more parameters_. Example:
+- `\\ =>` is used for _filling in tables whose cells are all to be filled in the same way_ (single-branch tables). Example:
   
   ```haskell
   AdjCN a cn = {
