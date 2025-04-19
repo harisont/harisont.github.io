@@ -2,9 +2,9 @@
 title: GFAQs
 ---
 
-This is a collection of questions about [Grammatical Framework](https://www.grammaticalframework.org/) that I've been asked at least twice during a single edition of the [Computational Syntax](https://kursplaner.gu.se/pdf/kurs/en/LT2214.pdf) course at the University of Gothenburg, and/or that I haven't been able to answer exhaustively in class.
+This is a collection of questions about [Grammatical Framework](https://www.grammaticalframework.org/) that I've been asked at least twice during a single edition of the [Computational Syntax](https://kursplaner.gu.se/pdf/kurs/en/LT2214.pdf) course at the University of Gothenburg, and/or that I haven't been able to answer exhaustively in class, and/or that I myself tend to forget the answer to in between years.
 
-Contents:
+Categories:
 - [GF syntax](#gf-syntax)
 - [Encoding issues](#encoding-issues)
 
