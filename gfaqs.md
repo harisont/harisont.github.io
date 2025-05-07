@@ -7,6 +7,7 @@ This is a collection of questions about [Grammatical Framework](https://www.gram
 Categories:
 - [GF syntax](#gf-syntax)
 - [Encoding issues](#encoding-issues)
+- [Using GF from Python](#using-gf-from-python)
 
 
 ## GF syntax
@@ -61,3 +62,8 @@ flags coding = utf8 ;
 to your concrete module. 
 
 This is necessary because the default encoding for GF source files is iso-latin-1, which can only handle the ASCII charset and a few extra characters needed for some European languages.
+
+## Using GF from Python
+> I am getting started with lab 2 and I can't install/run the Python `pgf` library and/or the C runtime
+
+For the moment, don't: follow [Aarne's alternative instructions for testing](https://github.com/GrammaticalFramework/comp-syntax-gu-mlt/blob/034f3a4771efd47cea9c53bcff1b493b577cce04/lab2/README.md?plain=1#L26-L30).
