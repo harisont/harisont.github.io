@@ -135,5 +135,6 @@ For the moment, don't: follow [Aarne's alternative instructions for testing](htt
 3. if it still doesn't work, save the file as `.tsv`. You'll get a different but equally good highlighting for the token lines
 
 > I want syntax highlighting, but I don't use Visual Studio Code
+
 GOTO step 3 of the answer above ;) 
 Most editors have support for highling TSVs an CSVs 
