@@ -6,7 +6,7 @@ This is a collection of questions about [Grammatical Framework](https://www.gram
 
 Categories:
 - [GF](#gf)
-  - [File structure](#file-structure)
+  - [File structure/module types](#file-structuremodule-types)
   - [GF terms/types of judgments](#gf-termstypes-of-judgments)
   - [GF syntax](#gf-syntax)
   - [Encoding issues](#encoding-issues)
@@ -16,7 +16,7 @@ Categories:
 
 ## GF
 
-### File structure
+### File structure/module types
 > What goes in which files?
 
 In GF, there are several module types:
@@ -121,20 +121,20 @@ to your concrete module.
 This is necessary because the default encoding for GF source files is iso-latin-1, which can only handle the ASCII charset and a few extra characters needed for some European languages.
 
 ### Using GF from Python
-> I am getting started with lab 2 and I can't install/run the Python `pgf` library and/or the C runtime
+> I am getting started with lab 2 and I can't install/run the Python `pgf` library and/or the C runtime.
 
 For the moment, don't: follow [Aarne's alternative instructions for testing](https://github.com/GrammaticalFramework/comp-syntax-gu-mlt/blob/034f3a4771efd47cea9c53bcff1b493b577cce04/lab2/README.md?plain=1#L26-L30).
 
 ## UD
 
 ### Syntax highlighting
-> I have tried to install the [vscode-conllu](https://marketplace.visualstudio.com/items/?itemName=lgrobol.vscode-conllu) extension but it doesn't seem to work
+> I have tried to install the [vscode-conllu](https://marketplace.visualstudio.com/items/?itemName=lgrobol.vscode-conllu) extension but it doesn't seem to work.
 
 1. check that your filename ends in `.conllu` (which is not the same as `.connllu`)
 2. check that you are using tabs and not spaces as separators
 3. if it still doesn't work, save the file as `.tsv`. You'll get a different but equally good highlighting for the token lines
 
-> I want syntax highlighting, but I don't use Visual Studio Code
+> I want syntax highlighting, but I don't use Visual Studio Code.
 
 GOTO step 3 of the answer above ;) 
-Most editors have support for highling TSVs an CSVs 
+Most editors have support for highlighting TSVs and CSVs. 
