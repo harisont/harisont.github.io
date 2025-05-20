@@ -13,6 +13,7 @@ Categories:
   - [Using GF from Python](#using-gf-from-python)
 - [UD](#ud)
   - [Syntax highlighting](#syntax-highlighting)
+  - [Arborator](#arborator)
 
 ## GF
 
@@ -138,3 +139,10 @@ For the moment, don't: follow [Aarne's alternative instructions for testing](htt
 
 GOTO step 3 of the answer above ;) 
 Most editors have support for highlighting TSVs and CSVs. 
+
+### Arborator
+> I am using [Arborator](arborator.grew.fr) for annotation and I can't find my project under "My Projects"
+
+...I know right? 
+For the moment, look for it from the homepage using the search bar and then save the direct link.
+Eventually, I hope they'll solve the [issue](https://github.com/Arborator/arborator-frontend/issues/442).
