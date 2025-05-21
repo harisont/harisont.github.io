@@ -241,7 +241,7 @@ If we used "et" as the head, the trees for "A and/et B" becomes:
   <text x="81" y="38" font-size="10" fill="white">conj</text>
 </svg>
 
-which is more different than it needs to be from.
+which is more different than it needs to be from
 
 <svg width="93"
      height="95"
@@ -263,7 +263,7 @@ which is more different than it needs to be from.
   <text x="35" y="38" font-size="10" fill="white">conj</text>
 </svg>
 
-where you can clearly see what the conjuncts are
+where you can clearly see what the two conjuncts are.
 
 > But can't "Bque" be treated as a [MWT](#multiword-tokens)?
 
