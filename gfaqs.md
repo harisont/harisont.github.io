@@ -13,7 +13,11 @@ Categories:
   - [Using GF from Python](#using-gf-from-python)
 - [UD](#ud)
   - [Syntax highlighting](#syntax-highlighting)
+  - [MultiWord tokens](#multiword-tokens)
+  - [Conjunctions](#conjunctions)
   - [Arborator](#arborator)
+  - [MaChAmp](#machamp)
+  - [UD validator](#ud-validator)
 
 ## GF
 
@@ -140,9 +144,180 @@ For the moment, don't: follow [Aarne's alternative instructions for testing](htt
 GOTO step 3 of the answer above ;) 
 Most editors have support for highlighting TSVs and CSVs. 
 
+### MultiWord tokens
+> How do I analyze:
+> 1. "do" ("de + "o") in Portuguese
+> 2. "au" ("à" + "le") in French
+> 3. "nel" ("in" + "il") in Italian
+> 4. "dámelo" ("da" + "me" + "lo") in Spanish
+> 
+> and so on?
+
+UD version 2 treats these cases (where an orthographic word consists of several syntactic units) as MultiWord Tokens (MWTs). 
+Annotation consists of a so-called _range line_ with the original form but no analysis, followed by 2+ lines where each individual element is analyzed individually.
+Example for portuguese.
+
+```tsv
+# text = A comida do gato.
+# gloss = The food of+the cat.
+1	A	o	DET	_	_	2	det	_	_
+2	comida	comida	NOUN	_	_	0	root	_	_
+3-4	do	_	_	_	_	_	_	_	_
+3	de	de	ADP		_	5	case	_	_
+4	o	o	DET	_	_	5	det	_	_
+5	gato	gato	NOUN	_	_	2	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+```
+
+Unfortunately, [MaChAmp](#machamp) cannot fully handle this yet.
+This is one of the reasons why you need to preprocess all of its input files as indicated in the [lab description](https://github.com/GrammaticalFramework/comp-syntax-gu-mlt/tree/main/lab3#step-2-preparing-the-training-and-development-data).
+
+### Conjunctions
+> How do I annotate conjunctions, in phrases like "A and B"?
+
+Like this:
+
+<svg width="149"
+     height="115"
+     viewBox="0 0 149 115"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="108" font-size="16">A</text>
+  <text x="42" y="108" font-size="16">and</text>
+  <text x="97" y="108" font-size="16">B</text>
+  <text x="5" y="93" font-size="10">SYM</text>
+  <text x="42" y="93" font-size="10">CCONJ</text>
+  <text x="97" y="93" font-size="10">SYM</text>
+  <line x1="20" y1="20" x2="20" y2="80" stroke="black"/>
+  <path d="M 20 80 17 74 23 74"/>
+  <text x="25" y="28" font-size="10">root</text>
+  <path d="M 55 80 Q 55 63 71 63 L 88 63 Q 104 63 104 80"
+        stroke="black"
+        fill="none"/>
+  <line x1="55" y1="75" x2="55" y2="80" stroke="black"/>
+  <path d="M 55 80 52 74 58 74"/>
+  <text x="75" y="58" font-size="10">cc</text>
+  <path d="M 27 80 Q 27 47 60 47 L 82 47 Q 115 47 115 80"
+        stroke="black"
+        fill="none"/>
+  <line x1="115" y1="75" x2="115" y2="80" stroke="black"/>
+  <path d="M 115 80 112 74 118 74"/>
+  <text x="62" y="42" font-size="10">conj</text>
+</svg>
+
+> But why? Then A and B are not on the same level!
+
+Reasonable objection.
+However, remember that UD prioritizes cross-lingual parallelism by avoiding using function words (such as conjunctions) as syntactic heads.
+
+In latin, for example "A and B" can be translated as both "A et b" and "A Bque" (e.g. "SPQR: Senatus PopolusQue Romanus"). 
+If we used "et" as the head, the trees for "A and/et B" becomes:
+
+<svg width="149"
+     height="95"
+     viewBox="0 0 149 95"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="88" font-size="16">A</text>
+  <text x="42" y="88" font-size="16">et/and</text>
+  <text x="97" y="88" font-size="16">B</text>
+  <text x="5" y="73" font-size="10">SYM</text>
+  <text x="42" y="73" font-size="10">CCONJ</text>
+  <text x="97" y="73" font-size="10">SYM</text>
+  <path d="M 19 60 Q 19 43 33 43 L 33 43 Q 48 43 48 60"
+        stroke="black"
+        fill="none"/>
+  <line x1="19" y1="55" x2="19" y2="60" stroke="black"/>
+  <path d="M 19 60 16 54 22 54"/>
+  <text x="25" y="38" font-size="10">conj</text>
+  <line x1="57" y1="20" x2="57" y2="60" stroke="black"/>
+  <path d="M 57 60 54 54 60 54"/>
+  <text x="62" y="28" font-size="10">root</text>
+  <path d="M 65 60 Q 65 43 81 43 L 98 43 Q 114 43 114 60"
+        stroke="black"
+        fill="none"/>
+  <line x1="114" y1="55" x2="114" y2="60" stroke="black"/>
+  <path d="M 114 60 111 54 117 54"/>
+  <text x="81" y="38" font-size="10">conj</text>
+</svg>
+
+which is more different than it needs to be from.
+
+<svg width="93"
+     height="95"
+     viewBox="0 0 93 95"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="88" font-size="16">A</text>
+  <text x="42" y="88" font-size="16">Bque</text>
+  <text x="5" y="73" font-size="10">SYM</text>
+  <text x="42" y="73" font-size="10">NOUN</text>
+  <line x1="20" y1="20" x2="20" y2="60" stroke="black"/>
+  <path d="M 20 60 17 54 23 54"/>
+  <text x="25" y="28" font-size="10">root</text>
+  <path d="M 29 60 Q 29 43 43 43 L 43 43 Q 58 43 58 60"
+        stroke="black"
+        fill="none"/>
+  <line x1="58" y1="55" x2="58" y2="60" stroke="black"/>
+  <path d="M 58 60 55 54 61 54"/>
+  <text x="35" y="38" font-size="10">conj</text>
+</svg>
+
+where you can clearly see what the conjuncts are
+
+> But can't "Bque" be treated as a [MWT](#multiword-tokens)?
+
+Sure can: in that case, you would split "B" and "que" and you could in theory treat the clitic "que" as a head.
+But imagine a language where conjunction is expressed by simply justaposing the conjuncts (e.g. "A B"). What would be the head then?
+
 ### Arborator
 > I am using [Arborator](arborator.grew.fr) for annotation and I can't find my project under "My Projects"
 
 ...I know right? 
 For the moment, look for it from the homepage using the search bar and then save the direct link.
 Eventually, I hope they'll solve the [issue](https://github.com/Arborator/arborator-frontend/issues/442).
+
+### MaChAmp
+> I am trying to run a [MaChAmp](https://github.com/machamp-nlp/machamp) script but it fails complaining that some other Python file does not exist.
+
+Check that you are running the script from Machamp's root folder (i.e. the folder named `machamp` or `machamp-master`).
+
+> I successfully installed MaChamp and preprocessed the training and development data and I'm now trying to train my model, but training fails with something like
+
+> ```
+> 2025-05-21 10:34:51,518 - ERROR - STDERR - [enforce fail at inline_container.cc:595] . unexpected pos 196207040 vs 196206992
+> ```
+
+There is probably some formatting error in your CoNNL-U input files. 
+The most common ones are:
+
+1. missing newlines at the end of the file, which often happens when you split the data into a training and development set yourself
+2. the diabolical non-unix newline characters, which some editors on Windows like adding when you simply _open_ your files.
+
+To fix error 1, open your files and check that it ends with __two__ empty lines. 
+If it doesn't, add one.
+
+To fix error 2, run
+
+```bash
+tr -d '\r' < PATH-TO-YOUR-NONUNIX-FILE.conllu >  PATH-FOR-THE-OUTPUT-FILE.conllu
+```
+
+(which means "delete all `\r` characters from the non-unix file and write the output on a new file").
+
+If training still fails after this, try to validate your CoNNL-U file(s) (see below).
+
+### UD validator
+> How do I use the official UD validator?
+
+1. clone or download [the UD tools repository](https://github.com/UniversalDependencies/tools)
+2. move inside the `tools` folder
+3. run 
+   ```
+   python PATH-TO-YOUR-TREEBANK.conllu --lang 2-LETTER-LANGCODE-FOR-YOUR LANGUAGE
+   ```
+
+MaChAmp should only be concerned about basic formatting issues, so if you are validating for MaChAmp you can add `--level=1`. If you want to check for errors in your own annotated files, however, you can go up a few levels: 
+- 2 checks UD format specifics
+- 3 checks that the universal UD guidelines are followed (e.g. that there are no `VERB`s used as `AUX` or multiple subjects in the same sentence)
+- 4 and 5 check language-specific stuff.
