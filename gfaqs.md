@@ -2,7 +2,7 @@
 title: FACS - FAQs about Computational Syntax
 ---
 
-This is a collection of questions about [Grammatical Framework](https://www.grammaticalframework.org/) and [Universal Dependencies](https://universaldependencies.org/) questions that I've been asked at least twice during a single edition of the [LT2214 Computational Syntax](https://kursplaner.gu.se/pdf/kurs/en/LT2214.pdf) course at the University of Gothenburg, and/or that I haven't been able to answer exhaustively in class, and/or that I myself tend to forget the answer to in between years.
+This is a collection of questions about [Grammatical Framework](https://www.grammaticalframework.org/) and [Universal Dependencies](https://universaldependencies.org/) that I've been asked at least twice during a single edition of the [LT2214 Computational Syntax](https://kursplaner.gu.se/pdf/kurs/en/LT2214.pdf) course at the University of Gothenburg, and/or that I haven't been able to answer exhaustively in class, and/or that I myself tend to forget the answer to in between years.
 
 Categories:
 - [GF](#gf)
@@ -12,9 +12,9 @@ Categories:
   - [Encoding issues](#encoding-issues)
   - [Using GF from Python](#using-gf-from-python)
 - [UD](#ud)
-  - [Syntax highlighting](#syntax-highlighting)
   - [MultiWord tokens](#multiword-tokens)
   - [Conjunctions](#conjunctions)
+  - [Syntax highlighting](#syntax-highlighting)
   - [Arborator](#arborator)
   - [MaChAmp](#machamp)
   - [UD validator](#ud-validator)
@@ -131,18 +131,6 @@ This is necessary because the default encoding for GF source files is iso-latin-
 For the moment, don't: follow [Aarne's alternative instructions for testing](https://github.com/GrammaticalFramework/comp-syntax-gu-mlt/blob/034f3a4771efd47cea9c53bcff1b493b577cce04/lab2/README.md?plain=1#L26-L30).
 
 ## UD
-
-### Syntax highlighting
-> I have tried to install the [vscode-conllu](https://marketplace.visualstudio.com/items/?itemName=lgrobol.vscode-conllu) extension but it doesn't seem to work.
-
-1. check that your filename ends in `.conllu` (which is not the same as `.connllu`)
-2. check that you are using tabs and not spaces as separators
-3. if it still doesn't work, save the file as `.tsv`. You'll get a different but equally good highlighting for the token lines
-
-> I want syntax highlighting, but I don't use Visual Studio Code.
-
-GOTO step 3 of the answer above ;) 
-Most editors have support for highlighting TSVs and CSVs. 
 
 ### MultiWord tokens
 > How do I analyze:
@@ -269,6 +257,18 @@ where you can clearly see what the two conjuncts are.
 
 Sure can: in that case, you would split "B" and "que" and you could in theory treat the clitic "que" as a head.
 But imagine a language where conjunction is expressed by simply justaposing the conjuncts (e.g. "A B"). What would be the head then?
+
+### Syntax highlighting
+> I have tried to install the [vscode-conllu](https://marketplace.visualstudio.com/items/?itemName=lgrobol.vscode-conllu) extension but it doesn't seem to work.
+
+1. check that your filename ends in `.conllu` (which is not the same as `.connllu`)
+2. check that you are using tabs and not spaces as separators
+3. if it still doesn't work, save the file as `.tsv`. You'll get a different but equally good highlighting for the token lines
+
+> I want syntax highlighting, but I don't use Visual Studio Code.
+
+GOTO step 3 of the answer above ;) 
+Most editors have support for highlighting TSVs and CSVs. 
 
 ### Arborator
 > I am using [Arborator](arborator.grew.fr) for annotation and I can't find my project under "My Projects"
