@@ -182,27 +182,27 @@ Like this:
      viewBox="0 0 149 115"
      version="1.1"
      xmlns="http://www.w3.org/2000/svg">
-  <text x="5" y="108" font-size="16">A</text>
-  <text x="42" y="108" font-size="16">and</text>
-  <text x="97" y="108" font-size="16">B</text>
-  <text x="5" y="93" font-size="10">SYM</text>
-  <text x="42" y="93" font-size="10">CCONJ</text>
-  <text x="97" y="93" font-size="10">SYM</text>
-  <line x1="20" y1="20" x2="20" y2="80" stroke="black"/>
-  <path d="M 20 80 17 74 23 74"/>
-  <text x="25" y="28" font-size="10">root</text>
+  <text x="5" y="108" font-size="16" fill="white">A</text>
+  <text x="42" y="108" font-size="16" fill="white">and</text>
+  <text x="97" y="108" font-size="16" fill="white">B</text>
+  <text x="5" y="93" font-size="10" fill="white">SYM</text>
+  <text x="42" y="93" font-size="10" fill="white">CCONJ</text>
+  <text x="97" y="93" font-size="10" fill="white">SYM</text>
+  <line x1="20" y1="20" x2="20" y2="80" stroke="white"/>
+  <path d="M 20 80 17 74 23 74" fill="white"/>
+  <text x="25" y="28" font-size="10" fill="white">root</text>
   <path d="M 55 80 Q 55 63 71 63 L 88 63 Q 104 63 104 80"
-        stroke="black"
+        stroke="white"
         fill="none"/>
-  <line x1="55" y1="75" x2="55" y2="80" stroke="black"/>
-  <path d="M 55 80 52 74 58 74"/>
-  <text x="75" y="58" font-size="10">cc</text>
+  <line x1="55" y1="75" x2="55" y2="80" stroke="white"/>
+  <path d="M 55 80 52 74 58 74" fill="white"/>
+  <text x="75" y="58" font-size="10" fill="white">cc</text>
   <path d="M 27 80 Q 27 47 60 47 L 82 47 Q 115 47 115 80"
-        stroke="black"
+        stroke="white"
         fill="none"/>
-  <line x1="115" y1="75" x2="115" y2="80" stroke="black"/>
-  <path d="M 115 80 112 74 118 74"/>
-  <text x="62" y="42" font-size="10">conj</text>
+  <line x1="115" y1="75" x2="115" y2="80" stroke="white"/>
+  <path d="M 115 80 112 74 118 74" fill="white"/>
+  <text x="62" y="42" font-size="10" fill="white">conj</text>
 </svg>
 
 > But why? Then A and B are not on the same level!
@@ -218,27 +218,27 @@ If we used "et" as the head, the trees for "A and/et B" becomes:
      viewBox="0 0 149 95"
      version="1.1"
      xmlns="http://www.w3.org/2000/svg">
-  <text x="5" y="88" font-size="16">A</text>
-  <text x="42" y="88" font-size="16">et/and</text>
-  <text x="97" y="88" font-size="16">B</text>
-  <text x="5" y="73" font-size="10">SYM</text>
-  <text x="42" y="73" font-size="10">CCONJ</text>
-  <text x="97" y="73" font-size="10">SYM</text>
+  <text x="5" y="88" font-size="16" fill="white">A</text>
+  <text x="42" y="88" font-size="16" fill="white">et/and</text>
+  <text x="97" y="88" font-size="16" fill="white">B</text>
+  <text x="5" y="73" font-size="10" fill="white">SYM</text>
+  <text x="42" y="73" font-size="10" fill="white">CCONJ</text>
+  <text x="97" y="73" font-size="10" fill="white">SYM</text>
   <path d="M 19 60 Q 19 43 33 43 L 33 43 Q 48 43 48 60"
-        stroke="black"
+        stroke="white"
         fill="none"/>
-  <line x1="19" y1="55" x2="19" y2="60" stroke="black"/>
-  <path d="M 19 60 16 54 22 54"/>
-  <text x="25" y="38" font-size="10">conj</text>
-  <line x1="57" y1="20" x2="57" y2="60" stroke="black"/>
-  <path d="M 57 60 54 54 60 54"/>
-  <text x="62" y="28" font-size="10">root</text>
+  <line x1="19" y1="55" x2="19" y2="60" stroke="white"/>
+  <path d="M 19 60 16 54 22 54" fill="white"/>
+  <text x="25" y="38" font-size="10" fill="white">conj</text>
+  <line x1="57" y1="20" x2="57" y2="60" stroke="white"/>
+  <path d="M 57 60 54 54 60 54" fill="white"/>
+  <text x="62" y="28" font-size="10" fill="white">root</text>
   <path d="M 65 60 Q 65 43 81 43 L 98 43 Q 114 43 114 60"
-        stroke="black"
+        stroke="white"
         fill="none"/>
-  <line x1="114" y1="55" x2="114" y2="60" stroke="black"/>
-  <path d="M 114 60 111 54 117 54"/>
-  <text x="81" y="38" font-size="10">conj</text>
+  <line x1="114" y1="55" x2="114" y2="60" stroke="white"/>
+  <path d="M 114 60 111 54 117 54" fill="white"/>
+  <text x="81" y="38" font-size="10" fill="white">conj</text>
 </svg>
 
 which is more different than it needs to be from.
@@ -248,19 +248,19 @@ which is more different than it needs to be from.
      viewBox="0 0 93 95"
      version="1.1"
      xmlns="http://www.w3.org/2000/svg">
-  <text x="5" y="88" font-size="16">A</text>
-  <text x="42" y="88" font-size="16">Bque</text>
-  <text x="5" y="73" font-size="10">SYM</text>
-  <text x="42" y="73" font-size="10">NOUN</text>
-  <line x1="20" y1="20" x2="20" y2="60" stroke="black"/>
-  <path d="M 20 60 17 54 23 54"/>
-  <text x="25" y="28" font-size="10">root</text>
+  <text x="5" y="88" font-size="16" fill="white">A</text>
+  <text x="42" y="88" font-size="16" fill="white">Bque</text>
+  <text x="5" y="73" font-size="10" fill="white">SYM</text>
+  <text x="42" y="73" font-size="10" fill="white">NOUN</text>
+  <line x1="20" y1="20" x2="20" y2="60" stroke="white"/>
+  <path d="M 20 60 17 54 23 54" fill="white"/>
+  <text x="25" y="28" font-size="10" fill="white">root</text>
   <path d="M 29 60 Q 29 43 43 43 L 43 43 Q 58 43 58 60"
-        stroke="black"
+        stroke="white"
         fill="none"/>
-  <line x1="58" y1="55" x2="58" y2="60" stroke="black"/>
-  <path d="M 58 60 55 54 61 54"/>
-  <text x="35" y="38" font-size="10">conj</text>
+  <line x1="58" y1="55" x2="58" y2="60" stroke="white"/>
+  <path d="M 58 60 55 54 61 54" fill="white"/>
+  <text x="35" y="38" font-size="10" fill="white">conj</text>
 </svg>
 
 where you can clearly see what the conjuncts are
