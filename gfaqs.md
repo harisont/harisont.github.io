@@ -1,5 +1,5 @@
 ---
-title: FACS - FAQs about Computational Syntax
+title: FACS - FAQs about LT2214 Computational Syntax
 ---
 
 This is a collection of questions about [Grammatical Framework](https://www.grammaticalframework.org/) and [Universal Dependencies](https://universaldependencies.org/) that I've been asked at least twice during a single edition of the [LT2214 Computational Syntax](https://kursplaner.gu.se/pdf/kurs/en/LT2214.pdf) course at the University of Gothenburg, and/or that I haven't been able to answer exhaustively in class, and/or that I myself tend to forget the answer to in between years.
