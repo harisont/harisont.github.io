@@ -317,7 +317,7 @@ If training still fails after this, try to validate your CoNNL-U file(s) (see be
 2. move inside the `tools` folder
 3. run 
    ```
-   python PATH-TO-YOUR-TREEBANK.conllu --lang=2-LETTER-LANGCODE-FOR-YOUR-LANGUAGE
+   python validate.py PATH-TO-YOUR-TREEBANK.conllu --lang=2-LETTER-LANGCODE-FOR-YOUR-LANGUAGE
    ```
 
 MaChAmp should only be concerned about basic formatting issues, so if you are validating for MaChAmp you can add `--level=1`. If you want to check for errors in your own annotated files, however, you can go up a few levels: 
