@@ -64,6 +64,7 @@ I am one of the core contributors to the [MultiGEC dataset](https://spraakbanken
 ## Reviewing
 I have reviewed for the following venues:
 
+- the 11th Italian Conference on Computational Linguistics (CLiC-it 2025)
 - the Journal of Contemporary Educational Studies / Sodobna pedagogika
 - the 2024 and 2025 editions of the Workshop on Innovative Use of NLP for Building Educational Applications (BEA)
 - the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)
