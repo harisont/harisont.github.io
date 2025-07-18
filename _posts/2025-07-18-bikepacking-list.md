@@ -112,7 +112,7 @@ I try to limit electronics as much as possible, but a few things are necessary:
 - a __smartphone__, which I use maninly for finding campsites and navigation. I've been tempted by more power-efficient bike computers, that are also more readable in harsh sunlight, but I find OSM-based Android apps unbeatable when it comes to usability on the go. A small e-ink Android device would be the perfect OSM-machine, but they are all too expensive
 - __charging cables__ and __wall adapter__ for my phone and camera (see [below](#luxury-items))
 - a __powerbank__ (I have a small one, but I'd probably need to replace it if I go on a 4+ day trip by myself, and I'm tempted by __portable solar panels__)
-- cheap __wired earbuds__, mostly because my phone microphone seems to be getting worse over time
+- cheap __wired earbuds__, mostly because my phone microphone seems to be getting worse over time.
 
 ## Food
 To limit weight and because of lack of experience with fireplaces, I do not cook when camping, but I find that, especially in the summer, you can go a long way just by assembling meals out of raw and semiprocessed foods you can find in any supermarket. 
@@ -144,7 +144,7 @@ I usually have two smaller thermal bottles, one in the bike holder and one easil
   
   If I went on an even longer trip (say one month), I'd consider investing in a cheap, compact __e-reader__, but the one I own right now is way too large, expensive and delicate for camping
 - __MTG cards__ (if with C.) or another small __board game__. This year, I was happy I did not bring one of my two favorite MTG decks as rain managed to seep through my bag's rain cover, plastic deck case and sleeves and ruin the corners of a few cards, even though they are still perfectly usable
-- a small, easy to operate cheap and/or rugged __camera__. Until recently, I used an old compact point-and-shoot Canon, but since it is slowly declining, I recently bought a second-hand Olympus Tough camera, which is fun to use, a bit more modern and can stand the elements, water included
+- a small, easy to operate cheap and/or rugged __camera__. Until recently, I used an old compact point-and-shoot Canon, but since it is slowly declining, I recently bought a second-hand Olympus Tough camera, which is fun to use, a bit more modern and can stand the elements, water included.
 
 ## Things I deliberately don't pack
 As I mentioned above, while I do bring some [kitchen utensils](#kitchen-utensils), I don't really need that many because I avoid cooking outdoors altogether.
