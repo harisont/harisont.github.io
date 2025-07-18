@@ -106,6 +106,14 @@ Spare tubes or not, if I ever went on a solo trip, I'd bring tire-changing tools
 - a mini __sewing kit__
 - a __lock__, just in case I end up sleeping at a hostel.
 
+## Mandatory electronics
+I try to limit electronics as much as possible, but a few things are necessary:
+
+- a __smartphone__, which I use maninly for finding campsites and navigation. I've been tempted by more power-efficient bike computers, that are also more readable in harsh sunlight, but I find OSM-based Android apps unbeatable when it comes to usability on the go. A small e-ink Android device would be the perfect OSM-machine, but they are all too expensive
+- __charging cables__ and __wall adapter__ for my phone and camera (see [below](#luxury-items))
+- a __powerbank__ (I have a small one, but I'd probably need to replace it if I go on a 4+ day trip by myself, and I'm tempted by __portable solar panels__)
+- cheap __wired earbuds__, mostly because my phone microphone seems to be getting worse over time
+
 ## Food
 To limit weight and because of lack of experience with fireplaces, I do not cook when camping, but I find that, especially in the summer, you can go a long way just by assembling meals out of raw and semiprocessed foods you can find in any supermarket. 
 What food I bring along, of course, varies from time to time, but some things tend to buy are:
@@ -124,14 +132,6 @@ What food I bring along, of course, varies from time to time, but some things te
 
 As for __water__, for free camping in the summer I usually make sure to have at the very least 2 liters on me. 
 I usually have two smaller thermal bottles, one in the bike holder and one easily accessible for refills, and a larger plastic one, which I try to keep cool by wrapping it in my camping mat (see [above](#camping-equipment)).
-
-## Mandatory electronics
-I try to limit electronics as much as possible, but a few things are necessary:
-
-- a __smartphone__, which I use maninly for finding campsites and navigation. I've been tempted by more power-efficient bike computers, that are also more readable in harsh sunlight, but I find OSM-based Android apps unbeatable when it comes to usability on the go. A small e-ink Android device would be the perfect OSM-machine, but they are all too expensive
-- __charging cables__ and __wall adapter__ for my phone and camera (see [below](#luxury-items))
-- a __powerbank__ (I have a small one, but I'd probably need to replace it if I go on a 4+ day trip by myself, and I'm tempted by __portable solar panels__)
-- cheap __wired earbuds__, mostly because my phone microphone seems to be getting worse over time
 
 ## Luxury items
 - a __notebook__ and __pen__ for travel notes. I wrote about 20 (small) pages this time
