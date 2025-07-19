@@ -78,11 +78,11 @@ My beauty case contains:
 ## Bike tools
 My bike tools bag, which I bring with me on every out-of-town ride, contains the following:
 
-- a small pump with several adapter
-- a bike multitool that is maximally unergonomic but good enough for emergency situations
-- chain oil and rust solvent
-- a pair of gloves
-- the magic spray that supposedly fixes a flat tire from the inside.
+- a small __pump__ with several adapter
+- a __bike multitool__ that is maximally unergonomic but good enough for emergency situations. It is complemented by __another, smaller multitool__ that lives in my everyday bag and has pliers and smaller screwdrivers 
+- __chain oil__ and __rust solvent__
+- a pair of __rubber gloves__
+- the __magic spray__ that supposedly fixes a flat tire from the inside.
 
 My friend C. does not believe in magic and insists on always having spare tubes. 
 I think this is unnecessary for holidays where you're always more or less close to a town, but she might also be right.
