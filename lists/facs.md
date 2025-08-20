@@ -17,7 +17,7 @@ Contents:
   - [Eerie error messages](#eerie-error-messages)
   - [Using GF from Python](#using-gf-from-python)
 - [UD](#ud)
-  - [MultiWord tokens](#multiword-tokens)
+  - [MultiWord Tokens](#multiword-tokens)
   - [Conjunctions](#conjunctions)
   - [Syntax highlighting](#syntax-highlighting)
   - [Arborator](#arborator)
@@ -210,7 +210,7 @@ For the moment, don't: follow [Aarne's alternative instructions for testing](htt
 
 ## UD
 
-### MultiWord tokens
+### MultiWord Tokens
 > How do I analyze:
 > 1. "do" ("de + "o") in Portuguese
 > 2. "au" ("à" + "le") in French
