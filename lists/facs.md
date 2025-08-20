@@ -138,17 +138,19 @@ This is by no means obligatory, but there are at least three very practical reas
 
 1. if you later realize that a string isn't enough, it's easy to add another record field (e.g. `lincat Adv = {s: Str, goesBeforeVP: Bool}`), but more annoying to replace `Str` with a whole new record
 2. if some things in your grammar are strings and others `{s : Str}`, let's say
+
    ```haskell
    lincat Adv = {s: Str, goesBeforeVP: Bool} ;
    lincat Adj = Str ;
    ```
    it becomes easy to forget whether you should write `adv ++ adj`, `adv.s ++ adj` or `adv.s ++ adj.s` in your `lin`s
-3. you may want to extend a type, e.g.
-   ```haskell
-   	oper Verb : Type = {s: Str} ; -- for languages with no verb inflection
-		oper Verb2 : Type = Verb ** {prep: Str} ; -- verbs with an argument introduced by a preposition, such as "to wait for X"
-   ```
-   This only works with records!
+4. you may want to extend a type, which only works with records! For example:
+
+    ```haskell
+    oper Verb : Type = {s: Str} ; -- for languages with no verb inflection
+    oper Verb2 : Type = Verb ** {prep: Str} ; -- verbs with an argument introduced by a preposition, such as "to wait for X"
+    ```
+   
 
 > Why do we use the identifier `s` specifically, even things that are _not_ strings (such as in `lincat N = {s: Number => Str; g: Gender}`)?
 
