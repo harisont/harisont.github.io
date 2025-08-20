@@ -4,7 +4,7 @@ layout: base
 ---
 
 ## Language technology
-- [__STUnD__](https://harisont.github.io/STUnD), a Search Tool for (parallel) Universal Dependencies treebanks
+- [__STUnD__](https://harisont.github.io/STUnD), a Search Tool for (parallel) Universal Dependencies treebanks, in collaboration with my friend and colleague [Herbert Lange](https://spraakbanken.gu.se/en/about/staff/herbert) 
 - [__concept-alignment__](https://github.com/harisont/concept-alignment), a tool for syntax-based phrase and word alignment
 - [__conllu-plus-converter__](https://github.com/harisont/conllu-plus-converter), a simple conversion tool for [CoNNL-U (Plus) files](https://universaldependencies.org/format.html)
 - [__arrè__](https://github.com/harisont/arre), a collection of Python scripts to download and transcribe recordings of trials from the Radio Radicale archives
@@ -13,15 +13,18 @@ layout: base
 
 I have also contributed to:
 
+- [__CQP/Tree__](https://github.com/Niklas-Deworetzki/cqp-tree), a conversion tool that translates tree-style linguistic queries into CQP, a sequential sequential language used in several established corpus query tools, such as [Korp](https://spraakbanken.gu.se/korp)
 - the UD portion of the [__gf-ud__](https://github.com/GrammaticalFramework/gf-ud) toolkit for dependency trees and GF-UD conversions, which I now maintain as a separate Haskell library for UD treebanks, [__deptreehs__](https://github.com/harisont/deptreehs)
 - [__deptreepy__](https://github.com/aarneranta/deptreepy/), a Python port of part of [gf-ud](https://github.com/GrammaticalFramework/gf-ud), where I re-implemented tree visualizations and integrated third-party parsing functionalities
-- various processing tools for [the MultiGEC dataset for Multilingual Grammatical Error Correction](https://github.com/spraakbanken/multigec-2025) and [the SweLL Swedish Learner Language corpus](https://github.com/spraakbanken/SweLL-scripts) 
+- [__Grammatical Framework__](https://www.grammaticalframework.org/):
+  - the 3.12 (August 2025) release of [gf-core](https://github.com/GrammaticalFramework/gf-core)
+  - (minimally, but proudly) the __Italian [GF RGL](https://github.com/GrammaticalFramework/gf-rgl)__
 - the [__Lärka__](https://spraakbanken.gu.se/larkalabb/) language learning platform
-- (minimally, but proudly) the __Italian [GF RGL](https://github.com/GrammaticalFramework/gf-rgl)__
+- various processing tools for [the MultiGEC dataset for Multilingual Grammatical Error Correction](https://github.com/spraakbanken/multigec-2025) and [the SweLL Swedish Learner Language corpus](https://github.com/spraakbanken/SweLL-scripts) 
 
 ## LaTeX themes & templates
 - [__lucid__](https://github.com/harisont/lucid), the beamer theme I use for 100% of my presentations since 2018, recently revamped
-- [__GUnofficial-poster-template__](https://github.com/harisont/GUnofficial-poster-template), the only poster template I will ever use if I really have to make a poster.
+- [__GUnofficial-poster-template__](https://github.com/harisont/GUnofficial-poster-template), ~~the only poster template I will ever use if I forced to make another poster~~ (actually, my colleague [Staffan Melin](https://spraakbanken.gu.se/en/about/staff/staffan) made [a Språkbanken-themed version of this template](https://github.com/spraakbanken/communication/tree/main/templates_latex/poster_phd_a0), which looks way cooler)
 
 ## Misc
 - [__me-tadah__](https://github.com/harisont/me-tadah), the simplest possible ebook metadata editor
