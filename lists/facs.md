@@ -13,6 +13,8 @@ Contents:
   - [GF terms/types of judgments](#gf-termstypes-of-judgments)
   - [GF syntax](#gf-syntax)
   - [Encoding issues](#encoding-issues)
+  - [GF best practices](#gf-best-practices)
+  - [Eerie error messages](#eerie-error-messages)
   - [Using GF from Python](#using-gf-from-python)
 - [UD](#ud)
   - [MultiWord tokens](#multiword-tokens)
@@ -127,6 +129,79 @@ flags coding = utf8 ;
 to your concrete module. 
 
 This is necessary because the default encoding for GF source files is iso-latin-1, which can only handle the ASCII charset and a few extra characters needed for some European languages.
+
+### GF best practices
+> Why do we use records for things that are essentially strings, such as
+> `lincat Adv = {s : Str}`?
+
+This is by no means obligatory, but there are at least three very practical reasons to do so:
+
+1. if you later realize that a string isn't enough, it's easy to add another record field (e.g. `lincat Adv = {s: Str, goesBeforeVP: Bool}`), but more annoying to replace `Str` with a whole new record
+2. if some things in your grammar are strings and others `{s : Str}`, let's say
+   ```haskell
+   lincat Adv = {s: Str, goesBeforeVP: Bool} ;
+   lincat Adj = Str ;
+   ```
+   it becomes easy to forget whether you should write `adv ++ adj`, `adv.s ++ adj` or `adv.s ++ adj.s` in your `lin`s
+3. you may want to extend a type, e.g.
+   ```haskell
+   	oper Verb : Type = {s: Str} ; -- for languages with no verb inflection
+		oper Verb2 : Type = Verb ** {prep: Str} ; -- verbs with an argument introduced by a preposition, such as "to wait for X"
+   ```
+   This only works with records!
+
+> Why do we use the identifier `s` specifically, even things that are _not_ strings (such as in `lincat N = {s: Number => Str; g: Gender}`)?
+
+__Superficial reason__: it was (is?) hardcoded somewhere that `s` is the name of the record field used for linearization.
+
+__Deeper reason__: `s` _does_ stand for "string". Record fields called `s` are typically the ones that will _eventually_ become strings. In the case of `N`s, for example, the table `s` is the part of the record representing a noun that will linearize to a string once we decide which table entry we need, for instance based on the number of the determiner that introduces the noun:
+
+```haskell
+det.s ++ n.s ! det.n ; -- "a cat"
+```
+
+> What am I supposed to put in a resource module?
+
+You don't have to even _have_ a resource module unless there are any `oper`s or `params` that you want to use in multiple concrete files, but moving some code to a resource module can be a good way to organize your code regardless. 
+It seems that there are two dominant approaches:
+
+1. only having `lincat`s and `lin`s in your concrete and putting everything else in one or more resource modules. In this way, the concrete is strictly an implementation of the abstract syntax, which acts like an interface in object-oriented programming. This also used to be _the_ way to write GF grammars when `param`s and `oper`s were not allowed in concrete modules
+2. also keeping parameters and constructors (`mkXXX`) in the concrete syntax and only use resource modules for helper functions, as in a typical utils module.
+
+### Eerie error messages
+> I wrote something like
+> ```haskell
+> oper mkA : Str -> A = \a -> { s = a } ;
+> ```
+> and got an error that says something like
+> ```
+> Happened in operation mkA
+>  {s = a} is not in the lincat of A; try wrapping it with lin A
+> ```
+> What does this mean and how do I fix it?
+
+The best and most exhaustive explanation of this is [here](https://inariksit.github.io/gf/2018/05/25/subtyping-gf.html#lock-fields).
+In short, the compiler is complaining that the return type of `mkA` is not _exactly_ `A` because, when you write a `lincat` such as `lincat A = {s = Str}`, GF inserts a hidden field `lock_A` to be able to distinguish the `lincat` for `A` from any other `lincat`s with the same definition.
+
+The first possible solution is to do exactly what the compiler suggests:
+
+```haskell
+oper mkA : Str -> A = \a -> lin A ({ s = a }) ;
+```
+
+(the parentheses are actually redundant, but they're a way to visualize the "wrapping around")
+
+However, it is usually considered cleaner to explicitly define a type synonym for the category (in this case `A`):
+
+```haskell
+Adjective : Type = {s: Str} ;
+```
+
+and change the signature of the `oper` the compiler is complaining about accordingly:
+
+```haskell
+oper mkA : Str -> Adjective = \a -> { s = a } ;
+```
 
 ### Using GF from Python
 > I am getting started with lab 2 and I can't install/run the Python `pgf` library and/or the C runtime.
