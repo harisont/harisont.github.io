@@ -7,7 +7,7 @@ layout: base
 I'm Arianna ([`PronType=Prs|Number=Sing|Gender=Fem`](https://universaldependencies.org/u/feat/index.html)) and I'm an aspiring [computational linguist](research.md) with [too many hobbies](more.md).
 
 ### Long story short
-###### (if you want the boring version, take a look at my [CV](https://github.com/harisont/cv/raw/master/cv.pdf))
+###### (if you want the boring version, take a look at my [CV](https://raw.githubusercontent.com/harisont/cv/refs/heads/main/cv.pdf))
 I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.1399/12.3691), where I spent my teen years using my language skills to hide my total lack of mathematical knowledge.
 Done with high school, I figured I'd ~~punish~~ challenge myself and enroll in a Computer Science program, which against all odds I ended up completing __and__ thoroughly enjoying (both things mostly thanks to great company).
 During this process, I accidentally re-discovered language through a course on compilers and abruptly moved to [Gothenburg](https://www.openstreetmap.org/node/25930131) together with my former _sambo_[^1] [K.](https://harisont.github.io/kappanneu/).
