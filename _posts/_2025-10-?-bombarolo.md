@@ -1,8 +1,8 @@
 ---
 title: Se non del tutto giusto, quasi niente sbagliato: riflessioni metodologiche
-date: 2025-10-13
+date: 2025-10-?
 layout: post
-category: "cykelturism"
+category: "nlp"
 langs: ["en"] 
 ---
 
