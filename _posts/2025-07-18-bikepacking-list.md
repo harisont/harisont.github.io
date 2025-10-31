@@ -6,14 +6,14 @@ category: "cykelturism"
 langs: ["en"] 
 ---
 
-I've just come back from a nine-day bikepacking trip thorugh Denmark (blog post upcoming!) and I'm in the process of unpacking my bags. 
+I've just come back from a nine-day bikepacking trip through Denmark (blog post upcoming!) and I'm in the process of unpacking my bags. 
 This time, I think I did a pretty good job at packing (as in, I had almost everything I needed and needed basically everything I brought).
 This blog post is mostly a note to self about what to pack next time, but I thought it might be useful for fellow cyclist who want to embark in similar adventures (note that this packing list is tailored to the Scandinavian summer).
 
 ## Storage
 I have three main bags:
 
-- my awesome everyday __carrier bag__, __which converts into a backpack__ (on this particular trip, this feature was unnecessary, but on many other occasions I have used this bags to store my valuables and tranformed it into a backpack upon leaving the bike unattended for longer periods of time)
+- my awesome everyday __carrier bag__, __which converts into a backpack__ (on this particular trip, this feature was unnecessary, but on many other occasions I have used this bags to store my valuables and transformed it into a backpack upon leaving the bike unattended for longer periods of time)
 - another slightly smaller cheap (but __waterproof__) __carrier bag__ from Lidl
 - an old __cooler backpack__ which I've had repaired for the occasion and that, excepts for shorter stretches from the supermarket to the picnic table, I pack onto the carrier with a bungee cord - I don't love carrying things on my back, especially on warm summer days. In the past, I've stored food in a simple __basket__ with a __smaller cooler bag__ inside.
 
@@ -70,7 +70,7 @@ My beauty case contains:
 - __sunscreen__ - a necessary evil. I don't get sunburnt easily and yet I decided I should use high SPF during this kind of holidays. I even have a __sun-protective lipstick__
 - __pads__! Less is _not_ more when it comes to these
 - __tweezers__, indispensable in case you have to remove a tick
-- __band-aids__ and __desinfectant__
+- __band-aids__ and __disinfectant__
 - __paracetamol__
 - a __mosquito repellent__ and/or __after-bite__ whatever. I forgot about this this time and bought a practical stick one during towards the end fo the trip
 - __laundry sheets__, but the ones I have kinda suck and I might just replace them with a piece of __marseille soap__ unless I really plan on using a washing machine. In that case, I might invest in a __collapsible bucket__ for doing laundry on the go.
@@ -109,13 +109,13 @@ Spare tubes or not, if I ever went on a solo trip, I'd bring tire-changing tools
 ## Mandatory electronics
 I try to limit electronics as much as possible, but a few things are necessary:
 
-- a __smartphone__, which I use maninly for finding campsites and navigation. I've been tempted by more power-efficient bike computers, that are also more readable in harsh sunlight, but I find OSM-based Android apps unbeatable when it comes to usability on the go. A small e-ink Android device would be the perfect OSM-machine, but they are all too expensive
+- a __smartphone__, which I use manily for finding campsites and navigation. I've been tempted by more power-efficient bike computers, that are also more readable in harsh sunlight, but I find OSM-based Android apps unbeatable when it comes to usability on the go. A small e-ink Android device would be the perfect OSM-machine, but they are all too expensive
 - __charging cables__ and __wall adapter__ for my phone and camera (see [below](#luxury-items))
 - a __powerbank__ (I have a small one, but I'd probably need to replace it if I go on a 4+ day trip by myself, and I'm tempted by __portable solar panels__)
 - cheap __wired earbuds__, mostly because my phone microphone seems to be getting worse over time.
 
 ## Food
-To limit weight and because of lack of experience with fireplaces, I do not cook when camping, but I find that, especially in the summer, you can go a long way just by assembling meals out of raw and semiprocessed foods you can find in any supermarket. 
+To limit weight and because of lack of experience with fireplaces, I do not cook when camping, but I find that, especially in the summer, you can go a long way just by assembling meals out of raw and semi-processed foods you can find in any supermarket. 
 What food I bring along, of course, varies from time to time, but some things tend to buy are:
 
 - __salt__ (in a small airtight container)
@@ -127,7 +127,7 @@ What food I bring along, of course, varies from time to time, but some things te
 - a __lemon__ (it improves many canned foods, and if there is no other use for it, I just squeeze it in my water bottle)
 - some __vegetables__. Cucumbers, avocados and cherry tomatoes are three classics 
 - __fruit juice__ (sugary and refreshing. Blood orange juice has become a tradition of my trips with C.)
-- __sugary snacks__: sesamkakor, cotognata, dried mango rainsins and the like
+- __sugary snacks__: sesamkakor, cotognata, dried mango raisins and the like
 - __nuts__.
 
 As for __water__, for free camping in the summer I usually make sure to have at the very least 2 liters on me. 
@@ -135,7 +135,7 @@ I usually have two smaller thermal bottles, one in the bike holder and one easil
 
 ## Luxury items
 - a __notebook__ and __pen__ for travel notes. I wrote about 20 (small) pages this time
-- a __book__, possibly with the following characterstics: 
+- a __book__, possibly with the following characteristics: 
 
   - slim but not too short, because ideally it has to last for the whole trip
   - interesting but easy to read (not in a language I don't know well, for example), because I might read it in overly early mornings when my travel companion is still asleep
