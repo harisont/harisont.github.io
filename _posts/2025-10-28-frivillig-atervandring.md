@@ -37,11 +37,11 @@ E la lista si allunga, ma nel frattempo 65 comuni hanno accolto l'invito di Zett
 ## Le reazioni
 La destra svedese non l'ha presa benissimo.
 Riferendosi ai comuni che si oppongono a un dialogo sul tema dei rimpatri volontari, Ludvig Aspling, il portavoce per le politiche migratorie dei [Democratici Svedesi](https://harisont.github.io/ssds/2022/05/24/sv-nato.html#principali-partiti-svedesi-e-loro-attuali-posizioni)), si è chiesto se sia ragionevole sostenere economicamente i comuni che non si prendono la responsabilità della propria situazione finanziaria.
-Sveriges Radio, la radio nazionale svedese, riporta la notizia con il titolo: _La minaccia dell'[SD](https://harisont.github.io/ssds/2022/05/24/sv-nato.html#principali-partiti-svedesi-e-loro-attuali-posizioni))nei confronti dei comuni recalcitranti: revocare i sussidi statali_.
+Sveriges Radio, la radio nazionale svedese, riporta la notizia con il titolo: _La minaccia dell'[SD](https://harisont.github.io/ssds/2022/05/24/sv-nato.html#principali-partiti-svedesi-e-loro-attuali-posizioni) nei confronti dei comuni recalcitranti: revocare i sussidi statali_.
 
 Va detto però che, nonostante il suo appoggio sia fondamentale per la tenuta del governo, SD non è di per sè un partito di governo.
 
-Il ministro per l'immigrazione Johan Forsell ([M](https://harisont.github.io/ssds/2022/05/24/sv-nato.html#principali-partiti-svedesi-e-loro-attuali-posizioni)) ha reagito con toni prevedibilmente più moderati, ma con un'uscita comunque insidios (il grassetto è mio):
+Il ministro per l'immigrazione Johan Forsell ([M](https://harisont.github.io/ssds/2022/05/24/sv-nato.html#principali-partiti-svedesi-e-loro-attuali-posizioni)) ha reagito con toni prevedibilmente più moderati, ma con un'uscita comunque insidiosa (il grassetto è mio):
 
 > Il governo non prende posizione sulle modalità con cui i vari comuni scelgono di collaborare con la coordinatrice per fornire informazioni sul sussidio economico al reimpatrio volontario. Sappiamo tuttavia che l'offerta di collaborazione in tal senso ha ricevuto un riscontro positivo in molti comuni. [Quella del rimpatrio volontario] è un'opportunità rivolta a persone che __non hanno trovato posto in Svezia__ o che forse __non desiderano integrarsi__, e in cui possiamo aiutare a ricominciare da capo.
 
