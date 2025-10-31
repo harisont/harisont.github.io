@@ -1,5 +1,5 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
 
   <div class="wrapper">
 
@@ -12,20 +12,21 @@
           (unfamiliar with RSS? take a look at <a href="https:
             //harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html">this post!</a>)
         </p>
-      {%- if site.author %}
+        {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+          <li class="p-name">{{ site.author.name | escape }} (<a class="u-email"
+              href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>)</li>
           {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
         </ul>
-      {%- endif %}
+        {%- endif %}
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
-        <p>Noticed a <a href="https://dictionary.cambridge.org/dictionary/italian-english/strafalcione"><it>strafalcione</it></a> in something I've written? You're welcome to fix it and open a <a href="https://github.com/harisont/harisont.github.io">pull request</a>!</p>
+        <p>Noticed a <a href="https://dictionary.cambridge.org/dictionary/italian-english/strafalcione">
+            <it>strafalcione</it>
+          </a> in something I've written? You're welcome to fix it and open a <a
+            href="https://github.com/harisont/harisont.github.io">pull request</a>!</p>
       </div>
     </div>
 
