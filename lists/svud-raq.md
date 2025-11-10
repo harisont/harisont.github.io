@@ -109,6 +109,14 @@ It turns out that this is similar to [_tough_-movement](https://en.wikipedia.org
 In sentences like (1), the syntactic subject _problem_ of the main verb _is_ is logically the object of an embedded non-finite verb _solve_ (although in UD, the root of the sentence would be _tough_, not _is_), whereas in paraphrases (2) and (3) logical and grammatical structure coincide. 
 General guidelines about the annotations of _tough_-constructions, though, are still [under debate](https://github.com/UniversalDependencies/docs/issues/923) at the time of writing.
 
+## Subword-level coordination
+[[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1150)
+
+How to analyze constructions like _levnads- och beteendemässigt_?
+
+Ideally, we would want the conjuncts _levnads-_ och _beteende(-)_, and to form a compound with _mässigt_, but this is currently beyond the expressive capacity of UD.
+To circumvent the problem, we lemmatize _levnad_ as _levnadsmässigt_, obtaining a conjunction of two adverbs.
+
 ---
 
 
@@ -121,7 +129,7 @@ TODO: closed issues
 - [ ] https://github.com/UniversalDependencies/docs/issues/1107
 - [ ] https://github.com/UniversalDependencies/docs/issues/1126
 - [x] https://github.com/UniversalDependencies/docs/issues/1128
-- [ ] https://github.com/UniversalDependencies/docs/issues/1150
+- [x] https://github.com/UniversalDependencies/docs/issues/1150
 
 TODO: open issues
 - [ ] https://github.com/UniversalDependencies/docs/issues/1082
