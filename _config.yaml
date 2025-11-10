@@ -23,15 +23,9 @@ minima:
     - title: GitHub
       icon: github
       url: "https://github.com/harisont"
-    - title: Instagram
-      icon: instagram
-      url: "https://www.instagram.com/unottica/"
     - title: YouTube
       icon: youtube
       url: "https://www.youtube.com/c/ImparalHaskellemettilodaparte"
-    - title: RSS
-      icon: rss
-      url: "https://harisont.github.io/feed.xml"
 
 plugins:
   - jekyll-feed
