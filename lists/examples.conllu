@@ -16,3 +16,19 @@
 2	går	gå	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	att	att	PART	IE	_	4	mark	_	_
 4	debattera	debattera	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	2	ccomp	_	_
+
+# sent_id = 1
+# text = jag blev bjuden på te
+1	jag	jag	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	3	nsubj:pass	_	TokenRange=0:3
+2	blev	bli	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	TokenRange=4:8
+3	bjuden	bjuden	VERB	PC|PRF|UTR|SIN|IND|NOM	Mood=Ind|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=9:15
+4	på	på	ADP	PP	_	5	case	_	TokenRange=16:18
+5	te	te	NOUN	MAD	_	3	obl	_	SpaceAfter=No|TokenRange=19:21
+
+# sent_id = 1
+# text = att vara X år gammal
+1	att/to	att	PART	IE	_	5	mark	_	TokenRange=0:3
+2	vara/be	vara	AUX	VB|INF|AKT	VerbForm=Inf|Voice=Act	5	cop	_	TokenRange=4:8
+3	X	X	NUM	PM|NOM	Case=Nom	4	nummod	_	TokenRange=9:10
+4	år/years	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	obl	_	TokenRange=11:13
+5	gammal/old	gammal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=14:20

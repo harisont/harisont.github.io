@@ -102,12 +102,70 @@ Since its subject of not controlled by that of the superordinate, we use [`ccomp
 
 It turns out that this is similar to [_tough_-movement](https://en.wikipedia.org/wiki/Tough_movement), so called because the prototypical English example sentences for the phenomenon involve the word _tough_:
 
-1. this problem is tough to solve
-2. it is tough to solve this problem
-3. to solve this problem is tough
+1. _this problem is tough to solve_
+2. _it is tough to solve this problem_
+3. _to solve this problem is tough_
 
 In sentences like (1), the syntactic subject _problem_ of the main verb _is_ is logically the object of an embedded non-finite verb _solve_ (although in UD, the root of the sentence would be _tough_, not _is_), whereas in paraphrases (2) and (3) logical and grammatical structure coincide. 
 General guidelines about the annotations of _tough_-constructions, though, are still [under debate](https://github.com/UniversalDependencies/docs/issues/923) at the time of writing.
+
+## Participles
+[[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1088)
+
+Participles are even tougher than _tough_-constructions because they work as different parts of speech depending on the context. 
+Consider the following cases:
+
+1. _skolan får **ökade** möjligheter_
+2. _jag blev **bjuden** på te_
+3. _flickan var **strålande** glad_
+4. _detta **sökande** gav inget resultat_
+
+Cases like (1) are by far the most frequent. 
+The past participle _ökade_ clearly modifies the noun _möjligheter_ and should therefore be tagged as [`ADJ`](https://universaldependencies.org/sv/pos/ADJ.html).
+However, since it is derived from the verb _öka_, it also takes the typically verbal features [`Tense`](https://universaldependencies.org/sv/feat/Tense.html) and [`VerbForm`](https://universaldependencies.org/sv/feat/VerbForm.html). 
+
+In (2), _bjuden_ may also be seen as an adjective, but _bli_ + participle passive constructions are treated differently: the participle is tagged as [`VERB`](https://universaldependencies.org/sv/pos/VERB.html) (with `Tense` and `VerbFrom`) and _bli_ is annotated as a [passive auxiliary](https://universaldependencies.org/sv/dep/aux-pass.html):
+
+<svg width="279" height="115" viewBox="0 0 279 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="108" font-size="16">jag</text>
+  <text x="51" y="108" font-size="16">blev</text>
+  <text x="97" y="108" font-size="16">bjuden</text>
+  <text x="161" y="108" font-size="16">på</text>
+  <text x="198" y="108" font-size="16">te</text>
+  <text x="5" y="93" font-size="10">PRON</text>
+  <text x="51" y="93" font-size="10">AUX</text>
+  <text x="97" y="93" font-size="10">VERB</text>
+  <text x="161" y="93" font-size="10">ADP</text>
+  <text x="198" y="93" font-size="10">NOUN</text>
+  <path d="M 17 80 Q 17 47 50 47 L 72 47 Q 105 47 105 80" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="17" y1="75" x2="17" y2="80" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 17 80 14 74 20 74"></path>
+  <text x="39" y="42" font-size="10">nsubj:pass</text>
+  <path d="M 64 80 Q 64 63 81 63 L 87 63 Q 104 63 104 80" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="64" y1="75" x2="64" y2="80" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 64 80 61 74 67 74"></path>
+  <text x="66" y="58" font-size="10">aux:pass</text>
+  <line x1="112" y1="20" x2="112" y2="80" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 112 80 109 74 115 74"></path>
+  <text x="117" y="28" font-size="10">root</text>
+  <path d="M 175 80 Q 175 63 189 63 L 189 63 Q 204 63 204 80" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="175" y1="75" x2="175" y2="80" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 175 80 172 74 178 74"></path>
+  <text x="181" y="58" font-size="10">case</text>
+  <path d="M 118 80 Q 118 47 152 47 L 183 47 Q 217 47 217 80" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="217" y1="75" x2="217" y2="80" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 217 80 214 74 220 74"></path>
+  <text x="161" y="42" font-size="10">obl</text>
+</svg>
+
+In (3), the present participle _strålande_ modifies an adjective, _glad_. 
+We therefore give it the [`ADV`](https://universaldependencies.org/sv/pos/ADV.html) UPOS tag, again with the `Tense` and `VerbForm` features.
+
+Finally, in cases like (4), the participle should be tagged as [`NOUN`](https://universaldependencies.org/sv/pos/NOUN.html).
+Its morphological analysis should be consistent with the UPOS tag, so rather than using `Tense` and `VerbForm` we annotate for [`Case`](https://universaldependencies.org/sv/feat/Case.html), [`Definite`](https://universaldependencies.org/sv/feat/Definite.html)ness, [`Gender`](https://universaldependencies.org/sv/feat/Gender.html) and [`Number`](https://universaldependencies.org/sv/feat/Number.html).
+
+In all four cases, including when the UPOS tag is `VERB`, the lemma of the participial form is the participial form itself.
+
 
 ## Subword-level coordination
 [[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1150)
@@ -117,15 +175,59 @@ How to analyze constructions like _levnads- och beteendemässigt_?
 Ideally, we would want the conjuncts _levnads-_ och _beteende(-)_, and to form a compound with _mässigt_, but this is currently beyond the expressive capacity of UD.
 To circumvent the problem, we lemmatize _levnad_ as _levnadsmässigt_, obtaining a conjunction of two adverbs.
 
+## _Att vara X år gammal_ or _to be X years old_
+
+[[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1100)
+
+The expression _to be X years old_/_att vara X år gammal_ used to be treated inconsistently across English and Swedish treebanks.
+As of UD 2.16, annotation has been standardized to
+
+<svg width="396" height="135" viewBox="0 0 396 135" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="128" font-size="16">att/to</text>
+  <text x="69" y="128" font-size="16">vara/be</text>
+  <text x="142" y="128" font-size="16">X</text>
+  <text x="179" y="128" font-size="16">år/years</text>
+  <text x="261" y="128" font-size="16">gammal/old</text>
+  <text x="5" y="113" font-size="10">PART</text>
+  <text x="69" y="113" font-size="10">AUX</text>
+  <text x="142" y="113" font-size="10">NUM</text>
+  <text x="179" y="113" font-size="10">NOUN</text>
+  <text x="261" y="113" font-size="10">ADJ</text>
+  <path d="M 16 100 Q 16 50 66 50 L 220 50 Q 270 50 270 100" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="16" y1="95" x2="16" y2="100" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 16 100 13 94 19 94"></path>
+  <text x="134" y="45" font-size="10">mark</text>
+  <path d="M 80 100 Q 80 67 113 67 L 237 67 Q 270 67 270 100" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="80" y1="95" x2="80" y2="100" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 80 100 77 94 83 94"></path>
+  <text x="168" y="62" font-size="10">cop</text>
+  <path d="M 156 100 Q 156 83 171 83 L 171 83 Q 185 83 185 100" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="156" y1="95" x2="156" y2="100" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 156 100 153 94 159 94"></path>
+  <text x="157" y="78" font-size="10">nummod</text>
+  <path d="M 191 100 Q 191 83 207 83 L 253 83 Q 269 83 269 100" stroke="black" fill="none" style="--darkreader-inline-stroke: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-stroke=""></path>
+  <line x1="191" y1="95" x2="191" y2="100" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 191 100 188 94 194 94"></path>
+  <text x="223" y="78" font-size="10">obl</text>
+  <line x1="276" y1="20" x2="276" y2="100" stroke="black" style="--darkreader-inline-stroke: var(--darkreader-border-000000, #8c8273);" data-darkreader-inline-stroke=""></line>
+  <path d="M 276 100 273 94 279 94"></path>
+  <text x="281" y="28" font-size="10">root</text>
+</svg>
+
+Most importantly, _gammal/old_ is the head and _år/years_ is assigned the deprel [`obl`](https://universaldependencies.org/sv/dep/obl.html).
+Some English treebank specify the subtype [`obl:unmarked` (adpositionless oblique)](https://universaldependencies.org/en/dep/obl-unmarked.html).
+
+If you speak any other languages where a similar construction is used, check how it is annotated!
+
 ---
 
 
 TODO: intro (context, Eukalyptus, SweLL, who's involved, links to issues...)
 
 TODO: closed issues
-- [ ] https://github.com/UniversalDependencies/docs/issues/1088
+- [x] https://github.com/UniversalDependencies/docs/issues/1088
 - [ ] https://github.com/UniversalDependencies/docs/issues/1092
-- [ ] https://github.com/UniversalDependencies/docs/issues/1100
+- [x] https://github.com/UniversalDependencies/docs/issues/1100
 - [ ] https://github.com/UniversalDependencies/docs/issues/1107
 - [ ] https://github.com/UniversalDependencies/docs/issues/1126
 - [x] https://github.com/UniversalDependencies/docs/issues/1128
