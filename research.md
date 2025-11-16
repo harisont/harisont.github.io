@@ -61,10 +61,11 @@ Aside from [paper presentations](#scientific-publications), I have given the fol
 - _Concept Alignment for Multilingual Machine Translation_. Invited talk at the [7th Grammatical Framework Summer School](http://school.grammaticalframework.org/2021/) (online) on August 4, 2021 [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/summer-school/presentation.pdf) [[video]](https://youtu.be/h2GR7RbghnE?t=4104)
 
 ## Datasets
-I am one of the core contributors to the [MultiGEC dataset](https://spraakbanken.github.io/multigec-2025/) for text-level Multilingual Grammatical Error Correction.
+- I am the maintainer of [UD_Swedish-SweLL](https://github.com/UniversalDependencies/UD_Swedish-SweLL/tree/master), a treebank of learner Swedish based on [SweLL](https://spraakbanken.gu.se/en/resources/swell), the Swedish Learner Language corpus
+- I am one of the core contributors to the [MultiGEC dataset](https://spraakbanken.github.io/multigec-2025/) for text-level Multilingual Grammatical Error Correction used in the [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html)
 
 ## Events
-- I am the main organizer of the [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html#results) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
+- I was the main organizer of the [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html#results) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
 - I was one of the organizers of the [2024 workshop of Applications on Universal Dependencies](https://udapp-sltc-2024.github.io/), co-located with the 2024 Swedish Language Technology Conference ([SLTC 2024](https://sltc2024.github.io/)), on November 29, 2024.
 
 ## Reviewing
@@ -72,7 +73,7 @@ I have reviewed for the following venues:
 
 - the 11th Italian Conference on Computational Linguistics (CLiC-it 2025)
 - the Journal of Contemporary Educational Studies / Sodobna pedagogika
+- the 2025 edition of the RESOURCEFUL Workshop on RESOURCEs and representations For Under-resourced Languages
 - the 2024 and 2025 editions of the Workshop on Innovative Use of NLP for Building Educational Applications (BEA)
 - the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)
 - the 2022 and 2025 editions of the Workshop on Natural Language Processing for Computer-Assisted Language Learning (NLP4CALL)
-- the 2025 edition of the RESOURCEFUL Workshop on RESOURCEs and representations For Under-resourced Languages
