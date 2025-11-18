@@ -3,6 +3,166 @@ title: Rarely Asked Questions about Swedish UD
 layout: post
 ---
 
+## Comparative constructions (easier than you think!)
+
+[[go to discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1092)
+
+Comparative constructions such as 
+
+1. _att annotera dessa konstruktioner är enklare än du tror_ and 
+2. _några konstruktioner är lättare än andra_ 
+
+look tricky, but the [guidelines](https://universaldependencies.org/u/overview/comparatives.html) for them have recently gotten more comprehensive and, at least when it comes to Swedish, easier to understand and follow.
+
+When it comes to Swedish, the first question might be what UPOS tag to assign to the word _än_.
+The answer to that is [`SCONJ`](https://universaldependencies.org/sv/pos/SCONJ.html). 
+In (1), this is clear as _än_ clearly introduces a subordinate clause, _än du tror_. 
+As for (2), the [guidelines](https://universaldependencies.org/u/overview/comparatives.html#:~:text=If%20the%20same%20conjunction%20is%20used%20with%20bare%20nominals%2C%20we%20still%20tag%20it%20SCONJ%20(but%20we%20use%20dependency%20relations%20that%20are%20reserved%20for%20nominals%2C%20see%20below).) state that
+
+> If the same conjunction is used with bare nominals, we still tag it `SCONJ`
+
+When it comes to the dependency structure of the construction, the clause or nominal introduced by _än_ should always be attached to the comparative adjective:
+
+<svg width="225" height="115" viewBox="0 0 225 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="108" font-size="16">X</text>
+  <text x="24" y="108" font-size="16">är</text>
+  <text x="61" y="108" font-size="16">enklare</text>
+  <text x="134" y="108" font-size="16">än</text>
+  <text x="180" y="108" font-size="16">Y</text>
+  <text x="24" y="93" font-size="10">AUX</text>
+  <text x="61" y="93" font-size="10">ADJ</text>
+  <text x="134" y="93" font-size="10">ADP</text>
+  <path d="M 18 80 Q 18 47 43 47 L 43 47 Q 68 47 68 80" stroke="black" fill="none"></path>
+  <line x1="18" y1="75" x2="18" y2="80" stroke="black"></line>
+  <path d="M 18 80 15 74 21 74"></path>
+  <path d="M 38 80 Q 38 63 53 63 L 53 63 Q 67 63 67 80" stroke="black" fill="none"></path>
+  <line x1="38" y1="75" x2="38" y2="80" stroke="black"></line>
+  <path d="M 38 80 35 74 41 74"></path>
+  <text x="46" y="58" font-size="10">cop</text>
+  <line x1="76" y1="20" x2="76" y2="80" stroke="black"></line>
+  <path d="M 76 80 73 74 79 74"></path>
+  <text x="81" y="28" font-size="10">root</text>
+  <path d="M 148 80 Q 148 63 163 63 L 163 63 Q 177 63 177 80" stroke="black" fill="none"></path>
+  <line x1="148" y1="75" x2="148" y2="80" stroke="black"></line>
+  <path d="M 148 80 145 74 151 74"></path>
+  <path d="M 82 80 Q 82 47 116 47 L 156 47 Q 190 47 190 80" stroke="black" fill="none"></path>
+  <line x1="190" y1="75" x2="190" y2="80" stroke="black"></line>
+  <path d="M 190 80 187 74 193 74"></path>
+</svg>
+
+The specific label depend on whether the standard of comparison is a clause or a nominal.
+
+whereas for sentences like (2), we use [`advcl`](https://universaldependencies.org/sv/dep/advcl.html) for the subordinate clause and [`mark`](https://universaldependencies.org/sv/dep/mark.html) for _än_:
+
+
+<svg width="656" height="135" viewBox="0 0 656 135" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="128" font-size="16">att</text>
+  <text x="51" y="128" font-size="16">annotera</text>
+  <text x="133" y="128" font-size="16">dessa</text>
+  <text x="188" y="128" font-size="16">konstruktioner</text>
+  <text x="324" y="128" font-size="16">är</text>
+  <text x="361" y="128" font-size="16">enklare</text>
+  <text x="434" y="128" font-size="16">än</text>
+  <text x="489" y="128" font-size="16">du</text>
+  <text x="535" y="128" font-size="16">tror</text>
+  <text x="5" y="113" font-size="10">PART</text>
+  <text x="51" y="113" font-size="10">VERB</text>
+  <text x="133" y="113" font-size="10">DET</text>
+  <text x="188" y="113" font-size="10">NOUN</text>
+  <text x="324" y="113" font-size="10">AUX</text>
+  <text x="361" y="113" font-size="10">ADJ</text>
+  <text x="434" y="113" font-size="10">SCONJ</text>
+  <text x="489" y="113" font-size="10">PRON</text>
+  <text x="535" y="113" font-size="10">VERB</text>
+  <path d="M 18 100 Q 18 83 35 83 L 41 83 Q 58 83 58 100" stroke="black" fill="none"></path>
+  <line x1="18" y1="95" x2="18" y2="100" stroke="black"></line>
+  <path d="M 18 100 15 94 21 94"></path>
+  <text x="29" y="78" font-size="10">mark</text>
+  <path d="M 61 100 Q 61 50 111 50 L 321 50 Q 371 50 371 100" stroke="black" fill="none"></path>
+  <line x1="61" y1="95" x2="61" y2="100" stroke="black"></line>
+  <path d="M 61 100 58 94 64 94"></path>
+  <text x="205" y="45" font-size="10">csubj</text>
+  <path d="M 146 100 Q 146 83 162 83 L 179 83 Q 195 83 195 100" stroke="black" fill="none"></path>
+  <line x1="146" y1="95" x2="146" y2="100" stroke="black"></line>
+  <path d="M 146 100 143 94 149 94"></path>
+  <text x="164" y="78" font-size="10">det</text>
+  <path d="M 72 100 Q 72 67 105 67 L 174 67 Q 207 67 207 100" stroke="black" fill="none"></path>
+  <line x1="207" y1="95" x2="207" y2="100" stroke="black"></line>
+  <path d="M 207 100 204 94 210 94"></path>
+  <text x="133" y="62" font-size="10">obj</text>
+  <path d="M 338 100 Q 338 83 353 83 L 353 83 Q 367 83 367 100" stroke="black" fill="none"></path>
+  <line x1="338" y1="95" x2="338" y2="100" stroke="black"></line>
+  <path d="M 338 100 335 94 341 94"></path>
+  <text x="346" y="78" font-size="10">cop</text>
+  <line x1="376" y1="20" x2="376" y2="100" stroke="black"></line>
+  <path d="M 376 100 373 94 379 94"></path>
+  <text x="381" y="28" font-size="10">root</text>
+  <path d="M 445 100 Q 445 67 479 67 L 510 67 Q 544 67 544 100" stroke="black" fill="none"></path>
+  <line x1="445" y1="95" x2="445" y2="100" stroke="black"></line>
+  <path d="M 445 100 442 94 448 94"></path>
+  <text x="485" y="62" font-size="10">mark</text>
+  <path d="M 502 100 Q 502 83 519 83 L 525 83 Q 542 83 542 100" stroke="black" fill="none"></path>
+  <line x1="502" y1="95" x2="502" y2="100" stroke="black"></line>
+  <path d="M 502 100 499 94 505 94"></path>
+  <text x="511" y="78" font-size="10">nsubj</text>
+  <path d="M 382 100 Q 382 50 432 50 L 504 50 Q 554 50 554 100" stroke="black" fill="none"></path>
+  <line x1="554" y1="95" x2="554" y2="100" stroke="black"></line>
+  <path d="M 554 100 551 94 557 94"></path>
+  <text x="457" y="45" font-size="10">advcl</text>
+</svg>
+
+For cases like (2), we use [`obl`](https://universaldependencies.org/sv/dep/obl.html) and [`case`](https://universaldependencies.org/sv/dep/case.html):
+
+<svg width="443" height="115" viewBox="0 0 443 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="108" font-size="16">några</text>
+  <text x="60" y="108" font-size="16">konstruktioner</text>
+  <text x="196" y="108" font-size="16">är</text>
+  <text x="233" y="108" font-size="16">lättare</text>
+  <text x="306" y="108" font-size="16">än</text>
+  <text x="343" y="108" font-size="16">andra</text>
+  <text x="5" y="93" font-size="10">DET</text>
+  <text x="60" y="93" font-size="10">NOUN</text>
+  <text x="196" y="93" font-size="10">AUX</text>
+  <text x="233" y="93" font-size="10">ADJ</text>
+  <text x="306" y="93" font-size="10">ADP</text>
+  <text x="343" y="93" font-size="10">PRON</text>
+  <path d="M 18 80 Q 18 63 34 63 L 51 63 Q 67 63 67 80" stroke="black" fill="none"></path>
+  <line x1="18" y1="75" x2="18" y2="80" stroke="black"></line>
+  <path d="M 18 80 15 74 21 74"></path>
+  <text x="36" y="58" font-size="10">det</text>
+  <path d="M 71 80 Q 71 47 104 47 L 209 47 Q 242 47 242 80" stroke="black" fill="none"></path>
+  <line x1="71" y1="75" x2="71" y2="80" stroke="black"></line>
+  <path d="M 71 80 68 74 74 74"></path>
+  <text x="145" y="42" font-size="10">nsubj</text>
+  <path d="M 210 80 Q 210 63 225 63 L 225 63 Q 239 63 239 80" stroke="black" fill="none"></path>
+  <line x1="210" y1="75" x2="210" y2="80" stroke="black"></line>
+  <path d="M 210 80 207 74 213 74"></path>
+  <text x="218" y="58" font-size="10">cop</text>
+  <line x1="248" y1="20" x2="248" y2="80" stroke="black"></line>
+  <path d="M 248 80 245 74 251 74"></path>
+  <text x="253" y="28" font-size="10">root</text>
+  <path d="M 320 80 Q 320 63 335 63 L 335 63 Q 349 63 349 80" stroke="black" fill="none"></path>
+  <line x1="320" y1="75" x2="320" y2="80" stroke="black"></line>
+  <path d="M 320 80 317 74 323 74"></path>
+  <text x="325" y="58" font-size="10">case</text>
+  <path d="M 254 80 Q 254 47 288 47 L 328 47 Q 362 47 362 80" stroke="black" fill="none"></path>
+  <line x1="362" y1="75" x2="362" y2="80" stroke="black"></line>
+  <path d="M 362 80 359 74 365 74"></path>
+  <text x="301" y="42" font-size="10">obl</text>
+</svg>
+
+The only remaining issue is where to draw the line between clausal and nominal comparison.
+Sentences like 
+
+3. _parsern annoterar dessa konstruktioner bättre än jag_ 
+
+can be rephrased as both
+
+- _parsern annoterar dessa konstruktioner bättre än **jag skulle göra**_ (clausal) and
+- _parsern annoterar dessa konstruktioner bättre än **mig**_ (nominal).
+
+Ambiguous cases like (3) are treated like (2).
+
 ## _Går att `VERB`a_ and other equally tough constructions
 [[go to discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1128)
 

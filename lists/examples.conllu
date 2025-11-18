@@ -17,7 +17,6 @@
 3	att	att	PART	IE	_	4	mark	_	_
 4	debattera	debattera	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	2	ccomp	_	_
 
-# sent_id = 1
 # text = jag blev bjuden på te
 1	jag	jag	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	3	nsubj:pass	_	TokenRange=0:3
 2	blev	bli	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	TokenRange=4:8
@@ -25,10 +24,35 @@
 4	på	på	ADP	PP	_	5	case	_	TokenRange=16:18
 5	te	te	NOUN	MAD	_	3	obl	_	SpaceAfter=No|TokenRange=19:21
 
-# sent_id = 1
 # text = att vara X år gammal
 1	att/to	att	PART	IE	_	5	mark	_	TokenRange=0:3
 2	vara/be	vara	AUX	VB|INF|AKT	VerbForm=Inf|Voice=Act	5	cop	_	TokenRange=4:8
 3	X	X	NUM	PM|NOM	Case=Nom	4	nummod	_	TokenRange=9:10
 4	år/years	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	obl	_	TokenRange=11:13
 5	gammal/old	gammal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=14:20
+
+# text = X är enklare än Y
+1	X	_	_	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nsubj	_	TokenRange=0:6
+2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	TokenRange=7:9
+3	enklare	enkel	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	0	root	_	TokenRange=10:16
+4	än	än	ADP	KN	_	5	case	_	TokenRange=17:19
+5	Y	_	_	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	obl	_	SpaceAfter=No|TokenRange=20:26
+
+# text = att annotera dessa konstruktioner är enklare än du tror
+1	att	att	PART	IE	_	2	mark	_	TokenRange=0:3
+2	annotera	annotera	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	6	csubj	_	TokenRange=4:12
+3	dessa	denna	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Dem	4	det	_	TokenRange=13:18
+4	konstruktioner	konstruktion	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	2	obj	_	TokenRange=19:33
+5	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	TokenRange=34:36
+6	enklare	enkel	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	0	root	_	TokenRange=37:44
+7	än	än	SCONJ	SN	_	9	mark	_	TokenRange=45:47
+8	du	du	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	9	nsubj	_	TokenRange=48:50
+9	tror	tro	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No|TokenRange=51:55
+
+# text = några konstruktioner är lättare än andra
+1	några	någon	DET	DT|UTR/NEU|PLU|IND	Definite=Ind|Number=Plur|PronType=Ind	2	det	_	TokenRange=0:5
+2	konstruktioner	konstruktion	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	nsubj	_	TokenRange=6:20
+3	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	TokenRange=21:23
+4	lättare	lätt	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	0	root	_	TokenRange=24:31
+5	än	än	ADP	KN	_	6	case	_	TokenRange=32:34
+6	andra	annan	PRON	PN|UTR/NEU|PLU|IND|SUB/OBJ	Definite=Ind|Number=Plur|PronType=Ind	4	obl	_	SpaceAfter=No|TokenRange=35:40
