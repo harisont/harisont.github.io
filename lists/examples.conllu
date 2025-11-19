@@ -32,11 +32,12 @@
 5	gammal/old	gammal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=14:20
 
 # text = X är enklare än Y
-1	X	_	_	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nsubj	_	TokenRange=0:6
-2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	TokenRange=7:9
-3	enklare	enkel	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	0	root	_	TokenRange=10:16
-4	än	än	ADP	KN	_	5	case	_	TokenRange=17:19
-5	Y	_	_	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	obl	_	SpaceAfter=No|TokenRange=20:26
+1	X	_	_	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	nsubj	_	TokenRange=0:6
+2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	TokenRange=7:9
+3	mer	mer	ADV	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	4	advmod	_	TokenRange=10:16
+4	enklare	enkel	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	0	root	_	TokenRange=10:16
+5	än	än	ADP	KN	_	6	case	_	TokenRange=17:19
+6	Y	_	_	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	obl	_	SpaceAfter=No|TokenRange=20:26
 
 # text = att annotera dessa konstruktioner är enklare än du tror
 1	att	att	PART	IE	_	2	mark	_	TokenRange=0:3
