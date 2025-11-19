@@ -3,7 +3,9 @@ title: Rarely Asked Questions about Swedish UD
 layout: post
 ---
 
-## Comparative constructions (easier than you think!)
+TODO: context (ongoing UD annotation project at SBX)
+
+## Comparative constructions (they are easier than you think!)
 
 [[go to discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1092)
 
@@ -326,6 +328,17 @@ Its morphological analysis should be consistent with the UPOS tag, so rather tha
 
 In all four cases, including when the UPOS tag is `VERB`, the lemma of the participial form is the participial form itself.
 
+## _Att `VERB`a själv_
+
+[[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1126)
+
+Constructions like _att bestämma själv_ are clear when it comes to dependency structure (the root is the verb and _själv_ is one of its direct dependents). 
+Talbanken and LinES, the two largest Swedish UD treebanks, used to label this edge differently: the former used [`amod`](https://universaldependencies.org/sv/dep/amod.html), the latter [`advmod`](https://universaldependencies.org/sv/dep/amod.html).
+
+But while two dispute, the third enjoys! 
+Recent discussion led to re-analyze this as [secondary predication](https://universaldependencies.org/u/overview/complex-syntax.html#secondary-predicates), which implies using a clausal relation type. 
+Since _själv_ is optional, the relation of choice is [`advcl`](https://universaldependencies.org/sv/dep/advcl.html).
+This is consistent with the pre-existing use of [`acl`](https://universaldependencies.org/sv/dep/acl.html) in cases like _du borde vara **dig själv**_, where the head is a nominal (_dig_). 
 
 ## Subword-level coordination
 [[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1150)
@@ -334,6 +347,32 @@ How to analyze constructions like _levnads- och beteendemässigt_?
 
 Ideally, we would want the conjuncts _levnads-_ och _beteende(-)_, and to form a compound with _mässigt_, but this is currently beyond the expressive capacity of UD.
 To circumvent the problem, we lemmatize _levnad_ as _levnadsmässigt_, obtaining a conjunction of two adverbs.
+
+## Morphological analysis of syncretic adjective forms
+
+[[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1107)
+
+A handful of Swedish adjectives, such as _bra_ and _äkta_ are indeclinable, or rather, they inflect for degree (and, if nominalized, case), but not gender, number or definiteness.
+Other adjectives, such as _nyttig_, inflect for the latter three features as well, but with a certain degree of syncretism: the form _nyttiga_, for example, can be a singular definite (of either gender) or a plural (irrespective of both gender and number).
+
+In (Swedish) UD, a general principle is to base morphological annotation on the observed word form and __not__ infer features based on the context.
+Adjectives like _bra_ should therefore only be annotated for [`Case`](https://universaldependencies.org/sv/feat/Case.html) and [`Degree`](https://universaldependencies.org/sv/feat/Degree.html).
+This amounts to saying "this form works just as well for every combination of gender, number and definiteness".
+
+Annotation of adjectives like _nyttig_, on the other hand, partially deviates from this idea.
+When assigning morphological features to -_a_ forms like _nyttiga_, we would ideally want to convey that they can be definite and/or plural (but not singular and indefinite!).
+The problem is that UD v2 allows expressing disjunctions of values for a single feature (e.g. `Number=Sing,Plur`) but not of combinations of several feature-value pairs.
+Leaving -_a_ forms unannotated for number and definiteness would be misleading, as it would imply that they can be used in the indefinite singular case too.
+As a consequence, these two features are annotated contextually.
+The current practice can be summarized as follows (case and degree are ignored for the sake of compactness):
+
+| form      | features                                                                                         |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| _nyttig_  | `Definite=Ind\|Gender=Com\|Number=Sing`                                                          |
+| _nyttigt_ | `Definite=Ind\|Gender=Neut\|Number=Sing`                                                         |
+| _nyttiga_ | `Definite=Def` in singular definite contexts;<br> `Definite=Ind\|Number=Plur` in plural contexts |
+
+Nyttiga regler för nyttiga adjektiv!
 
 ## _Att vara X år gammal_ or _to be X years old_
 
@@ -381,19 +420,7 @@ If you speak any other languages where a similar construction is used, check how
 
 ---
 
-
-TODO: intro (context, Eukalyptus, SweLL, who's involved, links to issues...)
-
-TODO: closed issues
-- [x] https://github.com/UniversalDependencies/docs/issues/1088
-- [ ] https://github.com/UniversalDependencies/docs/issues/1092
-- [x] https://github.com/UniversalDependencies/docs/issues/1100
-- [ ] https://github.com/UniversalDependencies/docs/issues/1107
-- [ ] https://github.com/UniversalDependencies/docs/issues/1126
-- [x] https://github.com/UniversalDependencies/docs/issues/1128
-- [x] https://github.com/UniversalDependencies/docs/issues/1150
-
-TODO: open issues
+Open issues (guess I'll make a part 2 eventually)
 - [ ] https://github.com/UniversalDependencies/docs/issues/1082
 - [ ] https://github.com/UniversalDependencies/docs/issues/1083
 - [ ] https://github.com/UniversalDependencies/docs/issues/1121
