@@ -3,8 +3,6 @@ title: Rarely Asked Questions about Swedish UD
 layout: post
 ---
 
-TODO: context (ongoing UD annotation project at SBX)
-
 ## Comparative constructions (they are easier than you think!)
 
 [[go to discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1092)
@@ -418,7 +416,7 @@ Some English treebank specify the subtype [`obl:unmarked` (adpositionless obliqu
 
 If you speak any other languages where a similar construction is used, check how it is annotated!
 
----
+<!-- TODO:
 
 Open issues (guess I'll make a part 2 eventually)
 - [ ] https://github.com/UniversalDependencies/docs/issues/1082
@@ -434,3 +432,5 @@ Open issues (guess I'll make a part 2 eventually)
 - [ ] https://github.com/UniversalDependencies/docs/issues/1149
 - [ ] https://github.com/UniversalDependencies/docs/issues/1152
 - [ ] https://github.com/UniversalDependencies/docs/issues/1165
+
+-->
