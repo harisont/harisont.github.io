@@ -23,7 +23,7 @@ As for (2), the [guidelines](https://universaldependencies.org/u/overview/compar
 
 When it comes to the dependency structure of the construction, the clause or nominal introduced by _än_ should always be attached to the comparative adjective:
 
-<svg width="225" height="115" viewBox="0 0 225 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="225" height="115" style="background-color:white" viewBox="0 0 225 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="10" y="108" font-size="16">X</text>
   <text x="24" y="108" font-size="16">är</text>
   <text x="61" y="108" font-size="16">enklare</text>
@@ -55,7 +55,7 @@ The specific label depend on whether the standard of comparison is a clause or a
 whereas for sentences like (2), we use [`advcl`](https://universaldependencies.org/sv/dep/advcl.html) for the subordinate clause and [`mark`](https://universaldependencies.org/sv/dep/mark.html) for _än_:
 
 
-<svg width="656" height="135" viewBox="0 0 656 135" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="656" height="135" style="background-color:white" viewBox="0 0 656 135" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="128" font-size="16">att</text>
   <text x="51" y="128" font-size="16">annotera</text>
   <text x="133" y="128" font-size="16">dessa</text>
@@ -113,7 +113,7 @@ whereas for sentences like (2), we use [`advcl`](https://universaldependencies.o
 
 For cases like (2), we use [`obl`](https://universaldependencies.org/sv/dep/obl.html) and [`case`](https://universaldependencies.org/sv/dep/case.html):
 
-<svg width="443" height="115" viewBox="0 0 443 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="443" height="115" style="background-color:white" viewBox="0 0 443 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="108" font-size="16">några</text>
   <text x="60" y="108" font-size="16">konstruktioner</text>
   <text x="196" y="108" font-size="16">är</text>
@@ -154,7 +154,7 @@ For cases like (2), we use [`obl`](https://universaldependencies.org/sv/dep/obl.
 The only remaining issue is where to draw the line between clausal and nominal comparison.
 Sentences like 
 
-3. _parsern annoterar dessa konstruktioner bättre än jag_ 
+1. _parsern annoterar dessa konstruktioner bättre än jag_ 
 
 can be rephrased as both
 
@@ -172,7 +172,7 @@ Well, that sparked a whole debate.
 Semantically, _detta_ is the object of _debattera_.
 If we rephrase the sentence into _det går att debattera detta_ or _att debattera detta går_, the syntactic analysis coincides with the semantic one:
 
-<svg width="324" height="115" viewBox="0 0 324 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="324" height="115" style="background-color:white" viewBox="0 0 324 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="108" font-size="16">det</text>
   <text x="51" y="108" font-size="16">går</text>
   <text x="97" y="108" font-size="16">att</text>
@@ -204,7 +204,7 @@ If we rephrase the sentence into _det går att debattera detta_ or _att debatter
   <text x="202" y="58" font-size="10">obj</text>
 </svg>
 
-<svg width="268" height="115" viewBox="0 0 268 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="268" height="115" style="background-color:white" viewBox="0 0 268 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="108" font-size="16">att</text>
   <text x="51" y="108" font-size="16">debattera</text>
   <text x="142" y="108" font-size="16">detta</text>
@@ -234,7 +234,7 @@ In _detta går att debattera_, on the other hand, _detta_ acts like the syntacti
 It remains to decide how to annotate the subordinate clause _att debattera_. 
 Since its subject of not controlled by that of the superordinate, we use [`ccomp`](https://universaldependencies.org/sv/dep/ccomp.html) rather than [`xcomp`](https://universaldependencies.org/sv/dep/xcomp.html):
 
-<svg width="268" height="115" viewBox="0 0 268 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="268" height="115" style="background-color:white" viewBox="0 0 268 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="108" font-size="16">detta</text>
   <text x="60" y="108" font-size="16">går</text>
   <text x="106" y="108" font-size="16">att</text>
@@ -286,7 +286,7 @@ However, since it is derived from the verb _öka_, it also takes the typically v
 
 In (2), _bjuden_ may also be seen as an adjective, but _bli_ + participle passive constructions are treated differently: the participle is tagged as [`VERB`](https://universaldependencies.org/sv/pos/VERB.html) (with `Tense` and `VerbFrom`) and _bli_ is annotated as a [passive auxiliary](https://universaldependencies.org/sv/dep/aux-pass.html):
 
-<svg width="279" height="115" viewBox="0 0 279 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="279" height="115" style="background-color:white" viewBox="0 0 279 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="108" font-size="16">jag</text>
   <text x="51" y="108" font-size="16">blev</text>
   <text x="97" y="108" font-size="16">bjuden</text>
@@ -379,7 +379,7 @@ Nyttiga regler för nyttiga adjektiv!
 The expression _to be X years old_/_att vara X år gammal_ used to be treated inconsistently across English and Swedish treebanks.
 As of UD 2.16, annotation has been standardized to
 
-<svg width="396" height="135" viewBox="0 0 396 135" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="396" height="135" style="background-color:white" viewBox="0 0 396 135" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="128" font-size="16">att/to</text>
   <text x="69" y="128" font-size="16">vara/be</text>
   <text x="142" y="128" font-size="16">X</text>
