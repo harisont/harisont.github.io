@@ -14,12 +14,10 @@ Comparative constructions such as
 
 look tricky, but the [guidelines](https://universaldependencies.org/u/overview/comparatives.html) for them have recently gotten more comprehensive and, at least when it comes to Swedish, easier to understand and follow.
 
-When it comes to Swedish, the first question might be what UPOS tag to assign to the word _än_.
+The first question might be what UPOS tag to assign to the word _än_.
 The answer to that is [`SCONJ`](https://universaldependencies.org/sv/pos/SCONJ.html). 
 In (1), this is clear as _än_ clearly introduces a subordinate clause, _än du tror_. 
-As for (2), the [guidelines](https://universaldependencies.org/u/overview/comparatives.html#:~:text=If%20the%20same%20conjunction%20is%20used%20with%20bare%20nominals%2C%20we%20still%20tag%20it%20SCONJ%20(but%20we%20use%20dependency%20relations%20that%20are%20reserved%20for%20nominals%2C%20see%20below).) state that
-
-> If the same conjunction is used with bare nominals, we still tag it `SCONJ`
+As for (2), the guidelines state that ["if the same conjunction is used with bare nominals, we still tag it `SCONJ`"](https://universaldependencies.org/u/overview/comparatives.html#:~:text=If%20the%20same%20conjunction%20is%20used%20with%20bare%20nominals%2C%20we%20still%20tag%20it%20SCONJ%20(but%20we%20use%20dependency%20relations%20that%20are%20reserved%20for%20nominals%2C%20see%20below).).
 
 When it comes to the dependency structure of the construction, the clause or nominal introduced by _än_ should always be attached to the property whose degree is compared:
 
@@ -57,36 +55,9 @@ When it comes to the dependency structure of the construction, the clause or nom
   <path d="M 227 100 224 94 230 94"></path>
 </svg>
 
-<svg width="225" height="115" style="background-color:white" style="background-color:white" style="background-color:white" viewBox="0 0 225 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="108" font-size="16">X</text>
-  <text x="24" y="108" font-size="16">är</text>
-  <text x="61" y="108" font-size="16">enklare</text>
-  <text x="134" y="108" font-size="16">än</text>
-  <text x="180" y="108" font-size="16">Y</text>
-  <text x="24" y="93" font-size="10">AUX</text>
-  <text x="61" y="93" font-size="10">ADJ</text>
-  <text x="134" y="93" font-size="10">ADP</text>
-  <path d="M 18 80 Q 18 47 43 47 L 43 47 Q 68 47 68 80" stroke="black" fill="none"></path>
-  <line x1="18" y1="75" x2="18" y2="80" stroke="black"></line>
-  <path d="M 18 80 15 74 21 74"></path>
-  <path d="M 38 80 Q 38 63 53 63 L 53 63 Q 67 63 67 80" stroke="black" fill="none"></path>
-  <line x1="38" y1="75" x2="38" y2="80" stroke="black"></line>
-  <path d="M 38 80 35 74 41 74"></path>
-  <text x="46" y="58" font-size="10">cop</text>
-  <line x1="76" y1="20" x2="76" y2="80" stroke="black"></line>
-  <path d="M 76 80 73 74 79 74"></path>
-  <text x="81" y="28" font-size="10">root</text>
-  <path d="M 148 80 Q 148 63 163 63 L 163 63 Q 177 63 177 80" stroke="black" fill="none"></path>
-  <line x1="148" y1="75" x2="148" y2="80" stroke="black"></line>
-  <path d="M 148 80 145 74 151 74"></path>
-  <path d="M 82 80 Q 82 47 116 47 L 156 47 Q 190 47 190 80" stroke="black" fill="none"></path>
-  <line x1="190" y1="75" x2="190" y2="80" stroke="black"></line>
-  <path d="M 190 80 187 74 193 74"></path>
-</svg>
+The specific labels depend on whether the standard of comparison is a clause or a nominal.
 
-The specific label depend on whether the standard of comparison is a clause or a nominal.
-
-whereas for sentences like (2), we use [`advcl`](https://universaldependencies.org/sv/dep/advcl.html) for the subordinate clause and [`mark`](https://universaldependencies.org/sv/dep/mark.html) for _än_:
+For sentences like (1), we use [`advcl`](https://universaldependencies.org/sv/dep/advcl.html) for the subordinate clause and [`mark`](https://universaldependencies.org/sv/dep/mark.html) for _än_:
 
 
 <svg width="656" height="135" style="background-color:white" style="background-color:white" style="background-color:white" viewBox="0 0 656 135" version="1.1" xmlns="http://www.w3.org/2000/svg">
@@ -145,7 +116,7 @@ whereas for sentences like (2), we use [`advcl`](https://universaldependencies.o
   <text x="457" y="45" font-size="10">advcl</text>
 </svg>
 
-For cases like (2), we use [`obl`](https://universaldependencies.org/sv/dep/obl.html) and [`case`](https://universaldependencies.org/sv/dep/case.html):
+In cases such as (2), we use [`obl`](https://universaldependencies.org/sv/dep/obl.html) and [`case`](https://universaldependencies.org/sv/dep/case.html):
 
 <svg width="443" height="115" style="background-color:white" style="background-color:white" style="background-color:white" viewBox="0 0 443 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="108" font-size="16">några</text>
@@ -188,7 +159,7 @@ For cases like (2), we use [`obl`](https://universaldependencies.org/sv/dep/obl.
 The only remaining issue is where to draw the line between clausal and nominal comparison.
 Sentences like 
 
-1. _parsern annoterar dessa konstruktioner bättre än jag_ 
+3. _parsern annoterar dessa konstruktioner bättre än jag_ 
 
 can be rephrased as both
 
@@ -301,7 +272,7 @@ It turns out that this is similar to [_tough_-movement](https://en.wikipedia.org
 3. _to solve this problem is tough_
 
 In sentences like (1), the syntactic subject _problem_ of the main verb _is_ is logically the object of an embedded non-finite verb _solve_ (although in UD, the root of the sentence would be _tough_, not _is_), whereas in paraphrases (2) and (3) logical and grammatical structure coincide. 
-General guidelines about the annotations of _tough_-constructions, though, are still [under debate](https://github.com/UniversalDependencies/docs/issues/923) at the time of writing.
+General guidelines about the annotations of _tough_-constructions, though, are still [being debated](https://github.com/UniversalDependencies/docs/issues/923) at the time of writing.
 
 ## Participles
 [[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1088)
@@ -368,7 +339,7 @@ Constructions like _att bestämma själv_ are clear when it comes to dependency 
 Talbanken and LinES, the two largest Swedish UD treebanks, used to label this edge differently: the former used [`amod`](https://universaldependencies.org/sv/dep/amod.html), the latter [`advmod`](https://universaldependencies.org/sv/dep/amod.html).
 
 But while two dispute, the third enjoys! 
-Recent discussion led to re-analyze this as [secondary predication](https://universaldependencies.org/u/overview/complex-syntax.html#secondary-predicates), which implies using a clausal relation type. 
+Recent discussion led to re-analyzing this as [secondary predication](https://universaldependencies.org/u/overview/complex-syntax.html#secondary-predicates), which implies using a clausal relation type. 
 Since _själv_ is optional, the relation of choice is [`advcl`](https://universaldependencies.org/sv/dep/advcl.html).
 This is consistent with the pre-existing use of [`acl`](https://universaldependencies.org/sv/dep/acl.html) in cases like _du borde vara **dig själv**_, where the head is a nominal (_dig_). 
 
@@ -377,7 +348,7 @@ This is consistent with the pre-existing use of [`acl`](https://universaldepende
 
 How to analyze constructions like _levnads- och beteendemässigt_?
 
-Ideally, we would want the conjuncts _levnads-_ och _beteende(-)_, and to form a compound with _mässigt_, but this is currently beyond the expressive capacity of UD.
+Ideally, we would want the conjuncts _levnads-_ and _beteende(-)_ to form a compound with _mässigt_, but this is currently beyond the expressive capacity of UD.
 To circumvent the problem, we lemmatize _levnad_ as _levnadsmässigt_, obtaining a conjunction of two adverbs.
 
 ## Morphological analysis of syncretic adjective forms
@@ -387,7 +358,7 @@ To circumvent the problem, we lemmatize _levnad_ as _levnadsmässigt_, obtaining
 A handful of Swedish adjectives, such as _bra_ and _äkta_ are indeclinable, or rather, they inflect for degree (and, if nominalized, case), but not gender, number or definiteness.
 Other adjectives, such as _nyttig_, inflect for the latter three features as well, but with a certain degree of syncretism: the form _nyttiga_, for example, can be a singular definite (of either gender) or a plural (irrespective of both gender and number).
 
-In (Swedish) UD, a general principle is to base morphological annotation on the observed word form and __not__ infer features based on the context.
+In (Swedish) UD, a general principle is to ground morphological annotation on the observed word form and __avoid__ inferring features based on the context.
 Adjectives like _bra_ should therefore only be annotated for [`Case`](https://universaldependencies.org/sv/feat/Case.html) and [`Degree`](https://universaldependencies.org/sv/feat/Degree.html).
 This amounts to saying "this form works just as well for every combination of gender, number and definiteness".
 
