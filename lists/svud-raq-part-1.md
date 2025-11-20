@@ -1,12 +1,3 @@
-- [Comparative constructions (they are simpler than you think!)](#comparative-constructions-they-are-simpler-than-you-think)
-- [_Går att `VERB`a_ and other equally tough constructions](#går-att-verba-and-other-equally-tough-constructions)
-- [Participles](#participles)
-- [_Att `VERB`a själv_](#att-verba-själv)
-- [Subword-level coordination](#subword-level-coordination)
-- [Morphological analysis of syncretic adjective forms](#morphological-analysis-of-syncretic-adjective-forms)
-- [_Att vara X år gammal_ or _to be X years old_](#att-vara-x-år-gammal-or-to-be-x-years-old)
-
-
 ## Comparative constructions (they are simpler than you think!)
 
 [[go to discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1092)
