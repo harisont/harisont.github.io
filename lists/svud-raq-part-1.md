@@ -1,4 +1,4 @@
-- [Comparative constructions (they are easier than you think!)](#comparative-constructions-they-are-easier-than-you-think)
+- [Comparative constructions (they are simpler than you think!)](#comparative-constructions-they-are-simpler-than-you-think)
 - [_Går att `VERB`a_ and other equally tough constructions](#går-att-verba-and-other-equally-tough-constructions)
 - [Participles](#participles)
 - [_Att `VERB`a själv_](#att-verba-själv)
@@ -7,14 +7,14 @@
 - [_Att vara X år gammal_ or _to be X years old_](#att-vara-x-år-gammal-or-to-be-x-years-old)
 
 
-## Comparative constructions (they are easier than you think!)
+## Comparative constructions (they are simpler than you think!)
 
 [[go to discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1092)
 
 Comparative constructions such as 
 
 1. _att annotera dessa konstruktioner är enklare än du tror_ and 
-2. _några konstruktioner är lättare än andra_ 
+2. _vissa konstruktioner är lättare än andra_ 
 
 look tricky, but the [guidelines](https://universaldependencies.org/u/overview/comparatives.html) for them have recently gotten more comprehensive and, at least when it comes to Swedish, easier to understand and follow.
 
@@ -123,7 +123,7 @@ For sentences like (1), we use [`advcl`](https://universaldependencies.org/sv/de
 In cases such as (2), we use [`obl`](https://universaldependencies.org/sv/dep/obl.html) and [`case`](https://universaldependencies.org/sv/dep/case.html):
 
 <svg width="443" height="115" style="background-color:white" style="background-color:white" style="background-color:white" viewBox="0 0 443 115" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <text x="5" y="108" font-size="16">några</text>
+  <text x="5" y="108" font-size="16">vissa</text>
   <text x="60" y="108" font-size="16">konstruktioner</text>
   <text x="196" y="108" font-size="16">är</text>
   <text x="233" y="108" font-size="16">lättare</text>
