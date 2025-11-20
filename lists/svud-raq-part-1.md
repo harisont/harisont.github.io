@@ -377,7 +377,7 @@ The current practice can be summarized as follows (case and degree are ignored f
 | --------- | ------------------------------------------------------------------------------------------------ |
 | _nyttig_  | `Definite=Ind\|Gender=Com\|Number=Sing`                                                          |
 | _nyttigt_ | `Definite=Ind\|Gender=Neut\|Number=Sing`                                                         |
-| _nyttiga_ | `Definite=Def` in singular definite contexts;<br> `Definite=Ind\|Number=Plur` in plural contexts |
+| _nyttiga_ | `Definite=Def` in definite contexts;<br> `Definite=Ind\|Number=Plur` in plural contexts          |
 
 Nyttiga regler för nyttiga adjektiv!
 
