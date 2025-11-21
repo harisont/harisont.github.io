@@ -23,6 +23,7 @@ layout: base
 - __Arianna Masciolini__ and Aarne Ranta. _Grammar-based concept alignment for domain-specific Machine Translation_. In Proceedings of the 7th International Workshop on Controlled Natural Language (CNL 2020/21), 2021 [[full text]](https://aclanthology.org/2021.cnl-1.2.pdf) [[bibtex]](https://raw.githubusercontent.com/harisont/harisont.github.io/main/assets/bibtex/ca.bib) [[code]](https://github.com/harisont/concept-alignment) [[slides]](https://raw.githubusercontent.com/harisont/concept-alignment/master/paper/slides/presentation.pdf)
 
 ## Other writings
+- _[Rarely Asked Questions about Swedish UD](https://spraakbanken.gu.se/blogg/20251120-rarely-asked-questions-about-swedish-ud)_ (blog post on the [Språkbanken Text blog](https://spraakbanken.gu.se/blogg))
 - _[Rapport från LREC-COLING](https://www.sprakbanken.se/aktuellt/nyheter/2024-06-10-rapport-fran-lrec-coling)_ (report on the [Nationella Språkbanken](https://www.sprakbanken.se/) website)
 - _[Språkbanken Students at LREC-COLING 2024](https://spraakbanken.gu.se/blogg/20240610-sprakbanken-students-at-lrec-coling-2024)_ (joint blog post with Ricardo Muñoz Sánchez on the (blog post on the [Språkbanken Text blog](https://spraakbanken.gu.se/blogg))
 - _[Korp tips and tricks: using CQP labels to search for dependency structures](https://spraakbanken.gu.se/blogg/20231009-korp-tips-and-tricks-using-cqp-labels-to-search-for-dependency-structures)_ (blog post on the [Språkbanken Text blog](https://spraakbanken.gu.se/blogg))
