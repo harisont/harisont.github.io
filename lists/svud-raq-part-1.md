@@ -1,3 +1,10 @@
+- [Comparative constructions (they are simpler than you think!)](#comparative-constructions-they-are-simpler-than-you-think)
+- [_Går att `VERB`a_ and other equally tough constructions](#går-att-verba-and-other-equally-tough-constructions)
+- [Participles](#participles)
+- [_Att `VERB`a själv_](#att-verba-själv)
+- [Subword-level coordination](#subword-level-coordination)
+- [Morphological analysis of syncretic adjective forms](#morphological-analysis-of-syncretic-adjective-forms)
+- [_Att vara X år gammal_ or _to be X years old_](#att-vara-x-år-gammal-or-to-be-x-years-old)
 
 
 ## Comparative constructions (they are simpler than you think!)
@@ -366,11 +373,11 @@ Leaving -_a_ forms unannotated for number and definiteness would be misleading, 
 As a consequence, these two features are annotated contextually.
 The current practice can be summarized as follows (case and degree are ignored for the sake of compactness):
 
-| form      | features                                                                                |
-| --------- | --------------------------------------------------------------------------------------- |
-| _nyttig_  | `Definite=Ind\|Gender=Com\|Number=Sing`                                                 |
-| _nyttigt_ | `Definite=Ind\|Gender=Neut\|Number=Sing`                                                |
-| _nyttiga_ | `Definite=Def` in definite contexts;<br> `Definite=Ind\|Number=Plur` in plural contexts |
+| form      | features                                                                                         |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| _nyttig_  | `Definite=Ind\|Gender=Com\|Number=Sing`                                                          |
+| _nyttigt_ | `Definite=Ind\|Gender=Neut\|Number=Sing`                                                         |
+| _nyttiga_ | `Definite=Def` in definite contexts;<br> `Definite=Ind\|Number=Plur` in plural contexts          |
 
 Nyttiga regler för nyttiga adjektiv!
 
