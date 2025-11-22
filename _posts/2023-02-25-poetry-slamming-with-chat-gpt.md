@@ -1,14 +1,27 @@
 ---
-title: "Poetry slamming with ChatGTP"
-author: ChatGPT & Arianna Masciolini
+title: "Poetry slamming with ChatGPT"
+author: Arianna Masciolini
 date: 2023-02-25
 layout: post
 category: giornate-rimate
 langs: ["en"]
 ---
 
-As every aspiring computational linguist on this planet, I've been playing a little bit with ChatGTP.
-While I'm not tremendously impressed with ChatGTP's answers on any slightly-less-than-straightforward questions with verifiable answers, asking it to do something that requires some creativity occasionally results in a display of a mixture of genuinely fun ideas and absolute incapacity to make good use of them in a coherent text.
+> __NOTE:__ As my criticism of generative models becomes more public, I have been tempted to delete or hide this post.
+> I decided not to do so out of intellectual honesty, as well as because it might be useful for someone who is curious about how language models perform in this scenario but feels like they cannot experiment with them without straying away from their own principles.
+>  
+> As the reader will understand from my [closing considerations](#some-quick-final-considerations), when I wrote this text I already had a basic understanding of how Large Language Models (LLMs) work from a technical standpoint, but I did not know what to expect in terms of user experience. 
+> This playful experiment was meant to satisfy my curiosity.
+> What I was blissfully unaware of was the scale of the hidden societal and environmental costs of using these models.
+> Luckily, being part of the same research community that contributed to create these problems, I have learned a lot since.
+> Today, I certainly do not condemn curiosity, but I would suggest browsing the web to find examples of past interactions with LLMs (like this) rather than prompting these models, or at least to do so in homeopathic amounts.
+> It was also pointed out to me that not "every (aspiring) computational linguist on this planet" has "played with ChatGPT", and I feel the outmost respect for those who chose not to.
+> 
+> As of November 2025, this is the only piece of writing where I have made any use of ChatGPT and I have no plans to use any LLM in the foreseeable future, especially not through a tech oligarch's APIs.
+> I have used, and may continue to use, smaller, locally hosted, usually __not__ instruction-tuned[^1] language models for very specific tasks in my research, but never as text or code generation - let alone as information retrieval! - tools for myself.
+
+As every aspiring computational linguist on this planet, I've been playing a little bit with ChatGPT.
+While I'm not tremendously impressed with ChatGPT's answers on any slightly-less-than-straightforward questions with verifiable answers, asking it to do something that requires some creativity occasionally results in a display of a mixture of genuinely fun ideas and absolute incapacity to make good use of them in a coherent text.
 So, I decided that this weekend we should try to cooperate on writing a silly poem like the ones I sometimes post on this blog.
 What follows is the result of our joint efforts.
 
@@ -33,13 +46,13 @@ So just pick the one that fits best today.
 
 
 ## The process
-It all started with a relatively straightforward question I asked ChatGTP:
+It all started with a relatively straightforward question I asked ChatGPT:
 
 > __harisont:__ What is the difference between conference and journal publications?
 
 As expected, I got one of ChatGPT's typical long, plain, but otherwise fine answers:
 
-> __ChatGTP:__ Conference and journal publications are both important ways to share research findings with a wider audience, but there are some key differences between the two.
+> __ChatGPT:__ Conference and journal publications are both important ways to share research findings with a wider audience, but there are some key differences between the two.
 >
 > A conference publication is typically a paper or abstract that is presented at a conference or other academic event. Conference publications are usually shorter and more concise than journal articles, and may be more focused on preliminary findings or work in progress. Conference papers are often presented in a brief presentation or poster session, and the author may have the opportunity to discuss their work with other attendees.
 >
@@ -49,9 +62,9 @@ As expected, I got one of ChatGPT's typical long, plain, but otherwise fine answ
 >
 >In summary, conference publications are shorter, more preliminary versions of research findings that are presented at academic events, while journal publications are more polished, detailed, and permanent versions of research studies that have been submitted and accepted for publication in a peer-reviewed journal.
 
-At this point, I asked ChatGTP to give me the same answer in rhymes, and it produced this:
+At this point, I asked ChatGPT to give me the same answer in rhymes, and it produced this:
 
-> __ChatGTP:__ <br>
+> __ChatGPT:__ <br>
 > Conference or journal, which way to go?<br>
 > Let's see the differences, rhyme by rhyme, row by row.<br>
 > 
@@ -94,7 +107,7 @@ This was my best attempt:
 Disregard my mispronounciation of the word _pursue_. Even without that, this doesn't sound like anything more than a first draft.
 
 So, I started proposing changes. 
-Some changes to make were obvious to me, and ChatGTP had no problems satisfying requests like:
+Some changes to make were obvious to me, and ChatGPT had no problems satisfying requests like:
 
 > __harisont:__ I think the second verse is too long. Can you remove "rhyme by rhyme"?
 
@@ -108,14 +121,14 @@ or even
 
 where ChatGPT even corrected my typo ("shure") in the revised version of the poem.
 
-I was getting lazier and lazier with explaining the edits I wanted ChatGTP to make, and I was pleasantly surprised when ChatGTP understood that
+I was getting lazier and lazier with explaining the edits I wanted ChatGPT to make, and I was pleasantly surprised when ChatGPT understood that
 
 > __harisont:__ their OWN unique way
 
 meant "add the word _own_ (lowercase) between _their_ and _unique_", even though that didn't work very consistently:
 
 > __harisont:__ so YOU choose<br>
-> __ChatGTP:__ I'm sorry if my previous response wasn't helpful. As an AI language model, I cannot make decisions for you. Choosing whether to submit a paper to a conference or a journal depends on various factors such as the purpose of your study, the stage of your research, and your career goals. You will need to consider these factors and make an informed decision based on your individual circumstances.
+> __ChatGPT:__ I'm sorry if my previous response wasn't helpful. As an AI language model, I cannot make decisions for you. Choosing whether to submit a paper to a conference or a journal depends on various factors such as the purpose of your study, the stage of your research, and your career goals. You will need to consider these factors and make an informed decision based on your individual circumstances.
 
 Sometimes, however, I wanted some more sophisticated help, which ChatGPT wasn't really able to give me. When I asked
 
@@ -123,7 +136,7 @@ Sometimes, however, I wanted some more sophisticated help, which ChatGPT wasn't 
 
 It replaced the whole
 
-> __ChatGTP:__<br>
+> __ChatGPT:__<br>
 > ...<br>
 > It may be preliminary or work in progress,<br>
 > But it's a chance to network and discuss.<br>
@@ -131,7 +144,7 @@ It replaced the whole
 
 with 
 
-> __ChatGTP:__<br>
+> __ChatGPT:__<br>
 > ...<br>
 > It may be preliminary or a work in motion,<br>
 > But it's a chance to network and foster communication.<br>
@@ -139,37 +152,37 @@ with
 
 where rhyming kinda works (even though the expression "work in motion" doesn't sound too convincing), but the metric is way off.
 
-Not to mention that ChatGTP would occasionally get creative and make some unsollicited changes. At some point, "pursue" became "peruse". I wasn't entirely happy with that:
+Not to mention that ChatGPT would occasionally get creative and make some unsollicited changes. At some point, "pursue" became "peruse". I wasn't entirely happy with that:
 
 > __harisont:__ Who told you to change "pursue" to "peruse"!?
-> __ChatGTP:__ I apologize for the mistake. It seems that I misunderstood your previous message. I will make sure to pay closer attention to your requests in the future. Thank you for bringing this to my attention.
+> __ChatGPT:__ I apologize for the mistake. It seems that I misunderstood your previous message. I will make sure to pay closer attention to your requests in the future. Thank you for bringing this to my attention.
 
-Seeing that I couldn't really trust ChatGTP with any nontrivial editing of the poem, I started editing the text on my own asking it for suggestions, like:
+Seeing that I couldn't really trust ChatGPT with any nontrivial editing of the poem, I started editing the text on my own asking it for suggestions, like:
 
 > __harisont:__ What rhymes with "read", in this context?<br>
-> __ChatGTP:__ In this context, you could consider using words like "spread", "shed", or "led" as a rhyme for "read".
+> __ChatGPT:__ In this context, you could consider using words like "spread", "shed", or "led" as a rhyme for "read".
 > ...
 
 ...which is disappointing, because this words are not only semantically unrelated, they also don't rhyme with "read" at all, unless you interpret that as a past tense, which was not what ChatGPT was doing:
 
-> __ChatGTP:__...For example:<br>
+> __ChatGPT:__...For example:<br>
 > "It's subject to rigorous review and editing,<br>
 And widely available for scholars to be reading."
 > ...
 
 (fair enough)
 
-> __ChatGTP:__...or:<br>
+> __ChatGPT:__...or:<br>
 > "It's subject to rigorous review and editing,<br>
 And widely available for scholars to spread."
 > ...
 
 (what the hell!?).
 
-At some point, ChatGTP finally forgot about the poem and started answering my questions without any in-context examples, again with mixed results:
+At some point, ChatGPT finally forgot about the poem and started answering my questions without any in-context examples, again with mixed results:
 
 > __harisont:__ rhymes with progress?<br>
-> __ChatGTP:__ Here are some words that rhyme with "progress":
+> __ChatGPT:__ Here are some words that rhyme with "progress":
 > 
 > - Congress
 > - Address
@@ -183,7 +196,7 @@ At some point, ChatGTP finally forgot about the poem and started answering my qu
 > - Confess
 > 
 > __harisont:__ Which ones rhyme with the NOUN "progress"?<br>
-> __ChatGTP:__ My apologies for the confusion. Here are some words that rhyme with the noun "progress":
+> __ChatGPT:__ My apologies for the confusion. Here are some words that rhyme with the noun "progress":
 > 
 > - Success
 > - Access
@@ -196,18 +209,18 @@ At some point, ChatGTP finally forgot about the poem and started answering my qu
 > - Redress
 > - Stress
 
-I ended up continuing editing the poem my myself. ChatGTP might have felt a little bit offended, but it tried to hide it:
+I ended up continuing editing the poem my myself. ChatGPT might have felt a little bit offended, but it tried to hide it:
 
 > __harisont:__ I think I finished touching up the poem<br>
-> __ChatGTP__: Great! I'm glad I could help. If you have any more questions or need further assistance, feel free to ask.<br>
+> __ChatGPT__: Great! I'm glad I could help. If you have any more questions or need further assistance, feel free to ask.<br>
 > __harisont:__ Don t' you want to read it?<br>
-> __ChatGTP__: Sure, I'd love to read the updated version of the poem! Please share it with me.
+> __ChatGPT__: Sure, I'd love to read the updated version of the poem! Please share it with me.
 
 ...And in the end it seemed to like it:
 
-> __ChatGTP__: Great job! The poem flows well and effectively captures the main differences between conference and journal publications.
+> __ChatGPT__: Great job! The poem flows well and effectively captures the main differences between conference and journal publications.
 
-Well, thanks ChatGTP! To be fair, your poem was already pretty effective, but I do think that my version, while it isn't perfect, flows better: 
+Well, thanks ChatGPT! To be fair, your poem was already pretty effective, but I do think that my version, while it isn't perfect, flows better: 
 
 
 <audio
@@ -215,10 +228,10 @@ Well, thanks ChatGTP! To be fair, your poem was already pretty effective, but I 
     src="https://github.com/harisont/harisont.github.io/raw/main/assets/audio/poetry_slamming_with_chatgtp/final.mp3">
 </audio>
 
-But there was one more question I needed to ask ChatGTP:
+But there was one more question I needed to ask ChatGPT:
 
 > __harisont:__ Can you propose a few titles?<br>
-> __ChatGTP:__ Sure, here are a few possible titles for the poem:
+> __ChatGPT:__ Sure, here are a few possible titles for the poem:
 >
 > - Choosing Between Conference and Journal Publications
 > - The Pros and Cons of Conference and Journal Papers
@@ -226,16 +239,18 @@ But there was one more question I needed to ask ChatGTP:
 > - Deciding Between Conferences and Journals: What You Need to Know
 > - Weighing Your Options: Conference Papers vs Journal Articles
 
-I found it hilarious that ChatGTP's propose a scholarly-sounding titles such as "Navigating the World of Scholarly Publishing: A Guide to Conferences and Journals", which I ended up choosing after seeing that "playful" options just seemed blog post titles.
-When I reminded ChatGTP that we were writing a poem, things got slightly better (with a solemn "In Search of Publication" as option 7), but in the end we agreed on my first choice:
+I found it hilarious that ChatGPT's propose a scholarly-sounding titles such as "Navigating the World of Scholarly Publishing: A Guide to Conferences and Journals", which I ended up choosing after seeing that "playful" options just seemed blog post titles.
+When I reminded ChatGPT that we were writing a poem, things got slightly better (with a solemn "In Search of Publication" as option 7), but in the end we agreed on my first choice:
 
 > __harisont:__ I think I'll go for a paper-like title and make a fool of everyone.<br>
-> __ChatGTP:__ That could be a fun twist! How about "Navigating the Academic Landscape: Choosing Between Conference and Journal Papers"?<br>
+> __ChatGPT:__ That could be a fun twist! How about "Navigating the Academic Landscape: Choosing Between Conference and Journal Papers"?<br>
 > __harisont:__ That's exactly the one I was thinking of!
 
 ## Some quick final considerations
 - __Was this fun?__ Yeah.
-- __Was this _more_ fun than writing a poem of my own?__ No, but it was interesting. It gave me a better understanding of what I can expect from ChatGTP.
+- __Was this _more_ fun than writing a poem of my own?__ No, but it was interesting. It gave me a better understanding of what I can expect from ChatGPT.
 - __How long did writing the poem take?__ About 1.5 hours.
 - __Is that less of what it normally takes me to write one of my silly poems?__ Not necessarily, but I have never tried to write a poem on a random subject chosen by someone else. I usually already have some idea that I think is promising when I start writing.
-- __Was ChatGTP a good poetry slam partner?__ It did provide an interesting first version of the poem, but the interactions following that were not too satisfying. It was able to perform some simple edits, but they were all things that I could have more easily done by myself: explaining ChatGPT what to do takes longer than actually removing a stanza or replacing a word in a text editor or on a piece of paper. Anything more sophisticated wasn't really possible. Some titles ChatGTP proposed were fun, but I don't suppose they were meant with irony. In fact, they were not _meant_ at all: ChatGTP is yet another stochastic parrot.  
+- __Was ChatGPT a good poetry slam partner?__ It did provide an interesting first version of the poem, but the interactions following that were not too satisfying. It was able to perform some simple edits, but they were all things that I could have more easily done by myself: explaining ChatGPT what to do takes longer than actually removing a stanza or replacing a word in a text editor or on a piece of paper. Anything more sophisticated wasn't really possible. Some titles ChatGPT proposed were fun, but I don't suppose they were meant with irony. In fact, they were not _meant_ at all: ChatGPT is yet another stochastic parrot.  
+
+[^1]: As far as (my) research is concerned, instruction-tuned models (i.e. "conversational" models the user is meant to chat with) are basically unusable. If my problem can't be solved in a way that is actually enjoyable, such as writing a cool rule-based program, I'd rather fine-tune a "raw" model for the specific task and chat with my colleagues while it trains. They're so much interesting to talk to than parrots.
