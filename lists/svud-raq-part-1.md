@@ -14,7 +14,7 @@
 Comparative constructions such as 
 
 1. _att annotera dessa konstruktioner är enklare än du tror_ and 
-2. _vissa konstruktioner är lättare än andra_ 
+2. _vissa konstruktioner är enklare än andra_ 
 
 look tricky, but the [guidelines](https://universaldependencies.org/u/overview/comparatives.html) for them have recently gotten more comprehensive and, at least when it comes to Swedish, easier to understand and follow.
 
@@ -126,7 +126,7 @@ In cases such as (2), we use [`obl`](https://universaldependencies.org/sv/dep/ob
   <text x="5" y="108" font-size="16">vissa</text>
   <text x="60" y="108" font-size="16">konstruktioner</text>
   <text x="196" y="108" font-size="16">är</text>
-  <text x="233" y="108" font-size="16">lättare</text>
+  <text x="233" y="108" font-size="16">enklare</text>
   <text x="306" y="108" font-size="16">än</text>
   <text x="343" y="108" font-size="16">andra</text>
   <text x="5" y="93" font-size="10">DET</text>
