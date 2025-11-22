@@ -18,7 +18,7 @@ langs: ["en"]
 > It was also pointed out to me that not "every (aspiring) computational linguist on this planet" has "played with ChatGPT", and I feel the outmost respect for those who chose not to.
 > 
 > As of November 2025, this is the only piece of writing where I have made any use of ChatGPT and I have no plans to use any LLM in the foreseeable future, especially not through a tech oligarch's APIs.
-> I have used, and may continue to use, smaller, locally hosted, usually __not__ instruction-tuned[^1] language models for very specific tasks in my research, but never as text or code generation - let alone as information retrieval! - tools for myself.
+> I have used, and may continue to use, smaller, locally hosted, usually __not__ instruction-tuned[^1] language models for very specific tasks in my research, but never as text or code generation - let alone information retrieval! - tools for myself.
 
 As every aspiring computational linguist on this planet, I've been playing a little bit with ChatGPT.
 While I'm not tremendously impressed with ChatGPT's answers on any slightly-less-than-straightforward questions with verifiable answers, asking it to do something that requires some creativity occasionally results in a display of a mixture of genuinely fun ideas and absolute incapacity to make good use of them in a coherent text.
