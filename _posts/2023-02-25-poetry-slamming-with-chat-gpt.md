@@ -8,7 +8,7 @@ langs: ["en"]
 ---
 
 > __NOTE:__ As I become a more outspoken critic of generative models, I have been tempted to delete or hide this post.
-> I decided not to do so out of intellectual honesty, as well as because it might be useful for someone who is curious about how language models perform in this scenario but feels like they cannot experiment with them without straying away from their own principles.
+> I decided not to do so out of intellectual honesty, as well as because it might be useful for those who are curious about how language models perform in this scenario but feel like experimenting with them means straying away from their own principles.
 >  
 > As the reader will understand from my [closing considerations](#some-quick-final-considerations), when I wrote this text I already had a basic understanding of how Large Language Models (LLMs) work from a technical standpoint, but I did not know what to expect in terms of user experience. 
 > This playful experiment was meant to satisfy my curiosity.
