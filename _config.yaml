@@ -26,6 +26,9 @@ minima:
     - title: YouTube
       icon: youtube
       url: "https://www.youtube.com/c/ImparalHaskellemettilodaparte"
+    - title: Mastodon
+      icon: mastodon
+      url: "https://mstdn.social/@harisont"
 
 plugins:
   - jekyll-feed
