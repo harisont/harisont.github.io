@@ -15,7 +15,7 @@ langs: ["en"]
 > What I was blissfully unaware of was the scale of the hidden societal and environmental costs of using these models.
 > Luckily, being part of the same research community that contributed to create these problems, I have learned a lot since.
 > Today, I certainly do not condemn curiosity, but I would suggest browsing the web to find examples of past interactions with LLMs (like this) rather than prompting these models, or at least to do so in homeopathic amounts.
-> It was also pointed out to me that not "every (aspiring) computational linguist on this planet" has "played with ChatGPT", and I feel the outmost respect for those who chose not to.
+> It was also pointed out to me that not "every (aspiring) computational linguist on this planet" has "played with ChatGPT", and I have the outmost respect towards those who chose not to.
 > 
 > As of November 2025, this is the only piece of writing where I have made any use of ChatGPT and I have no plans to use any LLM in the foreseeable future, especially not through a tech oligarch's APIs.
 > I have used, and may continue to use, smaller, locally hosted, usually __not__ instruction-tuned[^1] language models for very specific tasks in my research, but never as text or code generation - let alone information retrieval! - tools for myself.
