@@ -5,6 +5,13 @@ layout: post
 
 Modern web dev stuff I'm (reluctantly) learning.
 
+- [Setting up `nvm` (Node Version Manager)](#setting-up-nvm-node-version-manager)
+- [Installing version `n` of Node](#installing-version-n-of-node)
+- [Using version `n` of Node](#using-version-n-of-node)
+- [Installing a TypeScript project](#installing-a-typescript-project)
+- [Using a local module in a TypeScript project](#using-a-local-module-in-a-typescript-project)
+
+
 ## Setting up `nvm` (Node Version Manager)
 1. install `nvm` from your package manager
 2. add
