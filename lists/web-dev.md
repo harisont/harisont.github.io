@@ -3,7 +3,7 @@ title: Nodenotes
 layout: post
 ---
 
-Modern web dev stuff I'm (reluctantly) learning.
+Modern web dev stuff I'm (reluctantly) learning while working on [a WYTIWYS (What You Tree Is What You Search) corpus query interface](https://github.com/harisont/wytiwys).
 
 - [Setting up `nvm` (Node Version Manager)](#setting-up-nvm-node-version-manager)
 - [Installing version `n` of Node](#installing-version-n-of-node)
