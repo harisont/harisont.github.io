@@ -2,7 +2,6 @@
 title: "Sulla Svezia, dalla Svezia: reimpatri volontari"
 date: 2025-10-28
 layout: post
-category: "ssds"
 langs: ["it"] 
 ---
 

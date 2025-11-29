@@ -1,7 +1,6 @@
 ---
 title: "Landvetter"
 layout: post
-category: "cykelturism"
 date: 2025-01-25
 langs: ["sv"]
 ---

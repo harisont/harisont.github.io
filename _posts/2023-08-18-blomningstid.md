@@ -2,7 +2,6 @@
 title: "Fioritura"
 date: 2023-08-18
 layout: post
-category: traduzioni
 langs: ["it"]
 ---
 

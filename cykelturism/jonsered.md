@@ -2,7 +2,6 @@
 title: "Kåhög och Jonsered"
 date: 2024-06-09
 layout: post
-category: "cykelturism"
 langs: ["sv"]
 ---
 

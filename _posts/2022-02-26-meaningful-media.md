@@ -2,7 +2,6 @@
 title: "Astonishing things I read/watched/listened to this month (February 2022)"
 date: 2022-02-26
 layout: post
-category: "meaningful-media"
 langs: ["en", "sv", "es", "it"]
 ---
 

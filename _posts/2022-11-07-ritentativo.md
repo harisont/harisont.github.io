@@ -2,7 +2,6 @@
 title: "Ritentativo"
 date: 2022-11-07
 layout: post
-category: giornate-rimate
 langs: ["it"]
 ---
 

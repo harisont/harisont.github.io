@@ -2,7 +2,6 @@
 title: "Amundön"
 date: 2024-12-22
 layout: post
-category: "cykelturism"
 langs: ["sv"]
 ---
 

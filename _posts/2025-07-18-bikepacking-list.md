@@ -2,7 +2,6 @@
 title: My bikepacking list
 date: 2025-07-18
 layout: post
-category: "cykelturism"
 langs: ["en"] 
 ---
 

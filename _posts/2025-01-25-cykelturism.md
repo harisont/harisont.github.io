@@ -2,7 +2,6 @@
 title: "Cykelturism"
 date: 2025-01-25
 layout: post
-category: "cykelturism"
 langs: ["sv"]
 ---
 

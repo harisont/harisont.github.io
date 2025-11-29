@@ -2,7 +2,6 @@
 title: "Se non del tutto giusto, quasi niente sbagliato: appunti da un incontro con Richard Stallman"
 date: 2025-10-26
 layout: post
-category: "l-informatico-di-famiglia"
 langs: ["it"] 
 ---
 

@@ -3,7 +3,6 @@ title: "Poetry slamming with ChatGPT"
 author: Arianna Masciolini
 date: 2023-02-25
 layout: post
-category: giornate-rimate
 langs: ["en"]
 ---
 

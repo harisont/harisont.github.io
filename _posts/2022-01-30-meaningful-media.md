@@ -2,7 +2,6 @@
 title: "Interesting things I read/watched/listened to this month (January 2022)"
 date: 2022-01-30
 layout: post
-category: "meaningful-media"
 langs: ["en", "it", "es"]
 ---
 

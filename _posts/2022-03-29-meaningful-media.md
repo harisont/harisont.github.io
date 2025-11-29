@@ -2,7 +2,6 @@
 title: "Various things I read/watched/listened to this month (March 2022)"
 date: 2022-03-29
 layout: post
-category: "meaningful-media"
 langs: ["en", "sv", "it"]
 
 ---

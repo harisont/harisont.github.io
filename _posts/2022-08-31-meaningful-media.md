@@ -2,7 +2,6 @@
 title: "Stuff I read/watched/listened to this spring and summer (April-August 2022)"
 date: 2022-08-31
 layout: post
-category: "meaningful-media"
 langs: ["it", "sv", "en", "es"]
 ---
 

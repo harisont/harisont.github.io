@@ -2,7 +2,6 @@
 title: "Vardagsbilder"
 date: 2023-04-09
 layout: post
-category: unottica
 langs: ["sv", "it"]
 ---
 
