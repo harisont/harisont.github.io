@@ -1,5 +1,5 @@
 ---
-title: "Crea la tua rivista digitale personale con Percollate"
+title: "Fai-da-te digitale: riviste personali con Percollate"
 date: 2025-11-30
 layout: post
 langs: ["en", "it"] 
