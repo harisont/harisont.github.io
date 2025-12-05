@@ -7,6 +7,18 @@ This is a growing collection of animated movies of the kind I was first exposed 
 I am forever grateful that my hometown used to (_sigh!_) have such a unique festival, entirely dedicated to independent animation and, for once[^1], mostly targeting adults.
 It introduced me to what for me was a completely new genre, and I enjoyed it to the point that it inspired me to organize a _cineforum_[^2] at my high school.
 
+- [_Persepolis_ (2007)](#persepolis-2007)
+- [_Mary and Max_ (2009)](#mary-and-max-2009)
+- [_Alois Nebel_ (2011)](#alois-nebel-2011)
+- [_Crulic: the path to beyond_ (2011)](#crulic-the-path-to-beyond-2011)
+- [_The island_ (2021)](#the-island-2021)
+- [_Flee_ (2021)](#flee-2021)
+- [_Aurora's sunrise_ (2022)](#auroras-sunrise-2022)
+- [_Blind willow, sleeping woman_ (2022)](#blind-willow-sleeping-woman-2022)
+- [_My love affair with marriage_ (2022)](#my-love-affair-with-marriage-2022)
+- [_The most precious of cargoes_ (2024)](#the-most-precious-of-cargoes-2024)
+- [_Memoir of a snail_ (2024)](#memoir-of-a-snail-2024)
+
 
 #### [_Persepolis_ (2007)](https://en.wikipedia.org/wiki/Persepolis_(film))
 This is by far the most well-known movie on this list. My family borrowed it from the library right after we read Marjane Satrapi's homonymous graphic novel, well before Rabbitfest was a thing. To this days, this is both one of the best comics I've ever read and one of the best animated movies I've ever watched.
