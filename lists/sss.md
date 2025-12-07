@@ -1,10 +1,11 @@
+{% include image.html file="../assets/img/sss/stack_horizontal.JPG" description="Alcuni libri delle mie scrittrici svedesi preferite." %}
+
 - [Karin Boye](#karin-boye)
 - [Selma Lagerlöf](#selma-lagerlöf)
 - [Astrid Lindgren](#astrid-lindgren)
 - [Tove Jansson](#tove-jansson)
-- [Anneli Furmark](#anneli-furmark)
 - [Daria Bogdanska](#daria-bogdanska)
-
+- [Anneli Furmark](#anneli-furmark)
 
 ## Karin Boye
 TODO: foto della statua di Karin Boye
@@ -28,6 +29,13 @@ La vita di Karin Boye è stata breve e per questo mi centellino il resto della s
 
 ## Tove Jansson
 
-## Anneli Furmark
-
 ## Daria Bogdanska
+Daria Bogdanska è una musicista, biciclettaia, sindacalista e fumettista di origini polacche.
+Nata e cresciuta a Varsavia e trasferitasi a Malmö da adulta, è inclusa in questa lista perché la sua carriera è inestricabilmente legata al contesto svedese. 
+
+Il suo primo e finora unico libro, _Wage slaves_ ([Galago](https://www.galago.se/bok/wage-slaves/) 2016), racconta le lotte sindacali degli immigrati di Malmö, alle quali l'autrice ha preso parte in prima persona.
+Il taglio è tra l'autobiografico e il giornalistico; il testo, a quanto ricordo, in un misto di lingue (principalmente svedese e inglese) che ricalca fedelmente la realtà di molti nuovi arrivati in Svezia.
+Non ne esiste, purtroppo, una traduzione italiana, ma una versione interamente in inglese è edita da [Centrala](http://centrala.org.uk/shop/wage-slaves/).
+_Wage slaves_ è stato tra i primissimi fumetti svedesi che ho preso in prestito in biblioteca e mi ha fatto scoprire la casa editrice Galago, senza dubbio la più notevole del paese in ambito fumettistico.
+
+## Anneli Furmark
