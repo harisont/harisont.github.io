@@ -4,7 +4,7 @@ layout: post
 ---
 
 This is a collection of summaries of discussions on Swedish-specific [Universal Dependencies](https://universaldependencies.org/) guidelines my collaborators and I opened during the annotation of the [UD_Swedish-SweLL](https://github.com/universaldependencies/UD_Swedish-SweLL) treebank.
-Part of if was originally published [on the Språkbanken Text blog](https://spraakbanken.gu.se/blogg/20251120-rarely-asked-questions-about-swedish-ud). 
+Part(s) of if was originally/will be published [on the Språkbanken Text blog](https://spraakbanken.gu.se/blogg/). 
 
 - [Comparative constructions (they are simpler than you think!)](#comparative-constructions-they-are-simpler-than-you-think)
 - [_Går att `VERB`a_ and other equally tough constructions](#går-att-verba-and-other-equally-tough-constructions)
@@ -442,12 +442,13 @@ If you speak any other languages where a similar construction is used, check how
 
 > _**Vad trevligt** att det finns en del 2 av det här blogginlägget!_[^1]
 
-[^1]: hoppas jag att du tycker.
-
 This sentence is equivalent to English _**How nice** that there is a part 2 of this blog post!_, excepts that _vad_, unlike _how_ is a pronoun.
 Since the head, _trevligt_, is an adjective and not a nominal, we use the dependency relation `obl`.
 By the same logic, I suppose that the _vad_ in _vad fan_ is to be annotated as `nmod`.
 
+---
+
+[^1]: (hoppas jag att du tycker)
 
 <!-- TODO:
 
