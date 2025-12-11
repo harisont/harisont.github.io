@@ -13,7 +13,9 @@ Part of if was originally published [on the Språkbanken Text blog](https://spra
 - [Subword-level coordination](#subword-level-coordination)
 - [Morphological analysis of syncretic adjective forms](#morphological-analysis-of-syncretic-adjective-forms)
 - [_Att vara X år gammal_ or _to be X years old_](#att-vara-x-år-gammal-or-to-be-x-years-old)
+- [_Vad `ADJ`_!](#vad-adj)
 
+<!--part 1-->
 
 ## Comparative constructions (they are simpler than you think!)
 
@@ -433,6 +435,20 @@ Some English treebank specify the subtype [`obl:unmarked` (adpositionless obliqu
 
 If you speak any other languages where a similar construction is used, check how it is annotated!
 
+<!--part 2-->
+
+## _Vad `ADJ`_!
+[[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1186)
+
+> _**Vad trevligt** att det finns en del 2 av det här blogginlägget!_[^1]
+
+[^1]: hoppas jag att du tycker.
+
+This sentence is equivalent to English _**How nice** that there is a part 2 of this blog post!_, excepts that _vad_, unlike _how_ is a pronoun.
+Since the head, _trevligt_, is an adjective and not a nominal, we use the dependency relation `obl`.
+By the same logic, I suppose that the _vad_ in _vad fan_ is to be annotated as `nmod`.
+
+
 <!-- TODO:
 
 Open issues (guess I'll make a part 2 eventually)
@@ -450,6 +466,4 @@ Open issues (guess I'll make a part 2 eventually)
 - [ ] https://github.com/UniversalDependencies/docs/issues/1152
 - [ ] https://github.com/UniversalDependencies/docs/issues/1165
 - [ ] https://github.com/UniversalDependencies/docs/issues/1185
-- [ ] https://github.com/UniversalDependencies/docs/issues/1186
-
 -->
