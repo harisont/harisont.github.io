@@ -13,7 +13,8 @@ Modern web dev stuff I am, after all, learning while working on [a WYTIWYS (What
   - [Using a local module in a TypeScript project](#using-a-local-module-in-a-typescript-project)
 - [TypeScript](#typescript)
   - [Array concatenation](#array-concatenation)
-  - [Checking the types of things](#checking-the-types-of-things)
+  - [Last element of an array](#last-element-of-an-array)
+  - [Introspection](#introspection)
   - [Integer to string and vice versa](#integer-to-string-and-vice-versa)
 
 
@@ -88,8 +89,16 @@ const c: number[] = [5];
    const abc = a.concat(3, 4, 5); // wild!
    ```
 
-### Checking the types of things
-Use the `typeof` operator.
+### Last element of an array
+
+```typescript
+xs.slice(-1)[0]
+```
+
+### Introspection
+Two operators:
+- `typeof X`
+- `OBJ instanceof TYPE`
 
 ### Integer to string and vice versa
 ```typescript
