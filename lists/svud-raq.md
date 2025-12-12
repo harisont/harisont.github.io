@@ -1,9 +1,10 @@
 ---
-title: Rarely Asked Questions about Swedish UD
+title: Rarely Asked Questions about (Swedish) UD
 layout: post
 ---
 
-This is a collection of summaries of discussions on Swedish-specific [Universal Dependencies](https://universaldependencies.org/) guidelines my collaborators and I opened during the annotation of the [UD_Swedish-SweLL](https://github.com/universaldependencies/UD_Swedish-SweLL) treebank.
+This is a collection of summaries of discussions on [Universal Dependencies](https://universaldependencies.org/) guidelines my collaborators and I opened during the annotation of the [UD_Swedish-SweLL](https://github.com/universaldependencies/UD_Swedish-SweLL) treebank.
+Most of the conclusions are Swedish-specific, but some reasoning are applicable to other languages too. 
 Part(s) of if was originally/will be published [on the Språkbanken Text blog](https://spraakbanken.gu.se/blogg/). 
 
 - [Comparative constructions (they are simpler than you think!)](#comparative-constructions-they-are-simpler-than-you-think)
@@ -14,6 +15,7 @@ Part(s) of if was originally/will be published [on the Språkbanken Text blog](h
 - [Morphological analysis of syncretic adjective forms](#morphological-analysis-of-syncretic-adjective-forms)
 - [_Att vara X år gammal_ or _to be X years old_](#att-vara-x-år-gammal-or-to-be-x-years-old)
 - [_Vad `ADJ`_!](#vad-adj)
+- [The ABCs of UD](#the-abcs-of-ud)
 
 <!--part 1-->
 
@@ -383,11 +385,11 @@ Leaving -_a_ forms unannotated for number and definiteness would be misleading, 
 As a consequence, these two features are annotated contextually.
 The current practice can be summarized as follows (case and degree are ignored for the sake of compactness):
 
-| form      | features                                                                                         |
-| --------- | ------------------------------------------------------------------------------------------------ |
-| _nyttig_  | `Definite=Ind\|Gender=Com\|Number=Sing`                                                          |
-| _nyttigt_ | `Definite=Ind\|Gender=Neut\|Number=Sing`                                                         |
-| _nyttiga_ | `Definite=Def` in definite contexts;<br> `Definite=Ind\|Number=Plur` in plural contexts          |
+| form      | features                                                                                |
+| --------- | --------------------------------------------------------------------------------------- |
+| _nyttig_  | `Definite=Ind\|Gender=Com\|Number=Sing`                                                 |
+| _nyttigt_ | `Definite=Ind\|Gender=Neut\|Number=Sing`                                                |
+| _nyttiga_ | `Definite=Def` in definite contexts;<br> `Definite=Ind\|Number=Plur` in plural contexts |
 
 Nyttiga regler för nyttiga adjektiv!
 
@@ -443,8 +445,22 @@ If you speak any other languages where a similar construction is used, check how
 > _**Vad trevligt** att det finns en del 2 av det här blogginlägget!_[^1]
 
 This sentence is equivalent to English _**How nice** that there is a part 2 of this blog post!_, excepts that _vad_, unlike _how_ is a pronoun.
-Since the head, _trevligt_, is an adjective and not a nominal, we use the dependency relation `obl`.
-By the same logic, I suppose that the _vad_ in _vad fan_ is to be annotated as `nmod`.
+Since the head, _trevligt_, is an adjective and not a nominal, we use the dependency relation [`obl`](https://universaldependencies.org/u/dep/obl.html).
+By the same logic, I suppose that the _vad_ in _vad fan_ is to be annotated as [`nmod`](https://universaldependencies.org/u/dep/nmod.html).
+
+## The ABCs of UD
+[[go to the discussion on GitHub]](https://github.com/UniversalDependencies/docs/issues/1136)
+
+How to annotate _vitamin A_ and the like?
+Since vitamin A is a kind of vitamin, but not a kind of A, the head should be _vitamin_. A (or _B_ or _C_) is treated as a proper noun and attached to it with the relation [`nmod`](https://universaldependencies.org/u/dep/nmod.html).
+
+But what about musical keys, like _C minor_?
+This is not quite relevant for Swedish, where _C-moll_ is written as a single word, but it is cross-lingually interesting.
+At least in English, French, German, Italian, Spanish and Welsh, _minor_ and _major_ are adjectives and therefore [`amod`]((https://universaldependencies.org/u/dep/amod.html))s of the note at hand.
+In English, this is a rare case of postnominal adjectival modifier.
+In Czech, on the other hand, _dur_ and _moll_ inflect as nouns and even have derived adjectives (_durový_, _mollový_).
+Differently from the _C_ in _vitamin C_, the note name _C_ is just a common noun, that, in languages like Italian, can be introduced by an article (cf. _il do centrale_, 'the central C'). 
+
 
 ---
 
@@ -460,7 +476,6 @@ Open issues (guess I'll make a part 2 eventually)
 - [ ] https://github.com/UniversalDependencies/docs/issues/1129
 - [ ] https://github.com/UniversalDependencies/docs/issues/1131
 - [ ] https://github.com/UniversalDependencies/docs/issues/1132
-- [ ] https://github.com/UniversalDependencies/docs/issues/1136
 - [ ] https://github.com/UniversalDependencies/docs/issues/1139
 - [ ] https://github.com/UniversalDependencies/docs/issues/1148
 - [ ] https://github.com/UniversalDependencies/docs/issues/1149
