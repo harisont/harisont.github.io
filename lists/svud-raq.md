@@ -4,8 +4,8 @@ layout: post
 ---
 
 This is a collection of summaries of discussions on [Universal Dependencies](https://universaldependencies.org/) guidelines my collaborators and I opened during the annotation of the [UD_Swedish-SweLL](https://github.com/universaldependencies/UD_Swedish-SweLL) treebank.
-Most of the conclusions are Swedish-specific, but some reasoning are applicable to other languages too. 
-Part(s) of if was originally/will be published [on the Språkbanken Text blog](https://spraakbanken.gu.se/blogg/). 
+Most of the conclusions are Swedish-specific, but some of the logic behind them is also applicable to other languages. 
+Part(s) of this list was or will be published [on the Språkbanken Text blog](https://spraakbanken.gu.se/blogg/). 
 
 - [Comparative constructions (they are simpler than you think!)](#comparative-constructions-they-are-simpler-than-you-think)
 - [_Går att `VERB`a_ and other equally tough constructions](#går-att-verba-and-other-equally-tough-constructions)
@@ -468,18 +468,18 @@ Differently from the _C_ in _vitamin C_, the note name _C_ is just a common noun
 
 <!-- TODO:
 
-Open issues (guess I'll make a part 2 eventually)
-- [ ] https://github.com/UniversalDependencies/docs/issues/1082
-- [ ] https://github.com/UniversalDependencies/docs/issues/1083
-- [ ] https://github.com/UniversalDependencies/docs/issues/1121
-- [ ] https://github.com/UniversalDependencies/docs/issues/1122
-- [ ] https://github.com/UniversalDependencies/docs/issues/1129
-- [ ] https://github.com/UniversalDependencies/docs/issues/1131
-- [ ] https://github.com/UniversalDependencies/docs/issues/1132
-- [ ] https://github.com/UniversalDependencies/docs/issues/1139
-- [ ] https://github.com/UniversalDependencies/docs/issues/1148
-- [ ] https://github.com/UniversalDependencies/docs/issues/1149
-- [ ] https://github.com/UniversalDependencies/docs/issues/1152
-- [ ] https://github.com/UniversalDependencies/docs/issues/1165
-- [ ] https://github.com/UniversalDependencies/docs/issues/1185
+Open issues:
+- https://github.com/UniversalDependencies/docs/issues/1082
+- https://github.com/UniversalDependencies/docs/issues/1083
+- https://github.com/UniversalDependencies/docs/issues/1121
+- https://github.com/UniversalDependencies/docs/issues/1122
+- https://github.com/UniversalDependencies/docs/issues/1129
+- https://github.com/UniversalDependencies/docs/issues/1131
+- https://github.com/UniversalDependencies/docs/issues/1132
+- https://github.com/UniversalDependencies/docs/issues/1139
+- https://github.com/UniversalDependencies/docs/issues/1148
+- https://github.com/UniversalDependencies/docs/issues/1149
+- https://github.com/UniversalDependencies/docs/issues/1152
+- https://github.com/UniversalDependencies/docs/issues/1165
+- https://github.com/UniversalDependencies/docs/issues/1185
 -->
