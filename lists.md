@@ -9,7 +9,8 @@ Some are notes for my own future reference, some work as FAQ pages about oddly s
 - Syntax:
   - [FACS - FAQs about Computational Syntax](lists/facs.md)
   - [Rarely Asked Questions about Swedish UD](lists/svud-raq.md)
-- Programming:
+- Computery stuff:
   - [Web development notes](lists/web-dev.md)
+  - [Fantastic feeds and where to find them](lists/feeds.md)
 - Meaningful media:
   - [Weird animated movies](lists/weird_animated_movies.md)
