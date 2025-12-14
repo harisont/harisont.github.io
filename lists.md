@@ -10,6 +10,7 @@ Some are notes for my own future reference, some work as FAQ pages about oddly s
   - [FACS - FAQs about Computational Syntax](lists/facs.md)
   - [Rarely Asked Questions about Swedish UD](lists/svud-raq.md)
 - Computery stuff:
+  - [Frequently forgotten shell commands](lists/commands.md)
   - [Web development notes](lists/web-dev.md)
   - [Fantastic feeds and where to find them](lists/feeds.md)
 - Meaningful media:
