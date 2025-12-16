@@ -34,7 +34,7 @@ yay -Scc
 ### Cleaning up the pip package cache
 
 ```bash
-yay -Scc
+pip cache purge
 ```
 
 ### Removing unused Python virtualenvs
