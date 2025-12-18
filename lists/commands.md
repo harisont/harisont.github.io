@@ -38,8 +38,7 @@ pip cache purge
 ```
 
 ### Removing unused Python virtualenvs
-1. list all virtualenvs: 
-   ```bash
-   locate -b '\activate' | grep "/home" | sed -e 's/bin.*//g' | uniq
-   ```
-2. ...remove the unused ones manually. I tried to add `| xargs rm -ir` for interactively removing them one by one, but [that doesn't work](https://stackoverflow.com/questions/18302856/removing-files-interactively-with-find-and-xargs/18302893#18302893). I understand the reason, but not the alternative solution(s)
+Use [Herb](https://github.com/daherb)'s heroic interactive one-liner:
+
+```bash
+for filename in $(find . -path '*/bin/activate.csh'); do filepath=$(echo $filename | sed 's/\/bin\/activate.csh//g'); echo "Remove $filepath? (y/n)" ; read result; if [[ $result = "y" ]]; then rm -R $filepath; fi; done```
