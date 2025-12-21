@@ -3,6 +3,8 @@ title: Frequently forgotten shell commands
 layout: post
 ---
 
+This is a growing (but eventually, hopefully, shrinking) collection of shell commands I periodically need but have to look up every time. 
+
 - [Scheduling a shutdown](#scheduling-a-shutdown)
   - [At a specific time](#at-a-specific-time)
   - [After `n` minutes](#after-n-minutes)
@@ -41,4 +43,5 @@ pip cache purge
 Use [Herb](https://github.com/daherb)'s heroic interactive one-liner:
 
 ```bash
-for filename in $(find . -path '*/bin/activate.csh'); do filepath=$(echo $filename | sed 's/\/bin\/activate.csh//g'); echo "Remove $filepath? (y/n)" ; read result; if [[ $result = "y" ]]; then rm -R $filepath; fi; done```
+for filename in $(find . -path '*/bin/activate.csh'); do filepath=$(echo $filename | sed 's/\/bin\/activate.csh//g'); echo "Remove $filepath? (y/n)" ; read result; if [[ $result = "y" ]]; then rm -R $filepath; fi; done
+```
