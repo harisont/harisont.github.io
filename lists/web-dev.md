@@ -16,6 +16,8 @@ Modern web dev stuff I am, after all, learning while working on [a WYTIWYS (What
   - [Last element of an array](#last-element-of-an-array)
   - [Introspection](#introspection)
   - [Integer to string and vice versa](#integer-to-string-and-vice-versa)
+  - [Lambdas](#lambdas)
+  - [JSON object operations](#json-object-operations)
 
 
 ## Nodenotes
@@ -105,3 +107,24 @@ Two operators:
 int.toString();
 parseInt(str, base);
 ```
+
+### Lambdas
+```typescript
+(par1: type2, par2: type2): returnType => expression
+```
+
+### JSON object operations
+Kinda like a Python dictionary:
+
+- does a `json` object have a certain `key`? 
+  ```typescript
+  key in json
+  ```
+- delete a `key`-value pair from a `json` object:
+  ```typescript
+  delete json[key]
+  ```
+- add a `key`-`val` pair to a `json` object:
+  ```typescript
+  json[key] = val
+  ```
