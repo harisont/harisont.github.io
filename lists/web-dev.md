@@ -3,7 +3,7 @@ title: Web development notes
 layout: post
 ---
 
-Modern web dev stuff I am, after all, learning while working on [a WYTIWYS (What You Tree Is What You Search) corpus query interface](https://github.com/harisont/wytiwys).
+Modern web dev stuff I am, after all, learning while working on [a WYTIWYS (What You Tree Is What You Search) corpus query interface](https://github.com/harisont/wytiwys) and [a recipe website for programmers](https://github.com/rapunschel/concurrent-cooking).
 
 - [Nodenotes](#nodenotes)
   - [Setting up `nvm` (Node Version Manager)](#setting-up-nvm-node-version-manager)
@@ -11,6 +11,9 @@ Modern web dev stuff I am, after all, learning while working on [a WYTIWYS (What
   - [Using version `n` of Node](#using-version-n-of-node)
   - [Installing a TypeScript project](#installing-a-typescript-project)
   - [Using a local module in a TypeScript project](#using-a-local-module-in-a-typescript-project)
+- [CSS](#css)
+  - [Hiding stuff](#hiding-stuff)
+  - [Selectors](#selectors)
 - [TypeScript](#typescript)
   - [Array concatenation](#array-concatenation)
   - [Last element of an array](#last-element-of-an-array)
@@ -18,6 +21,10 @@ Modern web dev stuff I am, after all, learning while working on [a WYTIWYS (What
   - [Integer to string and vice versa](#integer-to-string-and-vice-versa)
   - [Lambdas](#lambdas)
   - [JSON object operations](#json-object-operations)
+  - [Ternary operator](#ternary-operator)
+- [React](#react)
+  - [Using variables](#using-variables)
+  - [Passing a tag its props](#passing-a-tag-its-props)
 
 
 ## Nodenotes
@@ -55,6 +62,31 @@ npm install
    ```
    npm install --save PATH-TO-TGZ
    ```
+
+## CSS
+
+### Hiding stuff
+- `visibility: hidden` is like the invisibility cloak (the element becomes transparent, but still takes up space)
+- `display: none` prevents the element from showing up at all
+
+### Selectors
+
+Basic selectors:
+
+- `*`
+- `tag`
+- `.class`
+- `#id`
+- `[attribute]`
+
+Useful combinations:
+- `tag.class` (all `tag`s of a given class)
+- `.class tag` (all `tag`s that are descendants of a tag with a given `class`)
+- `.class>tag` (all `tag`s that are _direct_ descendants (children) of a tag with a given `class`)
+- `tag[attribute]` (all `tag`s with a given `attribute`)
+- `.class1.class2` (all elements that have both `class1` and `class2`)
+
+
 
 ## TypeScript
 
@@ -128,3 +160,24 @@ Kinda like a Python dictionary:
   ```typescript
   json[key] = val
   ```
+
+### Ternary operator
+I guess Javascript _is_ a bit like Java:
+
+```typescript
+condition ? what_if_true : what_if_not
+```
+
+## React
+
+### Using variables
+```html
+{variable}
+```
+
+### Passing a tag its props
+If a tag was a function, props would be its (named) parameters:
+
+```html
+<Tag propName={propVal}/>
+```
