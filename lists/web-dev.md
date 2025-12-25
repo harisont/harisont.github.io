@@ -180,4 +180,7 @@ If a tag was a function, props would be its (named) parameters:
 
 ```html
 <Tag propName={propVal}/>
+
+<!--or simply-->
+<Tag {propVal}/>
 ```
