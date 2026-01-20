@@ -484,4 +484,5 @@ Open issues:
 - https://github.com/UniversalDependencies/docs/issues/1185
 - https://github.com/UniversalDependencies/docs/issues/1191
 - https://github.com/UniversalDependencies/docs/issues/1193
+- https://github.com/UniversalDependencies/docs/issues/1196
 -->
