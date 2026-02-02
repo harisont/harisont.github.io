@@ -1,12 +1,19 @@
 ---
-title: Weird animated movies
+title: Animation taken seriously
 layout: post
 ---
 
-This is a growing collection of animated movies of the kind I was first exposed to back in (probably) 2012 at [Rabbitfest](https://filmfreeway.com/Rabbitfest), in Perugia (this list was originally published [as a blog post](https://harisont.github.io/2024/01/23/weird-animated-movies.html)).
-I am forever grateful that my hometown used to (_sigh!_) have such a unique festival, entirely dedicated to independent animation and, for once[^1], mostly targeting adults.
-It introduced me to what for me was a completely new genre, and I enjoyed it to the point that it inspired me to organize a _cineforum_[^2] at my high school.
+This is a growing collection (originally published [as a blog post](https://harisont.github.io/2024/01/23/weird-animated-movies.html)) of movies of the kind I was first exposed to back in 2012 at [Rabbitfest](https://filmfreeway.com/Rabbitfest) in Perugia, and that I continue to actively look for every year at the (much larger, but much less focused on the genre) Gothenburg Film Festival.
 
+To end up here, a movie needs to meet a few requirements:
+
+1. it has to be a feature film
+2. it has to be animated
+3. it should __not__ be a children's movie (most movies here are not particularly light-hearted either, but that's just a side effect of adult life, I guess)
+4. I have to appreciate it in at least some way.
+
+
+Movies:
 - [_Persepolis_ (2007)](#persepolis-2007)
 - [_Mary and Max_ (2009)](#mary-and-max-2009)
 - [_Alois Nebel_ (2011)](#alois-nebel-2011)
@@ -18,6 +25,7 @@ It introduced me to what for me was a completely new genre, and I enjoyed it to 
 - [_My love affair with marriage_ (2022)](#my-love-affair-with-marriage-2022)
 - [_The most precious of cargoes_ (2024)](#the-most-precious-of-cargoes-2024)
 - [_Memoir of a snail_ (2024)](#memoir-of-a-snail-2024)
+- [_Bouchra_ (2025)](#bouchra-2025)
 
 
 #### [_Persepolis_ (2007)](https://en.wikipedia.org/wiki/Persepolis_(film))
@@ -66,7 +74,7 @@ As dreamlike as the original, this movie definitely works in my opinion, but it 
 
 #### [_My love affair with marriage_ (2022)](https://en.wikipedia.org/wiki/My_Love_Affair_with_Marriage)
 _My love affair with marriage_ might be one of my favorite movies, not just within weird independent animation for adults, not just within animation in general, but overall; all this while not at all being the most aesthetically appealing in this list.
-Baumane has Satrapi's self-awareness and Zerocalcare[^3]'s ability to _sdrammatizzare_[^4].
+Baumane has Satrapi's self-awareness and Zerocalcare[^1]'s ability to _sdrammatizzare_[^2].
 In this movie, she deals with gender roles with a mix brilliant narrative devices and brutal realism, plus some neuroscience.
 Guess I'll have to watch everything else she does.
 
@@ -87,9 +95,13 @@ Coming out of the cinema, one of my friends commented that she felt weird that s
 However, I don't think those things are the point.
 To me, it seems that the take-home message is rather positive: a single friendship can make all the difference.
 
+#### [_Bouchra_ (2025)](https://en.wikipedia.org/wiki/Bouchra)
+A multilingual, queer movie! Made in Blender!<br>
+To think I had discarded it from my Gothenburg Film Festival selection because the aesthetics reminded me of last year's [_Schirkoa_](https://schirkoamovie.com/), which didn't make it to this list (failed criterion 4)...
+Luckily, my friend H. insisted that we should go.
+Although this is not my favorite film in this category, I liked everything about it, especially the voice acting (very natural) and the radio station gags.
+
 --- 
 
-[^1]: While this is slowly changing, 10 years ago, at least in Italy, comics and animation were still considered something childish and definitely not viable media for addressing important issues
-[^2]: I am only now learning that this word doesn't exist in English. I would count on the readers' perspicacity, but just in case, [here](https://en.wiktionary.org/wiki/cineforum) is the meaning (cf. definition 1)
-[^3]: Another one who recently did great animation for adults, unfortunately not yet on the big screen
-[^4]: _s_ + _drammatizzare_, literally _un_ + _dramatize_, "lower (usually through irony) the degree of dramaticiness of a tragic event". Commonly translated as _downplay_, but I think the English word has a much more negative connotation.
+[^1]: Another one who recently did great animation for adults, unfortunately not yet on the big screen
+[^2]: _s_ + _drammatizzare_, literally _un_ + _dramatize_, "lower (usually through irony) the degree of dramaticiness of a tragic event". Commonly translated as _downplay_, but I think the English word has a much more negative connotation.

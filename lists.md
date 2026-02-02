@@ -14,4 +14,4 @@ Some are notes for my own future reference, some work as FAQ pages about oddly s
   - [Web development notes](lists/web-dev.md)
   - [Fantastic feeds and where to find them](lists/feeds.md)
 - Meaningful media:
-  - [Weird animated movies](lists/weird_animated_movies.md)
+  - [Animation taken seriously](lists/serious_animation.md)
