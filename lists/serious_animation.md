@@ -95,11 +95,11 @@ Coming out of the cinema, one of my friends commented that she felt weird that s
 However, I don't think those things are the point.
 To me, it seems that the take-home message is rather positive: a single friendship can make all the difference.
 
-#### [_Bouchra_ (2025)](https://en.wikipedia.org/wiki/Bouchra)
-A multilingual, queer movie! Made in Blender!<br>
-To think I had discarded it from my Gothenburg Film Festival selection because the aesthetics reminded me of last year's [_Schirkoa_](https://schirkoamovie.com/), which didn't make it to this list (failed criterion 4)...
+#### [_Bouchra_ (2024)](https://en.wikipedia.org/wiki/Bouchra)
+A multilingual queer movie made in Blender!<br>
+To think I had discarded it from my Gothenburg Film Festival selection because the aesthetics reminded me of last year's [_Schirkoa_](https://schirkoamovie.com/), another 2024 film that didn't make it to this list (failed criterion 4)...
 Luckily, my friend H. insisted that we should go.
-Although this is not my favorite film in this category, I liked everything about it, especially the voice acting (very natural) and the radio station gags.
+Although this is not my favorite in this category, I liked everything about it, especially the voice acting (very natural) and the radio station gags.
 
 --- 
 
