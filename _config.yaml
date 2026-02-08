@@ -25,9 +25,6 @@ minima:
     - title: GitHub
       icon: github
       url: "https://github.com/harisont"
-    - title: YouTube
-      icon: youtube
-      url: "https://www.youtube.com/c/ImparalHaskellemettilodaparte"
     - title: Mastodon
       icon: mastodon
       url: "https://mstdn.social/@harisont"
