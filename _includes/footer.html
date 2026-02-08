@@ -5,27 +5,16 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
         <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <span>RSS feed to subscribe to the blog</span>
-          </a><br>
-          (unfamiliar with RSS? take a look at <a href="https:
-            //harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html">this post!</a>)
+          <a href="{{ 'feed.xml' | relative_url }}"> subscribe </a> via <a href="https://harisont.github.io/l-informatico-di-famiglia/2022/03/05/rss-en.html">RSS</a> or email me at <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
         </p>
-        {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-          <li class="p-name">{{ site.author.name | escape }} (<a class="u-email"
-              href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>)</li>
-          {% endif -%}
-        </ul>
-        {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-        <p>Noticed a <a href="https://dictionary.cambridge.org/dictionary/italian-english/strafalcione">
+        <p><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></p>
+        <p>noticed a <a href="https://dictionary.cambridge.org/dictionary/italian-english/strafalcione">
             <it>strafalcione</it>
-          </a> in something I've written? You're welcome to fix it and open a <a
+          </a> in something I've written? Feel free to open a <a
             href="https://github.com/harisont/harisont.github.io">pull request</a>!</p>
       </div>
     </div>
