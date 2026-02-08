@@ -4,16 +4,11 @@ layout: base
 ---
 
 ### ¡Ciao, hi, hej and hola!
-I'm Arianna ([`PronType=Prs|Number=Sing|Gender=Fem`](https://universaldependencies.org/u/feat/index.html)) and I'm an aspiring [computational linguist](research.md) with [too many hobbies](more.md).
+I am Arianna ([`PronType=Prs|Number=Sing|Gender=Fem`](https://universaldependencies.org/u/feat/index.html)), a computational linguist in the making.
+This website is the [standard output](https://en.wikipedia.org/wiki/Standard_streams#Standard_output_(stdout)) for all of my [_otium_](https://en.wikipedia.org/wiki/Otium), from personal projects to academic endeavors (the line is blurred):
 
-### Long story short
-###### (if you want the boring version, take a look at my [CV](https://raw.githubusercontent.com/harisont/cv/refs/heads/main/cv.pdf))
-I grew up in [Perugia](https://www.openstreetmap.org/relation/42278#map=11/43.1399/12.3691), where I spent my teen years using my language skills to hide my total lack of mathematical knowledge.
-Done with high school, I figured I'd ~~punish~~ challenge myself and enroll in a Computer Science program, which against all odds I ended up completing __and__ thoroughly enjoying (both things mostly thanks to great company).
-During this process, I accidentally re-discovered language through a course on compilers and abruptly moved to [Gothenburg](https://www.openstreetmap.org/node/25930131) together with my former _sambo_[^1] [K.](https://harisont.github.io/kappanneu/).
-Despite initially telling myself and everyone else that I was only going to be there for a two-year Master's in Language Technology, I'm still here after 6 years. 
-After graduation and a short but fun time working as a software developer at [Digital Grammars](https://www.digitalgrammars.com/), I embarked in the longer-term project of a PhD in Natural Language Processing at [Språkbanken Text](https://spraakbanken.gu.se/), where I work at the intersection between Computational Syntax and Second Language Acquisition.
-
----
-
-[^1]: [Swedish] _sam_ ("with") + _bo_ ("live") = cohabitating partner
+- [research](research.md) is where you can find out about my publications, talks and other research output
+- [teaching](teaching.md) is a page where I gather information about the courses I am involved in and the student projects I have (had) the pleasure to supervise
+- [software](sw.md) contains links to assorted programming projects, both research-related and not
+- [stdout](blog.md) is my chaotically multilingual blog 
+- [[[[a]]]](lists.md) is a list of lists of lists of things I and/or someone else often need to come back to

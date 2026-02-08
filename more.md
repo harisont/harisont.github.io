@@ -1,5 +1,5 @@
 ---
-title: More
+title: more
 layout: base
 ---
 
@@ -8,7 +8,7 @@ I have been passionate about photography since age 8.
 In the last few years, my focus has switched from individual shots to small projects, such as:
 
 - [__Postcards from Gothenburg__](https://harisont.github.io/postcards-from-gothenburg/), a project for a summer course at the University of Gothenburg and luckily also the only website I've ever had to write from scratch
-- [__@unottica__](https://www.instagram.com/unottica/), an abandoned attempt to find consistent a personal style
+- [__@unottica__](https://www.instagram.com/unottica/), an abandoned attempt to find a consistent a personal style
 - my ongoing __photography blog post series__:
   1. [_GB-AG: fotografie di un viaggio per mare e per terra_](https://harisont.github.io/unottica/2022/11/13/gbag.html), documenting an interrail trip from Gothenburg to Agrigento (in Italian)
   2. [_Vardagsbilder_](https://harisont.github.io/unottica/2023/04/09/vardagsbilder-sv.html), a collection of pictures taken with a pocket camera over the course of March 2023 (available in Swedish and Italian)

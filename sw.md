@@ -1,5 +1,5 @@
 ---
-title: Software
+title: software
 layout: base
 ---
 
@@ -29,7 +29,3 @@ I have also contributed to:
 ## Misc
 - [__me-tadah__](https://github.com/harisont/me-tadah), the simplest possible ebook metadata editor
 - [__Librery__](https://github.com/harisont/Librery), the first and probably last complete Android app I'll ever have the patience to write
-
-## Tutorials
-- __Impara l'Haskell e mettilo da parte__, a basic Haskell course consisting in [video lessons](https://www.youtube.com/channel/UC6fKcYGimkXYd-N5ryesKqw) and [code examples](https://github.com/harisont/imparalhaskell). The course is entirely in Italian, as the goal was to create learning materials easily accessible to my fellow citizens that who use the language barrier as an excuse not to learn my favorite programming language. This project is currently on hiatus ever since I've started teaching more and more in person
-- [__py4linguists__](https://github.com/harisont/py4linguists), a small collection of Python exercises for linguists, originally designed for Language Technology students at the University of Gothenburg

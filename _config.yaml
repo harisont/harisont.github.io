@@ -4,7 +4,7 @@ author:
   email: harisont@fripost.org
 
 description: > 
-  Arianna Masciolini (harisont)'s permanently-under-construction personal website and chaotically multilingual blog
+  Arianna Masciolini/harisont's permanently-under-construction personal website and chaotically multilingual blog
 
 show_excerpts: false
 
@@ -12,6 +12,7 @@ remote_theme: "jekyll/minima@1e8a445"
 
 header_pages:
   - research.md
+  - teaching.md
   - sw.md
   - more.md
   - blog.md
