@@ -1,4 +1,7 @@
-## teaching
+---
+title: teaching
+layout: base
+---
 
 ### Courses
 Starting in 2019, I've been involved in several programming and language technology courses at the University of Gothenburg and at the Chalmers University of Technology:
