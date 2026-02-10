@@ -9,9 +9,10 @@ Some are meant for my own future reference; some work as FAQ pages about oddly s
 - syntax:
   - [FACS - FAQs about Computational Syntax](lists/facs.md)
   - [Rarely Asked Questions about Swedish UD](lists/svud-raq.md)
-- computing:
-  - [Frequently forgotten shell commands](lists/commands.md)
+- programming:
+  - [Frequently forgotten shell commands](lists/shell.md)
+  - [LuXurY LaTeX](lists/latex.md)
   - [Web development notes](lists/web-dev.md)
-  - [Fantastic feeds and where to find them](lists/feeds.md)
 - media:
+  - [Fantastic feeds and where to find them](lists/feeds.md)
   - [Animation taken seriously](lists/serious_animation.md)
