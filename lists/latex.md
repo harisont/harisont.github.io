@@ -10,6 +10,7 @@ Stuff that make LaTeX an actually pleasurable experience, but that I have to loo
 - [Resizing stuff to text/column width](#resizing-stuff-to-textcolumn-width)
 
 ## Compilers
+
 | if                                        | then     |
 | ----------------------------------------- | -------- |
 | Greek + Latin characters in the same text | XeLaTeX  |
