@@ -9,8 +9,10 @@ To end up here, a movie needs to meet a few requirements:
 
 1. it has to be a feature film
 2. it has to be animated
-3. it should __not__ be a children's movie (most movies here are not particularly light-hearted either, but that's just a side effect of adult life, I guess)
+3. it should __not__ be a children's movie
 4. I have to appreciate it in at least some way.
+
+Most movies in this list are not particularly light-hearted, but that's not a strict prerequisite.
 
 
 Movies:
@@ -25,7 +27,7 @@ Movies:
 - [_My love affair with marriage_ (2022)](#my-love-affair-with-marriage-2022)
 - [_The most precious of cargoes_ (2024)](#the-most-precious-of-cargoes-2024)
 - [_Memoir of a snail_ (2024)](#memoir-of-a-snail-2024)
-- [_Bouchra_ (2025)](#bouchra-2025)
+- [_Bouchra_ (2024)](#bouchra-2024)
 
 
 #### [_Persepolis_ (2007)](https://en.wikipedia.org/wiki/Persepolis_(film))
