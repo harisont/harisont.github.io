@@ -7,7 +7,7 @@ Modern web dev stuff I stumbled upon while working on [a WYTIWYS (What You Tree 
 
 I learned the very, very basics of web development several years ago and didn't like it very much. 
 These are two projects that I approached with a strong intention to get things done, but no particular desire to learn anything new systematically. 
-The [_Changing Stuff and Seeing What Happens_](https://orlybooks.com/books/changing-stuff-and-seeing) approach worked to a surprising extent, and as I trial-and-errored my way through the code (and occasionally resorted to actually look up oddly specific stuff), I noted down random things I found remarkable, regretful, revolting, or (rarely) rational and rewarding.
+The [_Changing Stuff and Seeing What Happens_](https://orlybooks.com/books/changing-stuff-and-seeing) approach worked to a surprising extent, and as I trial-and-errored my way through the code (and occasionally resorted to actually look up oddly specific stuff), I noted down random things I found remarkable, regretful, revolting, or (rarely) reasonable and even rewarding.
 
 - [Nodenotes](#nodenotes)
   - [Setting up `nvm` (Node Version Manager)](#setting-up-nvm-node-version-manager)
