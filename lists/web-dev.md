@@ -287,7 +287,7 @@ instance.$mount()                               // go figure
 In Kushagra's tutorial there's [another step](https://css-tricks.com/creating-vue-js-component-instances-programmatically/#aa-setting-the-slot) too, but I skipped that because I was not sure what it was talking about and my code worked anyway.
 
 ### Events
-When children want to communicate with their parents, they `$emit` events to their parents:
+When children want to communicate with their parents, they `$emit` events:
 
 ```html
 <!-- Excerpt form a hypothetical Child.vue -->
