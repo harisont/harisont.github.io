@@ -276,8 +276,8 @@ var p = new HolyParagraph(stuff);
 
 ```typescript
 import Vue from 'vue'
-var ComponentClass = Vue.extend(HolyParagraph); // make the component a class, I guess?
-var p = new HolyParagraph({                     // instantiate it
+var HolyParagraphClass = Vue.extend(HolyParagraph); // make the component a class, I guess?
+var p = new HolyParagraphClass({                     // instantiate it
     propsData: { holeFiller: stuff }            // concisely pass it the props
 })); 
 instance.$mount()                               // go figure
