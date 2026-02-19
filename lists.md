@@ -4,7 +4,7 @@ layout: base
 ---
 
 This is a list of lists of lists that I regularly come back to and update. 
-Some are meant for my own future reference; some work as FAQ pages about oddly specific topics for students and colleagues; some where originally published as blog posts [here](https://harisont.github.io/blog.html) or on the [Språkbanken Text blog](https://spraakbanken.gu.se/blogg).
+Some are meant for my own future reference; some work as FAQ pages about oddly specific topics dedicated to students and colleagues; some were originally (or will eventually be) published as blog posts [here](https://harisont.github.io/blog.html) or on the [Språkbanken Text blog](https://spraakbanken.gu.se/blogg).
 
 - syntax:
   - [FACS - FAQs about Computational Syntax](lists/facs.md)
