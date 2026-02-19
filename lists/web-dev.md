@@ -291,7 +291,6 @@ When children want to communicate with their parents, they `$emit` events:
 
 ```html
 <!-- Excerpt form a hypothetical Child.vue -->
-...
 <script>
 export default {
   methods: {
@@ -301,8 +300,8 @@ export default {
   }
 }
 </script>
-...
 ```
+
 Here's how parents handle specific events:
 
 ```html
