@@ -17,7 +17,7 @@ This is a list of games I actually enjoy(ed) to the point of playing them on my 
   - [_Baba is you_ (2019)](#baba-is-you-2019)
   - [_Tessel_ (2025)](#tessel-2025)
 - [Honorable mentions](#honorable-mentions)
-  - [Online word games](#online-word-games)
+  - [Daily word puzzles](#daily-word-puzzles)
   - [_Chants of Sennaar_ (2023)](#chants-of-sennaar-2023)
 
 ## True delights
@@ -61,7 +61,7 @@ I would call this a meditative one: it has the geometric delightfulness of Tetri
 
 ## Honorable mentions
 
-### Online word games
+### Daily word puzzles
 Although I consider them digital crosswords rather than actual video games, I try every "daily word puzzle" kind of thing I come across and have a couple favorites:
 
 - [_Tiled words_](https://tiledwords.com) (very carefully crafted puzzles and also open source)
