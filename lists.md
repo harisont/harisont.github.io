@@ -16,3 +16,4 @@ Some are meant for my own future reference; some work as FAQ pages about oddly s
 - media:
   - [Fantastic feeds and where to find them](lists/feeds.md)
   - [Animation taken seriously](lists/serious_animation.md)
+  - [Videogames I actually enjoy (a rather short list)](lists/videogames.md)
