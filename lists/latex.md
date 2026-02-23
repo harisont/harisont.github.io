@@ -30,6 +30,7 @@ Essentially
 ```latex
 \resizebox{\textwidth}{!}{whatever}
 % replace \textwidth with \columnwidth as needed
+% prepend 0.N to \xxxwidth if the content should be resized to a fraction of the given width
 ```
 
 but for tables, the box should be around the `tabular` and __not__ wrap the entire `table` environment.
