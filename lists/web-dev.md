@@ -27,6 +27,7 @@ The [_Changing Stuff and Seeing What Happens_](https://orlybooks.com/books/chang
   - [JSON object operations](#json-object-operations)
   - [Ternary operator](#ternary-operator)
   - [Kind of the same or actually identical?](#kind-of-the-same-or-actually-identical)
+  - [String replacements](#string-replacements)
 - [React](#react)
   - [Using variables](#using-variables)
   - [Passing a tag its props](#passing-a-tag-its-props)
@@ -182,6 +183,12 @@ Kinda like a Python dictionary:
   ```typescript
   json[key] = val
   ```
+- iterate over all `key`-`val` pairs (similar to Python dict items):
+  ```typescript
+  for (const [key, value] of Object.entries(obj)) {
+    // do whatever you need to do
+  }
+  ```
 
 ### Ternary operator
 I guess Javascript _is_ a bit like Java:
@@ -200,6 +207,28 @@ false == 0     // as true as in Python
 false == '0'   // also true!
 false === 0    // false
 false === '0'  // also false, thankfully
+```
+
+### String replacements
+In Python, 
+
+```javascript
+s.replace("x", "y")
+```
+
+replaces _all_ occurrences of `"x"` in `s` with `"y"`, whereas in WhateverScript it only<br>
+replaces _the first_ occurrence of `"x"` in `s` with `"y"`.
+
+The modern (2021+) WhateverScript equivalent of Python's `replace` is
+
+```javascript
+s.replaceAll("x", "y")
+```
+
+if you are working with anything older, use a __global regex__:
+
+```javascript
+s.replace(/x/g,"y");
 ```
 
 ## React
