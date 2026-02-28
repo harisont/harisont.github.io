@@ -9,12 +9,14 @@ I learned the very, very basics of web development several years ago and didn't 
 These are two projects that I approached with a strong intention to get things done, but no particular desire to learn anything new systematically. 
 The [_Changing Stuff and Seeing What Happens_](https://orlybooks.com/books/changing-stuff-and-seeing) approach worked to a surprising extent, and as I trial-and-errored my way through the code (and occasionally resorted to actually look up oddly specific stuff), I noted down random things I found remarkable, regretful, revolting, or (rarely) reasonable and even rewarding.
 
-- [Nodenotes](#nodenotes)
+- [Node commands and other useful command-line incantations](#node-commands-and-other-useful-command-line-incantations)
   - [Setting up `nvm` (Node Version Manager)](#setting-up-nvm-node-version-manager)
   - [Installing version `n` of Node](#installing-version-n-of-node)
   - [Using version `n` of Node](#using-version-n-of-node)
   - [Installing a TypeScript project](#installing-a-typescript-project)
   - [Using a local module in a TypeScript project](#using-a-local-module-in-a-typescript-project)
+  - [Fixing `npm error code EINTEGRITY` upon `npm install` or similar](#fixing-npm-error-code-eintegrity-upon-npm-install-or-similar)
+  - [Generating TypeScript declaration files (`.d.ts`)](#generating-typescript-declaration-files-dts)
 - [CSS (Cursed Style Sheets)](#css-cursed-style-sheets)
   - [Hiding stuff](#hiding-stuff)
   - [Selectors](#selectors)
@@ -38,7 +40,7 @@ The [_Changing Stuff and Seeing What Happens_](https://orlybooks.com/books/chang
   - [Events](#events)
 
 
-## Nodenotes
+## Node commands and other useful command-line incantations
 
 ### Setting up `nvm` (Node Version Manager)
 1. install `nvm` from your package manager
@@ -73,6 +75,26 @@ npm install
    ```
    npm install --save PATH-TO-TGZ
    ```
+
+### Fixing `npm error code EINTEGRITY` upon `npm install` or similar
+```
+rm -rf package-lock.json node_modules
+```
+
+### Generating TypeScript declaration files (`.d.ts`)
+(also known as TypeScript _definition_ files, for some reason)
+
+For a single file:
+
+```
+tsc --declaration FILENAME.ts
+```
+
+For the entire project:
+  
+1. ensure that the project's `tsconfig.json` has `"declaration": true` among its `compilerOptions`
+2. `npm install` 
+3. `tsc -p tsconfig.json`
 
 ## CSS (Cursed Style Sheets)
 
