@@ -31,8 +31,8 @@ This method works very well for me, especially when working alone.
 
 <!--however-->
 However, I recently received a messy, yet very workable draft from one of my wonderful students and I finally understood the value of a rough draft.
-It's not for the author - it's for the supervisor (or whoever is giving you early feedback)!
-A draft can be revised and a blank page can't, sure, but in a sense, neither can a polished text.
+It's not for the author, it's for the supervisor (or whoever is giving you early feedback)!
+A draft can be revised and a blank page can't, sure, but in a sense, neither can a finished, polished text.
 I have occasionally been annoyed about some colleagues who only give me what seems to be superficial feedback about my paper drafts, but I'm starting to think it might depend on the fact that I never gave them actual drafts.
 Feedback on a "finished" text is hard to deliver (I experienced that first-hand with an LLM-generated draft) and harder to receive and act upon.
 Many times, when I receive good feedback, making changes feels like a daunting task even if I definitely want to incorporate it in my paper: every word has been chosen carefully, moving a sentence makes the structure of the whole paragraph collapse.
