@@ -47,7 +47,8 @@ In conclusion, my advice to myself and potentially others is: definitely write a
 ## Title every paragraph
 This is the single best piece of advice on writing I've been given throughout my university education.
 
-## Avoid too many subsections
+## Avoid using too many subsections
+Primary school & Master's thesis anectode.
 
 ## Avoid long sentences
 
@@ -58,6 +59,8 @@ This is the single best piece of advice on writing I've been given throughout my
 ## A picture is worth a thousand words
 
 ## A paper should tell a story
+
+## Something about info density, magari della Gigante
 
 ## Use a trash can
 
