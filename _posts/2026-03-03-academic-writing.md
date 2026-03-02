@@ -45,6 +45,9 @@ In conclusion, my advice to myself and potentially others is: definitely write a
 ## Proofread out loud
 
 ## Title every paragraph
+This is the single best piece of advice on writing I've been given throughout my university education.
+
+## Avoid too many subsections
 
 ## Avoid long sentences
 
