@@ -73,7 +73,7 @@ Use as:
     \label{utbildning}
     \digloss[preamble=Swedish]
         {En bra mening behöver inte vara en bra exempelmening .}
-        {a good sentence needs not be a good example.sentence .}
+        {a good sentence need.PRES not be a good example.sentence .}
         {A good sentence is not necessarily a good example sentence. }
 \end{example}
 ```
