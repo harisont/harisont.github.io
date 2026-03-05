@@ -3,7 +3,7 @@ title: LuXurY LaTeX
 layout: post
 ---
 
-Stuff that make LaTeX an actually pleasurable experience, but that I have to look up every single time:
+Stuff that make LaTeX definitely worth it, but that I have to look up every single time:
 
 - [Compilers](#compilers)
 - [Macros](#macros)
@@ -11,13 +11,14 @@ Stuff that make LaTeX an actually pleasurable experience, but that I have to loo
 - [Adding a full-page segment to a two-column paper](#adding-a-full-page-segment-to-a-two-column-paper)
 - [Adjusting margins](#adjusting-margins)
 - [Glossed linguistic examples](#glossed-linguistic-examples)
+- [Ge\`ez and Latin script in the same document](#geez-and-latin-script-in-the-same-document)
 
 ## Compilers
 
-| if                                        | then     |
-| ----------------------------------------- | -------- |
-| Greek + Latin characters in the same text | XeLaTeX  |
-| Springer Nature template                  | pdfLaTeX |
+| if                                    | then     |
+| ------------------------------------- | -------- |
+| Multiple scripts in the same document | XeLaTeX  |
+| Springer Nature template              | pdfLaTeX |
 
 ## Macros
 Example macro with two arguments that creates a clean version of an unwieldy URL whilst retaining all the `https://`s and encoded mess in its clickable version:
@@ -83,3 +84,28 @@ which will render as
 ![The example above rendered in a PDF](../assets/img/latex/digloss.png)
 
 `\trigloss`es are also possible.
+
+## Ge`ez and Latin script in the same document
+```latex
+\usepackage{polyglossia}
+\usepackage{microtype, newunicodechar}
+\usepackage[sf, bf, big]{titlesec}
+\defaultfontfeatures{Scale=MatchUppercase}
+\setmainfont{Abyssinica SIL}[Scale=1]
+\setsansfont{Libertinus Sans}
+\setmainlanguage{english}
+\setotherlanguage{amharic}
+\newunicodechar{፡}{፡\ }
+\newunicodechar{።}{\@{።} }
+\newunicodechar{፣}{፣ }
+\newunicodechar{፤}{፤ }
+\newunicodechar{፥}{፥ }
+\newunicodechar{፦}{፦ }
+\newunicodechar{፧}{\@{፧} }
+\newunicodechar{፨}{\@{፨} }
+\newunicodechar{፠}{\@{፠} }
+\newfontfamily{\amharicfont}{Abyssinica SIL}[
+  Script=Ethiopic,
+  Ligatures=Common,
+  WordSpace = {0.1,30.0,1.0}]
+```
