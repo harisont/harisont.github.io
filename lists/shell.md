@@ -11,6 +11,7 @@ This is a growing (but eventually, hopefully, shrinking) collection of shell com
 - [Sending desktop notifications](#sending-desktop-notifications)
   - [At a specific time](#at-a-specific-time-1)
   - [After `n` minutes, hours, days, or weeks](#after-n-minutes-hours-days-or-weeks)
+  - [Making the notification more (or less) annoying](#making-the-notification-more-or-less-annoying)
 - [Spring cleaning](#spring-cleaning)
   - [Cleaning the Yay package cache](#cleaning-the-yay-package-cache)
   - [Cleaning up the pip package cache](#cleaning-up-the-pip-package-cache)
@@ -40,6 +41,14 @@ echo 'notify-send "notification text"' | at hh:mm
 ### After `n` minutes, hours, days, or weeks
 ```bash
 echo 'notify-send "notification text"' | at now + n unit
+```
+
+### Making the notification more (or less) annoying
+
+Use the `-u` flag:
+
+```bash
+notify-send -u "notification text" level # level: critical|normal|low
 ```
 
 ## Spring cleaning
