@@ -31,14 +31,14 @@ Contents:
 
 In GF, there are several module types:
 
-name | contents | example from the course
---- | --- | ---
-`abstract` | abstract syntax (cross-lingual) | `MicroLang.gf`
-`concrete` | concrete syntax (language-specific) | `MicroLangEng.gf`
-`resource` | reusable collection of `oper`s (see next question), i.e. library (type signatures & bodies together) | `MicroResEng.gf`
-`interface` | "abstract syntax" (type declarations) of a resource module | not used in this course
-`instance` | "concrete syntax" of a resource module whose "abstract syntax"  is defined in an interface |not used in this course
-`incomplete concrete` | partial "concrete syntax", used when some things are common to a few of the languages in covered in the grammar, but not all of them | not used in this course
+| name                  | contents                                                                                                                             | example from the course |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| `abstract`            | abstract syntax (cross-lingual)                                                                                                      | `MicroLang.gf`          |
+| `concrete`            | concrete syntax (language-specific)                                                                                                  | `MicroLangEng.gf`       |
+| `resource`            | reusable collection of `oper`s (see next question), i.e. library (type signatures & bodies together)                                 | `MicroResEng.gf`        |
+| `interface`           | "abstract syntax" (type declarations) of a resource module                                                                           | not used in this course |
+| `instance`            | "concrete syntax" of a resource module whose "abstract syntax"  is defined in an interface                                           | not used in this course |
+| `incomplete concrete` | partial "concrete syntax", used when some things are common to a few of the languages in covered in the grammar, but not all of them | not used in this course |
 
 Let's focus on the first three.
 
@@ -67,14 +67,14 @@ You may well decide not to have a separate resource module in your grammar, but 
 
 There you go:
 
-name | short for | description | found in | example
---- | --- | --- | --- | ---
-`cat` | category | grammatical category | abstract modules | `cat Noun` |
-`lincat` | linearization type | language-specific "implementation" of a category | concrete modules | `lincat Noun = {s : Number => Str}` 
-`fun` | function | type signature of a grammar rule | abstract modules | `fun UseN : N -> CN`
-`lin` | linearization rule | language-specific "implementation" of a grammar rule | concrete modules | `lin UseN n = n`
-`oper` | operation | helper function | here, there and everywhere (but often in concrete __and__ resource modules) | `oper regNoun : Str -> Noun = \sg -> mkNoun sg (sg + "s")`
-`param` | parameter | language-specific (inflectional) parameter tables | typically resource modules | `param Number = Sg | Pg`
+| name     | short for          | description                                          | found in                                                                    | example                                                    |
+| -------- | ------------------ | ---------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| `cat`    | category           | grammatical category                                 | abstract modules                                                            | `cat Noun`                                                 |
+| `lincat` | linearization type | language-specific "implementation" of a category     | concrete modules                                                            | `lincat Noun = {s : Number => Str}`                        |
+| `fun`    | function           | type signature of a grammar rule                     | abstract modules                                                            | `fun UseN : N -> CN`                                       |
+| `lin`    | linearization rule | language-specific "implementation" of a grammar rule | concrete modules                                                            | `lin UseN n = n`                                           |
+| `oper`   | operation          | helper function                                      | here, there and everywhere (but often in concrete __and__ resource modules) | `oper regNoun : Str -> Noun = \sg -> mkNoun sg (sg + "s")` |
+| `param`  | parameter          | language-specific (inflectional) parameter tables    | typically resource modules                                                  | `param Number = Sg                                         | Pg` |
 
 
 ### GF syntax
@@ -397,7 +397,7 @@ If training still fails after this, try to validate your CoNNL-U file(s) (see be
    python validate.py PATH-TO-YOUR-TREEBANK.conllu --lang=2-LETTER-LANGCODE-FOR-YOUR-LANGUAGE
    ```
 
-MaChAmp should only be concerned about basic formatting issues, so if you are validating for MaChAmp you can add `--level=1`. If you want to check for errors in your own annotated files, however, you can go up a few levels: 
+MaChAmp should only be concerned about format issues, so if you are validating for MaChAmp you can add `--level=2`. If you want to check for errors in your own annotated files, however, you can go up a few levels: 
 - 2 checks UD format specifics
 - 3 checks that the universal UD guidelines are followed (e.g. that there are no `VERB`s used as `AUX` or multiple subjects in the same sentence)
 - 4 and 5 check language-specific stuff.
