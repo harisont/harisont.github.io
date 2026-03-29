@@ -397,7 +397,9 @@ If training still fails after this, try to validate your CoNNL-U file(s) (see be
    python validate.py PATH-TO-YOUR-TREEBANK.conllu --lang=2-LETTER-LANGCODE-FOR-YOUR-LANGUAGE
    ```
 
-MaChAmp should only be concerned about format issues, so if you are validating for MaChAmp you can add `--level=2`. If you want to check for errors in your own annotated files, however, you can go up a few levels: 
+MaChAmp should only be concerned about format issues, so if you are validating for MaChAmp you can add `--level=2`. If you want to check for errors in your own annotated files, however, you can go up a few levels:
+ 
+- 1 checks for basic formatting
 - 2 checks UD format specifics
 - 3 checks that the universal UD guidelines are followed (e.g. that there are no `VERB`s used as `AUX` or multiple subjects in the same sentence)
 - 4 and 5 check language-specific stuff.
