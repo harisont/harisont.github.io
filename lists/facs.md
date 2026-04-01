@@ -9,6 +9,7 @@ This is a collection of frequently asked questions about [Grammatical Framework]
 
 Contents:
 - [GF](#gf)
+  - [Installation](#installation)
   - [File structure/module types](#file-structuremodule-types)
   - [GF terms/types of judgments](#gf-termstypes-of-judgments)
   - [GF syntax](#gf-syntax)
@@ -25,6 +26,27 @@ Contents:
   - [UD validator](#ud-validator)
 
 ## GF
+
+### Installation
+
+> How do I add GF to the path?
+
+- on Linux/Mac: restart your terminal. If that doesn't work, restart your PC. If even that doesn't work:
+  1. run `echo $PATH` to figure out what directories are in your path
+  2. move the GF exectuable to one of them
+  
+  (alternatively, you can store the executable anywhere you want and edit the path, but how to do that varies slightly depending on what shell you are using. Instructions for [bash](https://superuser.com/questions/488173/how-can-i-edit-the-path-on-linux) are here)
+- on WSL: see instructions for Linux/Mac
+- on Windows (no WSL): 
+  1. copy the path to the GF exectuable
+  2. follow [these steps](https://www.thewindowsclub.com/how-to-add-edit-a-path-variable-in-windows) to add it to the system path
+  3. never delete the GF executable!
+
+> My Mac says that the GF installer cannot be opened because it is from an "unidentified developer". How do I convince it that GF is not malware?
+
+__Right click__ on the file and click on Open. You will see a dialog saying that "macOS cannot verify the developer of "gf-X.YZ-macos-intel.pkg". Are you sure you want to open it?". Press Open.
+
+If that doesn't work, follow [these instructions](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac) (available for several macOS versions).
 
 ### File structure/module types
 > What goes in which files?
