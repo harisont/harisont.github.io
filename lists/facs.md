@@ -10,6 +10,7 @@ This is a collection of frequently asked questions about [Grammatical Framework]
 Contents:
 - [GF](#gf)
   - [Installation](#installation)
+  - [Programming environment](#programming-environment)
   - [File structure/module types](#file-structuremodule-types)
   - [GF terms/types of judgments](#gf-termstypes-of-judgments)
   - [GF syntax](#gf-syntax)
@@ -47,6 +48,21 @@ Contents:
 __Right click__ on the file and click on Open. You will see a dialog saying that "macOS cannot verify the developer of "gf-X.YZ-macos-intel.pkg". Are you sure you want to open it?". Press Open.
 
 If that doesn't work, follow [these instructions](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac) (available for several macOS versions).
+
+### Programming environment
+> How do I get syntax highligting for GF in my text editor?
+
+The basic one-size-fits-(almost)-all (platforms & editors) hack is telling your editor that your GF files are, in fact, Haskell, which is broadly supported. 
+You can do that thorugh you editor's settings (under "language mode" or something like that) or simply by changing the extension of your files to `.hs`.
+
+On Linux and macOS (and _possibly_ on WSL), you can also use the GF language server, which is available as a Visual Studio Cod*[^1] extension as well as [on Emacs](https://github.com/anka-213/gf-lsp?tab=readme-ov-file#emacs). 
+The language server provides not only syntax highligting, but also syntax and type checking on-the fly. 
+This allows you to read error messages in context and reminds you about the arguments each function takes, something you might be used to from Python. 
+It is absolutely not a must, but it can be nice especially when you're still learning the syntax or working with a new GF library. 
+
+> I downloaded the VSCod* extension for Linux and the installation was seemingly successful, but nothing happened.
+
+Try launching the editor from the terminal with `code` (for VSCode) or `codium` (for VSCodium). 
 
 ### File structure/module types
 > What goes in which files?
@@ -425,3 +441,7 @@ MaChAmp should only be concerned about format issues, so if you are validating f
 - 2 checks UD format specifics
 - 3 checks that the universal UD guidelines are followed (e.g. that there are no `VERB`s used as `AUX` or multiple subjects in the same sentence)
 - 4 and 5 check language-specific stuff.
+
+---
+
+[^1]: if you use Visual Studio Code but want you replace it with fully free and open source software, I recommend its liberated & telemetry-free version [Visual Studio Codium](https://vscodium.com/)
