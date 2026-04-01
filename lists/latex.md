@@ -1,5 +1,5 @@
 ---
-title: LuXurY LaTeX
+title: LyXiG LaTeX
 layout: post
 ---
 
