@@ -3,7 +3,7 @@ title: LuXurY LaTeX
 layout: post
 ---
 
-Stuff that make LaTeX definitely worth it, but that I have to look up every single time:
+Things that make LaTeX definitely worth it, but that I have to look up every single time:
 
 - [Compilers](#compilers)
 - [Macros](#macros)
