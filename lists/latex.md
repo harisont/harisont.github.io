@@ -9,6 +9,7 @@ Things that make LaTeX definitely worth it, but that I have to look up every sin
 - [Macros](#macros)
 - [Resizing stuff to text/column width](#resizing-stuff-to-textcolumn-width)
 - [Adding a full-page segment to a two-column paper](#adding-a-full-page-segment-to-a-two-column-paper)
+- [Preventing page breaks](#preventing-page-breaks)
 - [Adjusting margins](#adjusting-margins)
 - [Multiline comments](#multiline-comments)
 - [Glossed linguistic examples](#glossed-linguistic-examples)
@@ -44,6 +45,25 @@ but for tables, the box should be around the `tabular` and __not__ wrap the enti
 ## Adding a full-page segment to a two-column paper
 ```latex
 \onecolumn
+```
+
+## Preventing page breaks
+Create an environment where page breaks are absolutely forbidden (the magic is from [StackOverflow](https://tex.stackexchange.com/questions/94699/absolutely-definitely-preventing-page-break)):
+
+```latex
+\newenvironment{nopagebreakswhatsoever}
+    {\par\nobreak\vfil\penalty0\vfilneg
+    \vtop\bgroup}
+    {\par\xdef\tpd{\the\prevdepth}\egroup
+    \prevdepth=\tpd}
+```
+
+Use it as:
+
+```latex
+\begin{nopagebreakswhatsoever}
+    whatever should absolutely be all in the same page 
+\end{nopagebreakswhatsoever}
 ```
 
 ## Adjusting margins
