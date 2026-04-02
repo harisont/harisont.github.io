@@ -10,6 +10,7 @@ Things that make LaTeX definitely worth it, but that I have to look up every sin
 - [Resizing stuff to text/column width](#resizing-stuff-to-textcolumn-width)
 - [Adding a full-page segment to a two-column paper](#adding-a-full-page-segment-to-a-two-column-paper)
 - [Adjusting margins](#adjusting-margins)
+- [Multiline comments](#multiline-comments)
 - [Glossed linguistic examples](#glossed-linguistic-examples)
 - [Ge\`ez and Latin script in the same document](#geez-and-latin-script-in-the-same-document)
 - [Generating tables with Pandas](#generating-tables-with-pandas)
@@ -48,6 +49,15 @@ but for tables, the box should be around the `tabular` and __not__ wrap the enti
 ## Adjusting margins
 ```latex
 \usepackage[margin=Xin]{geometry}
+```
+
+## Multiline comments
+(or something like that)
+
+```latex
+\iffalse
+    whatever you don't wish LaTeX to compile
+\fi
 ```
 
 ## Glossed linguistic examples
