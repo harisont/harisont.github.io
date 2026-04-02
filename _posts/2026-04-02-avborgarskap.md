@@ -8,6 +8,7 @@ langs: ["sv"]
 Den 31 mars har Sveriges Radio ett avsnitt av programmet _Det politiska spelet_ som handlar om de nya kraven för den som vill bli svensk medborgare.
 Avsnittet finns bara på appen[^1]/[hemsidan](https://www.sverigesradio.se/avsnitt/625-det-ska-bli-svarare-att-bli-svensk) Sveriges Radio (varför!? [Läs själv och se om det mejkar sense](https://vanliga-fragor-svar.sverigesradio.se/guide/varfor-slapper-ni-vissa-avsnitt-och-titlar-bara-i-appen)), vilket irriterar mig, men eftersom jag påverkas direkt bestämde jag mig för att lyssna ändå.
 Här är de senaste nyheterna.
+Säg gärna till om det finns några språkfel, annars bevisar det här inlägget viss samhällskunskap men kanske inga tillräckligt bra språkförmågor.
 
 ## Skärpta krav
 
@@ -35,11 +36,6 @@ Den andra och slutliga omröstningen i riksdagen ska bara ske efter valet (Septe
 ## Vad säger oppositionen?
 - __M och V__ är __emot__ båda förslagen
 - __C och S__ är mer eller mindre __för__, men S ville att det skulle finnas en övergångsperiod.
-
-
----
-
-Säg gärna till om det finns några språkfel, annars bevisar det här inlägget viss samhällskunskap men kanske inga tillräckligt bra språkförmågor.
 
 ---
 
