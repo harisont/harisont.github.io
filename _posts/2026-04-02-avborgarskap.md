@@ -32,7 +32,7 @@ Det här mer återkallande tar längre tid för att det innebär ändringar i gr
 Om jag förstår det rätt kommer riksdagen att fatta ett första beslut om cirka en månad. 
 Den andra och slutliga omröstningen i riksdagen ska bara ske efter valet (September 2026). 
 
-## Oppositionen
+## Vad säger oppositionen?
 - __M och V__ är __emot__ båda förslagen
 - __C och S__ är mer eller mindre __för__, men S ville att det skulle finnas en övergångsperiod.
 
