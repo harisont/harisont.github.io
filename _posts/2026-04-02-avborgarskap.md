@@ -18,7 +18,7 @@ De nya regler innebär att:
 2. det ska införas __språk- och samhällskunskapskrav__
 3. det kommer __mer specifika regler för den som har begått brott__ (har man gjort det så måste man vistas i Sverige längre. Hur mycket längre beror på vad det är för brott)
 
-Dessa regler börjar gälla den __7 juni 2026__ (Nationaldagen), __utan__ att det ska finnas en __övergångsperiod__ för de ansökande som redan väntar på ett beslut (just nu är den genomsnittliga väntetiden 4.5 år. De flesta sökande just nu är Syrier som kom till Sverige 2015).
+Dessa regler börjar gälla den __6 juni 2026__ (Nationaldagen), __utan__ att det ska finnas en __övergångsperiod__ för de ansökande som redan väntar på ett beslut (just nu är den genomsnittliga väntetiden 4.5 år. De flesta sökande just nu är Syrier som kom till Sverige 2015).
 
 Enligt SR beror de skärpta kraven på att regeringen uppfattar det nuvarande läget som "väldigt kravlöst" och tycker att medborgarskapet ska vara en "belöning efter att man har ansträngt sig".
 Samtidigt rapporterar SR att ingen forskning tyder på att integrationen har blivit bättre i de länder som redan infört skärpta krav, såsom Danmark.
