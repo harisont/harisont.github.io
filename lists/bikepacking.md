@@ -3,7 +3,23 @@ title: Bikepacking list
 layout: post
 ---
 
-This is an up-to-date but much more concise version of the bikepacking list initially published in [this blog post](https://harisont.github.io/2025/07/18/bikepacking-list.html).  
+This is an up-to-date but much more concise version of the bikepacking list initially published in [this blog post](https://harisont.github.io/2025/07/18/bikepacking-list.html).
+If you want the rationale for some choices and some extra tips, take a look at the blog post!
+
+- [Storage](#storage)
+- [Camping equipment](#camping-equipment)
+- [Clothes](#clothes)
+  - [Summer](#summer)
+- [Autumn/spring](#autumnspring)
+- [Toiletries, first aid kit etc.](#toiletries-first-aid-kit-etc)
+- [Bike tools](#bike-tools)
+- [Kitchen utensils](#kitchen-utensils)
+- [Other utensils](#other-utensils)
+- [Mandatory electronics](#mandatory-electronics)
+- [Food](#food)
+- [Drinks](#drinks)
+- [Luxury items](#luxury-items)
+
 
 ## Storage
 - __awesome convertible carrier bag__ and, if necessary, __cheap waterproof carrier bag__
@@ -134,10 +150,6 @@ Some things I tend to bring along:
 
 ## Luxury items
 - __notebook__ and __pen__ for travel notes
-- __something to read__, possibly with the following characteristics: 
-  - slim but not too short
-  - interesting but easy to read
-  - not too valuable or beloved
-  - absolutely not borrowed from anyone and anywhere.  
+- __something to read__
 - __MTG cards__ or another tiny __board game__
 - (pocket) __camera__.
