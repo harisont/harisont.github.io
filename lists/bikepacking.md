@@ -37,11 +37,31 @@ This is an up-to-date but much more concise version of the bikepacking list init
   - __rain trousers__ (optional)
   - __helmet cover__ (optional)
 - super compact __down jacket__
-- __neck gaiter__
+- thin __neck gaiter__
 - abundant, comfortable __socks and underwear__
 - __swimsuit__
 - prescription __sunglasses__
 - __bike gloves__ (optional).
+
+## Autumn/spring
+- __t-shirts__ and/or __long-sleeve shirts__
+- __thermal shirt__
+- pants: 
+  - __wide-leg trousers__ and/or __sweatpants__ that leave room leggins underneath
+  - normal and thermal __leggins__
+- __sweater(s)__
+- __waterproof shoes__
+- __flip-flops__
+- super compact __down jacket__
+- warm, longer __neck gaiter__ that can also protect the ears and head
+- abundant, comfortable __underwear__ and __socks__ (at least one pair woolen)
+- prescription __sunglasses__
+- bike and woolen __gloves__
+- rain clothes: 
+  - __k-way__ 
+  - __rain trousers__
+  - __helmet cover__
+  - __gloves covers__
 
 ## Toiletries, first aid kit etc.
 - 1+ __microfiber towels__
