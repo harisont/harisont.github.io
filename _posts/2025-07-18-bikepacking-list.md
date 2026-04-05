@@ -77,7 +77,7 @@ My beauty case contains:
 ## Bike tools
 My bike tools bag, which I bring with me on every out-of-town ride, contains the following:
 
-- a small __pump__ with several adapter
+- a small __pump__ with several __adapters__
 - a __bike multitool__ that is maximally unergonomic but good enough for emergency situations. It is complemented by __another, smaller multitool__ that lives in my everyday bag and has pliers and smaller screwdrivers 
 - __chain oil__ and __rust solvent__
 - a pair of __rubber gloves__
@@ -151,7 +151,7 @@ I don't even bring __glasses__ or __plates__, as bottles, food packaging and pap
 However, I might rethink the latter and get one or two reusable plastic plates.
 
 At least on my trips with C., I also don't drink (and therefore bring) coffee or tea at all.
-The first time, this happened accidentally and ended up being a nice an uncomplicated break from caffeine, so I decided to make it a rule. 
+The first time, this happened accidentally and ended up being a nice and uncomplicated break from caffeine, so I decided to make it a rule. 
 It may or may not also help with sleeping as early as needed.
 
 Some other things I never bring are a proper __pillow__, a dedicated __tent lamp__ and my __prescription glasses__.
