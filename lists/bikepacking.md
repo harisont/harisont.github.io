@@ -44,15 +44,16 @@ This is an up-to-date but much more concise version of the bikepacking list init
 - __bike gloves__ (optional).
 
 ## Autumn/spring
-- __t-shirts__ and/or __long-sleeve shirts__
+- __t-shirt(s)__ and/or __long-sleeve shirt(s)__
 - __thermal shirt__
+- __undershirt(s)__
 - pants: 
   - __wide-leg trousers__ and/or __sweatpants__ that leave room leggins underneath
-  - normal and thermal __leggins__
+  - normal and/or thermal __leggins__
 - __sweater(s)__
 - __waterproof shoes__
 - __flip-flops__
-- super compact __down jacket__
+- super compact __down jacket__ and/or __down vest__
 - warm, longer __neck gaiter__ that can also protect the ears and head
 - abundant, comfortable __underwear__ and __socks__ (at least one pair woolen)
 - prescription __sunglasses__
@@ -64,8 +65,7 @@ This is an up-to-date but much more concise version of the bikepacking list init
   - __gloves covers__
 
 ## Toiletries, first aid kit etc.
-- 1+ __microfiber towels__
-- solid __soap__
+ - solid __soap__
 - __shower gel + shampoo__
 - __toothbrush__, __mini-toothpaste__ and __flosser picks__
 - __mini-hairbrush__
@@ -73,7 +73,7 @@ This is an up-to-date but much more concise version of the bikepacking list init
 - roll-on __deodorant__
 - __compressed mini-towels__
 - __sunscreen__ 
-- __sun-protective lipstick__
+- __sun-protective lipstick__ or, if it is cold, __lip balm__
 - __pads__!
 - __tweezers__ for ticks
 - __band-aids__ and __disinfectant__
@@ -96,7 +96,7 @@ This is an up-to-date but much more concise version of the bikepacking list init
 - __kitchen paper__
 - __plastic bags__ and __clips__
 - __ice packs__ 
-- __hand sanitizer.
+- __hand sanitizer__.
 
 ## Other utensils
 - __bungee cords__
@@ -130,7 +130,7 @@ Some things I tend to bring along:
 ## Drinks
 - __water__ (at least two liters for free camping in the summer; storage: 1-2  thermal __bottles__ to keep easily accessible while riding and a larger plastic one, that can be kept cool by wrapping it in the camping mat)
 - __fruit juice__
-- in cooler weather __tea__ or instant __orzo/coffee__ to be stored in a proper __thermos__.
+- in cooler weather, __tea__ or instant __orzo/coffee__ to be stored in a proper __thermos__.
 
 ## Luxury items
 - __notebook__ and __pen__ for travel notes
