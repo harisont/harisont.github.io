@@ -10,7 +10,7 @@ If you want the rationale for some choices and some extra tips, take a look at t
 - [Camping equipment](#camping-equipment)
 - [Clothes](#clothes)
   - [Summer](#summer)
-- [Autumn/spring](#autumnspring)
+  - [Autumn/spring](#autumnspring)
 - [Toiletries, first aid kit etc.](#toiletries-first-aid-kit-etc)
 - [Bike tools](#bike-tools)
 - [Kitchen utensils](#kitchen-utensils)
@@ -59,7 +59,7 @@ If you want the rationale for some choices and some extra tips, take a look at t
 - prescription __sunglasses__
 - __bike gloves__ (optional).
 
-## Autumn/spring
+### Autumn/spring
 - __t-shirt(s)__ and/or __long-sleeve shirt(s)__
 - __thermal shirt__
 - __undershirt(s)__
