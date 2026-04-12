@@ -17,8 +17,14 @@ This is a growing (but eventually, hopefully, shrinking) collection of shell com
   - [Cleaning up the pip package cache](#cleaning-up-the-pip-package-cache)
   - [Removing unused Python virtualenvs](#removing-unused-python-virtualenvs)
 - [Copying files via ssh](#copying-files-via-ssh)
+- [Mounting a drive](#mounting-a-drive)
 - [Text processing](#text-processing)
   - [Removing the diabolical non-unix newline characters](#removing-the-diabolical-non-unix-newline-characters)
+- [Audio processing](#audio-processing)
+  - [Splitting a flac file into tracks based on a cue file](#splitting-a-flac-file-into-tracks-based-on-a-cue-file)
+- [Configuring the i3 window manager](#configuring-the-i3-window-manager)
+  - [Figuring out the ID of a key (aka `keysym`)](#figuring-out-the-id-of-a-key-aka-keysym)
+  - [Figuring out the class of a desktop application](#figuring-out-the-class-of-a-desktop-application)
 
 ## Scheduling a shutdown
 
@@ -81,6 +87,24 @@ For example, to copy a local file to a remote host:
 scp scp -r loxal/path hostname:remote/path
 ```
 
+## Mounting a drive
+1. find out what the `DRIVE` is called:
+   
+   ```
+   df -a -H
+   ```
+
+   (`df` = "display filesystems"; `-a` = "all" (including not mounted); `-H` = "with human-readable sizes, please")
+2. make a directory `MOUNTDIR` for the drive (for example under `mnt`)
+3. mount the drive:
+   
+   ```bash
+   mount DRIVE PATH-TO-MOUNTDIR
+   ```
+
+To do it automatically at boot time, add the following tab-separated line to `/etc/fstab`:
+
+
 ## Text processing
 
 ### Removing the diabolical non-unix newline characters
@@ -88,3 +112,49 @@ scp scp -r loxal/path hostname:remote/path
 ```bash
 tr -d '\r'
 ```
+
+## Audio processing
+
+### Splitting a flac file into tracks based on a cue file
+```bash
+shnsplit -f path/to.cue -t %n-%t -o flac path/to.flac
+```
+
+This particular command assumes that the flac is an album and that the cue file contains the names of its tracks, which will be written to files named `n-title.flac`.
+
+## Configuring the i3 window manager
+These are commands I only use when I edit the config file for my window manager, [i3](https://i3wm.org/), but they definitely have other use cases as well.
+
+### Figuring out the ID of a key (aka `keysym`)
+Run
+
+```bash
+xev | grep keysym
+```
+
+and then type something in the event window that will open. 
+Every time you press a key, you will get some output like
+
+```
+state 0x2, keycode 133 (keysym 0xffeb, Super_L), same_screen YES,
+```
+
+(when you release the key, you will see a similar line with the same `keysym` again because `xev` detects two separate events, a `KeyPress` and a `KeyRelease`).
+
+In this example, the keysym to use in the i3 config is `Super_L` (my left Windows key). 
+
+### Figuring out the class of a desktop application
+Open the application, run 
+
+```bash
+xprop | grep WM_CLASS
+```
+
+and then click on the application window. 
+The output will be something like
+
+```
+WM_CLASS(STRING) = "vscodium", "VSCodium"
+```
+
+where the class to be used in the i3 config is the second one, `VSCodium`.
