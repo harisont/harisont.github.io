@@ -5,6 +5,7 @@ layout: post
 
 This is a growing (but eventually, hopefully, shrinking) collection of shell commands I periodically need but have to look up every time. 
 
+- [Grepping from the standard error](#grepping-from-the-standard-error)
 - [Scheduling a shutdown](#scheduling-a-shutdown)
   - [At a specific time](#at-a-specific-time)
   - [After `n` minutes](#after-n-minutes)
@@ -25,6 +26,11 @@ This is a growing (but eventually, hopefully, shrinking) collection of shell com
 - [Configuring the i3 window manager](#configuring-the-i3-window-manager)
   - [Figuring out the ID of a key (aka `keysym`)](#figuring-out-the-id-of-a-key-aka-keysym)
   - [Figuring out the class of a desktop application](#figuring-out-the-class-of-a-desktop-application)
+
+## Grepping from the standard error
+```bash
+whatever_you_want_to_grep_on 2>&1 >/dev/null | grep whatever_you_want_to_grep
+```
 
 ## Scheduling a shutdown
 
