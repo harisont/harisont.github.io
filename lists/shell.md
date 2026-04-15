@@ -17,7 +17,6 @@ This is a growing (but eventually, hopefully, shrinking) collection of shell com
   - [Cleaning up the pip package cache](#cleaning-up-the-pip-package-cache)
   - [Removing unused Python virtualenvs](#removing-unused-python-virtualenvs)
 - [Copying files via ssh](#copying-files-via-ssh)
-- [Mounting a drive](#mounting-a-drive)
 - [Text processing](#text-processing)
   - [Removing the diabolical non-unix newline characters](#removing-the-diabolical-non-unix-newline-characters)
 - [Audio processing](#audio-processing)
@@ -86,24 +85,6 @@ For example, to copy a local file to a remote host:
 ```
 scp scp -r loxal/path hostname:remote/path
 ```
-
-## Mounting a drive
-1. find out what the `DRIVE` is called:
-   
-   ```
-   df -a -H
-   ```
-
-   (`df` = "display filesystems"; `-a` = "all" (including not mounted); `-H` = "with human-readable sizes, please")
-2. make a directory `MOUNTDIR` for the drive (for example under `mnt`)
-3. mount the drive:
-   
-   ```bash
-   mount DRIVE PATH-TO-MOUNTDIR
-   ```
-
-To do it automatically at boot time, add the following tab-separated line to `/etc/fstab`:
-
 
 ## Text processing
 
