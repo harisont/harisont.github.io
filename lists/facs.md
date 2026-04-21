@@ -17,7 +17,6 @@ Contents:
   - [Encoding issues](#encoding-issues)
   - [GF best practices](#gf-best-practices)
   - [Eerie error messages](#eerie-error-messages)
-  - [Using GF from Python](#using-gf-from-python)
 - [UD](#ud)
   - [MultiWord Tokens](#multiword-tokens)
   - [Conjunctions](#conjunctions)
@@ -83,7 +82,7 @@ Let's focus on the first three.
 An `abstract` module typically contains:
 - the list of the names of the cross-lingual `cat`egories used in the grammar (e.g. `Det`, `CN`, `NP`...)
 - a list of "`fun`ctions", i.e. type signatures for the `lin`earization rules of the grammar (e.g. `DetCN : Det -> CN -> NP ;`).
-An abstract module works a bit like a Java interface, or rather, if you haven't done any object-oriented programming, as _contract_ that specifies all the things the concrete syntaxes for each language have to provide for the grammar to be complete.
+An abstract module works a bit like a Java interface, or rather, if you haven't done any object-oriented programming, as a _contract_ that specifies all the things the concrete syntaxes for each language have to provide for the grammar to be complete.
 
 A `concrete` module contains the "implementations" of the `cat`s and `lin`s listed in the abstract syntax, for example:
 - a `Det` in English can be represented as a record storing a string and a number:
@@ -112,7 +111,7 @@ There you go:
 | `fun`    | function           | type signature of a grammar rule                     | abstract modules                                                            | `fun UseN : N -> CN`                                       |
 | `lin`    | linearization rule | language-specific "implementation" of a grammar rule | concrete modules                                                            | `lin UseN n = n`                                           |
 | `oper`   | operation          | helper function                                      | here, there and everywhere (but often in concrete __and__ resource modules) | `oper regNoun : Str -> Noun = \sg -> mkNoun sg (sg + "s")` |
-| `param`  | parameter          | language-specific (inflectional) parameter tables    | typically resource modules                                                  | `param Number = Sg                                         | Pg` |
+| `param`  | parameter          | language-specific (inflectional) parameter tables    | typically resource modules                                                  | `param Number = Sg` |
 
 
 ### GF syntax
@@ -125,7 +124,7 @@ More specifically:
 - `->` is used when _declaring the type signature of a function_ (i.e. of a `fun` or an `oper`). Examples:
   - `fun PredVPS : NP -> VP -> S ;`
   - `oper regNoun : Str -> Noun = ...`
-- `\ ->` is when _defining a function_ (typically in `oper`s). Example:
+- `\ ->` is used when _defining a function_ (typically in `oper`s). Example:
 
   ```haskell
   ... \sg -> mkNoun sg (sg + "s") ;
@@ -136,7 +135,7 @@ More specifically:
     ```haskell
     lincat N = {s : Number => Str} ;
     ```
-  - _filling in the cell of a table_. Example:
+  - _filling in the cells of a table_. Example:
 
     ```haskell
     table { Sg => "cat" ; 
@@ -205,7 +204,7 @@ det.s ++ n.s ! det.n ; -- "a cat"
 You don't have to even _have_ a resource module unless there are any `oper`s or `params` that you want to use in multiple concrete files, but moving some code to a resource module can be a good way to organize your code regardless. 
 It seems that there are two dominant approaches:
 
-1. only having `lincat`s and `lin`s in your concrete and putting everything else in one or more resource modules. In this way, the concrete is strictly an implementation of the abstract syntax, which acts like an interface in object-oriented programming. This also used to be _the_ way to write GF grammars when `param`s and `oper`s were not allowed in concrete modules
+1. only having `lincat`s and `lin`s in your concrete syntax and putting everything else in one or more resource modules. In this way, the concrete is strictly an implementation of the abstract syntax, which acts like an interface in object-oriented programming. This also used to be _the_ way to write GF grammars when `param`s and `oper`s were not allowed in concrete modules
 2. also keeping parameters and constructors (`mkXXX`) in the concrete syntax and only use resource modules for helper functions, as in a typical utils module.
 
 ### Eerie error messages
@@ -242,11 +241,6 @@ and change the signature of the `oper` the compiler is complaining about accordi
 ```haskell
 oper mkA : Str -> Adjective = \a -> { s = a } ;
 ```
-
-### Using GF from Python
-> I am getting started with lab 2 and I can't install/run the Python `pgf` library and/or the C runtime.
-
-For the moment, don't: follow [Aarne's alternative instructions for testing](https://github.com/GrammaticalFramework/comp-syntax-gu-mlt/blob/034f3a4771efd47cea9c53bcff1b493b577cce04/lab2/README.md?plain=1#L26-L30).
 
 ## UD
 
