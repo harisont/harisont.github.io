@@ -270,6 +270,23 @@ and change the signature of the `oper` the compiler is complaining about accordi
 oper mkA : Str -> Adjective = \a -> { s = a } ;
 ```
 
+> What does
+> ```
+> compiling Something.gf... Internal error in GeneratePMCFG:
+>    evalTerm ("some string")
+> CallStack (from HasCallStack):
+>  error, called somewhere in gf-version:GF.Compile.GeneratePMCFG
+> ```
+> mean?
+
+This is often due to the fact that your code is (maybe indirectly) passing `some string` to a _partial function_ that does not handle that particular input. 
+A partial function typically contains a `case of` without a "default" branch. 
+For example, `mkV` for Italian might expect a string ending in _-are_, _-ere_ or _-ire_ (the endings for the language's three conjugations) but not know what to do with any other word ending (for a real-world example, follow [this link](https://github.com/GrammaticalFramework/gf-core/issues/202)).
+This is a GF "worst practice", but unfortunately the RGL contains a few such functions.
+Double check that `some string` does not contain any typos and, if it is indeed correctly spelt, check the function you are passing it to.
+If it all boils down to an RGL function, try to replace it with another library function or implement one of your own. 
+Or maybe fix it and open a pull request!
+
 ### Using GF from Python
 > I am getting started with lab 2 and I can't install/run the Python `pgf` library and/or the C runtime.
 
