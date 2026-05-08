@@ -49,6 +49,33 @@ __Right click__ on the file and click on Open. You will see a dialog saying that
 
 If that doesn't work, follow [these instructions](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac) (available for several macOS versions).
 
+> Assuming I have GF already installed, how do I install the Python PGF library?
+
+1. Create a virtual environment (almost obligatory):
+
+   ```
+   python -m venv WHATEVER
+   ```
+
+2. activate it:
+   - on Linux and MacOS: 
+
+     ```
+     source WHATEVER/bin/activate
+     ```
+   - on Windows:
+
+     ```
+     WHATEVER/Scripts/activate.bat
+     ```
+
+3. install `pgf` with `pip`:
+   
+   ```
+   pip install pgf
+   ```
+
+
 ### Programming environment
 > How do I get syntax highligting for GF in my text editor?
 
