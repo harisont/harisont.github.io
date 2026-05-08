@@ -10,26 +10,41 @@ This is a collection of frequently asked questions about [Grammatical Framework]
 Contents:
 - [GF](#gf)
   - [Installation](#installation)
+    - [Adding GF to the path](#adding-gf-to-the-path)
+    - [Convincing MacOS that GF is not malware](#convincing-macos-that-gf-is-not-malware)
+    - [Installing the PGF Python library](#installing-the-pgf-python-library)
   - [Programming environment](#programming-environment)
+    - [Basic syntax highlighting](#basic-syntax-highlighting)
+    - [VSCod\* extension](#vscod-extension)
   - [File structure/module types](#file-structuremodule-types)
   - [GF terms/types of judgments](#gf-termstypes-of-judgments)
   - [GF syntax](#gf-syntax)
+    - [Different types of arrows](#different-types-of-arrows)
   - [Encoding issues](#encoding-issues)
   - [GF best practices](#gf-best-practices)
+    - [Records \> strings](#records--strings)
+    - [Why `s` is called `s`](#why-s-is-called-s)
+    - [What to put in the resource module](#what-to-put-in-the-resource-module)
   - [Eerie error messages](#eerie-error-messages)
-  - [Using GF from Python](#using-gf-from-python)
+    - [`x` is not the `lincat` of `y`](#x-is-not-the-lincat-of-y)
+    - [`Interal error in GeneratePMCFG... evalTerm...`](#interal-error-in-generatepmcfg-evalterm)
 - [UD](#ud)
   - [MultiWord Tokens](#multiword-tokens)
   - [Conjunctions](#conjunctions)
   - [Syntax highlighting](#syntax-highlighting)
+    - [In VSCode](#in-vscode)
+    - [In other editors](#in-other-editors)
   - [Arborator](#arborator)
   - [MaChAmp](#machamp)
+    - [...complains that some Python file does not exist](#complains-that-some-python-file-does-not-exist)
+    - [...throws an error message during training](#throws-an-error-message-during-training)
   - [UD validator](#ud-validator)
 
 ## GF
 
 ### Installation
 
+#### Adding GF to the path
 > How do I add GF to the path?
 
 - on Linux/Mac: restart your terminal. If that doesn't work, restart your PC. If even that doesn't work:
@@ -43,12 +58,14 @@ Contents:
   2. follow [these steps](https://www.thewindowsclub.com/how-to-add-edit-a-path-variable-in-windows) to add it to the system path
   3. never delete the GF executable!
 
+#### Convincing MacOS that GF is not malware
 > My Mac says that the GF installer cannot be opened because it is from an "unidentified developer". How do I convince it that GF is not malware?
 
 __Right click__ on the file and click on Open. You will see a dialog saying that "macOS cannot verify the developer of "gf-X.YZ-macos-intel.pkg". Are you sure you want to open it?". Press Open.
 
 If that doesn't work, follow [these instructions](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac) (available for several macOS versions).
 
+#### Installing the PGF Python library
 > Assuming I have GF already installed, how do I install the Python PGF library?
 
 1. Create a virtual environment (almost obligatory):
@@ -77,6 +94,8 @@ If that doesn't work, follow [these instructions](https://support.apple.com/guid
 
 
 ### Programming environment
+
+#### Basic syntax highlighting
 > How do I get syntax highligting for GF in my text editor?
 
 The basic one-size-fits-(almost)-all (platforms & editors) hack is telling your editor that your GF files are, in fact, Haskell, which is broadly supported. 
@@ -87,8 +106,13 @@ The language server provides not only syntax highligting, but also syntax and ty
 This allows you to read error messages in context and reminds you about the arguments each function takes, something you might be used to from Python. 
 It is absolutely not a must, but it can be nice especially when you're still learning the syntax or working with a new GF library. 
 
+#### VSCod* extension
 > I downloaded the VSCod* extension for Linux and the installation was seemingly successful, but nothing happened.
 
+Check that you installed the _correct_ extension, by **anka-213**.
+The other are known not to work.
+
+> The VSCod* extension complains that it can't find the RGL, or something like that.
 Try launching the editor from the terminal with `code` (for VSCode) or `codium` (for VSCodium). 
 
 ### File structure/module types
@@ -143,6 +167,8 @@ There you go:
 
 
 ### GF syntax
+
+#### Different types of arrows
 > What is the difference between `->` and `=>`?
 
 `->` is for functions, `=>` is for tables.
@@ -196,6 +222,8 @@ to your concrete module.
 This is necessary because the default encoding for GF source files is iso-latin-1, which can only handle the ASCII charset and a few extra characters needed for some European languages.
 
 ### GF best practices
+
+#### Records > strings
 > Why do we use records for things that are essentially strings, such as
 > `lincat Adv = {s : Str}`?
 
@@ -216,7 +244,7 @@ This is by no means obligatory, but there are at least three very practical reas
     oper Verb2 : Type = Verb ** {prep: Str} ; -- verbs with an argument introduced by a preposition, such as "to wait for X"
     ```
    
-
+#### Why `s` is called `s`
 > Why do we use the identifier `s` specifically, even things that are _not_ strings (such as in `lincat N = {s: Number => Str; g: Gender}`)?
 
 __Superficial reason__: it was (is?) hardcoded somewhere that `s` is the name of the record field used for linearization.
@@ -227,6 +255,7 @@ __Deeper reason__: `s` _does_ stand for "string". Record fields called `s` are t
 det.s ++ n.s ! det.n ; -- "a cat"
 ```
 
+#### What to put in the resource module
 > What am I supposed to put in a resource module?
 
 You don't have to even _have_ a resource module unless there are any `oper`s or `params` that you want to use in multiple concrete files, but moving some code to a resource module can be a good way to organize your code regardless. 
@@ -236,6 +265,8 @@ It seems that there are two dominant approaches:
 2. also keeping parameters and constructors (`mkXXX`) in the concrete syntax and only use resource modules for helper functions, as in a typical utils module.
 
 ### Eerie error messages
+
+#### `x` is not the `lincat` of `y`
 > I wrote something like
 > ```haskell
 > oper mkA : Str -> A = \a -> { s = a } ;
@@ -270,6 +301,7 @@ and change the signature of the `oper` the compiler is complaining about accordi
 oper mkA : Str -> Adjective = \a -> { s = a } ;
 ```
 
+#### `Interal error in GeneratePMCFG... evalTerm...`
 > What does
 > ```
 > compiling Something.gf... Internal error in GeneratePMCFG:
@@ -286,11 +318,6 @@ This is a GF "worst practice", but unfortunately the RGL contains a few such fun
 Double check that `some string` does not contain any typos and, if it is indeed correctly spelt, check the function you are passing it to.
 If it all boils down to an RGL function, try to replace it with another library function or implement one of your own. 
 Or maybe fix it and open a pull request!
-
-### Using GF from Python
-> I am getting started with lab 2 and I can't install/run the Python `pgf` library and/or the C runtime.
-
-For the moment, don't: follow [Aarne's alternative instructions for testing](https://github.com/GrammaticalFramework/comp-syntax-gu-mlt/blob/034f3a4771efd47cea9c53bcff1b493b577cce04/lab2/README.md?plain=1#L26-L30).
 
 ## UD
 
@@ -421,12 +448,15 @@ Sure can: in that case, you would split "B" and "que" and you could in theory tr
 But imagine a language where conjunction is expressed by simply justaposing the conjuncts (e.g. "A B"). What would be the head then?
 
 ### Syntax highlighting
+
+#### In VSCode 
 > I have tried to install the [vscode-conllu](https://marketplace.visualstudio.com/items/?itemName=lgrobol.vscode-conllu) extension but it doesn't seem to work.
 
 1. check that your filename ends in `.conllu` (which is not the same as `.connllu`)
 2. check that you are using tabs and not spaces as separators
 3. if it still doesn't work, save the file as `.tsv`. You'll get a different but equally good highlighting for the token lines
 
+#### In other editors
 > I want syntax highlighting, but I don't use Visual Studio Code.
 
 GOTO step 3 of the answer above ;) 
@@ -440,10 +470,12 @@ For the moment, look for it from the homepage using the search bar and then save
 Eventually, I hope they'll solve the [issue](https://github.com/Arborator/arborator-frontend/issues/442).
 
 ### MaChAmp
+#### ...complains that some Python file does not exist
 > I am trying to run a [MaChAmp](https://github.com/machamp-nlp/machamp) script but it fails complaining that some other Python file does not exist.
 
 Check that you are running the script from Machamp's root folder (i.e. the folder named `machamp` or `machamp-master`).
 
+#### ...throws an error message during training
 > I successfully installed MaChamp and preprocessed the training and development data and I'm now trying to train my model, but training fails with something like
 
 > ```
