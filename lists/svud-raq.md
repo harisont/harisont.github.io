@@ -468,21 +468,7 @@ Differently from the _C_ in _vitamin C_, the note name _C_ is just a common noun
 
 <!-- TODO:
 
-Open issues:
-- https://github.com/UniversalDependencies/docs/issues/1082
-- https://github.com/UniversalDependencies/docs/issues/1083
+Already closed issues to summarize:
+- https://github.com/UniversalDependencies/docs/issues/1150
 - https://github.com/UniversalDependencies/docs/issues/1121
-- https://github.com/UniversalDependencies/docs/issues/1122
-- https://github.com/UniversalDependencies/docs/issues/1129
-- https://github.com/UniversalDependencies/docs/issues/1131
-- https://github.com/UniversalDependencies/docs/issues/1132
-- https://github.com/UniversalDependencies/docs/issues/1139
-- https://github.com/UniversalDependencies/docs/issues/1148
-- https://github.com/UniversalDependencies/docs/issues/1149
-- https://github.com/UniversalDependencies/docs/issues/1152
-- https://github.com/UniversalDependencies/docs/issues/1165
-- https://github.com/UniversalDependencies/docs/issues/1185
-- https://github.com/UniversalDependencies/docs/issues/1191
-- https://github.com/UniversalDependencies/docs/issues/1193
-- https://github.com/UniversalDependencies/docs/issues/1196
 -->
