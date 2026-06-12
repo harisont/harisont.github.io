@@ -393,9 +393,17 @@ When and wherever the child needs to communicate something to the parent, it sho
 const payload = "Whatever the child need to tell its daddy";
 const customEvent = new CustomEvent('some-meaningful-name', { 
   detail: payload, 
-  // what are these two flags? No idea, but Vue 3 apparently doesn't work without
+  // what are these two flags? No idea, but Vue 3 apparently requires them
   bubbles: true, 
   composed: true 
 });
 document.dispatchEvent(customEvent);
 ```
+
+The parent application patiently listens in the following way:
+```javascript
+let whateverMyChildSays = "";
+document.addEventListener('some-meaningful-name', e => whateverMyChildSays = e.detail);  
+```
+
+This snippet should be placed so that it happens on page load, or something like that.
