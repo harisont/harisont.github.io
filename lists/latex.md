@@ -12,6 +12,7 @@ Things that make LaTeX definitely worth it, but that I have to look up every sin
 - [Preventing page breaks](#preventing-page-breaks)
 - [Adjusting margins](#adjusting-margins)
 - [Multiline comments](#multiline-comments)
+- [SVGs](#svgs)
 - [Glossed linguistic examples](#glossed-linguistic-examples)
 - [Ge\`ez and Latin script in the same document](#geez-and-latin-script-in-the-same-document)
 - [Generating tables with Pandas](#generating-tables-with-pandas)
@@ -79,6 +80,20 @@ Use it as:
     whatever you don't wish LaTeX to compile
 \fi
 ```
+
+## SVGs
+```latex
+\includesvg{path/to/graphics.svg}
+```
+
+This relies on the following import:
+
+```latex
+\usepackage[inkscapeversion=auto]{svg}
+```
+
+which in turn relies on having Inkscape separately installed.
+
 
 ## Glossed linguistic examples
 Add
