@@ -8,6 +8,7 @@ Things that make LaTeX definitely worth it, but that I have to look up every sin
 - [Compilers](#compilers)
 - [Macros](#macros)
 - [Resizing stuff to text/column width](#resizing-stuff-to-textcolumn-width)
+- [Text size](#text-size)
 - [Adding a full-page segment to a two-column paper](#adding-a-full-page-segment-to-a-two-column-paper)
 - [Preventing page breaks](#preventing-page-breaks)
 - [Adjusting margins](#adjusting-margins)
@@ -41,6 +42,37 @@ Essentially
 ```
 
 but for tables, the box should be around the `tabular` and __not__ wrap the entire `table` environment.
+
+## Text size
+The standard text sizes are:
+
+```latex
+\tiny
+\scriptsize
+\footnotesize
+\small
+\normalsize
+\large
+\Large
+\LARGE
+\huge
+\Huge
+```
+
+The normal size can be set document-wise:
+```latex
+\documentclass[Xpt]{class}
+```
+
+Valid values of `X` for standard `class`es (`article`, `book`, `letter` and `report`) are 10 (default), 12 and 13.
+
+To define a custom size:
+
+```latex
+\newcommand\justright{\fontsize{Xpt}{Ypt}\selectfont}
+```
+
+where `X` is the font size and `Y` is the default line skip size.
 
 ## Adding a full-page segment to a two-column paper
 ```latex
