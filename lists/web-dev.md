@@ -37,7 +37,8 @@ The [_Changing Stuff and Seeing What Happens_](https://orlybooks.com/books/chang
   - [Single File Components](#single-file-components)
   - [Passing a tag its props](#passing-a-tag-its-props-1)
   - [Instantiating components programmatically](#instantiating-components-programmatically)
-  - [Events](#events)
+  - [Events (locally to a Vue application)](#events-locally-to-a-vue-application)
+  - [Using a Vue component in a non-Vue web application (spoiler: we're talking about events again)](#using-a-vue-component-in-a-non-vue-web-application-spoiler-were-talking-about-events-again)
 
 
 ## Node commands and other useful command-line incantations
@@ -167,6 +168,7 @@ xs.slice(-1)[0]
 Two operators:
 - `typeof x` for simple built-in types (`boolean`, `number`, `string`, `object`, `function`). It returns a __lowercase string__ with the name of the type
 - `x instanceof Y` for custom types (classes) and complex built-in types, whatever they are (but `Array` is one of them). The operands are an object and a class (__not a string__ containing the name of the class!) 
+- `x.constructor.name` also for custom types (classes) when you don't know what `Y` may be
 
 Examples:
 
@@ -337,7 +339,7 @@ instance.$mount()                                   // go figure
 
 In Kushagra's tutorial there's [another step](https://css-tricks.com/creating-vue-js-component-instances-programmatically/#aa-setting-the-slot) too, but I skipped that because I was not sure what it was talking about and my code worked anyway.
 
-### Events
+### Events (locally to a Vue application)
 When children want to communicate with their parents, they `$emit` events:
 
 ```html
@@ -373,3 +375,35 @@ export default {
 ```
 
 `@event` is a newer synonym for `v-on:event`, which in turn is similar to plain JS `onEvent` (so for instance `onClick` becomes `v-on:click` in Vue and now also `@click`).
+
+### Using a Vue component in a non-Vue web application (spoiler: we're talking about events again)
+Once installed, Vue components can be used as regular ordinary HTML tags in any kind of web application, which is neat.
+
+However, things get a little tricky when the parent application needs to gather up-to-date information from the child application. 
+To the best of my (superficial) knowledge:
+
+- the parent application can't access the properties and methods of the its child component
+- the parent can access its child component's props, but updates to those props are local to the child and generally discouraged anyway.
+
+The simplest (but not the only) way for a child component to talk to its parent application seems to be the leveraging custom events.
+
+When and wherever the child needs to communicate something to the parent, it should do something like this:
+
+```javascript
+const payload = "Whatever the child need to tell its daddy";
+const customEvent = new CustomEvent('some-meaningful-name', { 
+  detail: payload, 
+  // what are these two flags? No idea, but Vue 3 apparently requires them
+  bubbles: true, 
+  composed: true 
+});
+document.dispatchEvent(customEvent);
+```
+
+The parent application patiently listens in the following way:
+```javascript
+let whateverMyChildSays = "";
+document.addEventListener('some-meaningful-name', e => whateverMyChildSays = e.detail);  
+```
+
+This snippet should be placed so that it happens on page load, or something like that.
