@@ -6,6 +6,7 @@ layout: post
 This is a growing (but eventually, hopefully, shrinking) collection of shell commands I periodically need but have to look up every time. 
 
 - [Grepping from the standard error](#grepping-from-the-standard-error)
+- [Batch processing](#batch-processing)
 - [Scheduling a shutdown](#scheduling-a-shutdown)
   - [At a specific time](#at-a-specific-time)
   - [After `n` minutes](#after-n-minutes)
@@ -30,6 +31,15 @@ This is a growing (but eventually, hopefully, shrinking) collection of shell com
 ```bash
 whatever_you_want_to_grep_on 2>&1 >/dev/null | grep whatever_you_want_to_grep
 ```
+
+## Batch processing
+To recursively apply the same command(s) to all files in a directory:
+
+```bash
+find path_to_base_folder -type f -exec whatever_command {} \;
+```
+
+For batch processing directories, replace the `f` in `-type f` with `d`.
 
 ## Scheduling a shutdown
 
