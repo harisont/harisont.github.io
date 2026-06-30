@@ -26,7 +26,7 @@ I was also a recurrent speaker in the [Data Plumbers' Corner](https://github.com
 I have had the pleasure to supervise the following student projects:
 
 - Christina Klironomou:
-  - Master's thesis about automatic parsing and error tagging of L2 Greek (ongoing)
+  - [_From Universal Dependencies to error tagging: Using dependency parsing to annotate errors in Greek learner sentences_](https://hdl.handle.net/2077/91631) (Master's thesis in Language Technology) 
   - _Universal Dependencies for L2 learners of modern Greek: annotation and challenges_ (course project)
 - Caroline Grand-Clement, _Sharing is caring: can sharing a linguistic background with learners give annotators of learner data in UD an advantage?_ (course project)
 - Marco Leali, _Terminology-Aware MT using hybrid rule-based methods and LLMs_ (course project co-supervised with David Wallgren)
