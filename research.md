@@ -54,15 +54,16 @@ I am the main maintainer of:
 - [MultiGEC](https://spraakbanken.github.io/multigec-2025/), a dataset for text-level Multilingual Grammatical Error Correction used in the [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html)
 
 ## Events
-- I was the main organizer of the [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html#results) on Multilingual text-level Grammatical Error Correction, whose results will be presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
+- I am the main organizer of the [15th NLP4CALL workshop](https://spraakbanken.gu.se/forskning/teman/icall/nlp4call-workshop-series/nlp4call2026) on Natural Language Processing for Computer-Assisted Language Learning, to be held in Gothenburg, Sweden on November 19-20, 2026
+- I was the main organizer of the [MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html#results) on Multilingual text-level Grammatical Error Correction, whose results were presented at the [14th NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2025), co-located with the [NoDaLiDa/Baltic-HLT conference](https://www.nodalida-bhlt2025.eu/) in Tallin, Estonia on March 5, 2024
 - I was one of the organizers of the [2024 workshop of Applications on Universal Dependencies](https://udapp-sltc-2024.github.io/), co-located with the 2024 Swedish Language Technology Conference ([SLTC 2024](https://sltc2024.github.io/)), on November 29, 2024
 
 ## Reviewing
 I have reviewed for the following venues:
 
+- the 2024, 2025 and 2026 editions of the Workshop on Innovative Use of NLP for Building Educational Applications (BEA)
 - the 11th Italian Conference on Computational Linguistics (CLiC-it 2025)
 - the Journal of Contemporary Educational Studies / Sodobna pedagogika
 - the 2025 edition of the RESOURCEFUL Workshop on RESOURCEs and representations For Under-resourced Languages
-- the 2024 and 2025 editions of the Workshop on Innovative Use of NLP for Building Educational Applications (BEA)
 - the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)
 - the 2022 and 2025 editions of the Workshop on Natural Language Processing for Computer-Assisted Language Learning (NLP4CALL)
