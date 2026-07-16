@@ -32,8 +32,8 @@ Movies:
 
 #### [_Fantastic Planet_ (1973)](https://en.wikipedia.org/wiki/Fantastic_Planet)
 This movie inevitably caught my attention when I saw it on the [CineGatti schedule for summer 2026](https://www.cinegatti.it/films/il-pianeta-selvaggio/) during an unusually long stay back in my hometown and I decided to go with a friend who's also very fond of animation. 
-The story is pretty simple if not simplistic, the animation is rudimentary, the dialogues are terrible and the Italian dubbing makes them even worse, yet we both of us had a ton of fun.
-The entire movie is a continuous stream of wonderous creatures and machines, as inventive as Miyazaki's and as crazy as _Yellow submarine_'s, the movie it reminded me of the most (brutality apart). 
+The story is pretty simple if not simplistic, the animation is rudimentary, the dialogues are terrible and the Italian dubbing makes them even worse, yet both of us had a ton of fun.
+The entire movie is a continuous stream of wonderous creatures and machines, as inventive as Miyazaki's and as crazy as _Yellow submarine_'s, the movie it reminded me of the most visually (brutality apart). 
 The sound design and soundtrack are also pretty cool, probably even more mind blowing then, when Pink Floyd was new.
 We watched wide-eyed.
 
