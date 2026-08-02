@@ -26,6 +26,7 @@ This is a growing (but eventually, hopefully, shrinking) collection of shell com
 - [Configuring the i3 window manager](#configuring-the-i3-window-manager)
   - [Figuring out the ID of a key (aka `keysym`)](#figuring-out-the-id-of-a-key-aka-keysym)
   - [Figuring out the class of a desktop application](#figuring-out-the-class-of-a-desktop-application)
+- [Configuring `lightdm`](#configuring-lightdm)
 
 ## Grepping from the standard error
 ```bash
@@ -155,3 +156,10 @@ WM_CLASS(STRING) = "vscodium", "VSCodium"
 ```
 
 where the class to be used in the i3 config is the second one, `VSCodium`.
+
+## Configuring `lightdm`
+Especially useful for the greeter I use, `lightdm-sleek-greeter`:
+
+```
+sudo lightdm-setting
+```
