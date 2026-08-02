@@ -161,5 +161,5 @@ where the class to be used in the i3 config is the second one, `VSCodium`.
 Especially useful for the greeter I use, `lightdm-sleek-greeter`:
 
 ```
-sudo lightdm-setting
+sudo lightdm-settings
 ```
