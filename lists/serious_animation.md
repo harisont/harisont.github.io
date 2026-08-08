@@ -12,10 +12,11 @@ To end up here, a movie needs to meet a few requirements:
 3. it should __not__ be a children's movie
 4. I have to appreciate it in at least some way.
 
-Most movies in this list are not particularly light-hearted, but that's not a strict prerequisite.
+Most movies in this list are not particularly light-hearted, but that's not a prerequisite.
 
 
 Movies:
+- [_Fantastic Planet_ (1973)](#fantastic-planet-1973)
 - [_Persepolis_ (2007)](#persepolis-2007)
 - [_Mary and Max_ (2009)](#mary-and-max-2009)
 - [_Alois Nebel_ (2011)](#alois-nebel-2011)
@@ -29,6 +30,12 @@ Movies:
 - [_Memoir of a snail_ (2024)](#memoir-of-a-snail-2024)
 - [_Bouchra_ (2024)](#bouchra-2024)
 
+#### [_Fantastic Planet_ (1973)](https://en.wikipedia.org/wiki/Fantastic_Planet)
+This movie inevitably caught my attention when I saw it on the [CineGatti schedule for summer 2026](https://www.cinegatti.it/films/il-pianeta-selvaggio/) during an unusually long stay back in my hometown and I decided to go with a friend who's also very fond of animation. 
+The story is pretty simple if not simplistic, the animation is rudimentary, the dialogues are terrible and the Italian dubbing makes them even worse, yet both of us had a ton of fun.
+The entire movie is a continuous stream of wonderous creatures and machines, as inventive as Miyazaki's and as crazy as _Yellow submarine_'s, the movie it reminded me of the most visually (brutality apart). 
+The sound design and soundtrack are also pretty cool, probably even more mind blowing then, when Pink Floyd was new.
+We watched wide-eyed.
 
 #### [_Persepolis_ (2007)](https://en.wikipedia.org/wiki/Persepolis_(film))
 This is by far the most well-known movie on this list. My family borrowed it from the library right after we read Marjane Satrapi's homonymous graphic novel, well before Rabbitfest was a thing. To this days, this is both one of the best comics I've ever read and one of the best animated movies I've ever watched.
