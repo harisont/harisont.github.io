@@ -3,7 +3,7 @@ title: teaching
 layout: base
 ---
 
-### Courses
+## Courses
 Starting in 2019, I've been involved in several programming and language technology courses at the University of Gothenburg and at the Chalmers University of Technology:
 
 - LT2214 Computational Syntax (teacher)
@@ -22,7 +22,7 @@ I was also a recurrent speaker in the [Data Plumbers' Corner](https://github.com
 - _Artificiell intelligens och maskininlärning_. Special topic lecture in the context of the Introduktion till Programmering i Python summer course at the Chalmers University of Technology (online), on July 31, 2023. [[slides]](https://docs.google.com/presentation/d/1xBb9-i-xskzZcI5f0O4lo-N7mlCloPnG-6M4g-6jW34/edit?usp=sharing)
 -->
 
-### Supervision
+## Supervision
 I have had the pleasure to supervise the following student projects:
 
 - Christina Klironomou:
