@@ -4,7 +4,7 @@ layout: base
 ---
 
 Being into photography since age 8, I am the unhappy owner of a relatively large and unwieldy archive of pictures.
-Some of them, however, were lucky enough to end up in some sort of _project_, the latest of which is [unottica](https://unottica.harisont.cc/), a self-hosted website dedicated to the everyday photographs I take with my pocket camera.
+Some of them, however, are lucky enough to end up in some sort of project, the latest of which is [unottica](https://unottica.harisont.cc/), a self-hosted website dedicated to the everyday photographs I take with my pocket camera.
 Unlike the colorful shots I used to post on an Instagram account by the same name (now permanently deleted), the images that populate this gallery are all unplanned and unedited. 
 Now like then, the name "unottica" refers both to my (predominant) use of single-lens cameras and to a song from [a beloved album](https://it.wikipedia.org/wiki/Non_al_denaro_non_all%27amore_n%C3%A9_al_cielo).
 
