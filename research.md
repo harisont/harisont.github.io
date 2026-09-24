@@ -61,6 +61,7 @@ I am the main maintainer of:
 ## Reviewing
 I have reviewed for the following venues:
 
+- the Applied Corpus Linguistics journal
 - the 2024, 2025 and 2026 editions of the Workshop on Innovative Use of NLP for Building Educational Applications (BEA)
 - the 11th Italian Conference on Computational Linguistics (CLiC-it 2025)
 - the Journal of Contemporary Educational Studies / Sodobna pedagogika
