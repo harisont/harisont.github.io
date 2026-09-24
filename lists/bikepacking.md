@@ -53,7 +53,6 @@ If you want the rationale for some choices and some extra tips, take a look at t
   - __rain trousers__ (optional)
   - __helmet cover__ (optional)
 - super compact __down jacket__
-- thin __neck gaiter__
 - abundant, comfortable __socks and underwear__
 - __swimsuit__
 - prescription __sunglasses__
@@ -70,7 +69,7 @@ If you want the rationale for some choices and some extra tips, take a look at t
 - __waterproof shoes__
 - __flip-flops__
 - super compact __down jacket__ and/or __down vest__
-- warm, longer __neck gaiter__ that can also protect the ears and head
+- warm, long __neck gaiter__ that can also protect the ears and head
 - abundant, comfortable __underwear__ and __socks__ (at least one pair woolen)
 - prescription __sunglasses__
 - bike and woolen __gloves__
@@ -150,6 +149,6 @@ Some things I tend to bring along:
 
 ## Luxury items
 - __notebook__ and __pen__ for travel notes
-- __something to read__
+- __something to read__ (a not-too-short, not-too-long, not-too-beloved paper book or a very old e-reader I revived)
 - __MTG cards__ or another tiny __board game__
 - (pocket) __camera__.
