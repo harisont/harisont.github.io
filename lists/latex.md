@@ -16,7 +16,9 @@ Things that make LaTeX definitely worth it, but that I have to look up every sin
 - [SVGs](#svgs)
 - [Glossed linguistic examples](#glossed-linguistic-examples)
 - [Ge\`ez and Latin script in the same document](#geez-and-latin-script-in-the-same-document)
-- [Generating tables with Pandas](#generating-tables-with-pandas)
+- [Generating tables with Python](#generating-tables-with-python)
+  - [Basic (non-nested) tables](#basic-non-nested-tables)
+  - [Tables with subcolumns](#tables-with-subcolumns)
 
 ## Compilers
 
@@ -188,12 +190,14 @@ which will render as
   WordSpace = {0.1,30.0,1.0}]
 ```
 
-## Generating tables with Pandas
-Nobody likes LaTeX tables (...right?) and a lot of people use GUI table generators like [this](https://www.tablesgenerator.com/).
-A much more powerful option that handles subcolumns and other annoyances flawlessly is to generate tables with Pandas. 
+## Generating tables with Python
+Many LaTeX users use GUI table generators like [this](https://www.tablesgenerator.com/).
+A much more powerful option that handles subcolumns and other annoyances flawlessly is to generate tables in Python using the Pandas library. 
 This is especially practical when the data to put in the table comes from a Python script.
+So, `import pandas` and...
 
-**Basic idea for basic (non-nested) tables**: store your data as a `DataFrame` and run `.to_latex()` on it.
+### Basic (non-nested) tables 
+Store your data as a `DataFrame` and run `.to_latex()` on it.
 A dictionary can be easily converted into a `DataFrame`:
 
 ```python
@@ -201,54 +205,49 @@ df = pandas.DataFrame(a_dict) # dict -> DataFrame
 df.to_latex()                 # DataFrame -> LaTeX string
 ```
 
-**Advanced idea for advanced (nested) tables**: store your data as a `DataFrame` of `DataFrame`s, do some mystery reindexing and run `.to_latex()` on the resulting data structure. 
-Note that:
-
-- a `DataFrame` of `DataFrame`s can be obtained by concatenating a dictionary of `DataFrames`:
-
-    ```python
-    df_of_dfs = pandas.concat(dict_of_dfs, axis=1) # I don't remember what axis=1 does
-    ```
-- mystery reindexing amounts to running `.reindex()`:
-
-    ```python
-    df_of_dfs.reindex(rows)
-    ```
-
-**Working example that is not at all self-contained and I will generalize as soon as I have time**:
-
+### Tables with subcolumns
 ```python
-def build_recap_table(specific_tables):
-    rows = ["{} -- {}".format(lang.title(), subcorpus) for (lang,subcorpus) in langcorpora] + ["total"]
-    cols = SPLITS + ["total"]
-    subcols = ["original_essays", "reference_essays_1", "reference_essays_2"]#, "reference_essays_3", "reference_essays_4"]
-    nested_data = {}
-    for col in cols:
-        col_data = {}
-        for subcol in subcols:
-            subcol_data = {}
-            cross_sub_tot = 0
-            for (lang, subc) in langcorpora:
-                row = "{} -- {}".format(lang.title(), subc)
-                if subcol in specific_tables[lang][subc]["texts"]:
-                    n = specific_tables[lang][subc]["texts"][subcol][col]
-                else:
-                   n = 0
-                subcol_data[row] = n
-                cross_sub_tot += n
-            subcol_data["total"] = cross_sub_tot
-            col_data[subcol] = subcol_data
-        nested_data[col] = pd.DataFrame(col_data)
-    nested_df = pd.concat(nested_data, axis=1)
-    nested_df.reindex(rows)
-    return nested_df
-
-
-
-recap_table = build_recap_table(specific_tables)
-recap_table.to_latex()
+def nd2df(nd, f=lambda cell: cell): # nested dictionary -> DataFrame 
+    rows = nd.keys()
+    ddf = {}
+    for row in rows:
+        cols = nd[row].keys()
+        for col in cols:
+            subcols = nd[row][col]
+            for cell in subcols:
+                nd[row][col][cell] = f(nd[row][col][cell])
+        ddf[row] = pandas.DataFrame(nd[row])
+    df = pandas.concat(ddf).unstack() # .unstack() = subrows -> subcols
+    return df
 ```
 
-This generates a table that looks more or less like this (modulo some text replacements e.g. to shorten the column names):
+Given a dictionary such as
 
-![A large nested LaTeX table](../assets/img/latex/table.png)
+```python
+test_dict = {
+    "row 1" : {
+        "col A" : {"subcol a" : "cell 1Aa", "subcol b" : "cell 1Ab"},
+        "col B" : {"subcol a" : "cell 1Ba", "subcol b" : "cell 1Bb"},
+        "col C" : {"subcol a" : "cell 1Ca", "subcol b" : "cell 1Cb"}
+    },
+    "row 2" : {
+        "col A" : {"subcol a" : "cell 2Aa", "subcol b" : "cell 2Ab"},
+        "col B" : {"subcol a" : "cell 2Ba", "subcol b" : "cell 2Bb"},
+        "col C" : {"subcol a" : "cell 2Ca", "subcol b" : "cell 2Cb"}
+    }
+}
+```
+
+this function can be used as `nd2df(test_dict).to_latex()`, which produces a LaTeX snippets that renders as 
+
+![](../assets/img/latex/table.png)
+
+Note that:
+
+- the optional parameter `f` can be used to apply arbitrary edit operations to all cells. I usually use it to round numbers, but in this case a possible application is to remove the word "cell" to make the table more compact: `nd2df(test_dict, f=lambda cell: cell.replace("cell ", "")).to_latex()`
+- `DataFrames` can also be used to generate tables in other formats too. All it takes is replacing `.to_latex()` with `.to_html()`, `.to_markdown()` etc., but not all formats have the best support for subcolumns. In Markdown, for instance, you get a comprehensible but not as pretty table:
+
+  |       | ('col A', 'subcol a') | ('col A', 'subcol b') | ('col B', 'subcol a') | ('col B', 'subcol b') | ('col C', 'subcol a') | ('col C', 'subcol b') |
+  | :---- | :-------------------- | :-------------------- | :-------------------- | :-------------------- | :-------------------- | :-------------------- |
+  | row 1 | cell 1Aa              | cell 1Ab              | cell 1Ba              | cell 1Bb              | cell 1Ca              | cell 1Cb              |
+  | row 2 | cell 2Aa              | cell 2Ab              | cell 2Ba              | cell 2Bb              | cell 2Ca              | cell 2Cb              |
